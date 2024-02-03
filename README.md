@@ -1,4 +1,4 @@
-#  Way of freedom
+#  روش های اتصال به اینترنت
 
 روش هایی که استفاده کردم رو اینجا ذکر می کنم.
 
@@ -107,7 +107,6 @@ https://www.namesilo.com/
 
 ```
 https://swapspace.co
-
 ```
 
 
@@ -117,12 +116,10 @@ https://swapspace.co
 به جای پرداخت ریالی پرداخت با ترون راه اندازی کنید.
 
 
-‍‍‍```
+```
 http://Nowpayments.io
 http://Coinpayments.net
 http://Bitpay.com
-```
-
 ```
 
 [ آموزش ثبت نام و تنظیمات درگاه پرداخت NOWPayments ](https://www.youtube.com/watch?v=cIR8VTHFyn0)

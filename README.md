@@ -62,7 +62,6 @@ Bepass: A DPI-nightmare proxy
 [Bepass-worker](https://www.youtube.com/watch?v=1UG8g9-6XUc&t=161s)
 
 
-
 # Yebekhe
 
 [TelegramV2rayCollector](https://github.com/yebekhe/TelegramV2rayCollector)
@@ -124,6 +123,12 @@ http://Bitpay.com
 
 [ آموزش ثبت نام و تنظیمات درگاه پرداخت NOWPayments ](https://www.youtube.com/watch?v=cIR8VTHFyn0)
 
+
+
+# Brook
+
+[ روش جدید دورزدن فیلترینگ با استفاده از Brook ](https://youtu.be/0YR4ZpnoYUY?si=Xs1BPq98XuNxtiUt)
+[آموزش](https://twitter.com/kevinzakarian/status/1753403463608730017)
 
 # آینده فیلترینگ
 

@@ -65,11 +65,11 @@ Bepass: A DPI-nightmare proxy
 
 # Yebekhe
 
-(TelegramV2rayCollector)[https://github.com/yebekhe/TelegramV2rayCollector]
+[TelegramV2rayCollector](https://github.com/yebekhe/TelegramV2rayCollector)
 
-(cf-clean-ip-resolver)[https://github.com/yebekhe/cf-clean-ip-resolver]
+[cf-clean-ip-resolver](https://github.com/yebekhe/cf-clean-ip-resolver)
 
-(v2hub)[https://github.com/sarinaesmailzadeh/V2Hub/blob/main/merged]
+[v2hub](https://github.com/sarinaesmailzadeh/V2Hub/blob/main/merged)
 
 # از پرداخت با ریال جدا خودداری کنید
 
@@ -114,11 +114,16 @@ https://swapspace.co
 
 ## درگاه کریپتو برای فروشندگان
 
-‍‍‍
+به جای پرداخت ریالی پرداخت با ترون راه اندازی کنید.
+
+
+‍‍‍```
 http://Nowpayments.io
 http://Coinpayments.net
 http://Bitpay.com
+```
 
+```
 
 [ آموزش ثبت نام و تنظیمات درگاه پرداخت NOWPayments ](https://www.youtube.com/watch?v=cIR8VTHFyn0)
 

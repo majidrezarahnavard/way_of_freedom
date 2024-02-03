@@ -22,6 +22,15 @@ xray این قابلیت رو پشتیبانی می کند
 
 [misaturo tools ](https://misaturo.github.io/Xray-Fragment-Configurator/)
 
+[ جدیدترین روش استفاده از کانفیگ FRAGMENT با لینک سابسکریشن بدون نیاز به ویرایش کد ساخت بینهایت کاربر ](https://www.youtube.com/watch?v=4L7zajnLtOs)
+
+# بستن ای پی های کشور کمونیست
+
+ایران اکسس نکنید.
+فقط ای پی کشور های چین روسیه کوبا و رومانی و قزاقستان و اوکراین و کشور هایی که ریکوست زیاد  دارند رو ببندید.
+
+[ آموزش جلوگیری از حمله به سرور و ایران اکسس کردن با 2 روش ساده ](https://www.youtube.com/watch?v=U90a43fTyL0)
+
 
 # warp on warp
 
@@ -33,7 +42,9 @@ xray این قابلیت رو پشتیبانی می کند
 
 [warp-phiphon](https://www.youtube.com/shorts/y1Cqo0Ru0vI)
 
+[warp kian](https://twitter.com/lowercase_1978/status/1752285825789034927)
 
+[ اتصال به وارپ روی اکثر اینترنت ها | حل مشکل وارپ ](https://www.youtube.com/watch?v=KT_cxcKesS0)
 
 # Worker
 
@@ -52,7 +63,7 @@ xray این قابلیت رو پشتیبانی می کند
 
 [آموزش تانل معکوس](https://www.youtube.com/watch?v=jCg6Yci7a5U)
 
-
+[chain](https://www.youtube.com/watch?v=0SBtJ11EcjA)
 
 # Bepass
 
@@ -69,6 +80,15 @@ Bepass: A DPI-nightmare proxy
 [cf-clean-ip-resolver](https://github.com/yebekhe/cf-clean-ip-resolver)
 
 [v2hub](https://github.com/sarinaesmailzadeh/V2Hub/blob/main/merged)
+
+
+# Hiddify
+
+[Hiddify Next](https://www.youtube.com/watch?v=EjHjLQbC40E)
+
+# Mahsa NG
+
+[Mahsa NG Application](https://play.google.com/store/apps/details?id=com.MahsaNet.MahsaNG)
 
 # از پرداخت با ریال جدا خودداری کنید
 
@@ -130,6 +150,11 @@ http://Bitpay.com
 [ روش جدید دورزدن فیلترینگ با استفاده از Brook ](https://youtu.be/0YR4ZpnoYUY?si=Xs1BPq98XuNxtiUt)
 [آموزش](https://twitter.com/kevinzakarian/status/1753403463608730017)
 
+از لینک زیر پلاگین Brook برای نکوباکس رو دانلود و نصب کنید. با این پلاگین می‌تونین بُروک رو در گوشی اندروید با نکوباس اجرا کنین و در کنار اپ اصلی برنامه داشته باشین. (برای تشخیص v8a یا v7a پردازنده گوشی=> تلگرام در منوی setting اون پائین نوع CPU رو زده)
+
+
+[plugin](https://github.com/MatsuriDayo/plugins/releases/tag/Brook-v20220707-1)
+
 # آینده فیلترینگ
 
 [سیستم فیلترینگ جدید همراه اول چجوری کار میکنه؟](https://threadreaderapp.com/thread/1753357101001265309.html)
@@ -142,3 +167,6 @@ http://Bitpay.com
 
 
 [Conjure](https://www.youtube.com/watch?v=Um881kkzJuk)
+
+
+[Fingerprinting Obfuscated Proxy Traffic with Encapsulated TLS Handshakes](https://www.usenix.org/conference/usenixsecurity24/presentation/xue)

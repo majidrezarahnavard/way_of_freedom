@@ -1,2 +1,4 @@
-# way_of_freedom
-methods to access free internet
+#  Way of freedom
+
+روش هایی که استفاده کردم رو اینجا ذکر می کنم.
+

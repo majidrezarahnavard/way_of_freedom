@@ -28,7 +28,7 @@ length , interval
           "interval": "30-40"
         }
 ```
-
+احتمال زیاد سربرگ clientHello همراه sni در یک تکه سالم افتادند و امکان خواندنش بوده؛ بهتر اولین تکه کمتر از ۴۰ بایت باشه تا مطمن بشید این اتفاق نمیافته.
 
 
 [آموزش دور زدن فیلترینگ دامنه توسط فرگمنت در تمام دیوایس ها](https://www.youtube.com/watch?v=LXJIcLa1v6Y&t=66s)
@@ -139,6 +139,7 @@ https://4vps.su/
 https://www.netcup.eu/vserver/vps.php#v-server-details
 my.spectraip.net
 https://www.namesilo.com/
+https://www.hostinger.com/payments
 ```
 
 
@@ -147,6 +148,7 @@ https://www.namesilo.com/
 
 ```
 https://swapspace.co
+https://fixedfloat.com/
 ```
 
 

@@ -98,6 +98,10 @@ Bepass: A DPI-nightmare proxy
 
 [Bepass-worker](https://www.youtube.com/watch?v=1UG8g9-6XUc&t=161s)
 
+</br>
+برای کمک به این پروژه کتاب 
+ Network Programming with Go
+را مطالعه کنید
 
 # Yebekhe
 

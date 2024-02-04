@@ -118,6 +118,7 @@ https://4vps.su/
 https://www.netcup.eu/vserver/vps.php#v-server-details
 my.spectraip.net
 https://www.namesilo.com/
+https://www.hostinger.com/payments
 ```
 
 
@@ -126,6 +127,7 @@ https://www.namesilo.com/
 
 ```
 https://swapspace.co
+https://fixedfloat.com
 ```
 
 

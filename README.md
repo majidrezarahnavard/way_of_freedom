@@ -50,6 +50,11 @@ length , interval
 از هر دامنه از کلود فلیر که فیلتر نیست می تونید استفاده کنید این لینک های خزنده هم جالب هست
 https://ircf.space/list.php#
 
+لیست سایت های چینی که می تونید جای اسپید تست استفاده کنید
+https://trends.builtwith.com/cdn/Cloudflare/China
+
+
+
 # بستن ای پی های کشور کمونیست
 
 ایران اکسس نکنید.
@@ -100,7 +105,9 @@ Bepass: A DPI-nightmare proxy
 
 </br>
 برای کمک به این پروژه کتاب 
- Network Programming with Go
+</br>
+Network Programming with Go
+</br>
 را مطالعه کنید
 
 # Yebekhe

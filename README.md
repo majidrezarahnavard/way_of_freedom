@@ -34,6 +34,8 @@ length , interval
 [آموزش دور زدن فیلترینگ دامنه توسط فرگمنت در تمام دیوایس ها](https://www.youtube.com/watch?v=LXJIcLa1v6Y&t=66s)
 
 
+[ استفاده از دامین فیلتر شده با فرگمنت | دامنه مردتو زنده کن ](https://www.youtube.com/watch?v=kdd2wSrCDxc)
+
 [اخرین آموزش سگارو](https://telegra.ph/How-to-use-Argo-Cloudflare-tunnel-with-iSegaro-12-15)
 
 [نصب آرگو](https://telegra.ph/%D9%86%D8%B5%D8%A8-%D8%A2%D8%B1%DA%AF%D9%88-01-07)

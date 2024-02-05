@@ -222,6 +222,12 @@ http://Bitpay.com
 
 [plugin](https://github.com/MatsuriDayo/plugins/releases/tag/Brook-v20220707-1)
 
+
+# Investigation on Blocking of Reality in IRAN
+
+[Investigation on Blocking of Reality in IRAN](https://github.com/XTLS/Xray-core/issues/2778)
+
+
 # آینده فیلترینگ
 
 [سیستم فیلترینگ جدید همراه اول چجوری کار میکنه؟](https://threadreaderapp.com/thread/1753357101001265309.html)
@@ -237,3 +243,22 @@ http://Bitpay.com
 
 
 [Fingerprinting Obfuscated Proxy Traffic with Encapsulated TLS Handshakes](https://www.usenix.org/conference/usenixsecurity24/presentation/xue)
+
+
+# xray
+
+مهم ترین پروژه که تمام روش های بر اساس این پروژه هست.
+
+https://github.com/XTLS/Xray-core
+
+
+# آموزش مقدماتی لینوکس و نصب پنل
+
+[آموزش کامل پنل مرزبان](https://www.youtube.com/watch?v=2yWopaxdkM0&t=211s)
+
+[آموزش جامع پنل سنایی](https://www.youtube.com/watch?v=pDfUWzCLb6I)
+
+[ V2ray, Cloudflare, SSL, CDN, Proxy آموزش کامل ](https://www.youtube.com/watch?v=yIkJvmQjVr0)
+
+[ آموزش ساخت سریعترین وی پی ان ایران - فیلترشکن XRay و V2Ray ](https://www.youtube.com/watch?v=MjqZ--zYrdc)
+

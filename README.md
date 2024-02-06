@@ -243,7 +243,7 @@ http://Bitpay.com
 
 ## نکات مهم برای عبور از فیلترینگ!
 
-[نکات مهم برای عبور از فیلترینگ!](https://twitter.com/kevinzakarian/status/1754472982687150413)
+[نکات مهم برای عبور از فیلترینگ!](https://threadreaderapp.com/thread/1754472982687150413.html)
 
 # Brook
 

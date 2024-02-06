@@ -27,8 +27,15 @@ length , interval
           "length": "20-30",
           "interval": "30-40"
         }
+
+"fragment": {
+      "interval" : "5", 
+      "length" : "3-5", 
+      "packets" : "1-1"
+}
+
 ```
-احتمال زیاد سربرگ clientHello همراه sni در یک تکه سالم افتادند و امکان خواندنش بوده؛ بهتر اولین تکه کمتر از ۴۰ بایت باشه تا مطمن بشید این اتفاق نمیافته.
+پارامتر packets شماره پکتی که قراره فرگمنت بشه رو تعیین میکنه اینجا "1-1" یعنی پکت اول رو تیکه تیکه کن بفرست، اگه خالی بزاری پارامتر packets رو همه پکت ها رو فرگمنت میکنه، اگه "1-3" بزاری پکت اول، دوم و سوم رو تیکه تیکه میکنه میفرسته.
 
 
 [آموزش دور زدن فیلترینگ دامنه توسط فرگمنت در تمام دیوایس ها](https://www.youtube.com/watch?v=LXJIcLa1v6Y&t=66s)
@@ -129,6 +136,29 @@ Network Programming with Go
 
 [Mahsa NG Application](https://play.google.com/store/apps/details?id=com.MahsaNet.MahsaNG)
 
+
+# data leak
+
+هرکانفیگی که استفاده می کنید حتما یکبار با سایت زیر چک کنید که دیتا لیک نداشته باشد
+
+https://browserleaks.com/
+
+
+
+
+WebRTC in Firefox
+
+    To disable WebRTC in Firefox:
+    Type about:config in the address bar and press Enter.
+    In the search bar, type media.peerconnection.enabled and double-click the preference to set its value to false.
+
+WebRTC in Chrome
+
+    The recommended solution to limit the risk of IP leakage via WebRTC is to use the official Google extension called WebRTC Network Limiter, which provides a range of options with varying levels of protection.
+
+
+
+
 # از پرداخت با ریال جدا خودداری کنید
 
 برای خرید سرور و دامنه و فیلترشکن و تلفن تلگرام هرگز از ریال استفاده نکنید.
@@ -211,6 +241,9 @@ http://Bitpay.com
 [ آموزش ثبت نام و تنظیمات درگاه پرداخت NOWPayments ](https://www.youtube.com/watch?v=cIR8VTHFyn0)
 
 
+## نکات مهم برای عبور از فیلترینگ!
+
+[نکات مهم برای عبور از فیلترینگ!](https://twitter.com/kevinzakarian/status/1754472982687150413)
 
 # Brook
 
@@ -222,6 +255,8 @@ http://Bitpay.com
 
 [plugin](https://github.com/MatsuriDayo/plugins/releases/tag/Brook-v20220707-1)
 
+
+[ آموزش نصب و کانفیگ Brook VPN روی سرور به 2 روش ](https://www.youtube.com/watch?v=2IiJM6jyAUs)
 
 # Investigation on Blocking of Reality in IRAN
 

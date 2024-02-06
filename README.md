@@ -55,6 +55,8 @@ length , interval
 [ جدیدترین روش استفاده از کانفیگ FRAGMENT با لینک سابسکریشن بدون نیاز به ویرایش کد ساخت بینهایت کاربر ](https://www.youtube.com/watch?v=4L7zajnLtOs)
 
 
+## Fragment over DNS
+
 [کانفیگ امین با استفاده از DNS](https://github.com/amin4139/share_file/blob/main/Test_config)
 
 ```

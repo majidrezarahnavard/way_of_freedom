@@ -55,6 +55,9 @@ length , interval
 [ جدیدترین روش استفاده از کانفیگ FRAGMENT با لینک سابسکریشن بدون نیاز به ویرایش کد ساخت بینهایت کاربر ](https://www.youtube.com/watch?v=4L7zajnLtOs)
 
 
+[کانفیگ امین با استفاده از DNS](https://github.com/amin4139/share_file/blob/main/Test_config)
+
+
 ## کلود فلیر
 از هر دامنه از کلود فلیر که فیلتر نیست می تونید استفاده کنید این لینک های خزنده هم جالب هست
 https://ircf.space/list.php#
@@ -181,7 +184,6 @@ TRX
 
 ```
 https://www.ethernetservers.com/vps-hosting
-https://my.kuroit.com/
 https://www.digiturunc.com/
 yottasrc.com
 https://www.hazi.ro/
@@ -223,6 +225,7 @@ https://www.hostinger.com/payments
 ```
 https://swapspace.co
 https://fixedfloat.com/
+https://www.thorswap.finance/
 ```
 
 

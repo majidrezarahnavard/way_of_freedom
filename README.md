@@ -57,6 +57,31 @@ length , interval
 
 [کانفیگ امین با استفاده از DNS](https://github.com/amin4139/share_file/blob/main/Test_config)
 
+```
+"dns": {
+    "tag": "dns",
+    "hosts": {
+      "dns.403.online": [
+        "10.202.10.202",
+        "10.202.10.102"
+      ],
+
+     "free.shecan.ir": [
+        "178.22.122.100",
+        "185.51.200.2"
+      ]
+    },
+    "servers": [
+      "https://free.shecan.ir/dns-query",
+      "https://dns.403.online/dns-query",
+      "10.202.10.11",
+      "10.202.10.10",
+      "85.15.1.15",
+      "85.15.1.14"
+    ]
+  },
+```
+
 
 ## کلود فلیر
 از هر دامنه از کلود فلیر که فیلتر نیست می تونید استفاده کنید این لینک های خزنده هم جالب هست

@@ -93,13 +93,13 @@ length , interval
 
 [آموزش اتصال به کانفیگ ها با استفاده از فرگمنت در برنامه MahsaNG اندروید](https://twitter.com/seramo_ir/status/1753080310982701493)
 
-[آموزش اتصال به کانفیگ ها با استفاده از فرگمنت در برنامه V2Box آیفون]
+[آموزش اتصال به کانفیگ ها با استفاده از فرگمنت در برنامه V2Box آیفون](https://twitter.com/seramo_ir/status/1753080558127869976)
 
  این فقط یه دونه خروجی جیسون بر اساس اون اطلاعات میسازه که کاستوم کانفیگ دارای فرگمنته
  این کلا ربطی به اون ورکر نداره
 فقط میاد بر اساس دامنه و آیدی کانفیگ جیسونش رو میسازه
 
-[کانفیگ های کاستوم رو توی V2rayNG ](https://twitter.com/seramo_ir/status/1754959963187712478)
+[کانفیگ های کاستوم رو توی V2rayNG](https://twitter.com/seramo_ir/status/1754959963187712478)
 
 [worker.js](https://github.com/seramo/random-fragment-sub-worker/blob/main/worker.js)
 

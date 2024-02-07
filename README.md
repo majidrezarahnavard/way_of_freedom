@@ -57,6 +57,8 @@ length , interval
 
 ## Fragment over DNS
 
+می تونید به کانفیگ تون DNS های شکن رو اضافه کنی
+
 [کانفیگ امین با استفاده از DNS](https://github.com/amin4139/share_file/blob/main/Test_config)
 
 ```
@@ -83,6 +85,29 @@ length , interval
     ]
   },
 ```
+
+
+## Random Fragment Sub Worker 
+
+ترکیب Edge Tunnel و Fragment فوق العادس
+
+[آموزش اتصال به کانفیگ ها با استفاده از فرگمنت در برنامه MahsaNG اندروید](https://twitter.com/seramo_ir/status/1753080310982701493)
+
+[آموزش اتصال به کانفیگ ها با استفاده از فرگمنت در برنامه V2Box آیفون]
+
+ این فقط یه دونه خروجی جیسون بر اساس اون اطلاعات میسازه که کاستوم کانفیگ دارای فرگمنته
+ این کلا ربطی به اون ورکر نداره
+فقط میاد بر اساس دامنه و آیدی کانفیگ جیسونش رو میسازه
+
+[کانفیگ های کاستوم رو توی V2rayNG ](https://twitter.com/seramo_ir/status/1754959963187712478)
+
+[worker.js](https://github.com/seramo/random-fragment-sub-worker/blob/main/worker.js)
+
+برای استفاده از ورکر ساخت ساب فرگمنت
+میتونید دامنه خودتون رو جایگزین domain و uuid کانفیگ رو جایگزین userUUID کنید
+
+نکته: این برای Edge Tunnel نوشته شده و میتونید متناسب با کانفیگ خودتون port، path و ... رو تغییر بدید
+
 
 
 ## کلود فلیر
@@ -318,6 +343,8 @@ https://github.com/XTLS/Xray-core
 
 
 # آموزش مقدماتی لینوکس و نصب پنل
+
+[نقشه راه دسترسی به اینترنت آزاد - از کانال یوتیوب ایمان آقاپور](https://iaghapour.github.io/freehope/)
 
 [آموزش کامل پنل مرزبان](https://www.youtube.com/watch?v=2yWopaxdkM0&t=211s)
 

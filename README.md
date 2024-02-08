@@ -117,7 +117,7 @@ https://ircf.space/list.php#
 لیست سایت های چینی که می تونید جای اسپید تست استفاده کنید
 https://trends.builtwith.com/cdn/Cloudflare/China
 
-
+[سایت پیدا کردن ای پی تمیز](https://www.itdog.cn/ping/russian.people.com.cn)
 
 # بستن ای پی های کشور کمونیست
 
@@ -165,6 +165,8 @@ warp://auto/?ifp=5-10
 [راهکار جامع کانفیگ‌های v2ray روی ورکر](https://github.com/vfarid/v2ray-worker/blob/main/README-fa.md)
 
 [v2ray-worker](https://github.com/vfarid/v2ray-worker)
+
+[ ساخت vpn کاملا رایگان با ورکر کلودفلر اتصال روی همه اپراتورها ](https://www.youtube.com/watch?v=0S99-poCkLE)
 
 # تونل معکوس
 

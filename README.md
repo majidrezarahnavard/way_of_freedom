@@ -127,6 +127,11 @@ https://trends.builtwith.com/cdn/Cloudflare/China
 [ آموزش جلوگیری از حمله به سرور و ایران اکسس کردن با 2 روش ساده ](https://www.youtube.com/watch?v=U90a43fTyL0)
 
 
+# مخفی سازی
+
+
+[NginxReverseProxy](https://github.com/Ptechgithub/NginxReverseProxy)
+
 # warp on warp
 
 [warp-on-warp](https://www.youtube.com/watch?si=bJq3Wn6bxD9wNruP&v=VnsjxHl41mU&feature=youtu.be)

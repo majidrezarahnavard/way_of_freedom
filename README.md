@@ -141,6 +141,16 @@ https://trends.builtwith.com/cdn/Cloudflare/China
 
 [ اتصال به وارپ روی اکثر اینترنت ها | حل مشکل وارپ ](https://www.youtube.com/watch?v=KT_cxcKesS0)
 
+حالا اگر از وارپ استفاده میکنید 
+اعداد IFP رو تغییر بدید دوباره وصل میشه 
+
+```
+نمونه :
+ifp=5-10
+warp://auto/?ifp=5-10
+```
+
+
 # Worker
 
 [ ساخت فیلترشکن رایگان بدون سرور و دامین با استفاده از ورکر Cloudflare-Worker ](https://www.youtube.com/watch?v=9v57JYYn-Ww)
@@ -386,3 +396,6 @@ https://github.com/XTLS/Xray-core
 
 
 [کتاب Network Programming with Go](https://faghatketab.ir/product/%DA%A9%D8%AA%D8%A7%D8%A8-network-programming-with-go/)
+
+
+[web_ethical](https://www.youtube.com/watch?v=oV_yD-tuFLM)

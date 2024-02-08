@@ -1,4 +1,4 @@
-#  روش های اتصال به اینترنت
+#   روش های اتصال به اینترنت آزاد
 
 در اینجا روش هایی که کارکرد دارند رو می نویسم.
 اگر روشی دارید که کار می کند و در اینجا نیست لطفا به من بگید تا اضافه کنم.
@@ -192,7 +192,7 @@ Network Programming with Go
 [Mahsa NG Application](https://play.google.com/store/apps/details?id=com.MahsaNet.MahsaNG)
 
 
-# data leak
+# Data leak
 
 هرکانفیگی که استفاده می کنید حتما یکبار با سایت زیر چک کنید که دیتا لیک نداشته باشد
 
@@ -232,7 +232,7 @@ TRX
 [شبکه ترون چیست؟](https://www.youtube.com/watch?v=UWz8C0dLDkI)
 
 
-## از کجا سرور با کریپتو بخرم؟
+## از کجا سرور و دامنه با کریپتو بخرم؟
 
 ```
 https://www.ethernetservers.com/vps-hosting
@@ -268,6 +268,16 @@ https://www.hostinger.com/payments
 وقتی از درگاه های کریپتو خرید می کنید پول شما وارد استخر می شود و رهگیری اش سخت هست
 ولی اگر بازم اگر خواستید می تونید از تبدیل های زیر استفاده کنید و به یک  ولت دیگر انتقال دهید.
 
+### سایت های ایرانی خرید رمز ارز
+```
+https://arzanpay724.com/
+https://nobitex.ir/
+https://tetherland.com/
+https://bit24.cash/
+https://ok-ex.io/
+```
+
+
 ### توجه
 هرگز آدرس پرداخت رو مستقیم در نوبیتکس نزنید. و در ابتدا به متامسک یا تراست ولت انتقال دهید.
 
@@ -299,6 +309,13 @@ http://Bitpay.com
 ## نکات مهم برای عبور از فیلترینگ!
 
 [نکات مهم برای عبور از فیلترینگ!](https://threadreaderapp.com/thread/1754472982687150413.html)
+
+
+# Open VPN
+
+برای این روش یک سرور نیاز دارید.
+
+[ آموزش ساخت openvpn روی سرور مجازی ](https://www.youtube.com/watch?v=X8GOExnqPCY)
 
 # Brook
 
@@ -342,7 +359,7 @@ http://Bitpay.com
 https://github.com/XTLS/Xray-core
 
 
-# آموزش مقدماتی لینوکس و نصب پنل
+# آموزش مقدماتی و نصب پنل
 
 [نقشه راه دسترسی به اینترنت آزاد - از کانال یوتیوب ایمان آقاپور](https://iaghapour.github.io/freehope/)
 
@@ -354,3 +371,18 @@ https://github.com/XTLS/Xray-core
 
 [ آموزش ساخت سریعترین وی پی ان ایران - فیلترشکن XRay و V2Ray ](https://www.youtube.com/watch?v=MjqZ--zYrdc)
 
+
+#   آموزش لینوکس و شبکه
+
+[دوره الپیک جادی](https://www.youtube.com/watch?v=cqfrsmg4BKo&list=PL-tKrPVkKKE0kM18Sg5fqaZW1V2nidAeU)
+
+
+[آموزش برنامه نویسی شبکه با Go](https://git.ir/packtpub-network-programming-with-go-video/)
+
+[دانلود کتاب برنامه نویسی شبکه با زبان Go ](https://bibis.ir/network-programming-with-go-language-essential-skills-for-programming-using-and-securing-networks-2nd-edition-by-jan-newmarch/)
+
+
+[Udemy – Learn Programming in GO (golang): A Rich Guide for Beginners 2022-8](https://downloadly.ir/elearning/video-tutorials/learn-programming-in-go-golang-a-rich-guide-for-beginners/)
+
+
+[کتاب Network Programming with Go](https://faghatketab.ir/product/%DA%A9%D8%AA%D8%A7%D8%A8-network-programming-with-go/)

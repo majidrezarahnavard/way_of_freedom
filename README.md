@@ -108,7 +108,22 @@ length , interval
 
 نکته: این برای Edge Tunnel نوشته شده و میتونید متناسب با کانفیگ خودتون port، path و ... رو تغییر بدید
 
+## Worker Serverless + Fragment
 
+[ عبور از فیلترینگ با Edge Tunnel و بررسی پنل BPB و پنل وحید فرید | فیلترشکن رایگان، سریع و ضد تحریم ](https://www.youtube.com/watch?v=jvZkHANYfno&t=297s)
+
+[نحوه‌ی راه‌اندازی BPB Worker Panel به‌همراه Fragment نسخه‌ی 2.1](https://telegra.ph/%D9%86%D8%AD%D9%88%D9%87%E2%80%8C%DB%8C-%D8%B1%D8%A7%D9%87%E2%80%8C%D8%A7%D9%86%D8%AF%D8%A7%D8%B2%DB%8C-BPB-Worker-Panel-%D8%A8%D9%87%E2%80%8C%D9%87%D9%85%D8%B1%D8%A7%D9%87-Fragment-01-28)
+
+
+##  سنایی + وارپ + فرگمنت
+
+1. نصب پنل سنایی
+ bash <(curl -Ls https://raw.githubusercontent.com/mhsanaei/3x-ui/master/install.sh)
+2.سرتیفیکیت دامنه 
+3.نصب warp go 
+bash <(curl -Ls https://gitlab.com/rwkgyg/CFwarp/raw/main/CFwarp.sh)
+4.ساخت کانفینگ 
+5.زدن فرگمنت
 
 ## کلود فلیر
 از هر دامنه از کلود فلیر که فیلتر نیست می تونید استفاده کنید این لینک های خزنده هم جالب هست
@@ -130,7 +145,12 @@ https://trends.builtwith.com/cdn/Cloudflare/China
 # مخفی سازی
 
 
+این روش به تنهایی باعث فیلترشدن دامنه میشود.
+پهنای باند مصرفی و بات های چینی رو هم باید در نظر بگیرید.
+
 [NginxReverseProxy](https://github.com/Ptechgithub/NginxReverseProxy)
+
+[ آموزش ایجاد سایت روی دامنه و ساب دامنه با استفاده از انجینیکس ](https://youtu.be/xFMh8F3JGrA?si=SJuNI1hOn2tl4S8i)
 
 # warp on warp
 
@@ -166,7 +186,7 @@ warp://auto/?ifp=5-10
 
 [v2ray-worker](https://github.com/vfarid/v2ray-worker)
 
-[ ساخت vpn کاملا رایگان با ورکر کلودفلر اتصال روی همه اپراتورها ](https://www.youtube.com/watch?v=0S99-poCkLE)
+
 
 # تونل معکوس
 
@@ -248,6 +268,13 @@ TRX
 
 [شبکه ترون چیست؟](https://www.youtube.com/watch?v=UWz8C0dLDkI)
 
+## آدرس فیک
+
+```
+https://www.fakexy.com/
+```
+
+
 
 ## از کجا سرور و دامنه با کریپتو بخرم؟
 
@@ -271,6 +298,16 @@ my.spectraip.net
 https://www.namesilo.com/
 https://www.hostinger.com/payments
 ```
+
+## با کریپتو دامنه بخریم؟
+
+```
+https://www.spaceship.com/
+```
+
+
+با 0.6$ دامین shop. و 0.18$ کارمزد ICANN جمعا 0.78$ هزینه خرید
+
 
 
 ## باریال چجوری کریپتو بخرم 

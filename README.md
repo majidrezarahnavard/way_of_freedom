@@ -116,18 +116,19 @@ length , interval
 
 
 ## vless warp fragment 
-1. نصب پنل سنایی
+۱. نصب پنل سنایی
+</br>
  bash <(curl -Ls https://raw.githubusercontent.com/mhsanaei/3x-ui/master/install.sh)
 </br>
-2.سرتیفیکیت دامنه 
+۲.سرتیفیکیت دامنه 
 </br>
-3.نصب warp go 
+۳.نصب warp go 
 </br>
 bash <(curl -Ls https://gitlab.com/rwkgyg/CFwarp/raw/main/CFwarp.sh)
 </br>
-4.ساخت کانفینگ 
+۴.ساخت کانفینگ 
 </br>
-5.زدن فرگمنت 
+۵.زدن فرگمنت 
 </br>
 please be advised the best choice for the server is ubuntu 22 , 
 

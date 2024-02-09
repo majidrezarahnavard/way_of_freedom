@@ -115,15 +115,19 @@ length , interval
 [نحوه‌ی راه‌اندازی BPB Worker Panel به‌همراه Fragment نسخه‌ی 2.1](https://telegra.ph/%D9%86%D8%AD%D9%88%D9%87%E2%80%8C%DB%8C-%D8%B1%D8%A7%D9%87%E2%80%8C%D8%A7%D9%86%D8%AF%D8%A7%D8%B2%DB%8C-BPB-Worker-Panel-%D8%A8%D9%87%E2%80%8C%D9%87%D9%85%D8%B1%D8%A7%D9%87-Fragment-01-28)
 
 
-##  سنایی + وارپ + فرگمنت
-
+## vless warp fragment 
 1. نصب پنل سنایی
  bash <(curl -Ls https://raw.githubusercontent.com/mhsanaei/3x-ui/master/install.sh)
+
 2.سرتیفیکیت دامنه 
 3.نصب warp go 
 bash <(curl -Ls https://gitlab.com/rwkgyg/CFwarp/raw/main/CFwarp.sh)
 4.ساخت کانفینگ 
-5.زدن فرگمنت
+5.زدن فرگمنت 
+please be advised the best choice for the server is ubuntu 22 , 
+
+
+
 
 ## کلود فلیر
 از هر دامنه از کلود فلیر که فیلتر نیست می تونید استفاده کنید این لینک های خزنده هم جالب هست

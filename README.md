@@ -263,7 +263,8 @@ WebRTC in Chrome
     The recommended solution to limit the risk of IP leakage via WebRTC is to use the official Google extension called WebRTC Network Limiter, which provides a range of options with varying levels of protection.
 
 
-
+# IPv6 TunnelBroker
+[اگر سرور مجازی شما ipv6 نداره ، این اسکریپت به شما کمک میکنه تا براحتی IPv6 که با استفاده از سرویس های تانل بروکر دریافت کردید رو روی سرور مجازیتون ست کنید. همینطور به راحتی میتونید تنظیمات رو مشاهده کنید یا اون رو به حالت قبل برگردونید. ](https://github.com/azavaxhuman/IPv6-TunnelBroker)
 
 # از پرداخت با ریال جدا خودداری کنید
 
@@ -377,6 +378,13 @@ http://Bitpay.com
 ## نکات مهم برای عبور از فیلترینگ!
 
 [نکات مهم برای عبور از فیلترینگ!](https://threadreaderapp.com/thread/1754472982687150413.html)
+
+
+
+# spotify
+
+برای حل مشکل اسپاتیفای باید از دامنه و سرور استفاده کنید
+و این کانفیگ رو به افراد متعدد ندهید. یک راه گران هم خرید وی پی ان نورد و گذاشتن در لایه آخر تونل هست.
 
 
 # Open VPN

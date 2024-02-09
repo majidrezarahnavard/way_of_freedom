@@ -59,6 +59,8 @@ length , interval
 
 [آموزش کامل کلودفلر ورکر+فرگمنت کردن کانفیک برای عبور از فیلترینگ شدید مخصوصا در همراه اول](https://telegra.ph/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%DA%A9%D8%A7%D9%85%D9%84-%DA%A9%D9%84%D9%88%D8%AF%D9%81%D9%84%D8%B1-%D9%88%D8%B1%DA%A9%D8%B1%D9%81%D8%B1%DA%AF%D9%85%D9%86%D8%AA-%DA%A9%D8%B1%D8%AF%D9%86-%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%A9-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B9%D8%A8%D9%88%D8%B1-%D8%A7%D8%B2-%D9%81%DB%8C%D9%84%D8%AA%D8%B1%DB%8C%D9%86%DA%AF-%D8%B4%D8%AF%DB%8C%D8%AF-%D9%85%D8%AE%D8%B5%D9%88%D8%B5%D8%A7-%D8%AF%D8%B1-%D9%87%D9%85%D8%B1%D8%A7%D9%87-%D8%A7%D9%88%D9%84-02-09)
 
+
+
 ## Fragment over DNS
 
 می تونید به کانفیگ تون DNS های شکن رو اضافه کنی
@@ -147,6 +149,9 @@ https://ircf.space/list.php#
 https://trends.builtwith.com/cdn/Cloudflare/China
 
 [سایت پیدا کردن ای پی تمیز](https://www.itdog.cn/ping/russian.people.com.cn)
+
+
+
 
 # بستن ای پی های کشور کمونیست
 
@@ -261,6 +266,12 @@ WebRTC in Firefox
 WebRTC in Chrome
 
     The recommended solution to limit the risk of IP leakage via WebRTC is to use the official Google extension called WebRTC Network Limiter, which provides a range of options with varying levels of protection.
+
+
+# Edge Tunnel 
+
+[ بدون داشتن سرور و با Edge Tunnel کانفیگ Vless بساز و محدودیت کلودفلر رو دور بزن ](https://www.youtube.com/watch?v=3XoiNd3CNts)
+
 
 
 # IPv6 TunnelBroker
@@ -426,6 +437,10 @@ http://Bitpay.com
 
 
 [Fingerprinting Obfuscated Proxy Traffic with Encapsulated TLS Handshakes](https://www.usenix.org/conference/usenixsecurity24/presentation/xue)
+
+
+[اینترنت، فیلترینگ و IPv6](https://threadreaderapp.com/thread/1755968930433093941.html)
+
 
 
 # xray

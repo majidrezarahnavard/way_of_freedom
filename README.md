@@ -402,7 +402,24 @@ http://Bitpay.com
 [ آموزش ثبت نام و تنظیمات درگاه پرداخت NOWPayments ](https://www.youtube.com/watch?v=cIR8VTHFyn0)
 
 
-## نکات مهم برای عبور از فیلترینگ!
+# اگر فیلترشکن با ریال بخریم چه اطلاعاتی رو می توانند به دست بیاورند؟ 
+
+برخی از فروشندگان فیلترشکن حکومتی هستند . تشخیص اینکه آیا این فیلترشکن حکومتی هست یا نه به سادگی نیست.
+
+## اگر از فیلترشکن حکومتی با ریال خرید کنید چه اطلاعاتی از شما رو به دست می آورند:
+
+* نام و نام خانوادگی
+* کدملی
+* آدرس محل سکونت
+* کدپستی
+* آی پی
+* نوع دستگاه و بروزی که استفاده می کنید
+* لیست سایت هایی که مشاهده می کنید
+* لیست خرید های آنلاین از پلتفرم های بزرگ
+* لیست مکان هایی که با اسنپ یا تپسی رفتید
+
+
+# نکات مهم برای عبور از فیلترینگ!
 
 [نکات مهم برای عبور از فیلترینگ!](https://threadreaderapp.com/thread/1754472982687150413.html)
 
@@ -500,3 +517,5 @@ https://github.com/XTLS/Xray-core
 
 
 [web_ethical](https://www.youtube.com/watch?v=oV_yD-tuFLM)
+
+[DNSSEC – Domain Name System Security Extensions Explained](https://www.socinvestigation.com/dnssec-domain-name-system-security-extensions-explained/)

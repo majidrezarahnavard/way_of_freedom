@@ -8,6 +8,11 @@
 
 [اگر دانش کافی ندارید از این بخش شروع کنید](https://github.com/majidrezarahnavard/way_of_freedom?tab=readme-ov-file#%D8%A7%DA%AF%D8%B1-%D8%AF%D8%A7%D9%86%D8%B4-%D9%81%D9%86%DB%8C-%DA%A9%D8%A7%D9%85%D9%BE%DB%8C%D9%88%D8%AA%D8%B1-%D9%86%D8%AF%D8%A7%D8%B1%DB%8C%D8%AF-%D8%A7%D8%B2-%D8%A7%DB%8C%D9%86-%D8%A8%D8%AE%D8%B4-%D8%B4%D8%B1%D9%88%D8%B9-%DA%A9%D9%86%DB%8C%D8%AF)
 
+
+
+[صحبت های سارینا اسماعیل زاده](https://www.youtube.com/watch?v=gpRnvFZ3vTU&t=52s)
+[ زادروز مجیدرضا رهنورد، روز ملی شیروخورشید ](https://www.youtube.com/watch?v=N3Yo009a7Uc)
+
 # فرگمنت
 فرگمنت به معنی تکه تکه ریکوست های هست که تشخیص رو برای گریت فایر وال سخت می کند.
 xray این قابلیت رو پشتیبانی می کند
@@ -15,6 +20,34 @@ xray این قابلیت رو پشتیبانی می کند
 لزومی نداره حتما از تونل استفاده کنید از CDN هم میشه استفاده کرد.
 
 سرور و دامنه کثیف نیاز دارد.
+
+
+
+[آموزش دور زدن فیلترینگ دامنه توسط فرگمنت در تمام دیوایس ها](https://www.youtube.com/watch?v=LXJIcLa1v6Y&t=66s)
+
+
+[ استفاده از دامین فیلتر شده با فرگمنت | دامنه مردتو زنده کن ](https://www.youtube.com/watch?v=kdd2wSrCDxc)
+
+[اخرین آموزش سگارو](https://telegra.ph/How-to-use-Argo-Cloudflare-tunnel-with-iSegaro-12-15)
+
+[نصب آرگو](https://telegra.ph/%D9%86%D8%B5%D8%A8-%D8%A2%D8%B1%DA%AF%D9%88-01-07)
+
+
+[ابزار فرگمنت ircfspace ](https://ircfspace.github.io/fragment/)
+
+[misaturo tools ](https://misaturo.github.io/Xray-Fragment-Configurator/)
+
+[ جدیدترین روش استفاده از کانفیگ FRAGMENT با لینک سابسکریشن بدون نیاز به ویرایش کد ساخت بینهایت کاربر ](https://www.youtube.com/watch?v=4L7zajnLtOs)
+
+
+[آموزش کامل کلودفلر ورکر+فرگمنت کردن کانفیک برای عبور از فیلترینگ شدید مخصوصا در همراه اول](https://telegra.ph/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%DA%A9%D8%A7%D9%85%D9%84-%DA%A9%D9%84%D9%88%D8%AF%D9%81%D9%84%D8%B1-%D9%88%D8%B1%DA%A9%D8%B1%D9%81%D8%B1%DA%AF%D9%85%D9%86%D8%AA-%DA%A9%D8%B1%D8%AF%D9%86-%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%A9-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B9%D8%A8%D9%88%D8%B1-%D8%A7%D8%B2-%D9%81%DB%8C%D9%84%D8%AA%D8%B1%DB%8C%D9%86%DA%AF-%D8%B4%D8%AF%DB%8C%D8%AF-%D9%85%D8%AE%D8%B5%D9%88%D8%B5%D8%A7-%D8%AF%D8%B1-%D9%87%D9%85%D8%B1%D8%A7%D9%87-%D8%A7%D9%88%D9%84-02-09)
+
+
+[آموزش کلودفلر ورکر از نوع pages+fragment بدون نیازبه تست ip و SNI !](https://telegra.ph/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%DA%A9%D9%84%D9%88%D8%AF%D9%81%D9%84%D8%B1-%D9%88%D8%B1%DA%A9%D8%B1-%D8%A7%D8%B2-%D9%86%D9%88%D8%B9-pagesfragment-%D8%A8%D8%AF%D9%88%D9%86-%D9%86%DB%8C%D8%A7%D8%B2%D8%A8%D9%87-%D8%AA%D8%B3%D8%AA-ip-%D8%AA%D9%85%DB%8C%D8%B2-02-10)
+
+
+[  راه حل تضمینی فرگمنت روی IOS ](https://www.youtube.com/watch?v=Q8_K_GRmEbU)
+
 
 اگر دیدید وصل نمیشه این دو تا پارامتر رو تغییر بدید
 ```
@@ -42,30 +75,6 @@ length , interval
 پارامتر packets شماره پکتی که قراره فرگمنت بشه رو تعیین میکنه اینجا "1-1" یعنی پکت اول رو تیکه تیکه کن بفرست، اگه خالی بزاری پارامتر packets رو همه پکت ها رو فرگمنت میکنه، اگه "1-3" بزاری پکت اول، دوم و سوم رو تیکه تیکه میکنه میفرسته.
 
 
-[آموزش دور زدن فیلترینگ دامنه توسط فرگمنت در تمام دیوایس ها](https://www.youtube.com/watch?v=LXJIcLa1v6Y&t=66s)
-
-
-[ استفاده از دامین فیلتر شده با فرگمنت | دامنه مردتو زنده کن ](https://www.youtube.com/watch?v=kdd2wSrCDxc)
-
-[اخرین آموزش سگارو](https://telegra.ph/How-to-use-Argo-Cloudflare-tunnel-with-iSegaro-12-15)
-
-[نصب آرگو](https://telegra.ph/%D9%86%D8%B5%D8%A8-%D8%A2%D8%B1%DA%AF%D9%88-01-07)
-
-
-[ابزار فرگمنت ircfspace ](https://ircfspace.github.io/fragment/)
-
-[misaturo tools ](https://misaturo.github.io/Xray-Fragment-Configurator/)
-
-[ جدیدترین روش استفاده از کانفیگ FRAGMENT با لینک سابسکریشن بدون نیاز به ویرایش کد ساخت بینهایت کاربر ](https://www.youtube.com/watch?v=4L7zajnLtOs)
-
-
-[آموزش کامل کلودفلر ورکر+فرگمنت کردن کانفیک برای عبور از فیلترینگ شدید مخصوصا در همراه اول](https://telegra.ph/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%DA%A9%D8%A7%D9%85%D9%84-%DA%A9%D9%84%D9%88%D8%AF%D9%81%D9%84%D8%B1-%D9%88%D8%B1%DA%A9%D8%B1%D9%81%D8%B1%DA%AF%D9%85%D9%86%D8%AA-%DA%A9%D8%B1%D8%AF%D9%86-%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%A9-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B9%D8%A8%D9%88%D8%B1-%D8%A7%D8%B2-%D9%81%DB%8C%D9%84%D8%AA%D8%B1%DB%8C%D9%86%DA%AF-%D8%B4%D8%AF%DB%8C%D8%AF-%D9%85%D8%AE%D8%B5%D9%88%D8%B5%D8%A7-%D8%AF%D8%B1-%D9%87%D9%85%D8%B1%D8%A7%D9%87-%D8%A7%D9%88%D9%84-02-09)
-
-
-[آموزش کلودفلر ورکر از نوع pages+fragment بدون نیازبه تست ip و SNI !](https://telegra.ph/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%DA%A9%D9%84%D9%88%D8%AF%D9%81%D9%84%D8%B1-%D9%88%D8%B1%DA%A9%D8%B1-%D8%A7%D8%B2-%D9%86%D9%88%D8%B9-pagesfragment-%D8%A8%D8%AF%D9%88%D9%86-%D9%86%DB%8C%D8%A7%D8%B2%D8%A8%D9%87-%D8%AA%D8%B3%D8%AA-ip-%D8%AA%D9%85%DB%8C%D8%B2-02-10)
-
-
-[  راه حل تضمینی فرگمنت روی IOS ](https://www.youtube.com/watch?v=Q8_K_GRmEbU)
 
 ## Fragment over DNS
 

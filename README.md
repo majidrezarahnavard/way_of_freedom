@@ -62,6 +62,9 @@ length , interval
 
 [آموزش کلودفلر ورکر از نوع pages+fragment بدون نیازبه تست ip و SNI !](https://telegra.ph/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%DA%A9%D9%84%D9%88%D8%AF%D9%81%D9%84%D8%B1-%D9%88%D8%B1%DA%A9%D8%B1-%D8%A7%D8%B2-%D9%86%D9%88%D8%B9-pagesfragment-%D8%A8%D8%AF%D9%88%D9%86-%D9%86%DB%8C%D8%A7%D8%B2%D8%A8%D9%87-%D8%AA%D8%B3%D8%AA-ip-%D8%AA%D9%85%DB%8C%D8%B2-02-10)
 
+
+[  راه حل تضمینی فرگمنت روی IOS ](https://www.youtube.com/watch?v=Q8_K_GRmEbU)
+
 ## Fragment over DNS
 
 می تونید به کانفیگ تون DNS های شکن رو اضافه کنی
@@ -91,6 +94,56 @@ length , interval
       "85.15.1.14"
     ]
   },
+```
+
+
+```
+"dns": {
+        "hosts": {
+            "extended.dns.mullvad.net": [
+                "194.242.2.5",
+                "194.242.2.6"
+            ],
+            "all.dns.mullvad.net": [
+                "194.242.2.8",
+                "194.242.2.9"
+            ]
+        },
+        "servers": [
+            "https://extended.dns.mullvad.net/dns-query",
+            "https://all.dns.mullvad.net/dns-query",
+            "194.242.2.5",
+            "194.242.2.6",
+            "194.242.2.8",
+            "194.242.2.9"
+        ],
+        "tag": "dns"
+    },
+```
+
+
+```
+    "dns": {
+        "hosts": {
+            "dns.adguard-dns.com": [
+                "94.140.14.14",
+                "94.140.15.15"
+            ],
+            "family.adguard-dns.com": [
+                "94.140.14.15",
+                "94.140.15.16"
+            ]
+        },
+        "servers": [
+	    "https://dns.adguard-dns.com/dns-query",
+            "https://family.adguard-dns.com/dns-query",
+            "94.140.14.14",
+            "94.140.15.15",
+            "94.140.14.15",
+            "94.140.15.16"
+        ],
+        "tag": "dns"
+    },
 ```
 
 
@@ -152,6 +205,7 @@ https://trends.builtwith.com/cdn/Cloudflare/China
 [سایت پیدا کردن ای پی تمیز](https://www.itdog.cn/ping/russian.people.com.cn)
 
 
+[آموزش پیدا کردن آی پی سالم کلودفلر برای تمامی اپراتورها](https://www.youtube.com/watch?v=tXNeirkJJjA)
 
 ## اگر فرگمنت نزنیم چی میشه؟
 
@@ -166,6 +220,11 @@ https://trends.builtwith.com/cdn/Cloudflare/China
 خصیصه های آماری و الگویی اتصال و ای پی و پهنای باند مصرفی و تعداد کانکشن مورد ارزیابی قرار می گیرد و بر اساس آنها فیلتر می شوند هم چنین ربات هایی برای تشخیص سرور وجود دارند که عملیات شناسایی رو سریع تر می کنند.
 
 
+## از پورت ۸۰ برای فیلترشکن استفاده نکنید
+
+عده ای به من خرده گرفتن که پروتکل Vless امنه و چرا میگی روی پورت 80 بودن اون میتونه #خطرناک باشه ، متاسفانه جامعه ایران از عدم تحقیق رنج زیادی میبره و این یک نمونه ، پروتکل Vless بدون TLS هیچ #امنیت ای برای داده های شما تا #سرور ایجاد نمیکنه.
+
+https://twitter.com/Nima__Nikjoo/status/1756866122123452520
 
 # بستن ای پی های کشور کمونیست
 
@@ -181,6 +240,17 @@ https://trends.builtwith.com/cdn/Cloudflare/China
 پهنای باند مصرفی و بات های چینی رو هم باید در نظر بگیرید.
 
 [NginxReverseProxy](https://github.com/Ptechgithub/NginxReverseProxy)
+
+قابلیت های: 
+</br>
+نصب سایت (170 قالب آماده)
+</br>
+اعمال محدویت ترافیک
+</br>
+تغییر path 
+</br>
+تغییر پورت HTTPS
+</br>
 
 [ آموزش ایجاد سایت روی دامنه و ساب دامنه با استفاده از انجینیکس ](https://youtu.be/xFMh8F3JGrA?si=SJuNI1hOn2tl4S8i)
 
@@ -206,6 +276,15 @@ https://trends.builtwith.com/cdn/Cloudflare/China
 ifp=5-10
 warp://auto/?ifp=5-10
 ```
+
+# Oblivion - Unofficial Warp Client for Android
+Oblivion provides secure, optimized internet access through a user-friendly Android app.
+[Oblivion](https://github.com/bepass-org/oblivion/releases/)
+
+https://twitter.com/seramo_ir/status/1756738507446366380
+
+https://t.me/generatewarpplusbot
+
 
 
 # Worker
@@ -287,7 +366,12 @@ WebRTC in Chrome
 
 [ بدون داشتن سرور و با Edge Tunnel کانفیگ Vless بساز و محدودیت کلودفلر رو دور بزن ](https://www.youtube.com/watch?v=3XoiNd3CNts)
 
+# Tor project
 
+[ روش استفاده از مرورگر "تور" در اندروید ](https://www.youtube.com/watch?v=h24QM4iEhvE)
+
+
+[ آموزش مخفی کردن آی پی سرور پشت آی پی های پروژه تور (Tor with X-UI) ](https://www.youtube.com/watch?v=sHI8oXN0Qg8)
 
 # IPv6 TunnelBroker
 [اگر سرور مجازی شما ipv6 نداره ، این اسکریپت به شما کمک میکنه تا براحتی IPv6 که با استفاده از سرویس های تانل بروکر دریافت کردید رو روی سرور مجازیتون ست کنید. همینطور به راحتی میتونید تنظیمات رو مشاهده کنید یا اون رو به حالت قبل برگردونید. ](https://github.com/azavaxhuman/IPv6-TunnelBroker)
@@ -419,10 +503,27 @@ http://Bitpay.com
 * لیست مکان هایی که با اسنپ یا تپسی رفتید
 
 
+## درآمد فیلترشکن
+
+درآمد ایرانسل حدودا ۳۰ همت
+</br>
+اسنپ حدودا ۳۲ همت
+</br>
+و گردش سالانه فیلترینگ حدودا ۵۰-۶۰ همت
+</br>
+بدون درگیری مجوز و سرمایه‌گذاری و پرداخت حق لایسنس و استخدام نیرو و بیمه و مالیات و حساب و کتاب.
+</br>
+خودشان به همین سادگی و به هزینه‌ی مردم به اندازه‌ی دو اپراتور اصلی کشور درآمد کسب می‌کنند.
+
+
 # نکات مهم برای عبور از فیلترینگ!
 
 [نکات مهم برای عبور از فیلترینگ!](https://threadreaderapp.com/thread/1754472982687150413.html)
 
+
+
+# مخزن دانلود فیلترشکن
+[fdroid.noql.net](fdroid.noql.net)
 
 
 # Spotify
@@ -487,6 +588,13 @@ http://Bitpay.com
 https://github.com/XTLS/Xray-core
 
 
+## WebSocket
+
+[WebSocket](https://xtls.github.io/Xray-docs-next/en/config/transports/websocket.html#websocket)
+
+پرامتر early data برای کاهش تاخیر (پینگ) هستش و اون عدد 2048 هم که پیشنهاد project x بوده برای ارسال حداکثر اولین پکت
+
+
 # آموزش مقدماتی و نصب پنل
 
 [نقشه راه دسترسی به اینترنت آزاد - از کانال یوتیوب ایمان آقاپور](https://iaghapour.github.io/freehope/)
@@ -519,3 +627,119 @@ https://github.com/XTLS/Xray-core
 [web_ethical](https://www.youtube.com/watch?v=oV_yD-tuFLM)
 
 [DNSSEC – Domain Name System Security Extensions Explained](https://www.socinvestigation.com/dnssec-domain-name-system-security-extensions-explained/)
+
+
+
+# اگر دانش فنی کامپیوتر ندارید از این بخش شروع کنید
+
+
+اول از همه سعی کنید از این حوزه نترسید. شما فقط قرار چند تا مرحله رو پیش ببرید و عینا کپی کنید.
+لازم نیست که به همه مفاهیم عمیق بشوید فقط تلاش کنید که به اینترنت آزاد متصل بشید.
+من تلاشم رو می کنم که این متن در حد دانش یک بچه ی ده ساله تنظیم بشود.
+</br>
+
+اگر تازه کار هستید زمانی بین ۷ تا ۱۰ روز زمان میبره که بتونید این کار رو بکنید.
+یادبگیرید میشه ۱۰ دقیقه
+</br>
+
+اول یکبار تمام مراحل رو ببنید بعد عملی اقدام کنید.
+</br>
+
+به طور کلی دو تا روش داریم:
+
+
+* با سرور
+* بدون سرور
+
+
+
+## روش بدون سرور
+
+
+این روش نیازی به خرید سرور ندارد و معمولا برای چند نفر اتصال همزمان کاملا کار آمد هست.
+بهشون کانفیگ رایگان هم می گویند.
+
+## warp on warp
+
+
+### اول یک جیمیل بسازید 
+[ آموزش ساخت Gmail / آموزش ساخت ایمیل ](https://www.youtube.com/watch?v=tZPt45qnxC4)
+
+### اطلاعات فیک داشته باشید
+وارد این سایت بشید و اطلاعات فیک به دست بیاورید.
+https://www.fakexy.com/
+
+### اکانت کلود فلیر بسازید
+
+[ آموزش کامل کلودفلر و ایجاد ساب دامنه بی نهایت (فرار از فیلترینگ) ](https://www.youtube.com/watch?v=BM3T_8qKcuo&t=61s)
+
+### warp on warp
+
+[ دور زدن رایگان فیلترینگ با یک روش قدرتمند اما ساده، بسیار سریع و ضد تحریم | Warp-on-Warp ](https://www.youtube.com/watch?v=VnsjxHl41mU)
+
+
+## روش سرور
+
+اگر نمی دونید سرور چی هست اول این ویدیو رو ببنید.
+[سرور چیه](https://www.youtube.com/watch?v=A_J8oLH4RN0)
+
+
+در این روش باید سرور و دامنه خریداری کنید. سرور ها معمولا ۵ دلار در ماه و دامنه معمولا ۱ دلار در سال هزینه دارند.
+
+</br>
+
+هر سرور برای ۳۰۰ نفر راحت کار می کند و شما می توانید با این روش کل خانواده و دوستان رو وصل کنید.
+
+تو این روش بهتون یه ای پی ثابت داده میشود.
+
+### اول یک جیمیل بسازید 
+[ آموزش ساخت Gmail / آموزش ساخت ایمیل ](https://www.youtube.com/watch?v=tZPt45qnxC4)
+
+### اطلاعات فیک داشته باشید
+وارد این سایت بشید و اطلاعات فیک به دست بیاورید.
+https://www.fakexy.com/
+
+### ولت رمز دیجیتال بسازید
+
+[کیف پول متامسک](https://www.youtube.com/watch?v=aLDtocc8kWw)
+
+### سرور بخرید
+
+[ خرید بهترین سرورهای جایگزین هتزنر برای راه اندازی پروکسی - vps ](https://www.youtube.com/watch?v=5d5n0yP_JYQ)
+
+[لیست سرور فروشی](https://github.com/majidrezarahnavard/way_of_freedom?tab=readme-ov-file#%D8%A7%D8%B2-%DA%A9%D8%AC%D8%A7-%D8%B3%D8%B1%D9%88%D8%B1-%D9%88-%D8%AF%D8%A7%D9%85%D9%86%D9%87-%D8%A8%D8%A7-%DA%A9%D8%B1%DB%8C%D9%BE%D8%AA%D9%88-%D8%A8%D8%AE%D8%B1%D9%85)
+
+حواستون باشه سرور لینوکس اوبونتو ۲۲ خرید کنند
+</br>
+ubuntu 22
+
+### دامنه بخرید
+
+[ خرید دامنه با کریپتو | خرید دامنه با بیت کوین | خرید دامنه با ارز دیجیتال ](https://www.youtube.com/watch?v=3fUx7Em_-C8)
+
+
+
+[ساخت اکانت روی هاتزنر ](https://www.youtube.com/watch?v=Q0n2rLAZ_Ac)
+
+
+### اکانت کلود فلیر بسازید
+
+[ آموزش کامل کلودفلر و ایجاد ساب دامنه بی نهایت (فرار از فیلترینگ) ](https://www.youtube.com/watch?v=BM3T_8qKcuo&t=61s)
+
+
+### web socket 
+
+[ آموزش پروتکل وب سوکت در v2ray پروتکل خوب و پایدار با sni سریع ](https://www.youtube.com/watch?v=ygE4DL9t1zQ)
+
+
+### روش فرگمنت رو استفاده کنید
+
+[ استفاده از دامین فیلتر شده با فرگمنت | دامنه مردتو زنده کن ](https://www.youtube.com/watch?v=kdd2wSrCDxc)
+
+[ تحلیل فنی فیلترینگ کلودفلر و بی اثر کردن کامل آن با یک vless/vmess ساده و سرعت عالی حتی بدون TLS ](https://www.youtube.com/watch?v=aBaEOJLfUkg&t=925s)
+
+
+[ آموزش دور زدن فیلترینگ دامنه توسط فرگمنت در تمام دیوایس ها (تست شده) / Fragment ](https://www.youtube.com/watch?v=LXJIcLa1v6Y&t=579s)
+
+
+لزومی ندارد از تونل کلود فلیر استفاده کنید.

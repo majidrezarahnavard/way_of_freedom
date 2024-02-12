@@ -2,9 +2,10 @@
 
 در اینجا روش هایی که کارکرد دارند رو می نویسم.
 اگر روشی دارید که کار می کند و در اینجا نیست لطفا به من بگید تا اضافه کنم.
-دوستانی که می خواهند سریع به جواب برسند داکیومنت رو از بالا به پایین بخونند و اولین روشی که جواب داد دیگه ادامه ندهند.
-دوستانی که می خواهند از پایه روش ها رو یاد بگیرند داکیومنت رو از پایین به بالا بخونند.
+** اگر دانش کامپیوتر کمی دارید یا برنامه نویس نیستید یا شبکه بلد نیستید
+بخش مخصوص شما داریم. به آخرین قیمت داکیومنت بروید **
 
+[اگر دانش کافی ندارید از این بخش شروع کنید](https://github.com/majidrezarahnavard/way_of_freedom?tab=readme-ov-file#%D8%A7%DA%AF%D8%B1-%D8%AF%D8%A7%D9%86%D8%B4-%D9%81%D9%86%DB%8C-%DA%A9%D8%A7%D9%85%D9%BE%DB%8C%D9%88%D8%AA%D8%B1-%D9%86%D8%AF%D8%A7%D8%B1%DB%8C%D8%AF-%D8%A7%D8%B2-%D8%A7%DB%8C%D9%86-%D8%A8%D8%AE%D8%B4-%D8%B4%D8%B1%D9%88%D8%B9-%DA%A9%D9%86%DB%8C%D8%AF)
 
 # فرگمنت
 فرگمنت به معنی تکه تکه ریکوست های هست که تشخیص رو برای گریت فایر وال سخت می کند.
@@ -397,6 +398,19 @@ Network Programming with Go
 [Mahsa NG Application](https://play.google.com/store/apps/details?id=com.MahsaNet.MahsaNG)
 
 
+# Amnezia VPN
+
+[ آموزش نصب و کانفیگ Amnezia VPN روی سرور (نصب ساده با پینگ مناسب - مناسب ترید) ](https://www.youtube.com/watch?v=JIgMNK_oQYk)
+
+
+https://threadreaderapp.com/thread/1757093989616947356.html
+
+
+بله، زمان ترید ساعت سیستم رو به سوئد تغییر بدین.
+البته به شرطی که ژئولوکیشن ip سرورتون هم سوئد باشه.
+از سایت http://ipinfo.io لوکیشن ip تون رو چک کنین.
+
+
 # Data leak
 
 هرکانفیگی که استفاده می کنید حتما یکبار با سایت زیر چک کنید که دیتا لیک نداشته باشد
@@ -427,6 +441,9 @@ WebRTC in Chrome
 
 
 [ آموزش مخفی کردن آی پی سرور پشت آی پی های پروژه تور (Tor with X-UI) ](https://www.youtube.com/watch?v=sHI8oXN0Qg8)
+
+
+[ترکیب Tor Browser و v2rayNG](https://www.youtube.com/watch?v=ZLsLDrm1Wh4&t=56s)
 
 # IPv6 TunnelBroker
 [اگر سرور مجازی شما ipv6 نداره ، این اسکریپت به شما کمک میکنه تا براحتی IPv6 که با استفاده از سرویس های تانل بروکر دریافت کردید رو روی سرور مجازیتون ست کنید. همینطور به راحتی میتونید تنظیمات رو مشاهده کنید یا اون رو به حالت قبل برگردونید. ](https://github.com/azavaxhuman/IPv6-TunnelBroker)
@@ -575,7 +592,11 @@ http://Bitpay.com
 
 [نکات مهم برای عبور از فیلترینگ!](https://threadreaderapp.com/thread/1754472982687150413.html)
 
+# تست سرعت
 
+https://fiber.google.com/speedtest/
+https://speed.cloudflare.com/
+https://www.speedtest.net/
 
 # مخزن دانلود فیلترشکن
 [fdroid.noql.net](fdroid.noql.net)

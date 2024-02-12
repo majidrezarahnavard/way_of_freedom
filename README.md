@@ -234,6 +234,33 @@ https://twitter.com/Nima__Nikjoo/status/1756866122123452520
 [ آموزش جلوگیری از حمله به سرور و ایران اکسس کردن با 2 روش ساده ](https://www.youtube.com/watch?v=U90a43fTyL0)
 
 
+# بستن دامنه های ایران و چین
+
+برای این کار فقط کافیه این رو به انتهای کانفیگتون اضافه کنید.
+
+```
+    "routing": {
+        "domainStrategy": "IPOnDemand",
+        "rules": [
+            {
+                "type": "field",
+                "ip": [
+                    "geoip:cn",
+                    "geoip:ir"
+                ],
+                "outboundTag": "block"
+            },
+            {
+                "type": "field",
+                "domain": [
+                    "geosite:category-porn"
+                ],
+                "outboundTag": "block"
+            }
+        ]
+    },
+```
+
 # مخفی سازی
 
 این روش به تنهایی باعث فیلترشدن دامنه میشود.

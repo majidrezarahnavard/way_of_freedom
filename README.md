@@ -189,6 +189,18 @@ length , interval
 [نحوه‌ی راه‌اندازی BPB Worker Panel به‌همراه Fragment نسخه‌ی 2.1](https://telegra.ph/%D9%86%D8%AD%D9%88%D9%87%E2%80%8C%DB%8C-%D8%B1%D8%A7%D9%87%E2%80%8C%D8%A7%D9%86%D8%AF%D8%A7%D8%B2%DB%8C-BPB-Worker-Panel-%D8%A8%D9%87%E2%80%8C%D9%87%D9%85%D8%B1%D8%A7%D9%87-Fragment-01-28)
 
 
+## ChainWireguard_v2ray_(DNS Fragment)
+
+[ChainWireguard_v2ray_(DNS Fragment)](https://github.com/amin4139/share_file/blob/main/ChainWireguard_v2ray_(DNS%20Fragment))
+
+## ChainWireguard_v2ray
+
+[ChainWireguard_v2ray](https://github.com/amin4139/share_file/blob/main/ChainWireguard_v2ray)
+
+## ChainWireguard_v2ray_(IRDNS Fragment)
+
+[ChainWireguard_v2ray_(IRDNS Fragment)](https://github.com/amin4139/share_file/blob/main/ChainWireguard_v2ray_(IRDNS%20Fragment)
+
 ## Vless warp fragment 
 ۱. نصب پنل سنایی
 </br>
@@ -349,6 +361,14 @@ warp://auto/?ifp=5-10
 
 https://threadreaderapp.com/thread/1757057880295903274.html
 
+
+
+
+# وارپ+التراسرف 
+وارپ+التراسرف ترکیب طلایی
+ وارپ در حالت عادی توسط سیستم فیلترینگ مسدود شد با ترکیب وارپ و التراسرف روی ویندوز فیلترینگ را با سرعت  دور بزنیم . وای فای مخابرات تست شده
+
+ https://threadreaderapp.com/thread/1757319934512910486.html
 
 # Oblivion - Unofficial Warp Client for Android
 Oblivion provides secure, optimized internet access through a user-friendly Android app.
@@ -563,6 +583,13 @@ https://fixedfloat.com/
 https://www.thorswap.finance/
 ```
 
+## اتصال امن و راحت به سرور
+
+برای اتصال به سرور از ای پی ایران استفاده نکنید.
+می تونید حتی از این پراکسی ها استفاده کنید.
+
+https://ssheasy.com/
+
 
 
 ## درگاه کریپتو برای فروشندگان
@@ -614,7 +641,7 @@ http://Bitpay.com
 
 انتخاب سرور:
 
-* Ubuntu 22 
+* سیستم عامل سرور Ubuntu 22 
 * پینگ کم (80 تا 100 میلی‌ثانیه) برای اروپا، 160 تا 180 میلی‌ثانیه برای آمریکا
 * دیتاسنترهای اروپایی (فرانکفورت، آمستردام، لوکزامبورگ) بهترین گزینه
 * از اروپای شرقی، ترکیه و امارات دوری کنید

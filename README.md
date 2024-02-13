@@ -253,8 +253,12 @@ https://trends.builtwith.com/cdn/Cloudflare/China
 * از پورت‌های امن مانند 443 استفاده کنید.
 * فایل cert را در کانفیگ Vless خود قرار دهید.
 * از پروتکل‌های Vmess یا Shadowsocks به جای Vless بدون TLS استفاده کنید.
+  
+</br>
 منابع:
     https://twitter.com/Nima__Nikjoo/status/1756866122123452520
+
+
 هشدار:
 * عدم تحقیق در مورد امنیت سایبری می‌تواند خطرناک باشد.
 * فعال کردن تیک "insecure" امنیت کانفیگ شما را به خطر می‌اندازد.

@@ -191,15 +191,21 @@ length , interval
 
 ## ChainWireguard_v2ray_(DNS Fragment)
 
+https://threadreaderapp.com/thread/1757369865550135679.html
+
 [ChainWireguard_v2ray_(DNS Fragment)](https://github.com/amin4139/share_file/blob/main/ChainWireguard_v2ray_(DNS%20Fragment))
 
 ## ChainWireguard_v2ray
+
+https://threadreaderapp.com/thread/1757369865550135679.html
 
 [ChainWireguard_v2ray](https://github.com/amin4139/share_file/blob/main/ChainWireguard_v2ray)
 
 ## ChainWireguard_v2ray_(IRDNS Fragment)
 
-[ChainWireguard_v2ray_(IRDNS Fragment)](https://github.com/amin4139/share_file/blob/main/ChainWireguard_v2ray_(IRDNS%20Fragment)
+https://threadreaderapp.com/thread/1757369865550135679.html
+
+[ChainWireguard_v2ray_(IRDNS Fragment)](https://github.com/amin4139/share_file/blob/main/ChainWireguard_v2ray_(IRDNS%20Fragment))
 
 ## Vless warp fragment 
 ۱. نصب پنل سنایی
@@ -225,6 +231,10 @@ please be advised the best choice for the server is ubuntu 22 ,
 https://apps.apple.com/us/app/streisand/id6450534064?platform=iphone
 
 
+## آموزش اتصال به کانفیگ ها با استفاده از فرگمنت در برنامه MahsaNG اندروید
+
+https://threadreaderapp.com/thread/1753080310982701493.html
+
 ## کلود فلیر
 از هر دامنه از کلود فلیر که فیلتر نیست می تونید استفاده کنید این لینک های خزنده هم جالب هست
 https://ircf.space/list.php#
@@ -236,6 +246,10 @@ https://trends.builtwith.com/cdn/Cloudflare/China
 
 
 [آموزش پیدا کردن آی پی سالم کلودفلر برای تمامی اپراتورها](https://www.youtube.com/watch?v=tXNeirkJJjA)
+
+
+[مجموعه سایتهای معتبر برای دریافت ای پی تمیز کلودفلر ورکر با کارکرد بالا و طولانی مدت](https://threadreaderapp.com/thread/1757395742434505118.html)
+
 
 ## اگر فرگمنت نزنیم چی میشه؟
 
@@ -331,6 +345,9 @@ https://trends.builtwith.com/cdn/Cloudflare/China
 
 [ آموزش ایجاد سایت روی دامنه و ساب دامنه با استفاده از انجینیکس ](https://youtu.be/xFMh8F3JGrA?si=SJuNI1hOn2tl4S8i)
 
+# آموزش دریافت لایسنس نامحدود Warp Plus از ربات تلگرام و استفاده در Oblivion
+https://twitter.com/seramo_ir/status/1756738507446366380
+
 # warp on warp
 
 [warp-on-warp](https://www.youtube.com/watch?si=bJq3Wn6bxD9wNruP&v=VnsjxHl41mU&feature=youtu.be)
@@ -353,6 +370,9 @@ https://trends.builtwith.com/cdn/Cloudflare/China
 ifp=5-10
 warp://auto/?ifp=5-10
 ```
+
+# آموزش اتصال به وارپ با Hiddify Next
+https://twitter.com/seramo_ir/status/1756040074607628786
 
 # وارپ+سایفون
 
@@ -425,6 +445,9 @@ Network Programming with Go
 
 
 # Hiddify
+
+
+[ آموزش کامل تنظیمات پیشرفته هیدیفای نکست Hiddify Next ](https://www.youtube.com/watch?v=NtQ0bQlIRrY)
 
 [Hiddify Next](https://www.youtube.com/watch?v=EjHjLQbC40E)
 
@@ -639,7 +662,8 @@ http://Bitpay.com
 # نکات خرید سرور
 
 
-انتخاب سرور:
+ انتخاب سرور:
+</br>
 
 * سیستم عامل سرور Ubuntu 22 
 * پینگ کم (80 تا 100 میلی‌ثانیه) برای اروپا، 160 تا 180 میلی‌ثانیه برای آمریکا
@@ -647,13 +671,21 @@ http://Bitpay.com
 * از اروپای شرقی، ترکیه و امارات دوری کنید
 * مراقب فروشندگان روس و هندی باشید
 * قیمت مناسب: 5 دلار در ماه برای یک VPS نرمال
+  
+</br>
 مشخصات سرور:
+</br>
 
 * پورت 1Gbps
 * CPU: حداقل اینتل E5 ورژن 3 یا 4، AMD Ryzen یا EPYC
 * رم: DDR4 یا DDR5
 * فضای ذخیره: SSD NVMe (نه HDD)
+* 
+
+</br>
 ترافیک:
+</br>
+
 
 * ترافیک 1000GB در عمل 500GB ترافیک برای کل یوزرهای VPN شما است.
 
@@ -667,9 +699,9 @@ http://Bitpay.com
 
 # تست سرعت
 
-https://fiber.google.com/speedtest/
-https://speed.cloudflare.com/
-https://www.speedtest.net/
+* https://fiber.google.com/speedtest/
+* https://speed.cloudflare.com/
+* https://www.speedtest.net/
 
 # مخزن دانلود فیلترشکن
 [fdroid.noql.net](fdroid.noql.net)
@@ -693,6 +725,15 @@ https://www.speedtest.net/
 برای این روش یک سرور نیاز دارید.
 
 [ آموزش ساخت openvpn روی سرور مجازی ](https://www.youtube.com/watch?v=X8GOExnqPCY)
+
+
+# PowerTunnel for Android
+
+ Simple, scalable, cross-platform and effective solution against government censorship for Android 
+
+https://threadreaderapp.com/thread/1757432205570187325.html
+
+ https://github.com/krlvm/PowerTunnel-Android
 
 # Brook
 
@@ -736,6 +777,24 @@ https://www.speedtest.net/
 [اینترنت، فیلترینگ و IPv6](https://threadreaderapp.com/thread/1755968930433093941.html)
 
 
+# تاثیرات فیلترینگ
+
+خیلی خلاصه بگم به دلیل وجود #فیلترینگ:
+* ۱. دستگاه‌ها و برنامه‌ها به سختی امکان آپدیت دارن و در نتیجه دچار ضعف امنیتی شدن.
+* ۲. وجود vpnهای بدون هویت باعث افزایش زامبی در شبکه شده.
+* ۳. خرید سرور داخلی جهت عبور از محدودیت‌ها توسط افراد غیر متخصص باعث افزایش آسیب‌پذیری شبکه و دیوایس‌های زامبی شده.
+* ۴. الگوی غلط #ایران_اکسس که توهم امنیت ایجاد میکنه باعث عدم توجه جدی به مقوله‌ی امنیت شده.
+* ۵. کوچ متخصصان و سپردن کار به افراد غیر متخصص که این هم بخشیش به خاطر فیلترینگ
+
+
+</br>
+
+و این موارد خیلی زیاده، عمدتا نتایج فیلترینگ و البته بخشیش هم تبعات تحریم و شرایط بد اقتصادی کشوره.
+
+
+# امن سازی توییتر
+
+[ How to Set up 2-Factor Authentication On Twitter Account ](https://www.youtube.com/watch?v=BXLQNr-gaEs)
 
 # xray
 

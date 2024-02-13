@@ -423,6 +423,10 @@ https://threadreaderapp.com/thread/1757093989616947356.html
 البته به شرطی که ژئولوکیشن ip سرورتون هم سوئد باشه.
 از سایت http://ipinfo.io لوکیشن ip تون رو چک کنین.
 
+</br>
+
+این روش amnezia پارسال یه اپدیت خیلی مهم گرفت که عملا سیستم dpi روسیه رو  نابود کرد ازونجایی هم که سیستم dpi ایران عملا همون نسخه روسی هست بنابراین تو ایران هم خوب جواب میده منتها یکسری اشکالات امنیتی داذه که فیلترچی میتونه ازشون سو استفاده کنه ولی اون اشکالاتم میشه حل کرد
+
 
 # Data leak
 
@@ -613,6 +617,13 @@ https://www.speedtest.net/
 
 # مخزن دانلود فیلترشکن
 [fdroid.noql.net](fdroid.noql.net)
+
+# پنل علیرضا
+
+[An Advanced Web Panel • Built on SagerNet/Sing-Box](https://github.com/alireza0/s-ui)
+
+پورت ۲۰۹۵ و admin برای یوزر/پسورد
+
 
 
 # Spotify

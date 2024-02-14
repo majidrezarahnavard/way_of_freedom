@@ -1,0 +1,8 @@
+{{ $htmlTable := .Inner | .Page.RenderString }}
+{{ $class := .Get 0 }}
+{{ $old := "<table>" }}
+{{ $new := printf "<table class=\"table %s\">" $class }}
+{{ $htmlTable := replace $htmlTable $old $new }}
+{{ $htmlTable := replaceRE "align=\"([a-z]+)\"" "style=\"text-align: $1\"" $htmlTable}}
+
+{{ $htmlTable | safeHTML }}

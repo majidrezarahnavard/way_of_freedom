@@ -1,0 +1,362 @@
+// Prefix for :root CSS variables
+
+$prefix:                      bs-;
+
+$btn-link-color:              var(--#{$prefix}link-color);
+$btn-link-hover-color:        var(--#{$prefix}link-hover-color);
+
+:root {
+
+    // color-variables (HSL)
+
+    --blue-900-hsl: 243, 72%, 25%;
+    --blue-800-hsl: 239, 70%, 32%;
+    --blue-700-hsl: 235, 68%, 38%;
+    --blue-600-hsl: 231, 66%, 45%;
+    --blue-500-hsl: 226, 66%, 51%;
+    --blue-400-hsl: 221, 77%, 60%;
+    --blue-300-hsl: 217, 88%, 69%;
+    --blue-200-hsl: 212, 100%, 79%;
+    --blue-100-hsl: 207, 100%, 88%;
+    --blue-50-hsl: 198, 100%, 97%;
+
+    --green-900-hsl: 153, 54%, 20%;
+    --green-800-hsl: 145, 57%, 25%;
+    --green-700-hsl: 136, 60%, 29%;
+    --green-600-hsl: 128, 63%, 34%;
+    --green-500-hsl: 119, 66%, 39%;
+    --green-400-hsl: 114, 49%, 51%;
+    --green-300-hsl: 110, 56%, 62%;
+    --green-200-hsl: 105, 64%, 74%;
+    --green-100-hsl: 102, 69%, 86%;
+    --green-50-hsl: 98, 73%, 97%;
+
+    --red-900-hsl: 344, 48%, 33%;
+    --red-800-hsl: 348, 50%, 40%;
+    --red-700-hsl: 352, 53%, 46%;
+    --red-600-hsl: 356, 62%, 53%;
+    --red-500-hsl: 1, 84%, 59%;
+    --red-400-hsl: 356, 98%, 67%;
+    --red-300-hsl: 350, 100%, 73%;
+    --red-200-hsl: 345, 100%, 80%;
+    --red-100-hsl: 339, 100%, 88%;
+    --red-50-hsl: 332, 100%, 97%;
+
+    --yellow-900-hsl: 44, 60%, 17%;
+    --yellow-800-hsl: 45, 59%, 25%;
+    --yellow-700-hsl: 46, 58%, 33%;
+    --yellow-600-hsl: 48, 57%, 41%;
+    --yellow-500-hsl: 48, 55%, 49%;
+    --yellow-400-hsl: 50, 72%, 57%;
+    --yellow-300-hsl: 51, 98%, 65%;
+    --yellow-200-hsl: 54, 100%, 72%;
+    --yellow-100-hsl: 54, 100%, 81%;
+    --yellow-50-hsl: 55, 100%, 93%;
+
+    --cyan-900-hsl: 194, 100%, 16%;
+    --cyan-800-hsl: 193, 100%, 21%;
+    --cyan-700-hsl: 192, 100%, 27%;
+    --cyan-600-hsl: 191, 100%, 32%;
+    --cyan-500-hsl: 190, 98%, 37%;
+    --cyan-400-hsl: 189, 94%, 43%;
+    --cyan-300-hsl: 187, 85%, 58%;
+    --cyan-200-hsl: 185, 100%, 72%;
+    --cyan-100-hsl: 180, 100%, 83%;
+    --cyan-50-hsl: 180, 100%, 94%;
+
+    --cardinal-900-hsl: 355, 68%, 21%;
+    --cardinal-800-hsl: 353, 67%, 29%;
+    --cardinal-700-hsl: 353, 65%, 37%;
+    --cardinal-600-hsl: 352, 63%, 45%;
+    --cardinal-500-hsl: 351, 67%, 52%;
+    --cardinal-400-hsl: 350, 89%, 60%;
+    --cardinal-300-hsl: 347, 100%, 68%;
+    --cardinal-200-hsl: 343, 100%, 75%;
+    --cardinal-100-hsl: 340, 100%, 83%;
+    --cardinal-50-hsl: 338, 100%, 96%;
+
+    --magenta-900-hsl: 297, 63%, 21%;
+    --magenta-800-hsl: 296, 62%, 29%;
+    --magenta-700-hsl: 295, 61%, 37%;
+    --magenta-600-hsl: 294, 58%, 45%;
+    --magenta-500-hsl: 293, 63%, 53%;
+    --magenta-400-hsl: 292, 84%, 61%;
+    --magenta-300-hsl: 291, 100%, 69%;
+    --magenta-200-hsl: 292, 100%, 75%;
+    --magenta-100-hsl: 293, 100%, 84%;
+    --magenta-50-hsl: 293, 100%, 94%;
+
+    --emerald-900-hsl: 165, 97%, 13%;
+    --emerald-800-hsl: 164, 96%, 18%;
+    --emerald-700-hsl: 163, 93%, 23%;
+    --emerald-600-hsl: 162, 89%, 29%;
+    --emerald-500-hsl: 161, 87%, 34%;
+    --emerald-400-hsl: 160, 84%, 39%;
+    --emerald-300-hsl: 158, 66%, 53%;
+    --emerald-200-hsl: 154, 77%, 68%;
+    --emerald-100-hsl: 149, 89%, 82%;
+    --emerald-50-hsl: 145, 100%, 94%;
+
+    --blue-900: hsl(var(--blue-900-hsl));
+    --blue-800: hsl(var(--blue-800-hsl));
+    --blue-700: hsl(var(--blue-700-hsl));
+    --blue-600: hsl(var(--blue-600-hsl));
+    --blue-500: hsl(var(--blue-500-hsl));
+    --blue-400: hsl(var(--blue-400-hsl));
+    --blue-300: hsl(var(--blue-300-hsl));
+    --blue-200: hsl(var(--blue-200-hsl));
+    --blue-100: hsl(var(--blue-100-hsl));
+    --blue-50: hsl(var(--blue-50-hsl));
+
+    --green-900: hsl(var(--green-900-hsl));
+    --green-800: hsl(var(--green-800-hsl));
+    --green-700: hsl(var(--green-700-hsl));
+    --green-600: hsl(var(--green-600-hsl));
+    --green-500: hsl(var(--green-500-hsl));
+    --green-400: hsl(var(--green-400-hsl));
+    --green-300: hsl(var(--green-300-hsl));
+    --green-200: hsl(var(--green-200-hsl));
+    --green-100: hsl(var(--green-100-hsl));
+    --green-50: hsl(var(--green-50-hsl));
+
+    --red-900: hsl(var(--red-900-hsl));
+    --red-800: hsl(var(--red-800-hsl));
+    --red-700: hsl(var(--red-700-hsl));
+    --red-600: hsl(var(--red-600-hsl));
+    --red-500: hsl(var(--red-500-hsl));
+    --red-400: hsl(var(--red-400-hsl));
+    --red-300: hsl(var(--red-300-hsl));
+    --red-200: hsl(var(--red-200-hsl));
+    --red-100: hsl(var(--red-100-hsl));
+    --red-50: hsl(var(--red-50-hsl));
+
+    --yellow-900: hsl(var(--yellow-900-hsl));
+    --yellow-800: hsl(var(--yellow-800-hsl));
+    --yellow-700: hsl(var(--yellow-700-hsl));
+    --yellow-600: hsl(var(--yellow-600-hsl));
+    --yellow-500: hsl(var(--yellow-500-hsl));
+    --yellow-400: hsl(var(--yellow-400-hsl));
+    --yellow-300: hsl(var(--yellow-300-hsl));
+    --yellow-200: hsl(var(--yellow-200-hsl));
+    --yellow-100: hsl(var(--yellow-100-hsl));
+    --yellow-50: hsl(var(--yellow-50-hsl));
+
+    --cyan-900: hsl(var(--cyan-900-hsl));
+    --cyan-800: hsl(var(--cyan-800-hsl));
+    --cyan-700: hsl(var(--cyan-700-hsl));
+    --cyan-600: hsl(var(--cyan-600-hsl));
+    --cyan-500: hsl(var(--cyan-500-hsl));
+    --cyan-400: hsl(var(--cyan-400-hsl));
+    --cyan-300: hsl(var(--cyan-300-hsl));
+    --cyan-200: hsl(var(--cyan-200-hsl));
+    --cyan-100: hsl(var(--cyan-100-hsl));
+    --cyan-50: hsl(var(--cyan-50-hsl));
+
+    --cardinal-900: hsl(var(--cardinal-900-hsl));
+    --cardinal-800: hsl(var(--cardinal-800-hsl));
+    --cardinal-700: hsl(var(--cardinal-700-hsl));
+    --cardinal-600: hsl(var(--cardinal-600-hsl));
+    --cardinal-500: hsl(var(--cardinal-500-hsl));
+    --cardinal-400: hsl(var(--cardinal-400-hsl));
+    --cardinal-300: hsl(var(--cardinal-300-hsl));
+    --cardinal-200: hsl(var(--cardinal-200-hsl));
+    --cardinal-100: hsl(var(--cardinal-100-hsl));
+    --cardinal-50: hsl(var(--cardinal-50-hsl));
+
+    --magenta-900: hsl(var(--magenta-900-hsl));
+    --magenta-800: hsl(var(--magenta-800-hsl));
+    --magenta-700: hsl(var(--magenta-700-hsl));
+    --magenta-600: hsl(var(--magenta-600-hsl));
+    --magenta-500: hsl(var(--magenta-500-hsl));
+    --magenta-400: hsl(var(--magenta-400-hsl));
+    --magenta-300: hsl(var(--magenta-300-hsl));
+    --magenta-200: hsl(var(--magenta-200-hsl));
+    --magenta-100: hsl(var(--magenta-100-hsl));
+    --magenta-50: hsl(var(--magenta-50-hsl));
+
+    --emerald-900: hsl(var(--emerald-900-hsl));
+    --emerald-800: hsl(var(--emerald-800-hsl));
+    --emerald-700: hsl(var(--emerald-700-hsl));
+    --emerald-600: hsl(var(--emerald-600-hsl));
+    --emerald-500: hsl(var(--emerald-500-hsl));
+    --emerald-400: hsl(var(--emerald-400-hsl));
+    --emerald-300: hsl(var(--emerald-300-hsl));
+    --emerald-200: hsl(var(--emerald-200-hsl));
+    --emerald-100: hsl(var(--emerald-100-hsl));
+    --emerald-50: hsl(var(--emerald-50-hsl));
+
+    --blue: var(--blue-500);
+    --green: var(--green-500);
+    --red: var(--red-500);
+    --yellow: var(--yellow-500);
+    --cyan: var(--cyan-500);
+    --cardinal: var(--cardinal-500);
+    --magenta: var(--magenta-500);
+    --emerald: var(--emerald-500);
+
+    --secondary: var(--gray-600);
+    --success: var(--green);
+    --info: var(--cyan);
+    --warning: var(--yellow);
+    --danger: var(--red);
+    --light: var(--gray-100);
+    // --dark: #0e1420;
+    --dark: #181921;
+    // --dark: #241c2d;
+    --dark-alt: #212529;
+    --dark-secondary: #292a35;
+
+    // scss-docs-start gray-color-variables
+    --white: #ffffff;
+    --gray-50: #f7fafc;
+    --gray-100: #f8f9fa;
+    --gray-200: #e9ecef;
+    --gray-300: #dee2e6;
+    --gray-400: #ced4da;
+    --gray-500: #adb5bd;
+    --gray-600: #6c757d;
+    --gray-700: #495057;
+    --gray-800: #343a40;
+    --gray-900: #212529;
+    --black: #000000;
+
+    // Links
+    //
+    // Style anchor elements.
+
+    --link-color:                              var(--primary);
+    --link-decoration:                         underline;
+    --link-shade-percentage:                   20%;
+    // $link-hover-color:                        shift-color($link-color, $link-shade-percentage);
+    --link-hover-decoration:                   null;
+
+    // Buttons
+
+    // Core
+    --text-default: var(--text-dark);
+    --text-default-inv: var(--text-light);
+    --text-muted: var(--gray-600);
+    --#{$prefix}secondary-color: var(--gray-600);
+
+    --body-color: var(--text-default);
+
+    --body-bg: var(--white);
+
+    // Text
+    --text-dark: #3C4257;
+    --text-light: #dee2e6;
+
+    // Fonts
+    --fw-medium: 600;
+
+    // Shadows
+    --shadow-sm: 0 .125rem .25rem rgba(var(--dark), .15);
+    --shadow: 0 0 3px rgba(var(--dark), .15);
+    --shadow-md: 0 5px 13px rgba(var(--dark), .2);
+    --shadow-lg: 0 10px 25px rgba(var(--dark), 0.15);
+
+    // Overlay
+    --overlay: rgba(var(--dark), 0.7);
+    --bg-overlay-white: rgba(var(--white), 0.5);
+
+    // Back to top
+    --back-to-top-color: var(--white);
+
+    // Simplebar
+    --simplebar-color: #adb5bd;
+
+    // Footer
+    --footer: #202942;
+    --footer-bg: var(--white);
+    --foot-social-color: #adb5bd;
+    --social-border-color: #adb5bd;
+    --foot-social-color-white: var(--white);
+
+    // lightness variables
+    --l-100: 100%;
+
+    // Buttons
+    --btn-soft-color: var(--primary);
+    --btn-soft-bg: transparent;
+    --btn-soft-border: var(--gray-200);
+
+    --btn-primary-color: var(--white);
+    --btn-primary-bg: var(--primary);
+    --btn-primary-border: transparent;
+
+    --btn-default-color: var(--text-default);
+    --btn-default-hover-color: var(--primary);
+    --btn-default-bg: transparent;
+    --btn-default-border: transparent;
+
+    // Icons
+    --icon-color: var(--primary);
+
+    --folder: "\e2c7";
+    --article: "\ef42";
+    --dash: "\f88a";
+    --dir-right: "\e5da";
+
+    // Cards
+    --card-bg: var(--white);
+    --card-border-color: var(--gray-400);
+    --card-border-hover-color: var(--primary);
+
+    // Sidebar
+    --sidebar-primary: var(--primary);
+    --sidebar-bg: var(--white);
+    --top-header-bg: hsla(255,100%,100%,0.8);
+    --sidebar-text-color: #606770;
+    --sidebar-border-color: var(--gray-200);
+    --sidebar-dropdown-hover-bg: #eff1f4;
+    --sidebar-menu-active-bg: #f5f6f8;
+    --sidebar-icon-bg: #f8f9fa;
+    --sidebar-light-icon: #f8f9fa;
+    --sidebar-scrollbar-thumb-color: var(--gray-200);
+
+    --sidebar-directory-icon: var(--dir-right);
+    --sidebar-file-icon: var(--dash);
+}
+
+[data-dark-mode] {
+
+    --body-bg: var(--dark);
+    --text-default: var(--text-light);
+    --text-default-inv: var(--text-dark);
+    --text-muted: #b6b9be;
+    --#{$prefix}secondary-color: #6c757d;
+
+    // Buttons
+    --btn-soft-color: var(--gray-400);
+    --btn-soft-bg: none;
+    --btn-soft-border: var(--gray-800);
+
+    --btn-primary-color: var(--primary-200);
+    --btn-primary-bg: none;
+    --btn-primary-border: var(--gray-700);
+
+    --btn-default-color: var(--text-default);
+    --btn-default-hover-color: var(--primary-300);
+    --btn-default-bg: transparent;
+    --btn-default-border: transparent;
+
+    // Icons
+    --icon-color: #b6bbc9;
+
+    // Cards
+    --card-bg: none;
+    --card-border-color: var(--gray-800);
+    --card-border-hover-color: var(--primary-200);
+
+    // sidebar
+    --sidebar-primary: var(--primary-300);
+    --sidebar-bg: var(--dark);
+    --top-header-bg: hsla(233,16%,11%,0.8);
+    --sidebar-text-color: #b6bbc9;
+    --sidebar-border-color: var(--gray-900);
+    --sidebar-dropdown-hover-bg: #2b303b;
+    --sidebar-menu-active-bg: #2b303b;
+    --sidebar-icon-bg: #2b303b;
+    --sidebar-light-icon: #f8f9fa;
+    --sidebar-scrollbar-thumb-color: var(--gray-800);
+}

@@ -1,0 +1,44 @@
+html {
+    scroll-padding-top: 80px;
+    background-color: var(--body-bg);
+}
+body {
+    font-family: $font-family-secondary;
+    overflow-x: hidden !important;
+    font-size: $font-size-base;
+    color: var(--body-color);
+    background-color: var(--body-bg);
+}
+@media (max-width: 1199px) {
+    html {
+        scroll-padding-top: 120px;
+    }
+    body {
+        font-size: 0.9rem;
+    }
+}
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+    font-family: $font-family-base;
+    line-height: 1.4;
+    font-weight: 600;
+}
+::selection {
+    background: var(--primary);
+    color: var(--white);
+    opacity: 0.9;
+}
+a {
+    text-decoration: none;
+    transition: all 0.5s ease;
+    color: var(--primary);
+
+    &:hover {
+        color: var(--primary-800);
+    }
+}
+p {
+    line-height: 1.6;
+}
+img {
+    height: auto;
+}

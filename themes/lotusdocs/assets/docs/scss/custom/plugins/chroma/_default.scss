@@ -1,0 +1,13 @@
+/* Chroma CSS */
+
+.docs-content .main-content code {
+    color: var(--text-default);
+}
+
+.docs-content .main-content pre {
+    background-color: var(--code-block-bg) !important;
+    code {
+        color: #f5fbff;
+        background: var(--code-block-bg);
+    }
+}

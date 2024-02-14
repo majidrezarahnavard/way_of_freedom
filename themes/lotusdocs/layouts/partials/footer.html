@@ -1,0 +1,22 @@
+<!-- Footer Start -->
+<footer class="footer footer-light footer-bar">
+    <div class="footer-py-30">
+        <div class="container text-center">
+            <div class="row align-items-center">
+                <div class="col-sm-6">
+                    <div class="text-sm-start">
+                        <p class="mb-0">
+                            {{ $yearToken := (cond (isset .Site.Params (lower "copyrightYearToken")) $.Site.Params.copyrightYearToken ":YEAR:") }}
+                            {{ replace $.Site.Params.footer.copyright $yearToken (string (now.Format "2006")) | markdownify }}
+                        </p>
+                    </div>
+                </div>
+
+                <div class="col-sm-6 mt-4 mt-sm-0 pt-2 pt-sm-0">
+                    <!-- <p>Privacy</p> -->
+                </div><!--end col-->
+            </div><!--end row-->
+        </div><!--end container-->
+    </div>
+</footer><!--end footer-->
+<!-- Footer End -->

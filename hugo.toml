@@ -1,0 +1,33 @@
+baseURL = 'https://parsamrrelax.github.io'
+languageCode = 'en-us'
+title = 'Free Internet Docs'
+
+[module]
+    # uncomment line below for temporary local development of module
+    # or when using a 'theme' as a git submodule
+    replacements = "github.com/colinwilson/lotusdocs -> lotusdocs"
+    [[module.imports]]
+        path = "github.com/colinwilson/lotusdocs"
+        disable = false
+    [[module.imports]]
+        path = "github.com/gohugoio/hugo-mod-bootstrap-scss/v5"
+        disable = false
+
+
+
+[params]
+
+  google_fonts = [
+    ["Inter", "300, 400, 600, 700"],
+    ["Fira Code", "500, 700"],
+    ["Vazirmatn", "300, 400, 600, 700"]
+  ]
+
+  sans_serif_font = "Vazirmatn"     # Default is System font
+  secondary_font  = "Vazirmatn"     # Default is System font
+  mono_font       = "Fira Code" # Default is System font
+
+
+  [params.docs]
+    darkMode = true
+

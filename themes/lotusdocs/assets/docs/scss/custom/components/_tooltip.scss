@@ -1,0 +1,48 @@
+//
+// _tooltip.scss
+//
+
+:root {
+    --tooltip-bg: var(--white);
+    --tooltip-border-color: var(--content-link-color);
+    --tooltip-drop-shadow-color: var(--gray-500);
+    --tooltip-link-color: var(--gray-700);
+}
+
+[data-dark-mode] {
+    --tooltip-bg: var(--dark-alt);
+    --tooltip-border-color: var(--primary-300);
+    --tooltip-drop-shadow-color: var(--gray-900);
+    --tooltip-link-color: var(--gray-500);
+}
+
+.tooltip {
+    --#{$prefix}tooltip-bg: var(--tooltip-bg);
+    --#{$prefix}tooltip-opacity: 1.0;
+    --#{$prefix}tooltip-font-size: 0.575rem;
+    --#{$prefix}tooltip-max-width: 300px;
+}
+
+.tooltip-inner {
+    text-align: left;
+    border: 2px solid var(--tooltip-border-color);
+    border-width: 2px 2px 2px 8px;
+    filter: drop-shadow(4px 4px 5px var(--tooltip-drop-shadow-color));
+    --#{$prefix}tooltip-border-radius: 4px;
+
+    a {
+        color: var(--tooltip-link-color);
+        font-size: 0.85rem;
+        line-height: 1.55;
+        p {
+            margin-bottom: 0.2rem;
+            color: var(--text-muted);
+            font-weight: 600;
+        }
+        strong {
+            font-size: 0.975rem;
+            line-height: 2;
+            color: var(--text-default);
+        }
+    }
+}

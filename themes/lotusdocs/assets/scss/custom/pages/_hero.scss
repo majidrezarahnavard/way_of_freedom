@@ -1,0 +1,15 @@
+//
+// hero.scss
+//
+
+@media (max-width:767px) {
+    .classic-hero-image img {
+        max-width: 100%;
+        height: auto;
+    }
+}
+
+.hero {
+    background-size: cover;
+    padding-top: 70px;
+}

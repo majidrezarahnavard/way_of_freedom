@@ -1,0 +1,32 @@
+//
+// _footer.scss
+//
+footer {
+    position: relative;
+    color: var(--text-muted);
+    background: var(--body-bg);
+    height: 58px;
+    .text-foot {
+        color: var(--gray-500);
+    }
+    .footer-head {
+        font-size: 18px !important;
+        letter-spacing: 1px;
+        font-weight: 500;
+    }
+    a {
+        color: var(--content-link-color);
+    }
+    a:hover {
+        color: var(--content-link-color);
+        text-decoration: underline 1.5px var(--primary-200);
+        text-underline-offset: 3px !important;
+        transition: 0s !important;
+    }
+}
+
+.footnote-backref {
+    font-size: 1.1rem;
+    vertical-align: middle;
+    margin-left: 0.25rem;
+}

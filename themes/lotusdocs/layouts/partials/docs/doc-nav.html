@@ -1,0 +1,37 @@
+<hr class="doc-hr">
+<div id="doc-nav" class="d-print-none">
+{{ if or .Prev .Next -}}
+	<!-- https://www.feliciano.tech/blog/custom-sort-hugo-single-pages/ -->
+	{{ $pages := where .Site.RegularPages "Section" .Section -}}
+    <div class="row flex-xl-nowrap {{ if .Next }}{{ else }}flex-row-reverse{{ end }}">
+	{{ with $pages.Next . -}}
+        <div class="col-sm-6 pt-2 doc-next">
+		<a href="{{ .RelPermalink }}">
+			<div class="card h-100 my-1">
+				<div class="card-body py-2">
+                    <p class="card-title fs-5 fw-semibold lh-base mb-0"><i class="material-icons align-middle">navigate_before</i> {{ .Title }}</p>
+					{{ if eq .Site.Params.docs.navDesc true -}}
+                    	<p class="card-text ms-2">{{ .Description | truncate (.Site.Params.docs.navDescTrunc | default 40) }}</p>
+					{{ end }}
+				</div>
+			</div>
+		</a>
+        </div>
+	{{ end -}}
+	{{ with $pages.Prev . -}}
+        <div class="col-sm-6 pt-2 doc-prev">
+		<a class="ms-auto" href="{{ .RelPermalink }}">
+			<div class="card h-100 my-1 text-end">
+				<div class="card-body py-2">
+                    <p class="card-title fs-5 fw-semibold lh-base mb-0">{{ .Title }} <i class="material-icons align-middle">navigate_next</i></p>
+					{{ if eq .Site.Params.docs.navDesc true -}}
+                    	<p class="card-text me-2">{{ .Description | truncate (.Site.Params.docs.navDescTrunc | default 40) }}</p>
+					{{ end }}
+				</div>
+			</div>
+		</a>
+        </div>
+	{{ end -}}
+    </div>
+{{ end -}}
+</div>

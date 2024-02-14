@@ -1,0 +1,319 @@
+{{ if eq .Site.Params.feedback.emoticonTpl true -}}
+{{ $emoticons := slice "very_satisfied" "satisfied" "dissatisfied" "very_dissatisfied" }}
+<div class="container d-flex align-items-center justify-content-center">
+    <div id="feedback-widget-emoticon" class="mt-4">
+        <div id="feedback-cta" class="d-flex justify-content-center py-1">
+            <span class="fs-6 align-self-center align-middle ms-2 me-0">
+                {{ i18n "feedback_helpful" | default "Was this page helpful?" }}
+            </span>
+            <div class="d-flex">
+                <div class="form-emoji d-flex ps-2">
+                    {{ range $index, $value := $emoticons }}
+                    <div class="radio-emoji">
+                        <input type="radio" name="feedback-emoticon" autocomplete="off" value="{{ $value | humanize | title }}" id="radio_{{ $index }}" required>
+                        <label class="d-flex justify-content-center align-items-center" for="radio_{{ $index }}">
+                            {{ $emoticon := resources.Get ( printf "%s%s.svg" "images/icons/feedback/" $value ) }}
+                            {{ $emoticon.Content | safeHTML }}
+                            <!-- <i class="feedback-emoji material-icons">
+                                sentiment_{{ $value }}
+                            </i> -->
+                        </label>
+                    </div>
+                    {{ end }}
+                </div>
+            </div>
+        </div>
+
+        <div id="feedback-emoji-end" class="d-flex justify-content-md-start justify-content-sm-center">
+        </div>
+
+        <div id="feedback-send">
+            <div id="text-wrapper">
+                <textarea id="textarea-emoji" cols="55" maxlength="500" rows="3" placeholder="(Optional) Try to be as specific and detailed as possible!" type="text" class="feedback-textarea-emoji p-2 mb-2"></textarea>
+            </div>
+            <div id="feedback-emoji-submit-container" class="d-flex justify-content-end">
+                <button type="button" id="feedback-emoji-submit-button" class="feedback-submit-emoji-btn btn btn-sm btn-primary mt-1 mb-2" role="button" type="submit" disabled>
+                        {{ i18n "feedback_submit" | default "Submit" }}
+                </button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    const emojiTextWrapper = document.getElementById("text-wrapper");
+    const emojiRadios = document.querySelectorAll('input[name="feedback-emoticon"]');
+    const emojiContainer = document.getElementById("feedback-widget-emoticon");
+    const feedbackEmojiCta = document.getElementById("feedback-cta");
+    const feedbackEmojiSubmitContainer = document.getElementById("feedback-emoji-submit-container");
+    const feedbackEmojiSubmitBtn = document.getElementById("feedback-emoji-submit-button");
+
+    // Show emoji text area
+    emojiRadios.forEach(emojiRadio => {
+        emojiRadio.addEventListener('change', function(event) {
+            const emojiRadioID = event.target.id;
+            emojiContainer.style.borderRadius = '8px'
+            feedbackEmojiCta.classList.add("px-4");
+            emojiTextWrapper.classList.add("is-visible");
+            feedbackEmojiSubmitBtn.removeAttribute("disabled");
+            feedbackEmojiSubmitContainer.classList.add("is-visible");
+            // emojiTextWrapper.addEventListener('transitionend', function () {
+            //     // do something!!!
+            //     }
+            // );
+        })
+    });
+
+    // Submit emoticon feedback to Google or Plausible analytics
+    feedbackEmojiSubmitBtn.addEventListener('click', event => {
+        const result = document.getElementById("feedback-emoji-end");
+        const sendArea = document.getElementById("feedback-send");
+        const rating = document.querySelector('input[name="feedback-emoticon"]:checked').value;
+        const message = document.getElementById('textarea-emoji').value;
+        function success(e) {
+            feedbackEmojiCta.remove();
+            sendArea.remove();
+            result.innerHTML = '{{ .Site.Params.feedback.successMsg | default "Thank you for helping to improve our documentation!" }}';
+            result.classList.add("is-visible");
+        }
+        try {
+            {{ if .Site.GoogleAnalytics -}}
+            {{ if not .Site.Params.feedback.eventDest | or (in .Site.Params.feedback.eventDest "google") -}}
+            gtag('event', '{{ replaceRE `( {1,})` "_" (.Site.Params.feedback.emoticonEventName | default "feedback" | lower) }}',
+                {
+                    'rating': rating.replace(/\s+/g, '_').toLowerCase(),
+                    'message': message,
+                    'event_callback': success
+                }
+            ),
+            {{ end -}}
+            {{ end -}}
+            {{ if .Site.Params.plausible.dataDomain -}}
+            {{ if not .Site.Params.feedback.eventDest | or (in .Site.Params.feedback.eventDest "plausible") -}}
+            plausible('{{ .Site.Params.feedback.emoticonEventName | default "Feedback" }}',
+                {
+                    callback: success,
+                    props:
+                    {
+                        rating: rating,
+                        message: message
+                    }
+                }
+            )
+            {{ end -}}
+            {{ end -}}
+        } catch (err) {
+            console.log(err);
+            feedbackEmojiCta.remove();
+            sendArea.remove();
+            result.innerHTML = '{{ .Site.Params.feedback.errorMsg | default "Sorry! There was an error while attempting to submit your feedback!" }}';
+            result.classList.add("is-visible");
+        }
+        // console.log("feedback submitted")
+    });
+</script>
+
+{{ else }}
+<div id="feedback-widget" class="feedback-container pt-4">
+    <div id="feedback-init" class="d-flex justify-content-md-start justify-content-sm-center">
+        <span class="fs-5 fw-bold me-2 align-self-center">{{ i18n "feedback_helpful" | default "Was this page helpful?" }}</span>
+        <div class="d-flex">
+            <button id="posBtn" class="feedback-btn btn btn-primary btn-sm me-2" type="submit">
+                <span class="fs-6">
+                    <i class="material-icons me-1 align-middle">thumb_up</i>
+                    {{ i18n "feedback_yes" | default "Yes" }}
+                </span>
+            </button>
+            <button id="negBtn" class="feedback-btn btn btn-primary btn-sm me-2" type="submit">
+                <span class="fs-6">
+                    <i class="material-icons me-1 align-middle">thumb_down</i>
+                    {{ i18n "feedback_no" | default "No" }}
+                </span>
+            </button>
+        </div>
+    </div>
+
+    <div id="feedback-end" class="d-flex justify-content-md-start justify-content-sm-center fs-4 fw-bold me-2">
+    </div>
+
+    <div id="feedback-form-pos" data-type="positive" class="feedback-form justify-content-md-start justify-content-sm-center">
+        <p class="fw-bold fs-5">{{ .Site.Params.feedback.positiveFormTitle | default "What did you like?" }}</p>
+
+        {{ range $index, $value := .Site.Params.feedback.positiveForm }}
+            {{ $rating := (index . 0) }}
+            {{ $description := (index . 1) }}
+            <div class="form-check pb-1">
+                <input class="form-check-input" type="radio" name="feedback" autocomplete="off" value="{{ $rating | lower }}" id="radio{{ $index }}Pos" required>
+                <label class="form-check-label" for="radio{{ $index }}Pos">
+                    {{ $rating }}
+                    {{ if $description }}
+                        <p class="feedback-radio-desc fw-normal mb-0">{{ $description }}</p>
+                    {{ end }}
+                </label>
+            </div>
+            <div id="radio{{ $index }}PosTextContainer" class="feedback-textarea-container"></div>
+        {{ end }}
+
+    </div>
+
+    <div id="feedback-form-neg" data-type="negative" class="feedback-form justify-content-sm-center">
+        <p class="fw-bold fs-5">{{ .Site.Params.feedback.negativeFormTitle | default "What went wrong?" }}</p>
+
+        {{ range $index, $value := .Site.Params.feedback.negativeForm }}
+            {{ $rating := (index . 0) }}
+            {{ $description := (index . 1) }}
+            <div class="form-check pb-1">
+                <input class="form-check-input" type="radio" name="feedback" autocomplete="off" value="{{ $rating | lower }}" id="radio{{ $index }}Neg" required>
+                <label class="form-check-label" for="radio{{ $index }}Neg">
+                    {{ $rating }}
+                    {{ if $description }}
+                        <p class="feedback-radio-desc fw-normal mb-0">{{ $description }}</p>
+                    {{ end }}
+                </label>
+            </div>
+            <div id="radio{{ $index }}NegTextContainer" class="feedback-textarea-container"></div>
+        {{ end }}
+
+    </div>
+
+    <div id="feedback-submit-container">
+        <button id="feedback-submit-button" class="feedback-submit-btn btn btn-primary mt-3" role="button" type="submit" disabled>
+            <span class="fs-6">
+                {{ i18n "feedback_submit" | default "Submit" }}
+            </span>
+        </button>
+    </div>
+
+</div>
+
+<script>
+    // https://stackoverflow.com/a/29017547
+    const feedbackInit = document.getElementById("feedback-init");
+    const posBtn = document.getElementById("posBtn");
+    const negBtn = document.getElementById("negBtn");
+    const feedbackBtn = document.querySelectorAll('.feedback-btn');
+    const feedbackFormPos = document.getElementById("feedback-form-pos");
+    const feedbackFormNeg = document.getElementById("feedback-form-neg");
+    const feedbackSubmitBtn = document.getElementById("feedback-submit-button");
+    const feedbackSubmitContainer = document.getElementById("feedback-submit-container");
+
+    // Show feedback form
+    feedbackBtn.forEach(btn => {
+        btn.addEventListener('click', event => {
+            const btnID = btn.id
+            feedbackInit.style.opacity = '0'
+            feedbackInit.addEventListener('transitionend', function () {
+                feedbackInit.remove();
+                if (btnID == 'posBtn') {
+                    feedbackFormPos.classList.add("is-visible");
+                    feedbackFormNeg.remove();
+                    feedbackSubmitContainer.classList.add("is-visible");
+                } else if (btnID == 'negBtn') {
+                    feedbackFormNeg.classList.add("is-visible");
+                    feedbackFormPos.remove();
+                    feedbackSubmitContainer.classList.add("is-visible");
+                }
+            }
+            );
+        })
+    });
+
+    // Add text area box to the selected feedback radio
+    const Radios = document.querySelectorAll('input[name="feedback"]');
+    const textareas = document.querySelectorAll('.feedback-textarea-container');
+
+    Radios.forEach(radio => {
+        radio.addEventListener('change', function(event) {
+            const radioID = event.target.id;
+            const addOn = document.getElementById(radioID+"TextContainer");
+            // First, remove 'activeBox' class and <textarea> from all textarea containers
+            for (const textarea of textareas) {
+                while (textarea.firstChild) {
+                    textarea.removeChild(textarea.firstChild);
+                }
+            }
+            addOn.innerHTML +='<textarea id="textarea" cols="55" maxlength="500" rows="3" placeholder="(Optional) Try to be as specific and detailed as possible!" type="text" class="feedback-textarea p-2 mb-2"></textarea>';
+            feedbackSubmitBtn.removeAttribute("disabled");
+            // console.log(radioID);
+        });
+    });
+
+    // Submit feedback to Google or Plausible analytics
+    feedbackSubmitBtn.addEventListener('click', event => {
+        const form = document.querySelector('.feedback-form');
+        const formType = form.getAttribute("data-type");
+        const result = document.getElementById("feedback-end");
+        const rating = document.querySelector('input[name="feedback"]:checked').value;
+        const message = document.getElementById('textarea').value;
+        function success(e) {
+            form.remove();
+            feedbackSubmitContainer.remove();
+            result.innerHTML = '{{ .Site.Params.feedback.successMsg | default "Thank you for helping to improve our documentation!" }}';
+            result.classList.add("is-visible");
+        }
+        try {
+            if (formType == "positive") {
+                {{ if .Site.GoogleAnalytics -}}
+                {{ if not .Site.Params.feedback.eventDest | or (in .Site.Params.feedback.eventDest "google") -}}
+                gtag('event', '{{ replaceRE `( {1,})` "_" (.Site.Params.feedback.positiveEventName | default "Positive Feedback" | lower) }}',
+                    {
+                        'rating': rating,
+                        'message': message,
+                        'event_callback': success
+                    }
+                ),
+                {{ end -}}
+                {{ end -}}
+                {{ if .Site.Params.plausible.dataDomain -}}
+                {{ if not .Site.Params.feedback.eventDest | or (in .Site.Params.feedback.eventDest "plausible") -}}
+                plausible('{{ .Site.Params.feedback.positiveEventName | default "Positive Feedback" }}',
+                    {
+                        callback: success,
+                        props:
+                        {
+                            rating: rating,
+                            message: message
+                        }
+                    }
+                )
+                {{ end -}}
+                {{ end -}}
+            } else if (formType == "negative") {
+                {{ if .Site.GoogleAnalytics -}}
+                {{ if not .Site.Params.feedback.eventDest | or (in .Site.Params.feedback.eventDest "google") -}}
+                gtag('event', '{{ replaceRE `( {1,})` "_" (.Site.Params.feedback.negativeEventName | default "Positive Feedback" | lower) }}',
+                    {
+                        'rating': rating,
+                        'message': message,
+                        'event_callback': success
+                    }
+                ),
+                {{ end -}}
+                {{ end -}}
+                {{ if .Site.Params.plausible.dataDomain -}}
+                {{ if not .Site.Params.feedback.eventDest | or (in .Site.Params.feedback.eventDest "plausible") -}}
+                plausible('{{ .Site.Params.feedback.negativeEventName | default "Negative Feedback" }}',
+                    {
+                        callback: success,
+                        props:
+                        {
+                            rating: rating,
+                            message: message
+                        }
+                    }
+                )
+                {{ end -}}
+                {{ end -}}
+            }
+        } catch (err) {
+            console.log(err);
+            form.remove();
+            feedbackSubmitContainer.remove();
+            result.innerHTML = '{{ .Site.Params.feedback.errorMsg | default "Sorry! There was an error while attempting to submit your feedback!" }}';
+            result.classList.add("is-visible");
+        }
+        // console.log("feedback submitted")
+    });
+
+</script>
+{{ end }}

@@ -1,0 +1,209 @@
+# Note: Template blocks require a 'weight' parameter so they're correctly ordered on the landing page
+
+# Hero
+hero:
+  enable: true
+  weight: 10
+  template: hero
+
+  backgroundImage:
+    path: "images/templates/hero"
+    filename:
+      desktop: "gradient-desktop.webp"
+      mobile: "gradient-mobile.webp"
+
+  badge:
+    text: v0.1.0
+    color: primary # primary, secondary, success, danger, warning, info, light, dark
+    pill: false # boolean
+    soft: true # boolean
+
+  # titleLogo:
+  #   path: "images/logos"
+  #   filename: "title_logo.png"
+  #   alt: "Lotus Docs Logo"
+  #   height: 80px
+
+  title: "Lotus Docs"
+  subtitle: A lightweight, **modern documentation** theme for Hugo. Easily customised for building **fast**, **secure**, and **SEO-friendly** documentation sites.
+
+  image:
+    path: "images" # path to image under configured assets directory. default 'images'
+    filename: "lotus_docs_screenshot.png" # filename of your hero image (including file extension)
+    alt: "Lotus Docs Screenshot" # Optional but recommended
+    boxShadow: true # default 'false' (excludes .svg images)
+    rounded: true # round the image corners? default 'false' (excludes .svg images)
+
+  ctaButton:
+    icon: rocket_launch
+    btnText: "Get Started"
+    url: "/docs/quickstart/#create-a-new-lotus-docs-site"
+  cta2Button:
+    icon: construction
+    btnText: "In Development"
+    url: "https://github.com/colinwilson/lotusdocs"
+
+  info: "**Open Source** MIT Licensed."
+
+# Feature Grid
+featureGrid:
+  enable: true
+  weight: 20
+  template: feature grid
+
+  title: Why choose Lotus Docs?
+  subtitle: Lotus Docs is a highly configurable Hugo documentation theme. Yet, with the default configuration you can deploy and publish your documentation site in a matter of minutes. Check out some core features below.
+
+  items:
+    - title: Fast
+      icon: speed
+      description: 4 x 100's score on Google Lighthouse by default. Lotus Docs removes unused CSS, prefetches asset links, and lazy loads content images.
+      ctaLink:
+        text: learn more
+        url: /docs/
+
+    - title: SEO Friendly
+      icon: trending_up
+      description: Data is automatically structured to be SEO friendly. Includes Meta tags, Opengraph, and Twitter cards. Choose the settings that best suit you.
+      ctaLink:
+        text: learn more
+        url: /docs/
+
+    - title: Secure by default
+      icon: lock
+      description: Lotus Docs' default configuration scores A+ on Mozilla Observatory. You can update the default Security Headers to suit your requirements.
+      ctaLink:
+        text: learn more
+        url: /docs/
+
+    - title: Optional Features
+      icon: settings
+      description: Many Lotus Docs features are configurable via optional parameters. Require DocSearch for your site? Then enable it via a single setting.
+      ctaLink:
+        text: learn more
+        url: /docs/
+
+    - title: Deploy to Vercel
+      icon: change_history
+      description: Deploy to Vercel in seconds. Vercel Functions, Vercel Redirects/Rewrites, and Vercel Headers are all configurable for an enriched experience.
+      ctaLink:
+        text: learn more
+        url: /docs/
+
+    - title: Dark Mode
+      icon: dark_mode
+      description: Prefer not to be blasted by the sun while reading? Switch to a low-light UI with the click of a button. Modify colour variables to match your branding.
+      ctaLink:
+        text: learn more
+        url: /docs/
+
+    - title: Search by DocSearch
+      icon: search
+      description: Search your docs with DocSearch. A powerful, efficient and accessible search solution built on Algolia Crawler & Autocomplete. TBC.
+      ctaLink:
+        text: learn more
+        url: /docs/
+
+    - title: Multilingual Support
+      icon: translate
+      description: Lotus Docs supports Hugo's Multilingual Mode. Create documentation in multiple languages side by side with i18n support.
+      ctaLink:
+        text: learn more
+        url: /docs/
+
+    - title: Bootstrap v5
+      icon: palette
+      description: Built on Bootstrap 5, Lotus Docs allows for a familiar, flexible, and intuitive developer experience. Easily customise your site via SCSS variables and files.
+      ctaLink:
+        text: learn more
+        url: /docs/
+
+imageText:
+  enable: true
+  weight: 25
+  template: image text
+
+  title: Built with performance and accessability in mind. Top scores on Google's Lighthouse
+  subtitle: A default Lotus Docs deployment is capable of achieving 4 x 100 scores on Google's Lighthouse performance analysis tool.
+
+  list:
+    - text: Blazing fast page loads
+      icon: speed
+
+    - text: Sensible default SEO friendly settings
+      icon: area_chart
+
+    - text: Designed to be accessible
+      icon: accessibility
+
+  image:
+    path: "images/templates/single"
+    filename: "google_lighthouse_circle_v1.0.svg"
+    alt: "Google LightHouse 100% Illustration" # Optional but recommended
+
+  imgOrder:
+    desktop: 2
+    mobile: 1
+
+  ctaButton:
+    text: Learn more
+    url: "/docs/"
+
+# Image compare
+imageCompare:
+  enable: true
+  weight: 30
+  template: image compare
+
+  title: Customise The Lotus Docs Appearance
+  subtitle: Much of Lotus Docs' appearance can be customised. Dark mode is optional (enabled by default) and you can choose a Google font that suites you via the config parameters.
+
+  items:
+    - title: Dark Mode
+      config: {
+        startingPoint: 50,
+        addCircle: true,
+        addCircleBlur: false,
+        showLabels: true,
+        labelOptions: {
+          before: 'Dark',
+          after: 'Light',
+          onHover: false
+        }
+      }
+      imagePath: "images/screenshots"
+      imageBefore: "lotusdocs_dark_v0.8.webp"
+      imageAfter: "lotusdocs_light_v0.8.webp"
+
+    - title: Custom Fonts
+      config: {
+        controlColor: "#3C4257",
+        startingPoint: 25,
+        addCircle: true,
+        addCircleBlur: false,
+        showLabels: true,
+        labelOptions: {
+          before: 'Inter',
+          after: 'Life Saver',
+          onHover: false
+        }
+      }
+      imagePath: "images/screenshots"
+      imageBefore: "lotusdocs_google_font_demo_inter_screenshot.webp"
+      imageAfter: "lotusdocs_google_font_demo_lifesavers_screenshot.webp"
+
+    - title: Accent Color
+      config: {
+        startingPoint: 25,
+        addCircle: true,
+        addCircleBlur: true,
+        showLabels: true,
+        labelOptions: {
+          before: 'Blue',
+          after: 'Cardinal',
+          onHover: false
+        }
+      }
+      imagePath: "images/screenshots"
+      imageBefore: "lotusdocs_blue_theme_colour.webp"
+      imageAfter: "lotusdocs_cardinal_theme_colour.webp"

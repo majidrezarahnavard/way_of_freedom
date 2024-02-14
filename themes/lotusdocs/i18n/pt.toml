@@ -1,0 +1,38 @@
+[lang_select_title]
+    other = "Escolha a sua língua"
+
+[search_title]
+    other = "Procurar"
+
+[search_navigate]
+    other = "para navegar"
+
+[search_select]
+    other = "para escolher"
+
+[search_close]
+    other = "para fechar"
+
+[search_cancel]
+    other = "cancelar"
+
+[search_no_results]
+    other = "Sem resultados para"
+
+[feedback_yes]
+    other = "Sim"
+
+[feedback_no]
+    other = "Não"
+
+[feedback_helpful]
+    other = "Foi esta página útil?"
+
+[feedback_submit]
+    other = "Submeter"
+
+[enable_light_mode]
+    other = "Ativar o modo de luz"
+
+[enable_dark_mode]
+    other = "Ativar o modo escuro"

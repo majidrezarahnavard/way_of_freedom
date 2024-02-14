@@ -1,0 +1,39 @@
+<nav aria-label="breadcrumb" class="d-inline-block pb-2 mt-1 mt-sm-0">
+    <ul id="breadcrumbs" class="breadcrumb bg-transparent mb-0" itemscope itemtype="https://schema.org/BreadcrumbList">
+        {{- $data := newScratch }}
+        {{ $docRoot := .FirstSection.Title }}
+        {{- range $index, $value := (after 1 .Ancestors.Reverse) }}
+            {{ if eq $docRoot .Title }}
+                <li class="breadcrumb-item text-capitalize active" aria-current="page" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+                    {{- $data.Set "counter" $index }}
+                    {{- $data.Add "counter" 1 }}
+                    <a itemprop="item" href="{{ .RelPermalink }}">
+                        <i class="material-icons size-20 align-text-bottom" itemprop="name">Home</i>
+                    </a>
+                    <meta itemprop="position" content='{{ $data.Get "counter"}}' />
+                </li>
+            {{ else }}
+                <li class="breadcrumb-item text-capitalize" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+                    {{- $data.Add "counter" 1 }}
+                    <a itemprop="item" href="{{ .RelPermalink }}">
+                        <span itemprop="name">{{ .Title }}</span>
+                    </a>
+                    <meta itemprop="position" content='{{ $data.Get "counter"}}' />
+                </li>
+            {{ end }}
+        {{- end }}
+        {{ if eq .Title $docRoot }}
+            <li class="breadcrumb-item text-capitalize active" aria-current="page" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+                {{- $data.Add "counter" 1 }}
+                <i class="material-icons size-20 align-text-bottom" itemprop="name">Home</i>
+                <meta itemprop="position" content='{{ $data.Get "counter"}}' />
+            </li>
+        {{ else }}
+            <li class="breadcrumb-item text-capitalize active" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+                {{- $data.Add "counter" 1 }}
+                <span itemprop="name">{{ .Title }}</span>
+                <meta itemprop="position" content='{{ $data.Get "counter"}}' />
+            </li>
+        {{ end }}
+    </ul>
+</nav>

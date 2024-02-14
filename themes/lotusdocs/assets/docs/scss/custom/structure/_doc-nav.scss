@@ -1,0 +1,39 @@
+//
+// doc-nav.scss
+//
+
+:root {
+    --doc-nav-title-link-color: var(--primary);
+}
+
+[data-dark-mode] {
+    --doc-nav-title-link-color: var(--primary-300);
+}
+
+#doc-nav {
+
+    .card-title {
+        color: var(--doc-nav-title-link-color);
+    }
+
+    .card-text {
+        color: var(--text-muted);
+    }
+}
+
+@media (max-width: 425px) {
+    .doc-next {
+        order: 2;
+    }
+
+    .doc-prev {
+        order: 1;
+    }
+}
+
+.doc-hr {
+    border-top: 1px solid var(--gray-500);
+    margin-top: 2rem;
+    margin-bottom: 0px;
+    padding-top: 1rem;
+}

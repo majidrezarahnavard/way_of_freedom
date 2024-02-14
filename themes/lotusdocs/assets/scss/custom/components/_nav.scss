@@ -1,0 +1,49 @@
+// 
+// _nav.scss
+// 
+
+// //Nav
+// .nav-pills {
+//     margin-bottom: 15px;
+//     background: darken($light, 1%);
+//     .nav-link {
+//         color: $gray-700 !important;
+//         padding: 5px;
+//         transition: all 0.5s ease;
+//         &.nav-link-alt {
+//             color: $nav-pills-color !important;
+//             &.active {
+//                 background: $nav-pills-bg !important;
+//             }
+//         }
+//         &.active {
+//             background: $primary;
+//             color: $nav-pills-color !important;
+//             .tab-para {
+//                 color: rgba($nav-pills-color, 0.65) !important;
+//             }
+//         }
+//     }
+// }
+
+//Nav
+.nav-bg {
+    background: $navs-bg !important;
+}
+.nav-pills {
+    .nav-link{
+        color: $dark !important;
+        &.nav-link-alt {
+            color: rgba($white, 0.5) !important;
+            &:hover {
+                background: none !important;
+            }
+            &.active {
+                background: $nav-link-alt !important;
+            }
+        }
+        &.active {
+            color: $white !important;
+        }
+    }
+}

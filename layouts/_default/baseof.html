@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+{{ $.Scratch.Delete "social_list" }}
+<!-- social_list -->
+{{ $social_params := slice "github" "twitter" "instagram" "rss" }}
+{{ range $social_params }}
+    {{ if isset site.Params.social . }}
+        {{ $.Scratch.Add "social_list" (slice .) }}
+    {{ end }}
+{{ end }}
+
+<!--
+Is an image_compare landing page template enabled?
+If so, collect and consolidate the items config from each enabled instance
+-->
+{{ $ic := newScratch }}
+{{ range $value := .Site.Data.landing }}
+    {{ $template := string (replaceRE `( |-{1,})` "_" $value.template) }}
+    {{ if eq $template "image_compare" }}
+        {{ if $value.enable }}
+        {{ $ic.Add "enabled" (slice $value.enable) }}
+            {{ range $value.items }}
+                {{ $ic.Add "config" (slice (.config | jsonify | safeJS)) }}
+            {{ end }}
+        {{ end }}
+    {{- end }}
+{{ end }}
+
+{{ $.Scratch.Set "image_compare_enabled" (in ($ic.Get "enabled") true) }}
+
+<html lang="{{ site.LanguageCode }}" dir="ltr">
+    {{- partial "head.html" . -}}
+    <body>
+        <div>
+            {{- partial "header.html" . -}}
+        </div>
+        <div class="mb-4" id="content">
+            {{- block "main" . }}{{- end }}
+        </div>
+            {{- partial "footer.html" . -}}
+
+        <!-- Lotus Docs JS -->
+        {{ $app := resources.Get "/js/app.js" }}
+        {{- if not .Site.IsServer }}
+            {{- $js := (slice $app) | resources.Concat "/js/bundle.js" | minify | fingerprint "sha384" }}
+            <script type="text/javascript" src="{{ $js.Permalink }}" integrity="{{ $js.Data.Integrity }}"></script>
+        {{- else }}
+            {{- $js := (slice $app) | resources.Concat "/js/bundle.js" }}
+            <script type="text/javascript" src="{{ $js.Permalink }}" {{ if hugo.IsProduction }}integrity="{{ $js.Data.Integrity }}"{{ end }}></script>
+        {{- end }}
+
+        <!-- Image Compare Viewer Config -->
+        {{ if ($.Scratch.Get "image_compare_enabled") }}
+        <script>
+            const viewers = document.querySelectorAll(".image-compare");
+            let configs = [
+                {{ (delimit ($ic.Get `config`) `,`) | safeJS }}
+            ];
+            viewers.forEach((element, i) => {
+                let view = new ImageCompare(element, configs[i]).mount();
+            });
+        </script>
+        {{ end }}
+
+    </body>
+</html>

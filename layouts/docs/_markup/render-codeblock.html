@@ -1,0 +1,85 @@
+<!-- Prism Render Hook -->
+{{ if eq .Page.Site.Params.docs.prism true }}
+  {{- $attributes := .Attributes }}
+  {{- $ordinal := .Ordinal }}
+
+  <!-- Create SHA1 Hash of Code Block-->
+  {{ $innerRemoveLB := replaceRE "\r\n?|\n" "" .Inner | string }}
+  {{ $innerHash := substr (sha1 (printf "%s%s" $innerRemoveLB $ordinal)) 0 7 }}
+
+  {{- $classes := slice (printf "language-%s" .Type) .Attributes.class }}
+
+  <!-- Options List -->
+  {{- $options := .Options }}
+  {{ $optionslist := newScratch }}
+  {{ range $k, $v := $options }}
+    {{ $optionslist.Add "options" (printf " %s" $k) }}
+  {{ end }}
+  {{ $optionsclasslist := $optionslist.Get "options" }}
+
+  <!-- Line Number Highlight -->
+  {{- if isset .Options "hl_lines" }}
+    {{ $lines := .Options.hl_lines }}
+
+    {{ $offset := 0 }}
+    {{- if isset .Options "linenostart" }}
+      {{ $offset = .Options.linenostart }}
+    {{ else }}
+      {{ $offset = 1 }}
+    {{ end }}
+
+    {{ $data := newScratch }}
+    {{ range $value := $lines }}
+      {{ $value = uniq $value }}
+      {{ if lt (len $value) 2 }}
+        {{ $value = slice (add $offset (index $value 0)) }}
+      {{ else }}
+        {{ $value = slice (delimit (slice (add $offset (index $value 0)) (add $offset (index $value 1))) "-") }}
+      {{ end }}
+      {{ $data.Add "lines" $value }}
+    {{ end }}
+    {{ $lines = delimit ($data.Get "lines") "," }}
+
+    {{- $attributes = merge $attributes (dict "data-line" $lines) }}
+
+    <!-- https://github.com/PrismJS/prism/issues/2714 -->
+    {{- if and (isset .Options "linenos") (ne .Options.linenos false) }}
+      {{- $attributes = merge $attributes (dict "data-line-offset" (string $offset)) }}
+    {{ else }}
+      {{- $attributes = merge $attributes (dict "data-line-offset" (string (sub $offset 1))) }}
+    {{ end }}
+
+  {{ end -}}
+
+  <!-- Line Numbers -->
+  {{- if and (isset .Options "linenos") (ne .Options.linenos false) }}
+    {{- $classes = $classes | append "line-numbers" }} <!-- https://discourse.gohugo.io/t/scope-issue-inside-conditional-block-i-think/29273/4 -->
+  {{ end -}}
+
+  <!-- Line Number Start -->
+  {{- if isset .Options "linenostart" }}
+    {{- $attributes = merge $attributes (dict "data-start" (string .Options.linenostart)) }}
+  {{ end -}}
+
+  <!-- Linkable Line Numbers -->
+  {{- if and (isset .Options "anchorlinenos") (ne .Options.anchorlinenos false) }}
+    {{- $classes = $classes | append "linkable-line-numbers" }}
+  {{ end -}}
+
+  {{- $attributes = merge $attributes (dict "class" (delimit $classes " ")) }}
+
+  <div class="prism-codeblock {{ $optionsclasslist }}">
+  <pre id="{{ $innerHash }}"
+    {{- range $k, $v := $attributes }}
+      {{- printf " %s=%q" $k $v | safeHTMLAttr }}
+    {{- end -}}
+  >
+  <code>
+  {{- .Inner -}}
+  </code>
+  </pre>
+  </div>
+{{ else }}
+    {{ $result := transform.HighlightCodeBlock . }}
+    {{ $result.Wrapped }}
+{{ end }}

@@ -1,0 +1,37 @@
+{{ $inner := replaceRE "^\r?\n" "" .Inner | string }}
+{{ $innerRemoveLB := replaceRE "\r\n?|\n" "" .Inner | string }}
+{{ $ordinal := .Ordinal }}
+{{ $codeHash := sha1 (delimit (slice $innerRemoveLB $ordinal "prismshortcode") "") }}
+{{ $codeHashShort := substr $codeHash 0 7 }}
+{{ if len .Params | eq 0 }}
+  <pre id="{{ $codeHashShort }}"><code>{{ $inner }}</code></pre>
+{{ else }}
+  {{ if .IsNamedParams }}
+      <div class="prism-shortcode {{- if .Get "line" }} data-line{{ end }}">
+      <pre {{- if .Get "id" }} id="{{ .Get "id" }}"{{ else }} id="{{ $codeHashShort }}"{{ end }} class="
+        {{- if .Get "lang" }}language-{{ .Get "lang" }}{{ end }}
+        {{- if .Get "line-numbers" }} line-numbers{{ end }}
+        {{- if .Get "linkable-line-numbers" }} linkable-line-numbers{{ end }}
+        {{- if .Get "command-line" }} command-line{{ end }}"
+        {{- /* file highlight plugin */ -}}
+        {{- if .Get "src" }} data-src="{{ .Get "src" }}"{{ end }}
+        {{- if .Get "src-range" }} data-range="{{ .Get "src-range" }}"{{ end }}
+        {{- /* line highlight plugin */ -}}
+        {{- if .Get "line" }} data-line="{{ .Get "line" }}"{{ end }}
+        {{- if .Get "line-offset" }} data-line-offset="{{ .Get "line-offset" }}"{{ end }}
+        {{- /* line number plugin */ -}}
+        {{- if .Get "start" }} data-start="{{ .Get "start" }}"{{ end }}
+        {{- /* command-line plugin */ -}}
+        {{- if .Get "user" }} data-user="{{ .Get "user" }}"{{ end }}
+        {{- if .Get "host" }} data-host="{{ .Get "host" }}"{{ end }}
+        {{- if .Get "prompt" }} data-prompt="{{ .Get "prompt" }}"{{ end }}
+        {{- if .Get "output" }} data-output="{{ .Get "output" }}"{{ end }}
+        >{{- if .Get "src" }}{{ $inner }}{{ else }}<code {{ if .Get "lang" }}class="language-{{ .Get "lang" }}"{{ end }}
+        >{{ $inner }}</code>{{ end }}</pre>
+      </div>
+  {{ else }}
+      <pre id="{{ $codeHashShort }}" class="language-{{ .Get 0 }}">
+        <code class="language-{{ .Get 0 }}">{{ $inner }}</code>
+      </pre>
+  {{ end }}
+{{ end }}

@@ -1,0 +1,41 @@
+//
+// _tabs.scss
+//
+
+:root {
+    --nav-tabs-border-width: none;
+    --nav-tabs-link-active-bg: none;
+    --nav-tabs-link-active-color: var(--text-default);
+    --nav-tabs-border-color: var(--gray-400);
+}
+
+[data-dark-mode] {
+    --nav-tabs-border-color: var(--gray-800);
+}
+
+.nav-tabs {
+    --bs-nav-tabs-border-width: var(--nav-tabs-border-width);
+    --bs-nav-tabs-link-active-bg: var(--nav-tabs-link-active-bg);
+    --bs-nav-tabs-link-active-color: var(--nav-tabs-link-active-color);
+
+    border-bottom: 1px solid var(--nav-tabs-border-color);
+    margin-bottom: 0.8rem;
+
+    .nav-link {
+        color: var(--text-muted) !important;
+        margin-bottom: -1px;
+
+        &:hover {
+            text-decoration: none !important;
+        }
+    }
+
+    .nav-link.active {
+        border-bottom: 2px solid var(--content-link-color);
+        color: var(--content-link-color) !important;
+    }
+}
+
+.tab-content {
+    margin-bottom: 0.8rem;
+}

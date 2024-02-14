@@ -1,0 +1,21 @@
+{{ $pageLang := .Page.Lang }}
+{{ $translations := slice }}
+{{ $docspath := $.Scratch.Get "pathName" }}
+
+<!-- List available translations (excluding current page)-->
+{{ range .Translations }}
+    <!-- Create 'available translations' slice -->
+    {{ $translations = $translations | append .Lang }}
+    <li><a class="dropdown-item" href="{{ .RelPermalink }}" role="button" rel="alternate" hreflang="{{ .Lang }}" lang="{{ .Lang }}">{{ .Language.LanguageName }}</a></li>
+{{ end }}
+
+<!-- List of configured languages without a translation for the current page (link to doc root) -->
+{{ range .Site.Languages }}
+    {{ if ne $pageLang .Lang }}
+        <!-- If .Lang is in the 'available translations' slice, ignore it -->
+        {{ if in $translations .Lang }}
+        {{ else }}
+            <li><a class="dropdown-item" href="{{ .Lang | relURL }}/{{ $docspath }}" role="button" rel="alternate" hreflang="{{ .Lang }}" lang="{{ .Lang }}">{{ .LanguageName }}</a></li>
+        {{ end }}
+    {{ end }}
+{{ end }}

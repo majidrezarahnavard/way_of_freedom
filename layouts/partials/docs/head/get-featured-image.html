@@ -1,0 +1,73 @@
+{{ $images := $.Resources.ByType "image" }}
+{{ $featured := $images.GetMatch "*feature*" }}
+{{ if not $featured }}{{ $featured = $images.GetMatch "{*cover*,*thumbnail*}" }}{{ end }}
+{{ if not $featured }}
+    {{ $featured = resources.Get "/opengraph/card-base-2.png" }}
+    {{ $font := resources.Get "/opengraph/poppins-bold.ttf" }}
+    {{ $descPadding := 0 }}
+
+    {{ $title := $.LinkTitle }}
+    {{ $sizeTitle := 80 }}
+    {{ $sizeDesc := 50 }}
+
+    {{ if gt (len $title) 23 }}
+        {{ $sizeTitle = 60 }}
+    {{ end }}
+
+    {{ $textTitle := $title }}
+    {{ $textTitleOptions := dict
+        "color" "#2e2e2e"
+        "size" $sizeTitle
+        "lineSpacing" 10
+        "x" 65 "y" 180
+        "font" $font
+    }}
+
+    {{ $filters := slice (images.Text $textTitle $textTitleOptions) }}
+
+    {{ $logo := resources.Get "images/logos/logo.png" }}
+    {{ with $logo }}
+        {{ $logo = $logo.Resize "x60" }}
+        {{ $logoFilter := (images.Overlay $logo 65 110) }}
+        {{ $filters = $filters | append $logoFilter }}
+    {{ end }}
+
+    {{ if gt ($title | strings.RuneCount) 23 }}
+    {{ $descPadding = -30 }}
+        {{ if gt ($title | strings.RuneCount) 40 }}
+            {{ $descPadding = 40 }}
+        {{ end }}
+        {{ $sizeDesc = 45 }}
+    {{ end }}
+
+    {{ $description := $.Description }}
+    {{ with $description }}
+        {{ $textDesc := $description }}
+        {{ $textDescOptions := dict
+            "color" "#8e8e8e"
+            "size" $sizeDesc
+            "lineSpacing" 10
+            "x" 65 "y" (add 290 $descPadding)
+            "font" $font
+        }}
+        {{ $descFilter := (images.Text $textDesc $textDescOptions) }}
+        {{ $filters = $filters | append $descFilter }}
+    {{ end }}
+
+    {{ $textSiteTitle := $.Site.Title }}
+    {{ with $textSiteTitle }}
+        {{ $textSiteTitleOptions := dict
+            "color" "#5e5e5e"
+            "size" 35
+            "lineSpacing" 10
+            "x" 65 "y" 550
+            "font" $font
+        }}
+        {{ $siteTitleFilter := (images.Text $textSiteTitle $textSiteTitleOptions)}}
+        {{ $filters = $filters | append $siteTitleFilter }}
+    {{ end }}
+
+    {{ $featured = $featured | images.Filter $filters }}
+{{ end }}
+
+{{ return $featured }}

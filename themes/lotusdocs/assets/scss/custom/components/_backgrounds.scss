@@ -1,0 +1,22 @@
+//
+// backgrounds.scss
+//
+
+@each $name,
+$value in $theme-colors {
+    .bg-#{$name} {
+        background-color: rgba($value, 0.04) !important;
+    }
+    .bg-hard-#{$name} {
+        background-color: rgba($value, 1) !important;
+    }
+    .bg-soft-#{$name} {
+        background-color: rgba($value, 0.1) !important;
+        border: 1px solid rgba($value, 0.1) !important;
+        color: #{$value} !important;
+    }
+}
+
+.bg-white-color {
+    background-color: $bg-white-color !important;
+}

@@ -1,0 +1,53 @@
+{{ $sectionTitle := .Scratch.Get "sectionTitle" }}
+{{ with (index .Site.Data.landing $sectionTitle) }}
+{{ if eq .enable true }}
+<!-- Features Start -->
+<section id="{{ $sectionTitle }}">
+    <div class="container mt-100 mt-60">
+        <div class="row justify-content-center">
+            <div class="col-12 text-center">
+                <div class="section-title">
+                    {{ with .title }}
+                        <h4 class="title fw-bold mb-4">{{ . }}</h4>
+                    {{ end }}
+                    {{ with .subtitle }}
+                        <p class="text-muted para-desc mb-4 pb-2 mx-auto">{{ . | markdownify }}</p>
+                    {{ end }}
+                </div>
+            </div><!--end col-->
+        </div><!--end row-->
+
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="row">
+                    {{ range .items }}
+                        <div class="col-md-4 col-12">
+                            <div class="d-flex features feature-primary p-3">
+                                <div class="{{ if .icon }}icon{{ else }}no-icon{{ end }} text-center rounded-3 text-primary me-3">
+                                    <i class="material-icons align-middle h4 mb-0">{{ .icon }}</i>
+                                </div>
+                                <div class="flex-1">
+                                    <h4 class="title">{{ .title }}</h4>
+                                    <p class="text-muted para mb-0">{{ .description | markdownify }}</p>
+                                    {{ with .ctaLink }}
+                                    <div class="mt-2">
+                                        <a href="{{ .url }}" class="mt-3 h6 text-primary">{{ .text | markdownify }} <i class="material-icons align-top">chevron_right</i></a>
+                                    </div>
+                                    {{ end }}
+                                </div>
+                            </div>
+                        </div>
+                        <!--end col-->
+                    {{ end }}
+                </div>
+                <!--end row-->
+            </div>
+            <!--end col-->
+        </div>
+        <!--end row-->
+    </div>
+    <!--end container-->
+</section>
+<!-- features End -->
+{{ end }}
+{{ end }}

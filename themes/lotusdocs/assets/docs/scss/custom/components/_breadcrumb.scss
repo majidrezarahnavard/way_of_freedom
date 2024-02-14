@@ -1,0 +1,24 @@
+//
+// breadcrumb.scss
+//
+
+:root {
+    --breadcrumb-item-color: var(--primary);
+}
+
+[data-dark-mode] {
+    --breadcrumb-item-color: var(--primary-300);
+}
+
+.breadcrumb .breadcrumb-item a {
+    color: var(--breadcrumb-item-color);
+}
+.breadcrumb .breadcrumb-item.active {
+    color: var(--text-muted);
+}
+
+@media (max-width: 1199px) {
+    .breadcrumb {
+        --bs-breadcrumb-padding-x: 0.7rem;
+    }
+}

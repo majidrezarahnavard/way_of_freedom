@@ -1,0 +1,1368 @@
+<!DOCTYPE html>
+
+
+
+
+
+    
+
+    
+
+    
+
+    
+
+<html lang="en-us"><head>
+    <meta charset="utf-8" />
+    <title>Worker | Free Internet Docs</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="keywords" content="Documentation, Hugo, Hugo Theme, Bootstrap" />
+    <meta name="author" content="Colin Wilson - Lotus Labs" />
+    <meta name="email" content="support@aigis.uk" />
+    <meta name="website" content="https://lotusdocs.dev" />
+    <meta name="Version" content="v0.1.0" />
+    
+    <link rel="icon" href="https://parsamrrelax.github.io/favicon.ico" sizes="any">
+<link rel="icon" type="image/svg+xml" href="https://parsamrrelax.github.io/favicon.svg">
+<link rel="apple-touch-icon" sizes="180x180" href="https://parsamrrelax.github.io/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://parsamrrelax.github.io/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="https://parsamrrelax.github.io/favicon-16x16.png">
+<link rel="manifest" crossorigin="use-credentials" href="https://parsamrrelax.github.io/site.webmanifest">
+<meta property="og:title" content="Worker" />
+<meta property="og:description" content="Worker linkساخت فیلترشکن رایگان بدون سرور و دامین با استفاده از ورکر Cloudflare-Worker
+cf-ip-scanner
+راهکار جامع کانفیگ‌های v2ray روی ورکر
+v2ray-worker" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://parsamrrelax.github.io/docs/worker/worker/" /><meta property="og:image" content="https://parsamrrelax.github.io/opengraph/card-base-2_hu06b1a92291a380a0d2e0ec03dab66b2f_17642_filter_16733218334312229636.png"/><meta property="article:section" content="docs" />
+<meta property="article:published_time" content="2024-02-14T21:05:35+03:30" />
+<meta property="article:modified_time" content="2024-02-14T21:05:35+03:30" /><meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:image" content="https://parsamrrelax.github.io/opengraph/card-base-2_hu06b1a92291a380a0d2e0ec03dab66b2f_17642_filter_16733218334312229636.png"/>
+<meta name="twitter:title" content="Worker"/>
+<meta name="twitter:description" content="Worker linkساخت فیلترشکن رایگان بدون سرور و دامین با استفاده از ورکر Cloudflare-Worker
+cf-ip-scanner
+راهکار جامع کانفیگ‌های v2ray روی ورکر
+v2ray-worker"/>
+
+    
+    <script>(()=>{var t=window.matchMedia&&window.matchMedia("(prefers-color-scheme: dark)").matches,e=localStorage.getItem("theme");t&&e===null&&(localStorage.setItem("theme","dark"),document.documentElement.setAttribute("data-dark-mode","")),t&&e==="dark"&&document.documentElement.setAttribute("data-dark-mode",""),e==="dark"&&document.documentElement.setAttribute("data-dark-mode","")})()</script>
+    
+    
+            
+                
+                <script type="text/javascript" src="https://parsamrrelax.github.io/docs/js/flexsearch.bundle.min.70b92c4c5202c26b45d7aa43e130e8440032cac751b9b9206ddba2052699286ac95beb01bb7f975514cc694a019a03c8.js" integrity="sha384-cLksTFICwmtF16pD4TDoRAAyysdRubkgbduiBSaZKGrJW&#43;sBu3&#43;XVRTMaUoBmgPI" crossorigin="anonymous"></script>
+                
+        
+    
+    
+    
+    
+        
+        
+        
+        
+    
+        
+        
+        
+        
+    
+        
+        
+        
+        
+    
+    
+    <link rel="preconnect" href="https://fonts.gstatic.com/" />
+    <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin />
+    <link href="https://fonts.googleapis.com/css?family=Inter:300,400,600,700|Fira+Code:500,700|Vazirmatn:300,400,600,700&display=block" rel="stylesheet">
+
+    <link rel="stylesheet" href="/docs/scss/style.min.5fe66ee3120a00815568a47179ae11128551a6e793a42bc7298e44557bb328117e8075ffd907d2db473abd125d516023.css" integrity="sha384-X&#43;Zu4xIKAIFVaKRxea4REoVRpueTpCvHKY5EVXuzKBF&#43;gHX/2QfS20c6vRJdUWAj"crossorigin="anonymous">
+    
+    
+    
+    </head><body>
+        <div class="content">
+            <div class="page-wrapper toggled">
+<nav id="sidebar" class="sidebar-wrapper">
+    <div class="sidebar-brand">
+        <a href='/' aria-label="HomePage" alt="HomePage">
+            
+                <?xml version="1.0" encoding="UTF-8"?><svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 250 250"><path d="m143,39.5c-18,0-18,18-18,18,0,0,0-18-18-18H22c-2.76,0-5,2.24-5,5v143c0,2.76,2.24,5,5,5h76c7.2,0,8.64,11.52,8.93,16.13.07,1.05.95,1.87,2,1.87h32.14c1.06,0,1.94-.82,2-1.87.29-4.61,1.73-16.13,8.93-16.13h76c2.76,0,5-2.24,5-5V44.5c0-2.76-2.24-5-5-5h-85Zm63,123.5c0,1.38-1.12,2.5-2.5,2.5h-60.5c-18,0-18,18-18,18,0,0,0-18-18-18h-60.5c-1.38,0-2.5-1.12-2.5-2.5v-94c0-1.38,1.12-2.5,2.5-2.5h51.5c7.2,0,8.64,11.52,8.93,16.13.07,1.05.95,1.87,2,1.87h32.14c1.06,0,1.94-.82,2-1.87.29-4.61,1.73-16.13,8.93-16.13h51.5c1.38,0,2.5,1.12,2.5,2.5v94Z" style="fill:#06f;"/></svg>
+            
+        </a>
+    </div>
+    <div class="sidebar-content" style="height: calc(100% - 131px);">
+        <ul class="sidebar-menu">
+            
+                
+                
+                    
+                        
+                        <li class="">
+                            <a class="sidebar-root-link" href="https://parsamrrelax.github.io/docs/start/">
+                                
+                                شروع
+                            </a>
+                        </li>
+                    
+                
+                    
+                        
+                        <li class="">
+                            <a class="sidebar-root-link" href="https://parsamrrelax.github.io/docs/beginners/%D8%A8%D8%AF%D9%88%D9%86-%D8%B3%D8%B1%D9%88%D8%B1/noserver/">
+                                
+                                بدون سرور
+                            </a>
+                        </li>
+                    
+                
+                    
+                        
+                        <li class="">
+                            <a class="sidebar-root-link" href="https://parsamrrelax.github.io/docs/beginners/%D8%A8%D8%A7-%D8%B3%D8%B1%D9%88%D8%B1/withserver/">
+                                
+                                با سرور
+                            </a>
+                        </li>
+                    
+                
+                    
+                        
+                        <li class="">
+                            <a class="sidebar-root-link" href="https://parsamrrelax.github.io/docs/fragment/fragment/">
+                                
+                                فرگمنت
+                            </a>
+                        </li>
+                    
+                
+                    
+                        
+                        <li class="">
+                            <a class="sidebar-root-link" href="https://parsamrrelax.github.io/docs/blockcommies/blockcommies/">
+                                
+                                بلاک کردن آی‌پی کشورهای کمونیست
+                            </a>
+                        </li>
+                    
+                
+                    
+                        
+                        <li class="">
+                            <a class="sidebar-root-link" href="https://parsamrrelax.github.io/docs/warp/warpplus/warpplus/">
+                                
+                                وارپ پلاس
+                            </a>
+                        </li>
+                    
+                
+                    
+                        
+                        <li class="">
+                            <a class="sidebar-root-link" href="https://parsamrrelax.github.io/docs/hide/hide/">
+                                
+                                مخفی سازی
+                            </a>
+                        </li>
+                    
+                
+                    
+                        
+                        <li class="">
+                            <a class="sidebar-root-link" href="https://parsamrrelax.github.io/docs/warp/warponwarp/warponwarp/">
+                                
+                                وارپ روی وارپ
+                            </a>
+                        </li>
+                    
+                
+                    
+                        
+                        <li class="">
+                            <a class="sidebar-root-link" href="https://parsamrrelax.github.io/docs/warp/hiddifynextwarp/hiddifynextwarp/">
+                                
+                                وارپ روی هیدیفای
+                            </a>
+                        </li>
+                    
+                
+                    
+                        
+                        <li class="">
+                            <a class="sidebar-root-link" href="https://parsamrrelax.github.io/docs/warp/warppsiphon/warppsiphon/">
+                                
+                                وارپ &#43; سایفون
+                            </a>
+                        </li>
+                    
+                
+                    
+                        
+                        <li class="">
+                            <a class="sidebar-root-link" href="https://parsamrrelax.github.io/docs/bepass/bepass/">
+                                
+                                Bepass
+                            </a>
+                        </li>
+                    
+                
+                    
+                        
+                        <li class="">
+                            <a class="sidebar-root-link" href="https://parsamrrelax.github.io/docs/warp/warpultra/warpultra/">
+                                
+                                وارپ &#43;‌آلتراسرف
+                            </a>
+                        </li>
+                    
+                
+                    
+                        
+                        <li class="">
+                            <a class="sidebar-root-link" href="https://parsamrrelax.github.io/docs/warp/oblivion/oblivion/">
+                                
+                                Oblivion
+                            </a>
+                        </li>
+                    
+                
+                    
+                        
+                        <li class="current">
+                            <a class="sidebar-root-link" href="https://parsamrrelax.github.io/docs/worker/worker/">
+                                
+                                Worker
+                            </a>
+                        </li>
+                    
+                
+                    
+                        
+                        <li class="">
+                            <a class="sidebar-root-link" href="https://parsamrrelax.github.io/docs/tunnel/reverse/">
+                                
+                                تونل معکوس
+                            </a>
+                        </li>
+                    
+                
+                    
+                        
+                        <li class="">
+                            <a class="sidebar-root-link" href="https://parsamrrelax.github.io/docs/yebekhe/yebekhe/">
+                                
+                                Yebekhe
+                            </a>
+                        </li>
+                    
+                
+                    
+                        
+                        <li class="">
+                            <a class="sidebar-root-link" href="https://parsamrrelax.github.io/docs/hiddify/hiddify/">
+                                
+                                Hiddify
+                            </a>
+                        </li>
+                    
+                
+                    
+                        
+                        <li class="">
+                            <a class="sidebar-root-link" href="https://parsamrrelax.github.io/docs/mahsang/mahsang/">
+                                
+                                MahsaNG
+                            </a>
+                        </li>
+                    
+                
+                    
+                        
+                        <li class="">
+                            <a class="sidebar-root-link" href="https://parsamrrelax.github.io/docs/amnezia/amnezia/">
+                                
+                                Amnezia
+                            </a>
+                        </li>
+                    
+                
+                    
+                        
+                        <li class="">
+                            <a class="sidebar-root-link" href="https://parsamrrelax.github.io/docs/dataleak/dataleak/">
+                                
+                                Dataleak
+                            </a>
+                        </li>
+                    
+                
+                    
+                        
+                        <li class="">
+                            <a class="sidebar-root-link" href="https://parsamrrelax.github.io/docs/edgetunnel/edge/">
+                                
+                                Edge Tunnel
+                            </a>
+                        </li>
+                    
+                
+                    
+                        
+                        <li class="">
+                            <a class="sidebar-root-link" href="https://parsamrrelax.github.io/docs/tor/tor/">
+                                
+                                Tor
+                            </a>
+                        </li>
+                    
+                
+                    
+                        
+                        <li class="">
+                            <a class="sidebar-root-link" href="https://parsamrrelax.github.io/docs/broker/ipv6tunnelbroker/">
+                                
+                                IPv6 TunnelBroker
+                            </a>
+                        </li>
+                    
+                
+                    
+                        
+                        <li class="">
+                            <a class="sidebar-root-link" href="https://parsamrrelax.github.io/docs/generalinfo/generalinfo/">
+                                
+                                اطلاعات مهم
+                            </a>
+                        </li>
+                    
+                
+                    
+                        
+                        <li class="">
+                            <a class="sidebar-root-link" href="https://parsamrrelax.github.io/docs/store/store/">
+                                
+                                مخزن دانلود فیلترشکن
+                            </a>
+                        </li>
+                    
+                
+                    
+                        
+                        <li class="">
+                            <a class="sidebar-root-link" href="https://parsamrrelax.github.io/docs/securedns/securedns/">
+                                
+                                Secure DNS
+                            </a>
+                        </li>
+                    
+                
+                    
+                        
+                        <li class="">
+                            <a class="sidebar-root-link" href="https://parsamrrelax.github.io/docs/panel/alireza/panel/">
+                                
+                                پنل علیرضا
+                            </a>
+                        </li>
+                    
+                
+                    
+                        
+                        <li class="">
+                            <a class="sidebar-root-link" href="https://parsamrrelax.github.io/docs/openvpn/openvpn/">
+                                
+                                Openvpn
+                            </a>
+                        </li>
+                    
+                
+                    
+                        
+                        <li class="">
+                            <a class="sidebar-root-link" href="https://parsamrrelax.github.io/docs/powertunnel/powertunnel/">
+                                
+                                Powertunnel
+                            </a>
+                        </li>
+                    
+                
+                    
+                        
+                        <li class="">
+                            <a class="sidebar-root-link" href="https://parsamrrelax.github.io/docs/brook/brook/">
+                                
+                                Brook
+                            </a>
+                        </li>
+                    
+                
+                    
+                        
+                        <li class="">
+                            <a class="sidebar-root-link" href="https://parsamrrelax.github.io/docs/hysteria_tuic/hysteria_tuic/">
+                                
+                                Hysteria 2 and TUIC
+                            </a>
+                        </li>
+                    
+                
+                    
+                        
+                        <li class="">
+                            <a class="sidebar-root-link" href="https://parsamrrelax.github.io/docs/net4people/net4people/">
+                                
+                                Net4people
+                            </a>
+                        </li>
+                    
+                
+            
+        </ul>
+        
+    </div>
+    
+        <ul class="sidebar-footer list-unstyled mb-0">
+            
+        </ul>
+    
+</nav>
+
+                    <main class="page-content bg-transparent">
+                        
+<div id="top-header" class="top-header d-print-none">
+    <div class="header-bar d-flex justify-content-between">
+        <div class="d-flex align-items-center">
+            <a href='/' class="logo-icon me-3" aria-label="HomePage" alt="HomePage">
+                <div class="small">
+                    
+                            <?xml version="1.0" encoding="UTF-8"?><svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 250 250"><path d="m143,39.5c-18,0-18,18-18,18,0,0,0-18-18-18H22c-2.76,0-5,2.24-5,5v143c0,2.76,2.24,5,5,5h76c7.2,0,8.64,11.52,8.93,16.13.07,1.05.95,1.87,2,1.87h32.14c1.06,0,1.94-.82,2-1.87.29-4.61,1.73-16.13,8.93-16.13h76c2.76,0,5-2.24,5-5V44.5c0-2.76-2.24-5-5-5h-85Zm63,123.5c0,1.38-1.12,2.5-2.5,2.5h-60.5c-18,0-18,18-18,18,0,0,0-18-18-18h-60.5c-1.38,0-2.5-1.12-2.5-2.5v-94c0-1.38,1.12-2.5,2.5-2.5h51.5c7.2,0,8.64,11.52,8.93,16.13.07,1.05.95,1.87,2,1.87h32.14c1.06,0,1.94-.82,2-1.87.29-4.61,1.73-16.13,8.93-16.13h51.5c1.38,0,2.5,1.12,2.5,2.5v94Z" style="fill:#06f;"/></svg>
+                    
+                </div>
+                <div class="big">
+                    
+                            <?xml version="1.0" encoding="UTF-8"?><svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 250 250"><path d="m143,39.5c-18,0-18,18-18,18,0,0,0-18-18-18H22c-2.76,0-5,2.24-5,5v143c0,2.76,2.24,5,5,5h76c7.2,0,8.64,11.52,8.93,16.13.07,1.05.95,1.87,2,1.87h32.14c1.06,0,1.94-.82,2-1.87.29-4.61,1.73-16.13,8.93-16.13h76c2.76,0,5-2.24,5-5V44.5c0-2.76-2.24-5-5-5h-85Zm63,123.5c0,1.38-1.12,2.5-2.5,2.5h-60.5c-18,0-18,18-18,18,0,0,0-18-18-18h-60.5c-1.38,0-2.5-1.12-2.5-2.5v-94c0-1.38,1.12-2.5,2.5-2.5h51.5c7.2,0,8.64,11.52,8.93,16.13.07,1.05.95,1.87,2,1.87h32.14c1.06,0,1.94-.82,2-1.87.29-4.61,1.73-16.13,8.93-16.13h51.5c1.38,0,2.5,1.12,2.5,2.5v94Z" style="fill:#06f;"/></svg>
+                    
+                </div>
+            </a>
+            <button id="close-sidebar" class="btn btn-icon btn-soft">
+                <span class="material-icons size-20 menu-icon align-middle">menu</span>
+            </button>
+            
+            
+                    
+                    <button id="flexsearch-button" class="ms-3 btn btn-soft" data-bs-toggle="collapse" data-bs-target="#FlexSearchCollapse" aria-expanded="false" aria-controls="FlexSearchCollapse">
+                        <span class="material-icons size-20 menu-icon align-middle">search</span>
+                        <span class="flexsearch-button-placeholder ms-1 me-2 d-none d-sm-block">Search</span>
+                        <div class="d-none d-sm-block">
+                            <span class="flexsearch-button-keys">
+                                <kbd class="flexsearch-button-cmd-key">
+                                    <svg width="44" height="15"><path d="M2.118,11.5A1.519,1.519,0,0,1,1,11.042,1.583,1.583,0,0,1,1,8.815a1.519,1.519,0,0,1,1.113-.458h.715V6.643H2.118A1.519,1.519,0,0,1,1,6.185,1.519,1.519,0,0,1,.547,5.071,1.519,1.519,0,0,1,1,3.958,1.519,1.519,0,0,1,2.118,3.5a1.519,1.519,0,0,1,1.114.458A1.519,1.519,0,0,1,3.69,5.071v.715H5.4V5.071A1.564,1.564,0,0,1,6.976,3.5,1.564,1.564,0,0,1,8.547,5.071,1.564,1.564,0,0,1,6.976,6.643H6.261V8.357h.715a1.575,1.575,0,0,1,1.113,2.685,1.583,1.583,0,0,1-2.227,0A1.519,1.519,0,0,1,5.4,9.929V9.214H3.69v.715a1.519,1.519,0,0,1-.458,1.113A1.519,1.519,0,0,1,2.118,11.5Zm0-.857a.714.714,0,0,0,.715-.714V9.214H2.118a.715.715,0,1,0,0,1.429Zm4.858,0a.715.715,0,1,0,0-1.429H6.261v.715a.714.714,0,0,0,.715.714ZM3.69,8.357H5.4V6.643H3.69ZM2.118,5.786h.715V5.071a.714.714,0,0,0-.715-.714.715.715,0,0,0-.5,1.22A.686.686,0,0,0,2.118,5.786Zm4.143,0h.715a.715.715,0,0,0,.5-1.22.715.715,0,0,0-1.22.5Z" fill="currentColor"></path><path d="M12.4,11.475H11.344l3.879-7.95h1.056Z" fill="currentColor"></path><path d="M25.073,5.384l-.864.576a2.121,2.121,0,0,0-1.786-.923,2.207,2.207,0,0,0-2.266,2.326,2.206,2.206,0,0,0,2.266,2.325,2.1,2.1,0,0,0,1.782-.918l.84.617a3.108,3.108,0,0,1-2.622,1.293,3.217,3.217,0,0,1-3.349-3.317,3.217,3.217,0,0,1,3.349-3.317A3.046,3.046,0,0,1,25.073,5.384Z" fill="currentColor"></path><path d="M30.993,5.142h-2.07v5.419H27.891V5.142h-2.07V4.164h5.172Z" fill="currentColor"></path><path d="M34.67,4.164c1.471,0,2.266.658,2.266,1.851,0,1.087-.832,1.809-2.134,1.855l2.107,2.691h-1.28L33.591,7.87H33.07v2.691H32.038v-6.4Zm-1.6.969v1.8h1.572c.832,0,1.22-.3,1.22-.918s-.411-.882-1.22-.882Z" fill="currentColor"></path><path d="M42.883,10.561H38.31v-6.4h1.033V9.583h3.54Z" fill="currentColor"></path></svg>
+                                </kbd>
+                                <kbd class="flexsearch-button-key">
+                                    <svg width="15" height="15"><path d="M5.926,12.279H4.41L9.073,2.721H10.59Z" fill="currentColor"/></svg>
+                                </kbd>
+                            </span>
+                        </div>
+                    </button>
+                
+            </div>
+
+        <div class="d-flex align-items-center">
+            <ul class="list-unstyled mb-0">
+                
+            </ul>
+            <button id="mode" class="btn btn-icon btn-default ms-2" type="button" aria-label="Toggle user interface mode">
+                <span class="toggle-dark">
+                    <svg xmlns="http://www.w3.org/2000/svg" height="30" width="30" viewBox="0 0 48 48" fill="currentColor">
+                        <title>Enable dark mode</title>
+                        <path d="M24 42q-7.5 0-12.75-5.25T6 24q0-7.5 5.25-12.75T24 6q.4 0 .85.025.45.025 1.15.075-1.8 1.6-2.8 3.95-1 2.35-1 4.95 0 4.5 3.15 7.65Q28.5 25.8 33 25.8q2.6 0 4.95-.925T41.9 22.3q.05.6.075.975Q42 23.65 42 24q0 7.5-5.25 12.75T24 42Zm0-3q5.45 0 9.5-3.375t5.05-7.925q-1.25.55-2.675.825Q34.45 28.8 33 28.8q-5.75 0-9.775-4.025T19.2 15q0-1.2.25-2.575.25-1.375.9-3.125-4.9 1.35-8.125 5.475Q9 18.9 9 24q0 6.25 4.375 10.625T24 39Zm-.2-14.85Z"/>
+                    </svg>
+                </span>
+                <span class="toggle-light">
+                    <svg xmlns="http://www.w3.org/2000/svg" height="30" width="30" viewBox="0 0 48 48" fill="currentColor">
+                        <title>Enable light mode</title>
+                        <path d="M24 31q2.9 0 4.95-2.05Q31 26.9 31 24q0-2.9-2.05-4.95Q26.9 17 24 17q-2.9 0-4.95 2.05Q17 21.1 17 24q0 2.9 2.05 4.95Q21.1 31 24 31Zm0 3q-4.15 0-7.075-2.925T14 24q0-4.15 2.925-7.075T24 14q4.15 0 7.075 2.925T34 24q0 4.15-2.925 7.075T24 34ZM3.5 25.5q-.65 0-1.075-.425Q2 24.65 2 24q0-.65.425-1.075Q2.85 22.5 3.5 22.5h5q.65 0 1.075.425Q10 23.35 10 24q0 .65-.425 1.075-.425.425-1.075.425Zm36 0q-.65 0-1.075-.425Q38 24.65 38 24q0-.65.425-1.075.425-.425 1.075-.425h5q.65 0 1.075.425Q46 23.35 46 24q0 .65-.425 1.075-.425.425-1.075.425ZM24 10q-.65 0-1.075-.425Q22.5 9.15 22.5 8.5v-5q0-.65.425-1.075Q23.35 2 24 2q.65 0 1.075.425.425.425.425 1.075v5q0 .65-.425 1.075Q24.65 10 24 10Zm0 36q-.65 0-1.075-.425-.425-.425-.425-1.075v-5q0-.65.425-1.075Q23.35 38 24 38q.65 0 1.075.425.425.425.425 1.075v5q0 .65-.425 1.075Q24.65 46 24 46ZM12 14.1l-2.85-2.8q-.45-.45-.425-1.075.025-.625.425-1.075.45-.45 1.075-.45t1.075.45L14.1 12q.4.45.4 1.05 0 .6-.4 1-.4.45-1.025.45-.625 0-1.075-.4Zm24.7 24.75L33.9 36q-.4-.45-.4-1.075t.45-1.025q.4-.45 1-.45t1.05.45l2.85 2.8q.45.45.425 1.075-.025.625-.425 1.075-.45.45-1.075.45t-1.075-.45ZM33.9 14.1q-.45-.45-.45-1.05 0-.6.45-1.05l2.8-2.85q.45-.45 1.075-.425.625.025 1.075.425.45.45.45 1.075t-.45 1.075L36 14.1q-.4.4-1.025.4-.625 0-1.075-.4ZM9.15 38.85q-.45-.45-.45-1.075t.45-1.075L12 33.9q.45-.45 1.05-.45.6 0 1.05.45.45.45.45 1.05 0 .6-.45 1.05l-2.8 2.85q-.45.45-1.075.425-.625-.025-1.075-.425ZM24 24Z"/>
+                    </svg>
+                </span>
+            </button>
+            
+        </div>
+    </div>
+    
+    
+            <div class="collapse" id="FlexSearchCollapse">
+                <div class="flexsearch-container">
+                    <div class="flexsearch-keymap">
+                        <li>
+                            <kbd class="flexsearch-button-cmd-key"><svg width="15" height="15" aria-label="Arrow down" role="img"><g fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2"><path d="M7.5 3.5v8M10.5 8.5l-3 3-3-3"></path></g></svg></kbd>
+                            <kbd class="flexsearch-button-cmd-key"><svg width="15" height="15" aria-label="Arrow up" role="img"><g fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2"><path d="M7.5 11.5v-8M10.5 6.5l-3-3-3 3"></path></g></svg></kbd>
+                            <span class="flexsearch-key-label">to navigate</span>
+                        </li>
+                        <li>
+                            <kbd class="flexsearch-button-cmd-key"><svg width="15" height="15" aria-label="Enter key" role="img"><g fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2"><path d="M12 3.53088v3c0 1-1 2-2 2H4M7 11.53088l-3-3 3-3"></path></g></svg></kbd>
+                            <span class="flexsearch-key-label">to select</span>
+                        </li>
+                        <li>
+                            <kbd class="flexsearch-button-cmd-key"><svg width="15" height="15" aria-label="Escape key" role="img"><g fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2"><path d="M13.6167 8.936c-.1065.3583-.6883.962-1.4875.962-.7993 0-1.653-.9165-1.653-2.1258v-.5678c0-1.2548.7896-2.1016 1.653-2.1016.8634 0 1.3601.4778 1.4875 1.0724M9 6c-.1352-.4735-.7506-.9219-1.46-.8972-.7092.0246-1.344.57-1.344 1.2166s.4198.8812 1.3445.9805C8.465 7.3992 8.968 7.9337 9 8.5c.032.5663-.454 1.398-1.4595 1.398C6.6593 9.898 6 9 5.963 8.4851m-1.4748.5368c-.2635.5941-.8099.876-1.5443.876s-1.7073-.6248-1.7073-2.204v-.4603c0-1.0416.721-2.131 1.7073-2.131.9864 0 1.6425 1.031 1.5443 2.2492h-2.956"></path></g></svg></kbd>
+                            <span class="flexsearch-key-label">to close</span>
+                        </li>
+                    </div>
+                    <form class="flexsearch position-relative flex-grow-1 ms-2 me-2">
+                        <div class="d-flex flex-row">
+                            <input id="flexsearch" class="form-control" type="search" placeholder="Search" aria-label="Search" autocomplete="off">
+                            <button id="hideFlexsearch" type="button" class="ms-2 btn btn-soft">
+                                cancel
+                            </button>
+                        </div>
+                        <div id="suggestions" class="shadow rounded-1 d-none"></div>
+                    </form>
+                </div>
+            </div>
+        
+    
+    
+</div>
+
+                            <div class="container-fluid">
+                                <div class="layout-spacing">
+                                    
+                                        <div class="d-md-flex justify-content-between align-items-center"><nav aria-label="breadcrumb" class="d-inline-block pb-2 mt-1 mt-sm-0">
+    <ul id="breadcrumbs" class="breadcrumb bg-transparent mb-0" itemscope itemtype="https://schema.org/BreadcrumbList">
+        
+            
+                <li class="breadcrumb-item text-capitalize active" aria-current="page" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+                    <a itemprop="item" href="/docs/">
+                        <i class="material-icons size-20 align-text-bottom" itemprop="name">Home</i>
+                    </a>
+                    <meta itemprop="position" content='1' />
+                </li>
+            
+        
+            <li class="breadcrumb-item text-capitalize active" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+                <span itemprop="name">Worker</span>
+                <meta itemprop="position" content='2' />
+            </li>
+        
+    </ul>
+</nav></div>
+                                    
+                                    <div class="row flex-xl-nowrap">
+                                        
+                                        <div class="docs-toc col-xl-3  visually-hidden  d-xl-block"><toc>
+    <div class="fw-bold text-uppercase mb-2">On this page</div>
+    <nav id="TableOfContents"></nav>
+    </toc></div>
+                                        
+                                        
+                                        <div class="docs-toc-mobile  visually-hidden  d-print-none d-xl-none">
+                                            <button id="toc-dropdown-btn" class="btn-secondary dropdown-toggle" type="button" data-bs-toggle="dropdown" data-bs-offset="0,0" aria-expanded="false">
+                                                Table of Contents
+                                            </button>
+<nav id="toc-mobile"></nav></div>
+                                        <div class="docs-content col-12  mt-0">
+                                            <div class="mb-0 d-flex">
+                                                
+                                                <h1 class="content-title mb-0">
+                                                    Worker
+                                                    
+                                                </h1>
+                                            </div>
+                                            
+                                            <div id="content" class="main-content" >
+                                                
+    
+    <div data-prismjs-copy="" data-prismjs-copy-success="" data-prismjs-copy-error="" style="direction: rtl;">
+        <h1 id="worker">Worker <a href="#worker" class="anchor" aria-hidden="true"><i class="material-icons align-middle">link</i></a></h1><p><a href="https://www.youtube.com/watch?v=9v57JYYn-Ww" rel="external" target="_blank">ساخت فیلترشکن رایگان بدون سرور و دامین با استفاده از ورکر Cloudflare-Worker<svg width="16" height="16" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path fill="currentColor" d="M14 5c-.552 0-1-.448-1-1s.448-1 1-1h6c.552 0 1 .448 1 1v6c0 .552-.448 1-1 1s-1-.448-1-1v-3.586l-7.293 7.293c-.391.39-1.024.39-1.414 0-.391-.391-.391-1.024 0-1.414l7.293-7.293h-3.586zm-9 2c-.552 0-1 .448-1 1v11c0 .552.448 1 1 1h11c.552 0 1-.448 1-1v-4.563c0-.552.448-1 1-1s1 .448 1 1v4.563c0 1.657-1.343 3-3 3h-11c-1.657 0-3-1.343-3-3v-11c0-1.657 1.343-3 3-3h4.563c.552 0 1 .448 1 1s-.448 1-1 1h-4.563z"/></svg></a></p>
+<p><a href="https://vfarid.github.io/cf-ip-scanner/" rel="external" target="_blank">cf-ip-scanner<svg width="16" height="16" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path fill="currentColor" d="M14 5c-.552 0-1-.448-1-1s.448-1 1-1h6c.552 0 1 .448 1 1v6c0 .552-.448 1-1 1s-1-.448-1-1v-3.586l-7.293 7.293c-.391.39-1.024.39-1.414 0-.391-.391-.391-1.024 0-1.414l7.293-7.293h-3.586zm-9 2c-.552 0-1 .448-1 1v11c0 .552.448 1 1 1h11c.552 0 1-.448 1-1v-4.563c0-.552.448-1 1-1s1 .448 1 1v4.563c0 1.657-1.343 3-3 3h-11c-1.657 0-3-1.343-3-3v-11c0-1.657 1.343-3 3-3h4.563c.552 0 1 .448 1 1s-.448 1-1 1h-4.563z"/></svg></a></p>
+<p><a href="https://github.com/vfarid/v2ray-worker/blob/main/README-fa.md" rel="external" target="_blank">راهکار جامع کانفیگ‌های v2ray روی ورکر<svg width="16" height="16" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path fill="currentColor" d="M14 5c-.552 0-1-.448-1-1s.448-1 1-1h6c.552 0 1 .448 1 1v6c0 .552-.448 1-1 1s-1-.448-1-1v-3.586l-7.293 7.293c-.391.39-1.024.39-1.414 0-.391-.391-.391-1.024 0-1.414l7.293-7.293h-3.586zm-9 2c-.552 0-1 .448-1 1v11c0 .552.448 1 1 1h11c.552 0 1-.448 1-1v-4.563c0-.552.448-1 1-1s1 .448 1 1v4.563c0 1.657-1.343 3-3 3h-11c-1.657 0-3-1.343-3-3v-11c0-1.657 1.343-3 3-3h4.563c.552 0 1 .448 1 1s-.448 1-1 1h-4.563z"/></svg></a></p>
+<p><a href="https://github.com/vfarid/v2ray-worker" rel="external" target="_blank">v2ray-worker<svg width="16" height="16" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path fill="currentColor" d="M14 5c-.552 0-1-.448-1-1s.448-1 1-1h6c.552 0 1 .448 1 1v6c0 .552-.448 1-1 1s-1-.448-1-1v-3.586l-7.293 7.293c-.391.39-1.024.39-1.414 0-.391-.391-.391-1.024 0-1.414l7.293-7.293h-3.586zm-9 2c-.552 0-1 .448-1 1v11c0 .552.448 1 1 1h11c.552 0 1-.448 1-1v-4.563c0-.552.448-1 1-1s1 .448 1 1v4.563c0 1.657-1.343 3-3 3h-11c-1.657 0-3-1.343-3-3v-11c0-1.657 1.343-3 3-3h4.563c.552 0 1 .448 1 1s-.448 1-1 1h-4.563z"/></svg></a></p>
+
+    </div>
+
+    
+
+    
+                                            </div>
+                                            <div><hr class="doc-hr">
+<div id="doc-nav" class="d-print-none">
+
+	<div class="row flex-xl-nowrap ">
+	<div class="col-sm-6 pt-2 doc-next">
+		<a href="/docs/warp/oblivion/oblivion/">
+			<div class="card h-100 my-1">
+				<div class="card-body py-2">
+                    <p class="card-title fs-5 fw-semibold lh-base mb-0"><i class="material-icons align-middle">navigate_before</i> Oblivion</p>
+					
+				</div>
+			</div>
+		</a>
+        </div>
+	<div class="col-sm-6 pt-2 doc-prev">
+		<a class="ms-auto" href="/docs/tunnel/reverse/">
+			<div class="card h-100 my-1 text-end">
+				<div class="card-body py-2">
+                    <p class="card-title fs-5 fw-semibold lh-base mb-0">تونل معکوس <i class="material-icons align-middle">navigate_next</i></p>
+					
+				</div>
+			</div>
+		</a>
+        </div>
+	</div>
+</div></div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+<footer class="shadow py-3 d-print-none">
+    <div class="container-fluid">
+        <div class="row align-items-center">
+            <div class="col">
+                <div class="text-sm-start text-center mx-md-2">
+                    <p class="mb-0">
+                        
+                        
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+</main>
+            </div>
+        </div>
+
+        
+        
+        <button onclick="topFunction()" id="back-to-top" aria-label="Back to Top Button" class="back-to-top fs-5"><svg width="24" height="24"><path d="M12,10.224l-6.3,6.3L4.32,15.152,12,7.472l7.68,7.68L18.3,16.528Z" style="fill:#fff"/></svg></button>
+        
+        
+
+        
+        
+            <script>(()=>{var e=document.getElementById("mode");e!==null&&(window.matchMedia("(prefers-color-scheme: dark)").addEventListener("change",e=>{e.matches?(localStorage.setItem("theme","dark"),document.documentElement.setAttribute("data-dark-mode","")):(localStorage.setItem("theme","light"),document.documentElement.removeAttribute("data-dark-mode"))}),e.addEventListener("click",()=>{document.documentElement.toggleAttribute("data-dark-mode"),localStorage.setItem("theme",document.documentElement.hasAttribute("data-dark-mode")?"dark":"light")}),localStorage.getItem("theme")==="dark"?document.documentElement.setAttribute("data-dark-mode",""):document.documentElement.removeAttribute("data-dark-mode"))})()</script>
+        
+
+
+
+
+    
+    
+    
+
+
+
+
+
+
+    
+
+    <script src="/docs/js/bootstrap.437f5ca5da0b6cecae9e04d4737f6009d4d5dfaebc8e02c5bea7af57ca501a12f43d5c36bb007c5253f094be16f10b83.js" integrity="sha384-Q39cpdoLbOyungTUc39gCdTV3668jgLFvqevV8pQGhL0PVw2uwB8UlPwlL4W8QuD"defer></script>
+
+
+    <script type="text/javascript" src="https://parsamrrelax.github.io/docs/js/bundle.min.d204c4a858a5505409a3fa946f1596213b78334f8ff229473798522f19686c8f9401ff84e8003881ec01983333d13332.js" integrity="sha384-0gTEqFilUFQJo/qUbxWWITt4M0&#43;P8ilHN5hSLxlobI&#43;UAf&#43;E6AA4gewBmDMz0TMy" crossorigin="anonymous" defer></script>
+        
+
+        
+        <script type="module">
+    var suggestions = document.getElementById('suggestions');
+    var search = document.getElementById('flexsearch');
+
+    const flexsearchContainer = document.getElementById('FlexSearchCollapse');
+
+    const hideFlexsearchBtn = document.getElementById('hideFlexsearch');
+
+    const configObject = { toggle: false }
+    const flexsearchContainerCollapse = new Collapse(flexsearchContainer, configObject) 
+
+    if (search !== null) {
+        document.addEventListener('keydown', inputFocus);
+        flexsearchContainer.addEventListener('shown.bs.collapse', function () {
+            search.focus();
+        });
+        
+        var topHeader = document.getElementById("top-header");
+        document.addEventListener('click', function(elem) {
+            if (!flexsearchContainer.contains(elem.target) && !topHeader.contains(elem.target))
+                flexsearchContainerCollapse.hide();
+        });
+    }
+
+    hideFlexsearchBtn.addEventListener('click', () =>{
+        flexsearchContainerCollapse.hide()
+    })
+
+    function inputFocus(e) {
+        if (e.ctrlKey && e.key === '/') {
+            e.preventDefault();
+            flexsearchContainerCollapse.toggle();
+        }
+        if (e.key === 'Escape' ) {
+            search.blur();
+            
+            flexsearchContainerCollapse.hide();
+        }
+    };
+
+    document.addEventListener('click', function(event) {
+
+    var isClickInsideElement = suggestions.contains(event.target);
+
+    if (!isClickInsideElement) {
+        suggestions.classList.add('d-none');
+    }
+
+    });
+
+    
+
+
+    document.addEventListener('keydown',suggestionFocus);
+
+    function suggestionFocus(e) {
+    const suggestionsHidden = suggestions.classList.contains('d-none');
+    if (suggestionsHidden) return;
+
+    const focusableSuggestions= [...suggestions.querySelectorAll('a')];
+    if (focusableSuggestions.length === 0) return;
+
+    const index = focusableSuggestions.indexOf(document.activeElement);
+
+    if (e.key === "ArrowUp") {
+        e.preventDefault();
+        const nextIndex = index > 0 ? index - 1 : 0;
+        focusableSuggestions[nextIndex].focus();
+    }
+    else if (e.key === "ArrowDown") {
+        e.preventDefault();
+        const nextIndex= index + 1 < focusableSuggestions.length ? index + 1 : index;
+        focusableSuggestions[nextIndex].focus();
+    }
+
+    }
+
+    
+
+
+    (function(){
+
+    var index = new FlexSearch.Document({
+        
+        tokenize: "forward",
+        minlength:  0 ,
+        cache:  100 ,
+        optimize:  true ,
+        document: {
+        id: 'id',
+        store: [
+            "href", "title", "description"
+        ],
+        index: ["title", "description", "content"]
+        }
+    });
+
+
+    
+
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+
+    
+
+    
+
+    index.add(
+            {
+                id:  0 ,
+                href: "\/docs\/start\/",
+                title: "شروع",
+                description: "اگر دانش فنی کامپیوتر ندارید از این بخش شروع کنید linkاول از همه سعی کنید از این حوزه نترسید. شما فقط قرار چند تا مرحله رو پیش ببرید و عینا کپی کنید. لازم نیست که به همه مفاهیم عمیق بشوید فقط تلاش کنید که به اینترنت آزاد متصل بشید. من تلاشم رو می کنم که این متن در حد دانش یک بچه ی ده ساله تنظیم بشود.\nاگر تازه کار هستید زمانی بین ۷ تا ۱۰ روز زمان میبره که بتونید این کار رو بکنید.",
+                content: "اگر دانش فنی کامپیوتر ندارید از این بخش شروع کنید linkاول از همه سعی کنید از این حوزه نترسید. شما فقط قرار چند تا مرحله رو پیش ببرید و عینا کپی کنید. لازم نیست که به همه مفاهیم عمیق بشوید فقط تلاش کنید که به اینترنت آزاد متصل بشید. من تلاشم رو می کنم که این متن در حد دانش یک بچه ی ده ساله تنظیم بشود.\nاگر تازه کار هستید زمانی بین ۷ تا ۱۰ روز زمان میبره که بتونید این کار رو بکنید. یادبگیرید میشه ۱۰ دقیقه\nاول یکبار تمام مراحل رو ببنید بعد عملی اقدام کنید.\nبه طور کلی دو تا روش داریم:\nبا سرور بدون سرور روش بدون سرور linkاین روش نیازی به خرید سرور ندارد و معمولا برای چند نفر اتصال همزمان کاملا کار آمد هست. بهشون کانفیگ رایگان هم می گویند.\nروش سرور linkاگر نمی دونید سرور چی هست اول این ویدیو رو ببنید. سرور چیه\nدر این روش باید سرور و دامنه خریداری کنید. سرور ها معمولا ۵ دلار در ماه و دامنه معمولا ۱ دلار در سال هزینه دارند.\nهر سرور برای ۳۰۰ نفر راحت کار می کند و شما می توانید با این روش کل خانواده و دوستان رو وصل کنید.\nتو این روش بهتون یه ای پی ثابت داده میشود.\n"
+            }
+        );
+    index.add(
+            {
+                id:  1 ,
+                href: "\/docs\/beginners\/%D8%A8%D8%AF%D9%88%D9%86-%D8%B3%D8%B1%D9%88%D8%B1\/noserver\/",
+                title: "بدون سرور",
+                description: "warp on warp link linkاول یک جیمیل بسازید linkآموزش ساخت Gmail / آموزش ساخت ایمیل\nlinkاطلاعات فیک داشته باشید linkوارد این سایت بشید و اطلاعات فیک به دست بیاورید. https://www.fakexy.com/\nlinkاکانت کلود فلیر بسازید linkآموزش کامل کلودفلر و ایجاد ساب دامنه بی نهایت (فرار از فیلترینگ)\nlinkwarp on warp linkدور زدن رایگان فیلترینگ با یک روش قدرتمند اما ساده، بسیار سریع و ضد تحریم | Warp-on-Warp\nlinkWorker link linkاکانت کلود فلیر بسازید linkآموزش کامل کلودفلر و ایجاد ساب دامنه بی نهایت (فرار از فیلترینگ)",
+                content: "warp on warp link linkاول یک جیمیل بسازید linkآموزش ساخت Gmail / آموزش ساخت ایمیل\nlinkاطلاعات فیک داشته باشید linkوارد این سایت بشید و اطلاعات فیک به دست بیاورید. https://www.fakexy.com/\nlinkاکانت کلود فلیر بسازید linkآموزش کامل کلودفلر و ایجاد ساب دامنه بی نهایت (فرار از فیلترینگ)\nlinkwarp on warp linkدور زدن رایگان فیلترینگ با یک روش قدرتمند اما ساده، بسیار سریع و ضد تحریم | Warp-on-Warp\nlinkWorker link linkاکانت کلود فلیر بسازید linkآموزش کامل کلودفلر و ایجاد ساب دامنه بی نهایت (فرار از فیلترینگ)\nlinkروش ورکر linkساخت فیلترشکن رایگان بدون سرور و دامین با استفاده از ورکر Cloudflare-Worker\ncf-ip-scanner\nراهکار جامع کانفیگ‌های v2ray روی ورکر\nv2ray-worker\nکانال وحید\n"
+            }
+        );
+    index.add(
+            {
+                id:  2 ,
+                href: "\/docs\/beginners\/%D8%A8%D8%A7-%D8%B3%D8%B1%D9%88%D8%B1\/withserver\/",
+                title: "با سرور",
+                description: "اول یک جیمیل بسازید linkآموزش ساخت Gmail / آموزش ساخت ایمیل\nlinkاطلاعات فیک داشته باشید linkوارد این سایت بشید و اطلاعات فیک به دست بیاورید. https://www.fakexy.com/\nlinkولت رمز دیجیتال بسازید linkکیف پول متامسک\nlinkسرور بخرید linkخرید بهترین سرورهای جایگزین هتزنر برای راه اندازی پروکسی - vps\nلیست سرور فروشی\nحواستون باشه سرور لینوکس اوبونتو ۲۲ خرید کنند\nubuntu 22\nlinkدامنه بخرید linkخرید دامنه با کریپتو | خرید دامنه با بیت کوین | خرید دامنه با ارز دیجیتال",
+                content: "اول یک جیمیل بسازید linkآموزش ساخت Gmail / آموزش ساخت ایمیل\nlinkاطلاعات فیک داشته باشید linkوارد این سایت بشید و اطلاعات فیک به دست بیاورید. https://www.fakexy.com/\nlinkولت رمز دیجیتال بسازید linkکیف پول متامسک\nlinkسرور بخرید linkخرید بهترین سرورهای جایگزین هتزنر برای راه اندازی پروکسی - vps\nلیست سرور فروشی\nحواستون باشه سرور لینوکس اوبونتو ۲۲ خرید کنند\nubuntu 22\nlinkدامنه بخرید linkخرید دامنه با کریپتو | خرید دامنه با بیت کوین | خرید دامنه با ارز دیجیتال\nساخت اکانت روی هاتزنر\nlinkاکانت کلود فلیر بسازید linkآموزش کامل کلودفلر و ایجاد ساب دامنه بی نهایت (فرار از فیلترینگ)\nlinkوب سوکت linkآموزش پروتکل وب سوکت در v2ray پروتکل خوب و پایدار با sni سریع\nlinkروش فرگمنت رو استفاده کنید linkاستفاده از دامین فیلتر شده با فرگمنت | دامنه مردتو زنده کن\nتحلیل فنی فیلترینگ کلودفلر و بی اثر کردن کامل آن با یک vless/vmess ساده و سرعت عالی حتی بدون TLS\nآموزش دور زدن فیلترینگ دامنه توسط فرگمنت در تمام دیوایس ها (تست شده) / Fragment\nلزومی ندارد از تونل کلود فلیر استفاده کنید.\n"
+            }
+        );
+    index.add(
+            {
+                id:  3 ,
+                href: "\/docs\/fragment\/fragment\/",
+                title: "فرگمنت",
+                description: "فرگمنت linkفرگمنت به معنی تکه تکه ریکوست های هست که تشخیص رو برای گریت فایر وال سخت می کند. xray این قابلیت رو پشتیبانی می کند\nلزومی نداره حتما از تونل استفاده کنید از CDN هم میشه استفاده کرد.\nسرور و دامنه کثیف نیاز دارد.\nآموزش دور زدن فیلترینگ دامنه توسط فرگمنت در تمام دیوایس ها\nاستفاده از دامین فیلتر شده با فرگمنت | دامنه مردتو زنده کن\nاخرین آموزش سگارو",
+                content: "فرگمنت linkفرگمنت به معنی تکه تکه ریکوست های هست که تشخیص رو برای گریت فایر وال سخت می کند. xray این قابلیت رو پشتیبانی می کند\nلزومی نداره حتما از تونل استفاده کنید از CDN هم میشه استفاده کرد.\nسرور و دامنه کثیف نیاز دارد.\nآموزش دور زدن فیلترینگ دامنه توسط فرگمنت در تمام دیوایس ها\nاستفاده از دامین فیلتر شده با فرگمنت | دامنه مردتو زنده کن\nاخرین آموزش سگارو\nنصب آرگو\nابزار فرگمنت ircfspace\nmisaturo tools\nجدیدترین روش استفاده از کانفیگ FRAGMENT با لینک سابسکریشن بدون نیاز به ویرایش کد ساخت بینهایت کاربر\nآموزش کامل کلودفلر ورکر+فرگمنت کردن کانفیک برای عبور از فیلترینگ شدید مخصوصا در همراه اول\nآموزش کلودفلر ورکر از نوع pages+fragment بدون نیازبه تست ip و SNI !\nراه حل تضمینی فرگمنت روی IOS\nاگر دیدید وصل نمیشه این دو تا پارامتر رو تغییر بدید\nlength , interval \"fragment\": { \"packets\": \"tlshello\", \"length\": \"100-200\", \"interval\": \"10-20\" } \"fragment\": { \"packets\": \"tlshello\", \"length\": \"20-30\", \"interval\": \"30-40\" } \"fragment\": { \"interval\" : \"5\", \"length\" : \"3-5\", \"packets\" : \"1-1\" } پارامتر packets شماره پکتی که قراره فرگمنت بشه رو تعیین میکنه اینجا “1-1” یعنی پکت اول رو تیکه تیکه کن بفرست، اگه خالی بزاری پارامتر packets رو همه پکت ها رو فرگمنت میکنه، اگه “1-3” بزاری پکت اول، دوم و سوم رو تیکه تیکه میکنه میفرسته.\nlinkFragment over DNS linkمی تونید به کانفیگ تون DNS های شکن رو اضافه کنی\nکانفیگ امین با استفاده از DNS\n\"dns\": { \"tag\": \"dns\", \"hosts\": { \"dns.403.online\": [ \"10.202.10.202\", \"10.202.10.102\" ], \"free.shecan.ir\": [ \"178.22.122.100\", \"185.51.200.2\" ] }, \"servers\": [ \"https://free.shecan.ir/dns-query\", \"https://dns.403.online/dns-query\", \"10.202.10.11\", \"10.202.10.10\", \"85.15.1.15\", \"85.15.1.14\" ] }, \"dns\": { \"hosts\": { \"extended.dns.mullvad.net\": [ \"194.242.2.5\", \"194.242.2.6\" ], \"all.dns.mullvad.net\": [ \"194.242.2.8\", \"194.242.2.9\" ] }, \"servers\": [ \"https://extended.dns.mullvad.net/dns-query\", \"https://all.dns.mullvad.net/dns-query\", \"194.242.2.5\", \"194.242.2.6\", \"194.242.2.8\", \"194.242.2.9\" ], \"tag\": \"dns\" }, \"dns\": { \"hosts\": { \"dns.adguard-dns.com\": [ \"94.140.14.14\", \"94.140.15.15\" ], \"family.adguard-dns.com\": [ \"94.140.14.15\", \"94.140.15.16\" ] }, \"servers\": [ \"https://dns.adguard-dns.com/dns-query\", \"https://family.adguard-dns.com/dns-query\", \"94.140.14.14\", \"94.140.15.15\", \"94.140.14.15\", \"94.140.15.16\" ], \"tag\": \"dns\" }, linkRandom Fragment Sub Worker linkترکیب Edge Tunnel و Fragment فوق العادس\nآموزش اتصال به کانفیگ ها با استفاده از فرگمنت در برنامه MahsaNG اندروید\nآموزش اتصال به کانفیگ ها با استفاده از فرگمنت در برنامه V2Box آیفون\nاین فقط یه دونه خروجی جیسون بر اساس اون اطلاعات میسازه که کاستوم کانفیگ دارای فرگمنته این کلا ربطی به اون ورکر نداره فقط میاد بر اساس دامنه و آیدی کانفیگ جیسونش رو میسازه\nکانفیگ های کاستوم رو توی V2rayNG\nworker.js\nبرای استفاده از ورکر ساخت ساب فرگمنت میتونید دامنه خودتون رو جایگزین domain و uuid کانفیگ رو جایگزین userUUID کنید\nنکته: این برای Edge Tunnel نوشته شده و میتونید متناسب با کانفیگ خودتون port، path و … رو تغییر بدید\nlinkWorker Serverless + Fragment linkعبور از فیلترینگ با Edge Tunnel و بررسی پنل BPB و پنل وحید فرید | فیلترشکن رایگان، سریع و ضد تحریم\nنحوه‌ی راه‌اندازی BPB Worker Panel به‌همراه Fragment نسخه‌ی 2.1\nlinkChainWireguard_v2ray_(DNS Fragment) linkhttps://threadreaderapp.com/thread/1757369865550135679.html\nChainWireguard_v2ray_(DNS Fragment)\nlinkChainWireguard_v2ray linkhttps://threadreaderapp.com/thread/1757369865550135679.html\nChainWireguard_v2ray\nlinkChainWireguard_v2ray_(IRDNS Fragment) linkhttps://threadreaderapp.com/thread/1757369865550135679.html\nChainWireguard_v2ray_(IRDNS Fragment)\nlinkVless warp fragment link۱. نصب پنل سنایی\nbash \u003c(curl -Ls https://raw.githubusercontent.com/mhsanaei/3x-ui/master/install.sh)\n۲.سرتیفیکیت دامنه\n۳.نصب warp go\nbash \u003c(curl -Ls https://gitlab.com/rwkgyg/CFwarp/raw/main/CFwarp.sh)\n۴.ساخت کانفینگ\n۵.زدن فرگمنت\nplease be advised the best choice for the server is ubuntu 22 ,\nlinkرفع فیلتر دامنه و ای پی با فرگمنت و وارپ روی تروجان linkفقط به جای vless ws لطفا trojan ws بسازید .\nرفع فیلتر دامنه و ای پی با فرگمنت و وارپ روی تروجان\nlinkStreisand IOS linkاپ #Streisand یکی‌از استیبل‌ترین کلاینت‌ها برای #آیفون هست، که متاسفانه در رابطه با واردکردن کانفیگ JSON از URL با مشکل مواجه بود؛ این‌مهم زمانی اهمیت بیشتری پیدا میکرد که درحال‌حاضر #فرگمنت در ایران به‌عنوان یکی‌از روش‌های کاربردی برای دسترسی آزاد به اینترنت به‌شمار میره /تب\nhttps://apps.apple.com/us/app/streisand/id6450534064?platform=iphone\nlinkآموزش اتصال به کانفیگ ها با استفاده از فرگمنت در برنامه MahsaNG اندروید linkhttps://threadreaderapp.com/thread/1753080310982701493.html\nlinkآموزش اتصال به کانفیگ ها با استفاده از فرگمنت در برنامه Nekoray ویندوز و لینوکس linkلینک‌ دانلود Nekoray : https://github.com/MatsuriDayo/nekoray/releases\nhttps://twitter.com/seramo_ir/status/1757698224897294818\nlinkDNS over HTTPS (DOH) with Adguard on personal server linkهدف ما از این آموزش اینه که به کمک ادگاردی که روی سرورمون ران میکنیم درخواست های DNS رو به صورت رمزنگاری شده برسونیم به سرور خودمون و از اونجا از DOH های معتبر مثه گوگل کلاودفلر ادگارد نکست دی‌ان‌اس استفاده کنیم.بدون اختلال امن و کلی قابلیت دیگه مثه بلاک کردن تبلیغات انتخاب اتوماتیک سریعترین DNS برای جواب دادن و …\nچیزایی که نیاز داریم :\n1.یه سرور با حداقل یه هسته CPU و 2گیگ RAM (آیپی سرور باید تمیز باشه)\n2.یه دامنه‌ی تمیز\nDNS over HTTPS (DOH) with Adguard on personal server\nlinkکلود فلیر linkاز هر دامنه از کلود فلیر که فیلتر نیست می تونید استفاده کنید این لینک های خزنده هم جالب هست https://ircf.space/list.php#\nلیست سایت های چینی که می تونید جای اسپید تست استفاده کنید https://trends.builtwith.com/cdn/Cloudflare/China\nسایت پیدا کردن ای پی تمیز\nآموزش پیدا کردن آی پی سالم کلودفلر برای تمامی اپراتورها\nمجموعه سایتهای معتبر برای دریافت ای پی تمیز کلودفلر ورکر با کارکرد بالا و طولانی مدت\nlinkاگر فرگمنت نزنیم چی میشه؟ linkرو دامنه های قدیمی که از قبل اینجوری وصلن احتمال فیلتر شدن کمه ولی دامنه های جدیدی که تازه بخوان از این روش استفاده کنن کمتر از ۲۴ ساعت و ترافیک زیر ۱۰ گیگ برای خودم دوتا دامنه اینجوری فیلتر شد و حتی دوستان و . .اطرافیان هم همینطور ترافیک شون به ۱۰ گیگ نرسیده دامنه فیلتر شده حتی اگر یک وبسایت داشته باشید و رشد نمایی ترافیک داشته باشد فیلتر می شود.\n但是我们收到了 REALITY 被伊朗 GFW 封锁的报告 XTLS/Xray-core#2778 ，并且 Cloak 似乎没有过于流行以至于会被单独针对，所以伊朗 GFW 可能尚未针对上述小众特征，更有可能是在针对普遍的 IP、域名、流量特征等，它们也会导致 Cloak 被封锁。\nخصیصه های آماری و الگویی اتصال و ای پی و پهنای باند مصرفی و تعداد کانکشن مورد ارزیابی قرار می گیرد و بر اساس آنها فیلتر می شوند هم چنین ربات هایی برای تشخیص سرور وجود دارند که عملیات شناسایی رو سریع تر می کنند.\n"
+            }
+        );
+    index.add(
+            {
+                id:  4 ,
+                href: "\/docs\/blockcommies\/blockcommies\/",
+                title: "بلاک کردن آی‌پی کشورهای کمونیست",
+                description: "بستن ای پی های کشور کمونیست linkایران اکسس نکنید. فقط ای پی کشور های چین روسیه کوبا و رومانی و قزاقستان و اوکراین و کشور هایی که ریکوست زیاد دارند رو ببندید.\nآموزش جلوگیری از حمله به سرور و ایران اکسس کردن با 2 روش ساده\nlinkبستن دامنه های ایران و چین linkبرای این کار فقط کافیه این رو به انتهای کانفیگتون اضافه کنید.\n\"routing\": { \"domainStrategy\": \"IPOnDemand\", \"rules\": [ { \"type\": \"field\", \"ip\": [ \"geoip:cn\", \"geoip:ir\" ], \"outboundTag\": \"block\" }, { \"type\": \"field\", \"domain\": [ \"geosite:category-porn\" ], \"outboundTag\": \"block\" } ] }, ",
+                content: "بستن ای پی های کشور کمونیست linkایران اکسس نکنید. فقط ای پی کشور های چین روسیه کوبا و رومانی و قزاقستان و اوکراین و کشور هایی که ریکوست زیاد دارند رو ببندید.\nآموزش جلوگیری از حمله به سرور و ایران اکسس کردن با 2 روش ساده\nlinkبستن دامنه های ایران و چین linkبرای این کار فقط کافیه این رو به انتهای کانفیگتون اضافه کنید.\n\"routing\": { \"domainStrategy\": \"IPOnDemand\", \"rules\": [ { \"type\": \"field\", \"ip\": [ \"geoip:cn\", \"geoip:ir\" ], \"outboundTag\": \"block\" }, { \"type\": \"field\", \"domain\": [ \"geosite:category-porn\" ], \"outboundTag\": \"block\" } ] }, "
+            }
+        );
+    index.add(
+            {
+                id:  5 ,
+                href: "\/docs\/warp\/warpplus\/warpplus\/",
+                title: "وارپ پلاس",
+                description: "linkآموزش دریافت لایسنس نامحدود Warp Plus از ربات تلگرام و استفاده در Oblivion linkhttps://twitter.com/seramo_ir/status/1756738507446366380",
+                content: " linkآموزش دریافت لایسنس نامحدود Warp Plus از ربات تلگرام و استفاده در Oblivion linkhttps://twitter.com/seramo_ir/status/1756738507446366380\n"
+            }
+        );
+    index.add(
+            {
+                id:  6 ,
+                href: "\/docs\/hide\/hide\/",
+                title: "مخفی سازی",
+                description: "مخفی سازی linkاین روش به تنهایی باعث فیلترشدن دامنه میشود. پهنای باند مصرفی و بات های چینی رو هم باید در نظر بگیرید.\nNginxReverseProxy\nقابلیت های:\nنصب سایت (170 قالب آماده)\nاعمال محدویت ترافیک\nتغییر path\nتغییر پورت HTTPS\nآموزش ایجاد سایت روی دامنه و ساب دامنه با استفاده از انجینیکس",
+                content: "مخفی سازی linkاین روش به تنهایی باعث فیلترشدن دامنه میشود. پهنای باند مصرفی و بات های چینی رو هم باید در نظر بگیرید.\nNginxReverseProxy\nقابلیت های:\nنصب سایت (170 قالب آماده)\nاعمال محدویت ترافیک\nتغییر path\nتغییر پورت HTTPS\nآموزش ایجاد سایت روی دامنه و ساب دامنه با استفاده از انجینیکس\n"
+            }
+        );
+    index.add(
+            {
+                id:  7 ,
+                href: "\/docs\/warp\/warponwarp\/warponwarp\/",
+                title: "وارپ روی وارپ",
+                description: "warp on warp linkwarp-on-warp\nwiregaurd-go\ngithub.com Elfiinaa\nwarp-phiphon\nwarp kian\nاتصال به وارپ روی اکثر اینترنت ها | حل مشکل وارپ\nحالا اگر از وارپ استفاده میکنید اعداد IFP رو تغییر بدید دوباره وصل میشه\nنمونه : ifp=5-10 warp://auto/?ifp=5-10 ",
+                content: "warp on warp linkwarp-on-warp\nwiregaurd-go\ngithub.com Elfiinaa\nwarp-phiphon\nwarp kian\nاتصال به وارپ روی اکثر اینترنت ها | حل مشکل وارپ\nحالا اگر از وارپ استفاده میکنید اعداد IFP رو تغییر بدید دوباره وصل میشه\nنمونه : ifp=5-10 warp://auto/?ifp=5-10 "
+            }
+        );
+    index.add(
+            {
+                id:  8 ,
+                href: "\/docs\/warp\/hiddifynextwarp\/hiddifynextwarp\/",
+                title: "وارپ روی هیدیفای",
+                description: "آموزش اتصال به وارپ با Hiddify Next linkhttps://twitter.com/seramo_ir/status/1756040074607628786",
+                content: "آموزش اتصال به وارپ با Hiddify Next linkhttps://twitter.com/seramo_ir/status/1756040074607628786\n"
+            }
+        );
+    index.add(
+            {
+                id:  9 ,
+                href: "\/docs\/warp\/warppsiphon\/warppsiphon\/",
+                title: "وارپ + سایفون",
+                description: "linkوارپ+سایفون linkوارپ+سایفون ترکیب طلایی وارپ در حالت عادی توسط سیستم فیلترینگ مسدود شد با ترکیب وارپ و سایفون روی ویندوز فیلترینگ را با سرعت دور بزنیم . وای فای مخابرات تست شده\nhttps://threadreaderapp.com/thread/1757057880295903274.html",
+                content: " linkوارپ+سایفون linkوارپ+سایفون ترکیب طلایی وارپ در حالت عادی توسط سیستم فیلترینگ مسدود شد با ترکیب وارپ و سایفون روی ویندوز فیلترینگ را با سرعت دور بزنیم . وای فای مخابرات تست شده\nhttps://threadreaderapp.com/thread/1757057880295903274.html\n"
+            }
+        );
+    index.add(
+            {
+                id:  10 ,
+                href: "\/docs\/bepass\/bepass\/",
+                title: "Bepass",
+                description: "Bepass linkBepass: A DPI-nightmare proxy bepass\nBepass-worker\nبرای کمک به این پروژه کتاب\nNetwork Programming with Go\nرا مطالعه کنید",
+                content: "Bepass linkBepass: A DPI-nightmare proxy bepass\nBepass-worker\nبرای کمک به این پروژه کتاب\nNetwork Programming with Go\nرا مطالعه کنید\n"
+            }
+        );
+    index.add(
+            {
+                id:  11 ,
+                href: "\/docs\/warp\/warpultra\/warpultra\/",
+                title: "وارپ +‌آلتراسرف",
+                description: "وارپ+التراسرف linkوارپ+التراسرف ترکیب طلایی وارپ در حالت عادی توسط سیستم فیلترینگ مسدود شد با ترکیب وارپ و التراسرف روی ویندوز فیلترینگ را با سرعت دور بزنیم . وای فای مخابرات تست شده\nhttps://threadreaderapp.com/thread/1757319934512910486.html",
+                content: "وارپ+التراسرف linkوارپ+التراسرف ترکیب طلایی وارپ در حالت عادی توسط سیستم فیلترینگ مسدود شد با ترکیب وارپ و التراسرف روی ویندوز فیلترینگ را با سرعت دور بزنیم . وای فای مخابرات تست شده\nhttps://threadreaderapp.com/thread/1757319934512910486.html\n"
+            }
+        );
+    index.add(
+            {
+                id:  12 ,
+                href: "\/docs\/warp\/oblivion\/oblivion\/",
+                title: "Oblivion",
+                description: "Oblivion - Unofficial Warp Client for Android linkOblivion provides secure, optimized internet access through a user-friendly Android app. Oblivion\nhttps://twitter.com/seramo_ir/status/1756738507446366380\nhttps://t.me/generatewarpplusbot",
+                content: "Oblivion - Unofficial Warp Client for Android linkOblivion provides secure, optimized internet access through a user-friendly Android app. Oblivion\nhttps://twitter.com/seramo_ir/status/1756738507446366380\nhttps://t.me/generatewarpplusbot\n"
+            }
+        );
+    index.add(
+            {
+                id:  13 ,
+                href: "\/docs\/worker\/worker\/",
+                title: "Worker",
+                description: "Worker linkساخت فیلترشکن رایگان بدون سرور و دامین با استفاده از ورکر Cloudflare-Worker\ncf-ip-scanner\nراهکار جامع کانفیگ‌های v2ray روی ورکر\nv2ray-worker",
+                content: "Worker linkساخت فیلترشکن رایگان بدون سرور و دامین با استفاده از ورکر Cloudflare-Worker\ncf-ip-scanner\nراهکار جامع کانفیگ‌های v2ray روی ورکر\nv2ray-worker\n"
+            }
+        );
+    index.add(
+            {
+                id:  14 ,
+                href: "\/docs\/tunnel\/reverse\/",
+                title: "تونل معکوس",
+                description: "تونل معکوس linkزمانی که حداقل دو تا سرور دارید. یکی ایران و یکی هم خارج لازم هست.\nآموزش تانل معکوس\nchain\nریورس تانل | v2ray | حرفه ای و بدون اختلال با پنل x-ui",
+                content: "تونل معکوس linkزمانی که حداقل دو تا سرور دارید. یکی ایران و یکی هم خارج لازم هست.\nآموزش تانل معکوس\nchain\nریورس تانل | v2ray | حرفه ای و بدون اختلال با پنل x-ui\n"
+            }
+        );
+    index.add(
+            {
+                id:  15 ,
+                href: "\/docs\/yebekhe\/yebekhe\/",
+                title: "Yebekhe",
+                description: "Yebekhe linkTelegramV2rayCollector\ncf-clean-ip-resolver\nv2hub",
+                content: "Yebekhe linkTelegramV2rayCollector\ncf-clean-ip-resolver\nv2hub\n"
+            }
+        );
+    index.add(
+            {
+                id:  16 ,
+                href: "\/docs\/hiddify\/hiddify\/",
+                title: "Hiddify",
+                description: "Hiddify linkآموزش کامل تنظیمات پیشرفته هیدیفای نکست Hiddify Next\nHiddify Next\nhiddify-next github",
+                content: "Hiddify linkآموزش کامل تنظیمات پیشرفته هیدیفای نکست Hiddify Next\nHiddify Next\nhiddify-next github\n"
+            }
+        );
+    index.add(
+            {
+                id:  17 ,
+                href: "\/docs\/mahsang\/mahsang\/",
+                title: "MahsaNG",
+                description: "Mahsa NG linkMahsa NG Application",
+                content: "Mahsa NG linkMahsa NG Application\n"
+            }
+        );
+    index.add(
+            {
+                id:  18 ,
+                href: "\/docs\/amnezia\/amnezia\/",
+                title: "Amnezia",
+                description: "Amnezia VPN linkآموزش نصب و کانفیگ Amnezia VPN روی سرور (نصب ساده با پینگ مناسب - مناسب ترید)\nhttps://threadreaderapp.com/thread/1757093989616947356.html\nبله، زمان ترید ساعت سیستم رو به سوئد تغییر بدین. البته به شرطی که ژئولوکیشن ip سرورتون هم سوئد باشه. از سایت http://ipinfo.io لوکیشن ip تون رو چک کنین.\nاین روش amnezia پارسال یه اپدیت خیلی مهم گرفت که عملا سیستم dpi روسیه رو نابود کرد ازونجایی هم که سیستم dpi ایران عملا همون نسخه روسی هست بنابراین تو ایران هم خوب جواب میده منتها یکسری اشکالات امنیتی داذه که فیلترچی میتونه ازشون سو استفاده کنه ولی اون اشکالاتم میشه حل کرد",
+                content: "Amnezia VPN linkآموزش نصب و کانفیگ Amnezia VPN روی سرور (نصب ساده با پینگ مناسب - مناسب ترید)\nhttps://threadreaderapp.com/thread/1757093989616947356.html\nبله، زمان ترید ساعت سیستم رو به سوئد تغییر بدین. البته به شرطی که ژئولوکیشن ip سرورتون هم سوئد باشه. از سایت http://ipinfo.io لوکیشن ip تون رو چک کنین.\nاین روش amnezia پارسال یه اپدیت خیلی مهم گرفت که عملا سیستم dpi روسیه رو نابود کرد ازونجایی هم که سیستم dpi ایران عملا همون نسخه روسی هست بنابراین تو ایران هم خوب جواب میده منتها یکسری اشکالات امنیتی داذه که فیلترچی میتونه ازشون سو استفاده کنه ولی اون اشکالاتم میشه حل کرد\n"
+            }
+        );
+    index.add(
+            {
+                id:  19 ,
+                href: "\/docs\/dataleak\/dataleak\/",
+                title: "Dataleak",
+                description: "Data leak linkهرکانفیگی که استفاده می کنید حتما یکبار با سایت زیر چک کنید که دیتا لیک نداشته باشد\nhttps://browserleaks.com/\nWebRTC in Firefox\nTo disable WebRTC in Firefox: Type about:config in the address bar and press Enter. In the search bar, type media.peerconnection.enabled and double-click the preference to set its value to false. WebRTC in Chrome\nThe recommended solution to limit the risk of IP leakage via WebRTC is to use the official Google extension called WebRTC Network Limiter, which provides a range of options with varying levels of protection.",
+                content: "Data leak linkهرکانفیگی که استفاده می کنید حتما یکبار با سایت زیر چک کنید که دیتا لیک نداشته باشد\nhttps://browserleaks.com/\nWebRTC in Firefox\nTo disable WebRTC in Firefox: Type about:config in the address bar and press Enter. In the search bar, type media.peerconnection.enabled and double-click the preference to set its value to false. WebRTC in Chrome\nThe recommended solution to limit the risk of IP leakage via WebRTC is to use the official Google extension called WebRTC Network Limiter, which provides a range of options with varying levels of protection. "
+            }
+        );
+    index.add(
+            {
+                id:  20 ,
+                href: "\/docs\/edgetunnel\/edge\/",
+                title: "Edge Tunnel",
+                description: "Edge Tunnel linkبدون داشتن سرور و با Edge Tunnel کانفیگ Vless بساز و محدودیت کلودفلر رو دور بزن",
+                content: "Edge Tunnel linkبدون داشتن سرور و با Edge Tunnel کانفیگ Vless بساز و محدودیت کلودفلر رو دور بزن\n"
+            }
+        );
+    index.add(
+            {
+                id:  21 ,
+                href: "\/docs\/tor\/tor\/",
+                title: "Tor",
+                description: "Tor project linkروش استفاده از مرورگر “تور” در اندروید\nآموزش مخفی کردن آی پی سرور پشت آی پی های پروژه تور (Tor with X-UI)\nترکیب Tor Browser و v2rayNG",
+                content: "Tor project linkروش استفاده از مرورگر “تور” در اندروید\nآموزش مخفی کردن آی پی سرور پشت آی پی های پروژه تور (Tor with X-UI)\nترکیب Tor Browser و v2rayNG\n"
+            }
+        );
+    index.add(
+            {
+                id:  22 ,
+                href: "\/docs\/broker\/ipv6tunnelbroker\/",
+                title: "IPv6 TunnelBroker",
+                description: "IPv6 TunnelBroker linkاگر سرور مجازی شما ipv6 نداره ، این اسکریپت به شما کمک میکنه تا براحتی IPv6 که با استفاده از سرویس های تانل بروکر دریافت کردید رو روی سرور مجازیتون ست کنید. همینطور به راحتی میتونید تنظیمات رو مشاهده کنید یا اون رو به حالت قبل برگردونید.",
+                content: "IPv6 TunnelBroker linkاگر سرور مجازی شما ipv6 نداره ، این اسکریپت به شما کمک میکنه تا براحتی IPv6 که با استفاده از سرویس های تانل بروکر دریافت کردید رو روی سرور مجازیتون ست کنید. همینطور به راحتی میتونید تنظیمات رو مشاهده کنید یا اون رو به حالت قبل برگردونید.\n"
+            }
+        );
+    index.add(
+            {
+                id:  23 ,
+                href: "\/docs\/generalinfo\/generalinfo\/",
+                title: "اطلاعات مهم",
+                description: "از پرداخت با ریال جدا خودداری کنید linkبرای خرید سرور و دامنه و فیلترشکن و تلفن تلگرام هرگز از ریال استفاده نکنید.\nآموزش کیف پول متامسک\nاگر از شبکه ترون\nTRX\nاستفاده کمترین کارمزد رو خواهد داشت.\nشبکه ترون چیست؟\nlinkآدرس فیک link https://www.fakexy.com/ linkاز کجا سرور و دامنه با کریپتو بخرم؟ link https://www.ethernetservers.com/vps-hosting https://www.digiturunc.com/ yottasrc.com https://www.hazi.ro/ https://aeza.net/ https://regxa.com/ https://racknerd.com/NewYear/ https://www.ihc.ru/?ref=405186 https://github.com/dalisoft/awesome-hosting vps2day.com https://vps.one frantech.ca https://hostvds.com/ https://4vps.su/ https://www.netcup.eu/vserver/vps.php#v-server-details my.spectraip.net https://www.namesilo.com/ https://www.",
+                content: "از پرداخت با ریال جدا خودداری کنید linkبرای خرید سرور و دامنه و فیلترشکن و تلفن تلگرام هرگز از ریال استفاده نکنید.\nآموزش کیف پول متامسک\nاگر از شبکه ترون\nTRX\nاستفاده کمترین کارمزد رو خواهد داشت.\nشبکه ترون چیست؟\nlinkآدرس فیک link https://www.fakexy.com/ linkاز کجا سرور و دامنه با کریپتو بخرم؟ link https://www.ethernetservers.com/vps-hosting https://www.digiturunc.com/ yottasrc.com https://www.hazi.ro/ https://aeza.net/ https://regxa.com/ https://racknerd.com/NewYear/ https://www.ihc.ru/?ref=405186 https://github.com/dalisoft/awesome-hosting vps2day.com https://vps.one frantech.ca https://hostvds.com/ https://4vps.su/ https://www.netcup.eu/vserver/vps.php#v-server-details my.spectraip.net https://www.namesilo.com/ https://www.hostinger.com/payments https://bluevps.com/ linkبا کریپتو دامنه بخریم؟ link https://www.spaceship.com/ با 0.6$ دامین shop. و 0.18$ کارمزد ICANN جمعا 0.78$ هزینه خرید\nlinkباریال چجوری کریپتو بخرم linkاگر هیچ دارایی کریپتو ندارید اول با ریال نوبیتکس خرید کنید\nنحوه خرید کریپتو از نوبیتکس\nنوبیتکس آدرس ولت شما رو ذخیره می کنه و چون می تونند با هویت شما تطابق دهند.\nوقتی از درگاه های کریپتو خرید می کنید پول شما وارد استخر می شود و رهگیری اش سخت هست ولی اگر بازم اگر خواستید می تونید از تبدیل های زیر استفاده کنید و به یک ولت دیگر انتقال دهید.\nlinkسایت های ایرانی خرید رمز ارز link https://arzanpay724.com/ https://nobitex.ir/ https://tetherland.com/ https://bit24.cash/ https://ok-ex.io/ linkتوجه linkهرگز آدرس پرداخت رو مستقیم در نوبیتکس نزنید. و در ابتدا به متامسک یا تراست ولت انتقال دهید.\nlinkExchange linkبرای تبدیل دارایی خود می توانید از سایت زیر استفاده کنید\nhttps://swapspace.co https://fixedfloat.com/ https://www.thorswap.finance/ linkاتصال امن و راحت به سرور linkبرای اتصال به سرور از ای پی ایران استفاده نکنید. می تونید حتی از این پراکسی ها استفاده کنید.\nhttps://ssheasy.com/\nlinkدرگاه کریپتو برای فروشندگان linkبه جای پرداخت ریالی پرداخت با ترون راه اندازی کنید.\nhttp://Nowpayments.io http://Coinpayments.net http://Bitpay.com آموزش ثبت نام و تنظیمات درگاه پرداخت NOWPayments\nlinkاگر فیلترشکن با ریال بخریم چه اطلاعاتی رو می توانند به دست بیاورند؟ linkبرخی از فروشندگان فیلترشکن حکومتی هستند . تشخیص اینکه آیا این فیلترشکن حکومتی هست یا نه به سادگی نیست.\nlinkاگر از فیلترشکن حکومتی با ریال خرید کنید چه اطلاعاتی از شما رو به دست می آورند: link نام و نام خانوادگی کدملی آدرس محل سکونت کدپستی آی پی نوع دستگاه و بروزی که استفاده می کنید لیست سایت هایی که مشاهده می کنید لیست خرید های آنلاین از پلتفرم های بزرگ لیست مکان هایی که با اسنپ یا تپسی رفتید linkدرآمد فیلترشکن linkدرآمد ایرانسل حدودا ۳۰ همت\nاسنپ حدودا ۳۲ همت\nو گردش سالانه فیلترینگ حدودا ۵۰-۶۰ همت\nبدون درگیری مجوز و سرمایه‌گذاری و پرداخت حق لایسنس و استخدام نیرو و بیمه و مالیات و حساب و کتاب.\nخودشان به همین سادگی و به هزینه‌ی مردم به اندازه‌ی دو اپراتور اصلی کشور درآمد کسب می‌کنند.\nlinkنکات خرید سرور linkانتخاب سرور\nسیستم عامل سرور Ubuntu 22 پینگ کم (80 تا 100 میلی‌ثانیه) برای اروپا، 160 تا 180 میلی‌ثانیه برای آمریکا دیتاسنترهای اروپایی (فرانکفورت، آمستردام، لوکزامبورگ) بهترین گزینه از اروپای شرقی، ترکیه و امارات دوری کنید مراقب فروشندگان روس و هندی باشید قیمت مناسب: 5 دلار در ماه برای یک VPS نرمال مشخصات سرور\nپورت 1Gbps CPU: حداقل اینتل E5 ورژن 3 یا 4، AMD Ryzen یا EPYC رم: DDR4 یا DDR5 فضای ذخیره: SSD NVMe (نه HDD) ترافیک\nترافیک 1000GB در عمل 500GB ترافیک برای کل یوزرهای VPN شما است. خرید از صرافی‌های کریپتو:\nبا VPN و آدرس اروپایی خرید کنید. *با کارت ویزا یا مستر کارت گزینه‌های بیشتر و ارزانتری هست. نکات مهم برای عبور از فیلترینگ!\nlinkتست سرعت link https://fiber.google.com/speedtest/ https://speed.cloudflare.com/ https://www.speedtest.net/ آینده فیلترینگ linkسیستم فیلترینگ جدید همراه اول چجوری کار میکنه؟\nماشین لرنینگ ها چجوری کار می کنند؟\nداستان dns و فیلترینگ\nConjure\nFingerprinting Obfuscated Proxy Traffic with Encapsulated TLS Handshakes\nاینترنت، فیلترینگ و IPv6\nlinkتاثیرات فیلترینگ linkخیلی خلاصه بگم به دلیل وجود #فیلترینگ:\n۱. دستگاه‌ها و برنامه‌ها به سختی امکان آپدیت دارن و در نتیجه دچار ضعف امنیتی شدن. ۲. وجود vpnهای بدون هویت باعث افزایش زامبی در شبکه شده. ۳. خرید سرور داخلی جهت عبور از محدودیت‌ها توسط افراد غیر متخصص باعث افزایش آسیب‌پذیری شبکه و دیوایس‌های زامبی شده. ۴. الگوی غلط #ایران_اکسس که توهم امنیت ایجاد میکنه باعث عدم توجه جدی به مقوله‌ی امنیت شده. ۵. کوچ متخصصان و سپردن کار به افراد غیر متخصص که این هم بخشیش به خاطر فیلترینگ و این موارد خیلی زیاده، عمدتا نتایج فیلترینگ و البته بخشیش هم تبعات تحریم و شرایط بد اقتصادی کشوره.\nlinkامنیت پلتفرم توییتر linkاگربه امنیت خودتون اهمیت میدین این موارد رو تو اتصال به توییتر خودتون حتما لحاظ کنید\nنکاتی در خصوص امنیت پلتفرم توییتر (X) برای فعالین سیاسی، اجتماعی، مدنی و کلا\" همه !\nHow to Set up 2-Factor Authentication On Twitter Account\nInvestigation on Blocking of Reality in IRAN linkInvestigation on Blocking of Reality in IRAN\n"
+            }
+        );
+    index.add(
+            {
+                id:  24 ,
+                href: "\/docs\/store\/store\/",
+                title: "مخزن دانلود فیلترشکن",
+                description: "مخزن دانلود فیلترشکن linkfdroid.noql.net",
+                content: "مخزن دانلود فیلترشکن linkfdroid.noql.net\n"
+            }
+        );
+    index.add(
+            {
+                id:  25 ,
+                href: "\/docs\/securedns\/securedns\/",
+                title: "Secure DNS",
+                description: "نرم افزار secure dnsعبور از فیلتر سایتهای بر پایه sni/dns فیلتر شدند مثل یوتیوب،توییتر و.در ویندوز linkنرم افزار secure dnsعبور از فیلتر سایتهای بر پایه sni/dns فیلتر شدند مثل یوتیوب،توییتر و.در ویندوز افرادی بدون نیاز به تغییر ای پی می خواهند از این سایتها استفاده کنند\nhttps://threadreaderapp.com/thread/1757688129648013538.html",
+                content: "نرم افزار secure dnsعبور از فیلتر سایتهای بر پایه sni/dns فیلتر شدند مثل یوتیوب،توییتر و.در ویندوز linkنرم افزار secure dnsعبور از فیلتر سایتهای بر پایه sni/dns فیلتر شدند مثل یوتیوب،توییتر و.در ویندوز افرادی بدون نیاز به تغییر ای پی می خواهند از این سایتها استفاده کنند\nhttps://threadreaderapp.com/thread/1757688129648013538.html\n"
+            }
+        );
+    index.add(
+            {
+                id:  26 ,
+                href: "\/docs\/panel\/alireza\/panel\/",
+                title: "پنل علیرضا",
+                description: "پنل علیرضا linkAn Advanced Web Panel • Built on SagerNet/Sing-Box\nپورت ۲۰۹۵ و admin برای یوزر/پسورد\nنصب و بررسی پنل S-UI جایگزین پنل X-UI (ساپورت از تمام پروتکل ها)",
+                content: "پنل علیرضا linkAn Advanced Web Panel • Built on SagerNet/Sing-Box\nپورت ۲۰۹۵ و admin برای یوزر/پسورد\nنصب و بررسی پنل S-UI جایگزین پنل X-UI (ساپورت از تمام پروتکل ها)\n"
+            }
+        );
+    index.add(
+            {
+                id:  27 ,
+                href: "\/docs\/openvpn\/openvpn\/",
+                title: "Openvpn",
+                description: "Open VPN linkبرای این روش یک سرور نیاز دارید.\nآموزش ساخت openvpn روی سرور مجازی",
+                content: "Open VPN linkبرای این روش یک سرور نیاز دارید.\nآموزش ساخت openvpn روی سرور مجازی\n"
+            }
+        );
+    index.add(
+            {
+                id:  28 ,
+                href: "\/docs\/powertunnel\/powertunnel\/",
+                title: "Powertunnel",
+                description: "PowerTunnel for Android linkSimple, scalable, cross-platform and effective solution against government censorship for Android\nhttps://threadreaderapp.com/thread/1757432205570187325.html\nhttps://github.com/krlvm/PowerTunnel-Android",
+                content: "PowerTunnel for Android linkSimple, scalable, cross-platform and effective solution against government censorship for Android\nhttps://threadreaderapp.com/thread/1757432205570187325.html\nhttps://github.com/krlvm/PowerTunnel-Android\n"
+            }
+        );
+    index.add(
+            {
+                id:  29 ,
+                href: "\/docs\/brook\/brook\/",
+                title: "Brook",
+                description: "Brook linkروش جدید دورزدن فیلترینگ با استفاده از Brook آموزش از لینک زیر پلاگین Brook برای نکوباکس رو دانلود و نصب کنید. با این پلاگین می‌تونین بُروک رو در گوشی اندروید با نکوباس اجرا کنین و در کنار اپ اصلی برنامه داشته باشین. (برای تشخیص v8a یا v7a پردازنده گوشی=\u003e تلگرام در منوی setting اون پائین نوع CPU رو زده) plugin آموزش نصب و کانفیگ Brook VPN روی سرور به 2 روش",
+                content: "Brook linkروش جدید دورزدن فیلترینگ با استفاده از Brook آموزش\nاز لینک زیر پلاگین Brook برای نکوباکس رو دانلود و نصب کنید. با این پلاگین می‌تونین بُروک رو در گوشی اندروید با نکوباس اجرا کنین و در کنار اپ اصلی برنامه داشته باشین. (برای تشخیص v8a یا v7a پردازنده گوشی=\u003e تلگرام در منوی setting اون پائین نوع CPU رو زده)\nplugin\nآموزش نصب و کانفیگ Brook VPN روی سرور به 2 روش\n"
+            }
+        );
+    index.add(
+            {
+                id:  30 ,
+                href: "\/docs\/hysteria_tuic\/hysteria_tuic\/",
+                title: "Hysteria 2 and TUIC",
+                description: "Hysteria 2 and TUIC linkآموزش راه اندازی Hysteria 2 و TUIC با یک کلیک همراه با مدیریت کاربران (سرعت بالا و پینگ پایین)\nآموزش راه اندازی Hysteria 2 با یک کلیک (سرعت بالا و پینگ پایین)\naio-proxy All-In-One Proxy Tools\nreality-ezpz",
+                content: "Hysteria 2 and TUIC linkآموزش راه اندازی Hysteria 2 و TUIC با یک کلیک همراه با مدیریت کاربران (سرعت بالا و پینگ پایین)\nآموزش راه اندازی Hysteria 2 با یک کلیک (سرعت بالا و پینگ پایین)\naio-proxy All-In-One Proxy Tools\nreality-ezpz\n"
+            }
+        );
+    index.add(
+            {
+                id:  31 ,
+                href: "\/docs\/net4people\/net4people\/",
+                title: "Net4people",
+                description: "Net4people linknet4people",
+                content: "Net4people linknet4people\n"
+            }
+        );
+    index.add(
+            {
+                id:  32 ,
+                href: "\/docs\/",
+                title: "Docs",
+                description: "",
+                content: ""
+            }
+        );
+    search.addEventListener('input', show_results, true);
+
+    function show_results(){
+        const maxResult =  5 ;
+        const minlength =  0 ;
+        var searchQuery = sanitizeHTML(this.value);
+        var results = index.search(searchQuery, {limit: maxResult, enrich: true});
+
+        
+        const flatResults = new Map(); 
+        for (const result of results.flatMap(r => r.result)) {
+        if (flatResults.has(result.doc.href)) continue;
+        flatResults.set(result.doc.href, result.doc);
+        }
+
+        suggestions.innerHTML = "";
+        suggestions.classList.remove('d-none');
+
+        
+        if (searchQuery.length < minlength) {
+            const minCharMessage = document.createElement('div')
+            minCharMessage.innerHTML = `Please type at least <strong>${minlength}</strong> characters`
+            minCharMessage.classList.add("suggestion__no-results");
+            suggestions.appendChild(minCharMessage);
+            return;
+        } else {
+            
+            if (flatResults.size === 0 && searchQuery) {
+                const noResultsMessage = document.createElement('div')
+                noResultsMessage.innerHTML = "No results for" + ` "<strong>${searchQuery}</strong>"`
+                noResultsMessage.classList.add("suggestion__no-results");
+                suggestions.appendChild(noResultsMessage);
+                return;
+            }
+        }
+
+        
+        for(const [href, doc] of flatResults) {
+            const entry = document.createElement('div');
+            suggestions.appendChild(entry);
+
+            const a = document.createElement('a');
+            a.href = href;
+            entry.appendChild(a);
+
+            const title = document.createElement('span');
+            title.textContent = doc.title;
+            title.classList.add("suggestion__title");
+            a.appendChild(title);
+
+            const description = document.createElement('span');
+            description.textContent = doc.description;
+            description.classList.add("suggestion__description");
+            a.appendChild(description);
+
+            suggestions.appendChild(entry);
+
+            if(suggestions.childElementCount == maxResult) break;
+        }
+    }
+    }());
+</script>
+        
+    </body>
+</html>

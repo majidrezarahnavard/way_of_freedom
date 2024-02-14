@@ -1,0 +1,39 @@
+//
+// _card.scss
+//
+//card
+:root {
+    --card-title-color: var(--text-default);
+    --card-text-color: var(--text-muted);
+}
+
+[data-dark-mode] {
+    --card-title-color: var(--text-default);
+    --card-text-color: var(--gray-500);
+}
+
+.card {
+    background: var(--card-bg);
+    border-color: var(--card-border-color);
+    border-radius: 4px;
+    transition: all 0.2s;
+    -webkit-transition: all 0.2s;
+    .card-body {
+        padding: 1.5rem;
+    }
+    &:hover {
+        border-color: var(--card-border-hover-color);
+        .card-title {
+            color: #fff;
+        }
+    }
+}
+
+.card-title {
+    color: var(--card-title-color);
+}
+
+.card-text {
+    color: var(--card-text-color);
+    font-weight: 500;
+}

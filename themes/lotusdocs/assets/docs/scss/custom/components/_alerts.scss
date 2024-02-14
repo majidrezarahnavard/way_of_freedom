@@ -1,0 +1,241 @@
+:root {
+    --alert-border-color: #dee2e6;
+
+    // Default
+    --alert-default-color: 225.9, 68%, 95.1%;
+    --alert-default-bg: hsl(var(--alert-default-color));
+    --alert-default-border-color: var(--alert-border-color);
+
+    // Primary
+    --alert-primary-color: var(--primary-50-hsl);
+    --alert-primary-bg: hsl(var(--alert-primary-color),0.5);
+    --alert-primary-border-color: var(--alert-border-color);
+
+    // Info
+    --alert-info-color: 204, 45.5%, 97.8%;
+    --alert-info-bg: hsl(var(--alert-info-color));
+    --alert-info-border-color: var(--alert-border-color);
+
+    // Success
+    --alert-success-color: var(--emerald-50-hsl);
+    --alert-success-bg: hsl(var(--alert-success-color),0.4);
+    --alert-success-border-color: var(--alert-border-color);
+
+    // Danger
+    --alert-danger-color: var(--cardinal-50-hsl);
+    --alert-danger-bg: hsl(var(--alert-danger-color),0.5);
+    --alert-danger-border-color: var(--alert-border-color);
+
+    // Warning
+    --alert-warning-color: var(--yellow-50-hsl);
+    --alert-warning-bg: hsl(var(--alert-warning-color),0.5);
+    --alert-warning-border-color: var(--alert-border-color);
+
+    // Light
+    --alert-light-bg: var(--gray-200);
+    --alert-light-border-color: var(--alert-border-color);
+
+    // Dark
+    --alert-dark-bg: var(--gray-800);
+    --alert-dark-border-color: var(--alert-border-color);
+
+}
+
+[data-dark-mode] {
+    --alert-border-color: var(--gray-800);
+
+    // Default
+    --alert-default-bg: hsl(var(--alert-default-color),0.05);
+    --alert-default-border-color: var(--alert-border-color);
+
+    // Primary
+    --alert-primary-bg: hsl(var(--primary-hsl),0.1);
+    --alert-primary-icon-color: var(--primary-200);
+    --alert-primary-border-color: var(--primary-800);
+
+    // Info
+    --alert-info-bg: hsl(var(--blue-500-hsl),0.1);
+    --alert-info-icon-color: var(--blue-200);
+    --alert-info-border-color: var(--blue-800);
+
+    // Success
+    --alert-success-bg: hsl(var(--emerald-500-hsl),0.1);
+    --alert-success-icon-color: var(--emerald-200);
+    --alert-success-border-color: var(--emerald-800);
+
+    // Danger
+    --alert-danger-bg: hsl(var(--cardinal-500-hsl),0.1);
+    --alert-danger-icon-color: var(--cardinal-200);
+    --alert-danger-border-color: var(--cardinal-800);
+
+    // Warning
+    --alert-warning-bg: hsl(var(--yellow-500-hsl),0.1);
+    --alert-warning-icon-color: var(--yellow-200);
+    --alert-warning-border-color: var(--yellow-800);
+
+    // Light
+    --alert-light-bg: var(--gray-900);
+    --alert-light-icon-color: var(--gray-200);
+    --alert-light-border-color: var(--gray-800);
+
+    // Dark
+    --alert-dark-bg: var(--gray-400);
+    --alert-dark-icon-color: var(--gray-800);
+    --alert-dark-border-color: var(--gray-200);
+}
+.alert {
+    // font-family: $font-family-monospace;
+    font-size: var(--font-size-sm);
+    border-radius: 4px;
+    color: var(--gray-700);
+
+    p {
+        line-height: 1.525rem;
+    }
+
+    p:last-child {
+        margin-bottom: 0;
+    }
+}
+
+.alert-icon {
+    margin-right: 0.35rem;
+}
+
+.alert-default {
+    background-color: var(--alert-default-bg);
+    border-color: var(--alert-border-color);
+    color: var(--text-default);
+}
+
+.alert-white {
+    background-color: rgba(255, 255, 255, 0.95);
+}
+
+.alert-primary {
+    background-color: var(--alert-primary-bg);
+    border-color: var(--alert-primary-border-color);
+    color: var(--text-default);
+
+    > .alert-icon span {
+        color: var(--alert-primary-icon-color);
+        margin-top: 0.15rem;
+    }
+}
+
+.alert-primary a {
+    font-weight: bold;
+    // color: $white;
+}
+
+.alert-success {
+    background-color: var(--alert-success-bg);
+    border-color: var(--alert-success-border-color);
+    color: var(--text-default);
+
+    > .alert-icon span {
+        color: var(--alert-success-icon-color);
+        margin-top: 0.15rem;
+    }
+}
+
+.alert-success a {
+    font-weight: bold;
+}
+
+.alert-info {
+    background-color: var(--alert-info-bg);
+    border-color: var(--alert-info-border-color);
+    color: var(--text-default);
+
+    > .alert-icon span {
+        color: var(--alert-info-icon-color);
+        margin-top: 0.15rem;
+    }
+}
+
+.alert-info a {
+    font-weight: bold;
+    // color: #04414d;
+}
+
+.alert-warning {
+    background-color: var(--alert-warning-bg);
+    border-color: var(--alert-warning-border-color);
+    color: var(--text-default);
+
+    > .alert-icon span {
+        color: var(--alert-warning-icon-color);
+        margin-top: 0.15rem;
+    }
+}
+
+.alert-warning .alert-link {
+    color: #523e02;
+}
+
+.alert-danger {
+    background-color: var(--alert-danger-bg);
+    border-color: var(--alert-danger-border-color);
+    color: var(--text-default);
+
+    > .alert-icon span {
+        color: var(--alert-danger-icon-color);
+        margin-top: 0.15rem;
+    }
+}
+
+.alert-danger .alert-link {
+    color: #6a1a21;
+}
+
+.alert-light {
+    background-color: var(--alert-light-bg);
+    border-color: var(--alert-light-border-color);
+    color: var(--text-default);
+
+    > .alert-icon span {
+        color: var(--alert-light-icon-color);
+        margin-top: 0.15rem;
+    }
+}
+
+.alert-light .alert-link {
+    color: #4f5050;
+}
+
+.alert-dark {
+    background-color: var(--alert-dark-bg);
+    border-color: var(--alert-dark-border-color);
+    color: var(--text-default-inv);
+
+    > .alert-icon span {
+        color: var(--alert-dark-icon-color);
+        margin-top: 0.15rem;
+    }
+}
+
+.alert-dark .alert-link {
+    color: #101214;
+}
+
+.alert .alert-link:hover,
+.alert .alert-link:focus {
+    text-decoration: none;
+}
+
+.alert-dismissible .btn-close {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    right: 1rem;
+    z-index: 2;
+    padding: 0.5rem;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='32' height='32' viewBox='0 0 24 24' fill='none' stroke='currentColor' stroke-width='2' stroke-linecap='round' stroke-linejoin='round' class='feather feather-x'%3E%3Cline x1='18' y1='6' x2='6' y2='18'%3E%3C/line%3E%3Cline x1='6' y1='6' x2='18' y2='18'%3E%3C/line%3E%3C/svg%3E");
+    background-size: 1.5rem;
+    filter: invert(1) grayscale(100%) brightness(200%);
+}
+
+[data-global-alert="closed"] #announcement {
+    display: none;
+}

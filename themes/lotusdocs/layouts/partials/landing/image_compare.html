@@ -1,0 +1,68 @@
+{{ $sectionTitle := .Scratch.Get "sectionTitle" }}
+{{ with (index .Site.Data.landing $sectionTitle) }}
+{{ if eq .enable true }}
+<section id="{{ $sectionTitle }}">
+    <div class="container mt-100 mt-60">
+        <div class="row justify-content-center">
+            <div class="col-12 text-center">
+                <div class="section-title mb-4 pb-2">
+                    {{ with .title }}
+                        <h4 class="title fw-bold mb-4">{{ . }}</h4>
+                    {{ end }}
+                    {{ with .subtitle }}
+                        <p class="text-muted para-desc mb-0 mx-auto">{{ . | markdownify }}</p>
+                    {{ end }}
+                </div>
+            </div><!--end col-->
+        </div><!--end row-->
+
+        <div class="row justify-content-center">
+            <div class="col-lg-8 col-md-12 mt-3 pt-2 text-center">
+                <ul class="nav nav-pills nav-justified flex-column flex-sm-row rounded bg-primary" id="pills-tab-{{ $sectionTitle }}" role="tablist">
+                    {{ range $index, $value := .items }}
+                        <li class="nav-item">
+                            <a class="nav-link rounded{{ if (eq $index 0) }} active{{ end }}" id="{{ anchorize .title }}-tab" data-bs-toggle="pill" href="#pills-{{ $sectionTitle }}-{{ anchorize .title }}" role="tab" aria-controls="pills-{{ anchorize .title }}" aria-selected="false">
+                                <div class="text-center py-2">
+                                    <p class="mb-0 fs-6 fw-semibold">{{ .title }}</p>
+                                </div>
+                            </a><!--end nav link-->
+                        </li><!--end nav item-->
+                    {{ end }}
+                </ul><!--end nav pills-->
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-12 mt-4 pt-2">
+                <div class="tab-content" id="pills-tab-{{ $sectionTitle }}Content">
+                    {{ range $index, $value := .items }}
+                    <div class="tab-pane fade show{{ if (eq $index 0) }} active{{ end }}" id="pills-{{ $sectionTitle }}-{{ anchorize .title }}" role="tabpanel" aria-labelledby="{{ anchorize .title }}-tab">
+                        <div class="row align-items-center">
+                            <div class="col-md-12">
+                                {{ $title := .title }}
+                                {{ $path := .imagePath | default "images" }}
+                                {{ $imageBefore := .imageBefore }}
+                                {{ $imageAfter := .imageAfter }}
+                                {{ $pathBefore := printf "%s/%s" $path $imageBefore }}
+                                {{ $pathAfter := printf "%s/%s" $path $imageAfter }}
+                                {{ with and $imageBefore $imageAfter }}
+                                    <div id="{{ anchorize $title }}-compare" class="image-compare rounded-md border">
+                                        {{ with $imageBefore := resources.Get $pathBefore }}
+                                            <img src="{{ .RelPermalink }}" alt="{{ $imageBefore }}" />
+                                        {{ end }}
+                                        {{ with $imageAfter := resources.Get $pathAfter }}
+                                            <img src="{{ .RelPermalink }}" alt="{{ $imageAfter }}" />
+                                        {{ end }}
+                                    </div>
+                                {{ end }}
+                            </div><!--end col-->
+                        </div><!--end row-->
+                    </div><!--end teb pane-->
+                    {{ end }}
+                </div><!--end tab content-->
+            </div><!--end col-->
+        </div><!--end row-->
+    </div><!--end container-->
+</section>
+{{ end }}
+{{ end }}

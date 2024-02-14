@@ -1,0 +1,2 @@
+<script defer data-domain="{{ .Site.Params.plausible.dataDomain }}" {{ if .Site.Params.plausible.eventAPI }}data-api='{{ .Site.Params.plausible.eventAPI }}'{{ end }} src='{{ .Site.Params.plausible.scriptURL | default "https://plausible.io/js/script.js" }}'></script>
+<script>window.plausible = window.plausible || function() { (window.plausible.q = window.plausible.q || []).push(arguments) }</script>

@@ -1,0 +1,33 @@
+{{ $dest := .Destination }}
+{{ $text := .PlainText }}
+{{ $url := urls.Parse $dest }}
+
+{{ $image := newScratch }}
+{{ with $url.Scheme }}
+  {{  $image.Set "resource" (resources.GetRemote $dest) }}
+{{ else }}
+  {{  $image.Set "resource" (resources.Get $dest) }}
+{{ end }}
+
+{{ if .Title }}
+  <figure>
+    {{ with ($image.Get "resource") }}
+      {{ if eq .MediaType.SubType "svg" }}
+        {{ .Content | safeHTML }}
+      {{ else }}
+        <img src="{{ .RelPermalink | safeURL }}" alt="{{ $text }}" width="{{ .Width }}" height="{{ .Height }}" loading="lazy">
+      {{ end }}
+    {{ else }}
+      <img src="{{ .Destination | safeURL }}" alt="{{ $text }}" width="{{ .Width }}" height="{{ .Height }}" loading="lazy">
+    {{ end }}
+    <figcaption>{{ .Title | markdownify }}</figcaption>
+  </figure>
+{{ else }}
+  {{ with ($image.Get "resource") }}
+    {{ if eq .MediaType.SubType "svg" }}
+      {{ .Content | safeHTML }}
+    {{ else }}
+      <img src="{{ .RelPermalink | safeURL }}" alt="{{ $text }}" width="{{ .Width }}" height="{{ .Height }}" loading="lazy">
+    {{ end }}
+  {{ end }}
+{{ end }}

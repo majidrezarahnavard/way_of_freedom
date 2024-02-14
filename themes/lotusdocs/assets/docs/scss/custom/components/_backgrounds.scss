@@ -1,0 +1,37 @@
+//
+// backgrounds.scss
+//
+
+:root {
+    --bg-default: hsl(var(--primary-800-hsl),0.1);
+    --bg-default-border: hsl(var(--primary-800-hsl),0.1);
+    --bg-default-color: var(--text-default);
+}
+
+[data-dark-mode] {
+    --bg-default: var(--gray-800);
+    --bg-default-border: hsl(var(--primary-200-hsl),0.1);
+    --bg-default-color: var(--text-default);
+}
+
+.bg-default {
+    background-color: var(--bg-default) !important;
+    border: 1px solid var(--bg-default-border) !important;
+    color: var(--bg-default-color) !important;
+}
+
+.bg-primary {
+    background-color: var(--btn-primary-bg) !important;
+    border: 1px solid var(--btn-primary-border) !important;
+    color: var(--btn-primary-color) !important;
+}
+// .bg-light {
+//     background-color: rgba($value, 0.1) !important;
+//     border: 1px solid rgba($value, 0.1) !important;
+//     color: #{$value} !important;
+// }
+// .bg-dark {
+//     background-color: rgba($value, 0.1) !important;
+//     border: 1px solid rgba($value, 0.1) !important;
+//     color: #{$value} !important;
+// }

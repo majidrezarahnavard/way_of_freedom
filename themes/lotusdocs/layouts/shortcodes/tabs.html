@@ -1,0 +1,25 @@
+<!-- https://github.com/rvanhorn/hugo-dynamic-tabs -->
+<nav>
+	<div class="nav nav-tabs" id="nav-tab" role="tablist">
+
+		{{ $tabTotal := .Get "tabTotal" }}
+		{{ $tabRightAlign := .Get "tabRightAlign" }}
+		{{ $tabName := .Scratch.Get "tabName" }}
+		{{ $tabID := .Scratch.Get "tabID" }}
+
+		{{ range $i, $sequence := (seq $tabTotal) }}
+
+		<a class="nav-link {{ if eq $i 0 }} active{{ end }}{{ if in $tabRightAlign (add 1 $i) }} ms-auto {{ end }}"
+		   id="{{ (index $tabID $i) }}Tab" data-bs-toggle="tab" data-bs-target="#{{ (index $tabID $i) }}"
+		   type="button" role="tab" aria-controls="{{ (index $tabID $i) }}" aria-selected="true">{{ (replaceRE "(\\s)" " " (index $tabName $i)) }}</a>
+
+		{{ end }}
+
+	</div>
+</nav>
+
+<div class="tab-content" id="nav-tab-content">
+
+	{{ .Inner }}
+
+</div>

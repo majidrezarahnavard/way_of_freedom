@@ -1,0 +1,41 @@
+/* Mermaid */
+
+.docs-content .main-content pre {
+
+    &.mermaid {
+        background-color: transparent !important;
+        text-align: center !important;
+        .messageText {
+            fill: var(--text-default) !important;
+        }
+        .messageLine0,
+        .messageLine1 {
+            stroke: var(--text-default) !important;
+        }
+        #arrowhead path,
+        #crosshead path {
+            fill: var(--text-default) !important;
+            stroke: var(--text-default) !important;
+        }
+        .edgePaths path {
+            stroke: var(--text-default) !important;
+        }
+        .marker {
+            fill: var(--text-default) !important;
+            stroke: var(--text-default) !important;
+        }
+        .grid .tick {
+            stroke: var(--text-default) !important;
+
+            text {
+                fill: var(--text-default) !important;
+            }
+        }
+        line {
+            stroke: var(--text-default) !important;
+        }
+        text {
+            fill: var(--text-default) !important;
+        }
+    }
+}

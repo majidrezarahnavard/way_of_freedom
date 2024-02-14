@@ -1,0 +1,16 @@
+# theme.toml template for a Hugo theme
+# See https://github.com/gohugoio/hugoThemes#themetoml for an example
+
+name = "Lotus Docs"
+license = "MIT"
+licenselink = "https://github.com/colinwilson/lotusdocs/release/LICENSE"
+description = "A lightweight, modern documentation theme for Hugo"
+homepage = "https://github.com/colinwilson/lotusdocs"
+demosite = "https://lotusdocs.dev/docs/"
+tags = ["documentation", "responsive", "bootstrap", "minimal", "secure", "search", "customizable", "modern","dark", "dark mode", "landing page"]
+features = ["security aware", "fast by default", "seo-ready","custom shortcodes", "prismjs syntax highlighting", "deploy to vercel", "flexsearch static search", "docsearch", "landing page layouts", "dark mode"]
+min_version = "0.120.0"
+
+[author]
+  name = "Colin Wilson"
+  homepage = "https://colinwilson.uk"

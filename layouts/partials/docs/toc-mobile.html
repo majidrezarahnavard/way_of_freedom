@@ -1,0 +1,2 @@
+{{ $toc := .TableOfContents }}
+{{ replaceRE "<ul>" "<ul class=\"dropdown-menu\">" (replaceRE "<nav id=\"TableOfContents\">" "<nav id=\"toc-mobile\">" $toc) 1 | safeHTML }}

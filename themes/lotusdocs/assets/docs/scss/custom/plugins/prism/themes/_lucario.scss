@@ -1,0 +1,149 @@
+/*
+ Lucario Theme originally by Raphael Amorim [@raphamorim]
+ https://github.com/raphamorim/lucario
+
+ Ported for PrismJS by Christopher Kapic [@christopher-kapic]
+
+ Adapted for Lotus Docs by Colin Wilson
+ Website: https://colinwilson.uk
+ Twitter Handle: https://twitter.com/colinwilsonuk
+*/
+
+:root {
+    --prism-code-color: #f8f8f2;
+    --prism-code-bg: #263E52;
+    --prism-code-scrollbar-thumb-color: var(--gray-400);
+    --prism-line-highlight-bg-color: #8c78d2;
+    --prism-copy-btn-bg-hover-color: var(--white);
+}
+
+[data-dark-mode] {
+    --prism-code-color: #dee2e6;
+    --prism-code-bg: var(--gray-900);
+    --prism-code-scrollbar-thumb-color: var(--gray-600);
+    --prism-line-highlight-bg-color: #8c78d2;
+    --prism-copy-btn-bg-hover-color: var(--white);
+}
+
+code[class*="language-"],
+pre[class*="language-"] {
+    color: var(--prism-code-color);
+    // text-shadow: 0 1px rgba(0, 0, 0, 0.3);
+    background: var(--prism-code-bg) !important;
+}
+
+/* Code blocks */
+pre[class*="language-"] {
+    // padding: 1em;
+    // margin: .5em 0;
+    overflow: auto;
+    border-radius: 0.3em;
+}
+
+:not(pre)>code[class*="language-"],
+pre[class*="language-"] {
+    background: #263E52;
+}
+
+/* Inline code */
+:not(pre)>code[class*="language-"] {
+    padding: .1em;
+    border-radius: .3em;
+    white-space: normal;
+}
+
+.line-highlight.line-highlight {
+    background: linear-gradient(to right, hsla(0, 0%, 54%, .1) 70%, hsla(0, 0%, 33%, 0));
+}
+
+.line-highlight:before,
+.line-highlight[data-end]:after {
+    background-color: var(--prism-line-highlight-bg-color);
+}
+
+[data-copy-state="copy"] span:empty::before {
+    background-color: var(--gray-400);
+}
+
+[data-copy-state="copy"] span:empty:hover::before {
+    background-color: var(--prism-copy-btn-bg-hover-color);
+}
+
+[data-copy-state="copy-success"] span:empty::before {
+    background-color: var(--emerald-200);
+}
+
+.token.comment,
+.token.prolog,
+.token.doctype,
+.token.cdata {
+    color: #5c98cd;
+}
+
+.token.punctuation {
+    color: #f8f8f2;
+}
+
+.namespace {
+    opacity: .7;
+}
+
+.token.property,
+.token.tag,
+.token.constant,
+.token.symbol,
+.token.deleted {
+    color: #F05E5D;
+}
+
+.token.boolean,
+.token.number {
+    color: #BC94F9;
+}
+
+.token.selector,
+.token.attr-name,
+.token.string,
+.token.char,
+.token.builtin,
+.token.inserted {
+    color: #FCFCD6;
+}
+
+.token.operator,
+.token.entity,
+.token.url,
+.language-css .token.string,
+.style .token.string,
+.token.variable {
+    color: #f8f8f2;
+}
+
+.token.atrule,
+.token.attr-value,
+.token.function,
+.token.class-name {
+    color: #66D8EF;
+}
+
+.token.keyword {
+    color: #6EB26E;
+}
+
+.token.regex,
+.token.important {
+    color: #F05E5D;
+}
+
+.token.important,
+.token.bold {
+    font-weight: bold;
+}
+
+.token.italic {
+    font-style: italic;
+}
+
+.token.entity {
+    cursor: help;
+}

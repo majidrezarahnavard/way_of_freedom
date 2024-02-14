@@ -1,0 +1,61 @@
+{{ $sectionTitle := .Scratch.Get "sectionTitle" }}
+{{ with (index .Site.Data.landing $sectionTitle) }}
+{{ if eq .enable true }}
+<!-- Single-Right Start -->
+<section id="{{ $sectionTitle }}">
+    <div class="container mt-100 mt-60">
+        <div class="row align-items-center">
+
+            <div class="col-lg-6 col-md-5 {{ if eq .imgOrder.desktop 1 }}order-md-first{{ else }}order-md-last{{ end }} {{ if eq .imgOrder.mobile 1 }}order-first{{ else }}order-last{{ end }}">
+                <div class="position-relative">
+                    {{ with .image }}
+                        {{ $path := .path | default "images" }}
+                        {{ $filename := .filename }}
+                        {{ $alt := .alt | default "feature image (right)" }}
+                        {{ $path := printf "%s/%s" $path $filename }}
+                        {{ with $filename }}
+                            <div class="text-center text-md-start">
+                                {{ with $image := resources.Get $path }}
+                                    {{ if eq .MediaType.SubType "svg" }}
+                                        {{ .Content | safeHTML }}
+                                    {{ else }}
+                                        {{ with .Resize (printf "%dx%d webp q85 drawing Lanczos" .Width .Height) }}
+                                            <img src="{{ .RelPermalink }}" class="img-fluid" width="{{ .Width }}" height="{{ .Height }}" alt="{{ $alt }}">
+                                        {{ end }}
+                                    {{ end }}
+                                {{ end }}
+                            </div>
+                        {{ end }}
+                    {{ end }}
+                </div>
+            </div><!--end col-->
+
+            <div class="col-lg-6 col-md-7 mt-5 mt-sm-0 {{ if eq .imgOrder.desktop 1 }}order-md-last{{ else }}order-md-first{{ end }} {{ if eq .imgOrder.mobile 1 }}order-last{{ else }}order-first{{ end }}">
+                <div class="section-title">
+                    {{ with .title }}
+                    <h1 class="title mb-3">{{ . }}</h1>
+                    {{ end }}
+                    {{ with .subtitle }}
+                    <p class="para-desc text-muted">{{ . | markdownify }}</p>
+                    {{ end }}
+                    {{ if .list }}
+                    <ul class="list-unstyled text-muted">
+                        {{ range .list }}
+                        <li class="mb-1"><span class="text-primary h5 me-2"><i class="material-icons align-middle size-20">{{ .icon }}</i></span>{{ .text | markdownify }}</li>
+                        {{ end }}
+                    </ul>
+                    {{ end }}
+                    {{ with .ctaButton }}
+                    <div class="mt-4">
+                        <a href="{{ .url }}" class="mt-3 h6 text-primary">{{ .text | markdownify }} <i class="material-icons align-middle mb-1">chevron_right</i></a>
+                    </div>
+                    {{ end }}
+                </div>
+            </div>
+
+        </div>
+    </div>
+</section>
+<!-- Single-Right End -->
+{{ end }}
+{{ end }}

@@ -1,0 +1,79 @@
+//
+// Forms.scss
+//
+
+:root {
+    --form-border-color: var(--gray-200);
+    --form-control-focus-color: var(--gray-900);
+    --form-control-focus-bg-color: none;
+    --form-control-focus-border-color: var(--primary);
+    --form-control-placeholder-color: #666d78;
+
+    --form-check-input-border-color:var(--gray-400);
+    --form-check-input-background-color:var(--primary);
+    --form-check-input-checked-border-color:var(--primary);
+    --form-check-input-checked-bg-image: url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='-4 -4 8 8'><circle r='2' fill='%23fff'/></svg>");
+}
+
+[data-dark-mode] {
+    --form-border-color: var(--gray-800);
+    --form-control-focus-color: var(--gray-200);
+    --form-control-focus-bg-color: #000;
+    --form-control-focus-border-color: var(--primary-300);
+    --form-control-placeholder-color: #7f8497;
+
+    --form-check-input-border-color:var(--gray-700);
+    --form-check-input-background-color:var(--primary-300);
+    --form-check-input-checked-border-color:var(--primary-300);
+    --form-check-input-checked-bg-image: url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='-4 -4 8 8'><circle r='2' fill='%23181921'/></svg>");
+}
+
+//Form
+.form-label,
+.form-check-label {
+    font-weight: 700;
+    font-size: 14px;
+}
+
+.form-control {
+    border: 1px solid var(--form-border-color);
+    font-size: 14px;
+    line-height: 22px;
+    border-radius: 4px;
+    color: var(--text-default) !important;
+    background-color: var(--body-bg);
+    text-align: left;
+    &:focus {
+        border-color: var(--primary);
+        box-shadow: none;
+    }
+    &[readonly] {
+        background-color: var(--white);
+    }
+    &:disabled {
+        background-color: var(--gray-300);
+    }
+    &::placeholder{
+        color: var(--form-control-placeholder-color);
+    }
+}
+
+.form-control:focus {
+    color: var(--form-control-focus-color);
+    border-color: var(--form-control-focus-border-color);
+    background-color: var(--form-control-focus-bg-color);
+}
+
+.form-check-input {
+    border: 1px solid var(--form-check-input-border-color);
+    background-color: var(--body-bg);
+    &:focus {
+        border-color: var(--primary);
+        box-shadow: none;
+    }
+    &.form-check-input:checked {
+        background-color: var(--form-check-input-background-color);
+        border-color: var(--form-check-input-checked-border-color);
+        --bs-form-check-bg-image: var(--form-check-input-checked-bg-image);
+    }
+}

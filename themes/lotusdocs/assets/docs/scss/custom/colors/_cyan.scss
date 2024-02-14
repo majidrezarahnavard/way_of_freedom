@@ -1,0 +1,17 @@
+// cyan
+:root {
+    --primary: var(--cyan);
+    --primary-50: var(--cyan-50);
+    --primary-100: var(--cyan-100);
+    --primary-200: var(--cyan-200);
+    --primary-300: var(--cyan-300);
+    --primary-400: var(--cyan-400);
+    --primary-800: var(--cyan-800);
+
+    --primary-hsl: var(--cyan-500-hsl);
+    --primary-50-hsl: var(--cyan-50-hsl);
+    --primary-100-hsl: var(--cyan-100-hsl);
+    --primary-200-hsl: var(--cyan-200-hsl);
+    --primary-300-hsl: var(--cyan-300-hsl);
+    --primary-800-hsl: var(--cyan-800-hsl);
+}

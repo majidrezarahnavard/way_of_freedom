@@ -1,0 +1,185 @@
+//
+// features.scss
+//
+
+@each $name,
+$value in $theme-colors {
+    .features {
+        &.feature-#{$name} {
+            .icon {
+                background: rgba($value, 0.05);
+            }
+
+            .no-icon {
+                background: transparent;
+            }
+
+            .image {
+                &:before {
+                    background: linear-gradient(45deg, transparent, rgba($value, 0.1));
+                }
+            }
+
+            .read-more,
+            .color {
+                color: $value !important;
+            }
+
+            &.feature-clean {
+                .icons {
+                    color: $value !important;
+                    i {
+                        background-color: rgba($value, 0.1);
+                    }
+                }
+                .title {
+                    &:hover {
+                        color: $value !important;
+                    }
+                }
+            }
+
+            &.feature-full-bg {
+                .icon-color {
+                    color: $value !important;
+                }
+                &:hover {
+                    background-color: $value !important;
+                }
+            }
+
+            &.key-feature {
+                .icon {
+                    background: linear-gradient(45deg, transparent, rgba($value, 0.15));
+                    color: $value;
+                }
+            }
+            &.course-feature {
+                .full-img {
+                    color: $value !important;
+                }
+            }
+
+            &.explore-feature {
+                &:hover {
+                    .icons,
+                    .title {
+                        color: $value !important;
+                    }
+                }
+            }
+
+            .btn-soft {
+                background-color: rgba($value, 0.05) !important;
+                border: 1px solid rgba($value, 0.05) !important;
+                color: #{$value} !important;
+                box-shadow: 0 3px 5px 0 rgba($value, 0.1);
+                &:hover, &:focus, &:active, &.active, &.focus{
+                    background-color: #{$value} !important;
+                    border-color: #{$value} !important;
+                    color: $white !important;
+                }
+            }
+
+            &:hover {
+                .image {
+                    &:before {
+                        background: rgba($value, 0.1);
+                    }
+                }
+            }
+        }
+    }
+}
+
+.features {
+    .image {
+        &:before {
+            content: "";
+            position: absolute;
+            bottom: 5px;
+            left: 5px;
+            width: 64px;
+            height: 64px;
+            border-radius: 6px;
+            transform: rotate(33.75deg);
+        }
+    }
+    &.feature-clean {
+        background-color: $body-bg;
+        .icons {
+            i {
+                height: 65px;
+                width: 65px;
+                line-height: 65px;
+            }
+        }
+    }
+    .ride-image {
+        transform: rotate(-45deg);
+        img {
+            border-radius: 100% 100% 100% 0;
+        }
+    }
+
+    &.key-feature {
+        transition: all 0.3s ease;
+        &:hover {
+            transform: scale(1.05);
+            box-shadow: $shadow-md !important;
+        }
+    }
+
+    &:hover {
+        .image {
+            &:before {
+                animation: spinner-border 5s linear infinite !important;
+            }
+        }
+    }
+    &.feature-full-bg {
+        transition: all 0.5s ease;
+        .big-icon {
+            position: absolute;
+            top: 50%;
+            transform: translateY(-50%);
+            left: 0;
+            right: 0;
+            opacity: 0.015;
+            font-size: 180px;
+        }
+        &:hover {
+            box-shadow: $shadow-lg;
+            color: $white !important;
+            .icon-color i,
+            .para {
+                color: rgba($white, 0.5) !important;
+            }
+            .content,
+            .icon-color {
+                z-index: 2;
+            }
+            .big-icon {
+                opacity: 0.05;
+            }
+            .readmore {
+                color: $white !important;
+            }
+        }
+    }
+}
+.features,
+.key-feature {
+    .title {
+        font-size: 22px !important;
+    }
+    .icon,
+    .no-icon {
+        height: 45px;
+        min-width: 45px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+}
+

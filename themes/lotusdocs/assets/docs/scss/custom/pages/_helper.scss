@@ -1,0 +1,330 @@
+//
+// _helper.scss
+//
+.fw-medium {
+    font-weight: var(--fw-medium);
+}
+
+.section {
+    padding: 100px 0;
+    position: relative;
+
+    @media (max-width: 768px) {
+        padding: 60px 0;
+    }
+}
+
+.bg-overlay {
+    background-color: var(--overlay);
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 100%
+}
+
+.bg-overlay-white {
+    background-color: var(--bg-overlay-white);
+}
+
+//Title
+.title-heading {
+    line-height: 26px;
+
+    .heading {
+        font-size: 45px !important;
+        letter-spacing: 1px;
+
+        @media (max-width: 768px) {
+            font-size: 35px !important;
+        }
+    }
+
+    .para-desc {
+        font-size: 18px;
+    }
+}
+
+.section-title {
+
+    // position: relative;
+    .title {
+        letter-spacing: 0.5px;
+        font-size: 30px !important;
+
+        @media (max-width: 768px) {
+            font-size: 24px !important;
+        }
+    }
+}
+
+.para-desc {
+    max-width: 600px;
+}
+
+.mt-100 {
+    margin-top: 100px;
+}
+
+//back to top
+.back-to-top {
+    position: fixed;
+    z-index: 99;
+    bottom: 30px;
+    right: 30px;
+    display: none;
+    transition: all 0.5s ease;
+    height: 36px;
+    width: 36px;
+    line-height: 0;
+    padding: 0;
+    border-radius: 4px;
+    border: none;
+    background: var(--primary);
+
+    svg {
+        transition: all 0.5s ease;
+    }
+
+    &:hover {
+        transform: rotate(45deg);
+        svg {
+            transform: rotate(-45deg) !important;
+        }
+    }
+}
+
+// Opacity
+.opacity-05 {
+    opacity: 0.05;
+}
+
+.opacity-1 {
+    opacity: 0.1;
+}
+
+.opacity-2 {
+    opacity: 0.2;
+}
+
+.opacity-3 {
+    opacity: 0.3;
+}
+
+.opacity-4 {
+    opacity: 0.4;
+}
+
+.opacity-5 {
+    opacity: 0.5;
+}
+
+.opacity-6 {
+    opacity: 0.6;
+}
+
+.opacity-7 {
+    opacity: 0.7;
+}
+
+.opacity-075 {
+    opacity: 0.075;
+}
+
+.opacity-8 {
+    opacity: 0.8;
+}
+
+.opacity-9 {
+    opacity: 0.9;
+}
+
+//back-to-home
+.back-to-home {
+    position: fixed;
+    top: 4%;
+    right: 2%;
+    z-index: 1;
+}
+
+//Sticky Sidebar
+.sticky-bar {
+    position: sticky;
+    top: 80px;
+}
+
+[class^=uil-],
+[class*=" uil-"] {
+    &:before {
+        margin: 0;
+    }
+}
+
+.uim-svg {
+    vertical-align: 0 !important;
+}
+
+
+
+//Social icons
+.social-icon {
+    li {
+        a {
+            color: var(--dark);
+            border: 1px solid var(--dark);
+            height: 32px;
+            width: 32px;
+            display: inline-flex;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+            transition: all 0.4s ease;
+            overflow: hidden;
+            position: relative;
+
+            .fea-social {
+                stroke-width: 2;
+            }
+
+            &:hover {
+                background-color: var(--primary);
+                border-color: var(--primary) !important;
+                color: var(--foot-social-color-white) !important;
+
+                .fea-social {
+                    fill: var(--primary);
+                }
+            }
+        }
+    }
+
+    &.social {
+        li {
+            a {
+                color: var(--foot-social-color);
+                border-color: var(--social-border-color);
+            }
+        }
+    }
+
+    &.foot-social-icon {
+        li {
+            a {
+                color: var(--foot-social-color);
+                // border-color: lighten($footer, 5%);
+                border-color: hsl(var(--footer), 100%,calc(var(--l) + 5%));
+            }
+        }
+    }
+}
+
+// Rounded
+.rounded {
+    border-radius: 6px !important;
+}
+
+.rounded-top {
+    border-top-left-radius: 6px !important;
+    border-top-right-radius: 6px !important;
+}
+
+.rounded-left {
+    border-top-left-radius: 6px !important;
+    border-bottom-left-radius: 6px !important;
+}
+
+.rounded-bottom {
+    border-bottom-left-radius: 6px !important;
+    border-bottom-right-radius: 6px !important;
+}
+
+.rounded-right {
+    border-top-right-radius: 6px !important;
+    border-bottom-right-radius: 6px !important;
+}
+
+.rounded-md {
+    border-radius: 10px !important;
+}
+
+.rounded-lg {
+    border-radius: 30px !important;
+}
+
+.bg-white-color {
+    background: var(--bg-white-color);
+}
+
+.d-flex {
+    .flex-1 {
+        flex: 1;
+    }
+}
+
+//Google Material Symbol Icons
+.material-icons {
+    font-family: 'Material Symbols Outlined';
+    font-weight: normal;
+    font-style: normal;
+    font-size: 24px;
+    /* Preferred icon size */
+    display: inline-block;
+    line-height: 1;
+    text-transform: none;
+    letter-spacing: normal;
+    word-wrap: normal;
+    white-space: nowrap;
+    direction: ltr;
+    overflow: hidden;
+
+    /* Support for all WebKit browsers. */
+    -webkit-font-smoothing: antialiased;
+    /* Support for Safari and Chrome. */
+    text-rendering: optimizeLegibility;
+
+    /* Support for Firefox. */
+    -moz-osx-font-smoothing: grayscale;
+
+    /* Support for IE. */
+    font-feature-settings: 'liga';
+}
+
+/* Recommended icon sizes */
+span,
+i {
+    &.size-16 {
+        font-size: 16px !important;
+        font-variation-settings: 'OPSZ' 16;
+    }
+    &.size-20 {
+        font-size: 20px !important;
+        font-variation-settings: 'OPSZ' 20;
+    }
+    &.size-24 {
+        font-size: 24px !important;
+        font-variation-settings: 'OPSZ' 24;
+    }
+    &.size-40 {
+        font-size: 40px !important;
+        font-variation-settings: 'OPSZ' 40;
+    }
+    &.size-48 {
+        font-size: 48px !important;
+        font-variation-settings: 'OPSZ' 48;
+    }
+}
+
+// Content Anchors
+.anchor {
+    visibility: hidden;
+}
+
+h1:hover a,
+h2:hover a,
+h3:hover a,
+h4:hover a {
+    visibility: visible;
+    text-decoration: none;
+}

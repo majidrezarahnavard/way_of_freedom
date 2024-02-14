@@ -161,6 +161,8 @@ length , interval
 ```
 
 
+
+
 ## Random Fragment Sub Worker 
 
 ترکیب Edge Tunnel و Fragment فوق العادس
@@ -240,6 +242,30 @@ https://apps.apple.com/us/app/streisand/id6450534064?platform=iphone
 ## آموزش اتصال به کانفیگ ها با استفاده از فرگمنت در برنامه MahsaNG اندروید
 
 https://threadreaderapp.com/thread/1753080310982701493.html
+
+
+## آموزش اتصال به کانفیگ ها با استفاده از فرگمنت در برنامه Nekoray ویندوز و لینوکس
+
+لینک‌ دانلود Nekoray :
+https://github.com/MatsuriDayo/nekoray/releases
+
+https://twitter.com/seramo_ir/status/1757698224897294818
+
+
+## DNS over HTTPS (DOH) with Adguard on personal server
+
+هدف ما از این آموزش اینه که به کمک ادگاردی که روی سرورمون ران میکنیم درخواست های DNS رو به صورت رمزنگاری شده برسونیم به سرور خودمون و از اونجا از DOH های معتبر مثه گوگل کلاودفلر ادگارد نکست دی‌ان‌اس استفاده کنیم.بدون اختلال امن و کلی قابلیت دیگه مثه بلاک کردن تبلیغات انتخاب اتوماتیک سریعترین DNS برای جواب دادن و ...
+
+</br>
+چیزایی که نیاز داریم :
+</br>
+1.یه سرور با حداقل یه هسته CPU و 2گیگ RAM (آیپی سرور باید تمیز باشه)
+</br>
+2.یه دامنه‌ی تمیز
+</br>
+
+
+[DNS over HTTPS (DOH) with Adguard on personal server](https://telegra.ph/DNS-over-HTTPS-DOH-with-Adguard-on-personal-server-02-14)
 
 ## کلود فلیر
 از هر دامنه از کلود فلیر که فیلتر نیست می تونید استفاده کنید این لینک های خزنده هم جالب هست
@@ -417,6 +443,15 @@ https://t.me/generatewarpplusbot
 [v2ray-worker](https://github.com/vfarid/v2ray-worker)
 
 
+# نکوباکس
+
+
+[ اموزش کامل برنامه ی نکو باکس Neko Box (برای دور زدن فیلترینگ) ](https://www.youtube.com/watch?v=JjvSeQwdxT8)
+
+
+# v2ray windows
+
+[ آموزش استفاده از v2ray در ویندوز | نحوه اتصال کانفیگ v2ray در ویندوز ](https://www.youtube.com/watch?v=Z31wBnYe3co)
 
 # تونل معکوس
 
@@ -427,6 +462,7 @@ https://t.me/generatewarpplusbot
 
 [chain](https://www.youtube.com/watch?v=0SBtJ11EcjA)
 
+[ ریورس تانل | v2ray | حرفه ای و بدون اختلال با پنل x-ui ](https://www.youtube.com/watch?v=2ieccbVzlUw)
 # Bepass
 
 Bepass: A DPI-nightmare proxy
@@ -668,7 +704,7 @@ http://Bitpay.com
 # نکات خرید سرور
 
 
- انتخاب سرور:
+ انتخاب سرور
 </br>
 
 * سیستم عامل سرور Ubuntu 22 
@@ -679,7 +715,7 @@ http://Bitpay.com
 * قیمت مناسب: 5 دلار در ماه برای یک VPS نرمال
   
 </br>
-مشخصات سرور:
+مشخصات سرور
 </br>
 
 * پورت 1Gbps
@@ -689,7 +725,7 @@ http://Bitpay.com
 * 
 
 </br>
-ترافیک:
+ترافیک
 </br>
 
 
@@ -712,13 +748,23 @@ http://Bitpay.com
 # مخزن دانلود فیلترشکن
 [fdroid.noql.net](fdroid.noql.net)
 
+
+
+# نرم افزار secure dnsعبور از فیلتر سایتهای بر پایه sni/dns فیلتر شدند مثل یوتیوب،توییتر و.در ویندوز 
+
+نرم افزار secure dnsعبور از فیلتر سایتهای بر پایه sni/dns فیلتر شدند مثل یوتیوب،توییتر و.در ویندوز 
+افرادی  بدون نیاز به تغییر ای پی می خواهند از این سایتها استفاده کنند
+
+https://threadreaderapp.com/thread/1757688129648013538.html
+
+
 # پنل علیرضا
 
 [An Advanced Web Panel • Built on SagerNet/Sing-Box](https://github.com/alireza0/s-ui)
 
 پورت ۲۰۹۵ و admin برای یوزر/پسورد
 
-
+[ نصب و بررسی پنل S-UI جایگزین پنل X-UI (ساپورت از تمام پروتکل ها) ](https://www.youtube.com/watch?v=Vwg5OOI8J_w)
 
 # Spotify
 
@@ -753,6 +799,20 @@ https://threadreaderapp.com/thread/1757432205570187325.html
 
 
 [ آموزش نصب و کانفیگ Brook VPN روی سرور به 2 روش ](https://www.youtube.com/watch?v=2IiJM6jyAUs)
+
+
+# Hysteria 2  and TUIC
+
+[ آموزش راه اندازی Hysteria 2 و TUIC با یک کلیک همراه با مدیریت کاربران (سرعت بالا و پینگ پایین) ](https://www.youtube.com/watch?v=T_p9VqngfY8&t=69s)
+
+[ آموزش راه اندازی Hysteria 2 با یک کلیک (سرعت بالا و پینگ پایین) ](https://www.youtube.com/watch?v=Tj-zM0yT62A&t=5s)
+
+
+[aio-proxy All-In-One Proxy Tools](https://github.com/hrostami/aio-proxy)
+
+[reality-ezpz](https://github.com/aleskxyz/reality-ezpz)
+
+
 
  # Net4people
 
@@ -902,8 +962,25 @@ https://www.fakexy.com/
 
 [ دور زدن رایگان فیلترینگ با یک روش قدرتمند اما ساده، بسیار سریع و ضد تحریم | Warp-on-Warp ](https://www.youtube.com/watch?v=VnsjxHl41mU)
 
+## Worker
 
-## روش سرور
+### اکانت کلود فلیر بسازید
+
+[ آموزش کامل کلودفلر و ایجاد ساب دامنه بی نهایت (فرار از فیلترینگ) ](https://www.youtube.com/watch?v=BM3T_8qKcuo&t=61s)
+
+### روش ورکر
+
+[ ساخت فیلترشکن رایگان بدون سرور و دامین با استفاده از ورکر Cloudflare-Worker ](https://www.youtube.com/watch?v=9v57JYYn-Ww)
+
+[cf-ip-scanner](https://vfarid.github.io/cf-ip-scanner/)
+
+[راهکار جامع کانفیگ‌های v2ray روی ورکر](https://github.com/vfarid/v2ray-worker/blob/main/README-fa.md)
+
+[v2ray-worker](https://github.com/vfarid/v2ray-worker)
+
+[کانال وحید](https://www.youtube.com/@vahidfarid)
+
+# روش سرور
 
 اگر نمی دونید سرور چی هست اول این ویدیو رو ببنید.
 [سرور چیه](https://www.youtube.com/watch?v=A_J8oLH4RN0)

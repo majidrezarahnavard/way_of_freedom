@@ -704,7 +704,7 @@ http://Bitpay.com
 # نکات خرید سرور
 
 
- انتخاب سرور
+Choose a server:
 </br>
 
 * سیستم عامل سرور Ubuntu 22 
@@ -715,7 +715,7 @@ http://Bitpay.com
 * قیمت مناسب: 5 دلار در ماه برای یک VPS نرمال
   
 </br>
-مشخصات سرور
+Server Configuration:
 </br>
 
 * پورت 1Gbps
@@ -725,7 +725,7 @@ http://Bitpay.com
 * 
 
 </br>
-ترافیک
+Traffic:
 </br>
 
 
@@ -913,7 +913,7 @@ https://github.com/XTLS/Xray-core
 
 [DNSSEC – Domain Name System Security Extensions Explained](https://www.socinvestigation.com/dnssec-domain-name-system-security-extensions-explained/)
 
-
+[ Git Command Line Tutorial for Beginners | Git CLI Complete Crash Course | Learn Git in 45 Minutes ](https://www.youtube.com/watch?v=e5wY8G00OfI)
 
 # اگر دانش فنی کامپیوتر ندارید از این بخش شروع کنید
 

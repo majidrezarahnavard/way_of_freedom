@@ -453,16 +453,21 @@ https://t.me/generatewarpplusbot
 
 [ آموزش استفاده از v2ray در ویندوز | نحوه اتصال کانفیگ v2ray در ویندوز ](https://www.youtube.com/watch?v=Z31wBnYe3co)
 
-# تونل معکوس
+## ReverseTlsTunnel - تانل معکوس
+دراین روش بجای اینکه از سرور داخل به خارج تانل بزنیم داریم از سرور خارج به ایران میزنیم برای همین در برخی مواقع حتی ممکنه روی سرور فیلتر شده هم جواب بده!!
 
-زمانی که حداقل دو تا سرور دارید. یکی  ایران و یکی هم خارج لازم هست.
+با ۲روش میشه انجامش داد که یکی با خود پنل x-ui هستش یکی هم پروژه ReverseTlsTunnel
 
+1. x-ui:
 
 [آموزش تانل معکوس](https://www.youtube.com/watch?v=jCg6Yci7a5U)
 
 [chain](https://www.youtube.com/watch?v=0SBtJ11EcjA)
 
 [ ریورس تانل | v2ray | حرفه ای و بدون اختلال با پنل x-ui ](https://www.youtube.com/watch?v=2ieccbVzlUw)
+
+2. [ReverseTlsTunnel](https://github.com/radkesvat/ReverseTlsTunnel)
+
 # Bepass
 
 Bepass: A DPI-nightmare proxy
@@ -647,6 +652,13 @@ https://swapspace.co
 https://fixedfloat.com/
 https://www.thorswap.finance/
 ```
+
+## Namizun - نامیزون
+با استفاده از نامیزون مقدار مصرف ترافیک رو نامتعادل کنید اینطوری هم دیرتر شناسایی میشه هم اگه جایی مشکل مصرف منصفانه داشتید میتونید بااین روش دورش بزنید:
+
+[گیتهاب پروژه](https://github.com/salehi/namizun)
+
+[آموزش](https://www.youtube.com/watch?v=rFXG6SdcqWw)
 
 ## افزایش سرعت SSH
 معمولا سرعت اتصال به ssh خیلی کمه و  اختلال بالایی داره با ۲راه میتونید تا حد زیادی مشکل رو حل کنید که یکیش عوض کردنه پورت اتصال هستش یکیش عوض کردن نحوه رمزنگاری این پروتکل

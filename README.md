@@ -225,6 +225,12 @@ bash <(curl -Ls https://gitlab.com/rwkgyg/CFwarp/raw/main/CFwarp.sh)
 please be advised the best choice for the server is ubuntu 22 , 
 
 
+## رفع فیلتر دامنه و ای پی با فرگمنت و وارپ روی تروجان
+
+فقط به جای vless ws لطفا trojan ws بسازید .
+
+[رفع فیلتر دامنه و ای پی با فرگمنت و وارپ روی تروجان](https://telegra.ph/%D8%B1%D9%81%D8%B9-%D9%81%DB%8C%D9%84%D8%AA%D8%B1-%D8%AF%D8%A7%D9%85%D9%86%D9%87-%D9%88-%D8%A7%DB%8C-%D9%BE%DB%8C-%D8%A8%D8%A7-%D9%81%D8%B1%DA%AF%D9%85%D9%86%D8%AA-%D9%88-%D9%88%D8%A7%D8%B1%D9%BE-%D8%B1%D9%88%DB%8C-%D8%AA%D8%B1%D9%88%D8%AC%D8%A7%D9%86-02-14)
+
 ## Streisand IOS
 اپ #Streisand یکی‌از استیبل‌ترین کلاینت‌ها برای #آیفون هست، که متاسفانه در رابطه با واردکردن کانفیگ JSON از URL با مشکل مواجه بود؛ این‌مهم زمانی اهمیت بیشتری پیدا میکرد که درحال‌حاضر #فرگمنت در ایران به‌عنوان یکی‌از روش‌های کاربردی برای دسترسی آزاد به اینترنت به‌شمار میره /تب
 
@@ -792,7 +798,11 @@ https://threadreaderapp.com/thread/1757432205570187325.html
 و این موارد خیلی زیاده، عمدتا نتایج فیلترینگ و البته بخشیش هم تبعات تحریم و شرایط بد اقتصادی کشوره.
 
 
-# امن سازی توییتر
+# امنیت پلتفرم توییتر
+
+اگربه امنیت خودتون اهمیت میدین این موارد رو تو اتصال به توییتر خودتون حتما لحاظ کنید
+
+[نکاتی در خصوص امنیت پلتفرم توییتر (X) برای فعالین سیاسی، اجتماعی، مدنی و کلا" همه !](https://telegra.ph/%D9%86%DA%A9%D8%A7%D8%AA%DB%8C-%D8%AF%D8%B1-%D8%AE%D8%B5%D9%88%D8%B5-%D8%A7%D9%85%D9%86%DB%8C%D8%AA-%D9%BE%D9%84%D8%AA%D9%81%D8%B1%D9%85-%D8%AA%D9%88%DB%8C%DB%8C%D8%AA%D8%B1-X-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%81%D8%B9%D8%A7%D9%84%DB%8C%D9%86-%D8%B3%DB%8C%D8%A7%D8%B3%DB%8C-%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%DB%8C-%D9%85%D8%AF%D9%86%DB%8C-%D9%88-%DA%A9%D9%84%D8%A7-%D9%87%D9%85%D9%87-02-13)
 
 [ How to Set up 2-Factor Authentication On Twitter Account ](https://www.youtube.com/watch?v=BXLQNr-gaEs)
 

@@ -386,7 +386,7 @@ https://twitter.com/seramo_ir/status/1756738507446366380
 
 [wiregaurd-go](https://github.com/bepass-org/wireguard-go)
 
-[code](https://github.com/Elfiinaa/ConfigFiles/blob/main/WarpOnWarp-HiddifyNext.json)
+[github.com Elfiinaa](https://github.com/Elfiinaa/ConfigFiles/blob/main/WoW/WarpOnWarp-HiddifyNext.json)
 
 [warp-phiphon](https://www.youtube.com/shorts/y1Cqo0Ru0vI)
 

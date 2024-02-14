@@ -453,16 +453,21 @@ https://t.me/generatewarpplusbot
 
 [ آموزش استفاده از v2ray در ویندوز | نحوه اتصال کانفیگ v2ray در ویندوز ](https://www.youtube.com/watch?v=Z31wBnYe3co)
 
-# تونل معکوس
+## ReverseTlsTunnel - تانل معکوس
+دراین روش بجای اینکه از سرور داخل به خارج تانل بزنیم داریم از سرور خارج به ایران میزنیم برای همین در برخی مواقع حتی ممکنه روی سرور فیلتر شده هم جواب بده!!
 
-زمانی که حداقل دو تا سرور دارید. یکی  ایران و یکی هم خارج لازم هست.
+با ۲روش میشه انجامش داد که یکی با خود پنل x-ui هستش یکی هم پروژه ReverseTlsTunnel
 
+1. x-ui:
 
 [آموزش تانل معکوس](https://www.youtube.com/watch?v=jCg6Yci7a5U)
 
 [chain](https://www.youtube.com/watch?v=0SBtJ11EcjA)
 
 [ ریورس تانل | v2ray | حرفه ای و بدون اختلال با پنل x-ui ](https://www.youtube.com/watch?v=2ieccbVzlUw)
+
+2. [ReverseTlsTunnel](https://github.com/radkesvat/ReverseTlsTunnel)
+
 # Bepass
 
 Bepass: A DPI-nightmare proxy

@@ -422,13 +422,20 @@ https://t.me/generatewarpplusbot
 
 # Worker
 
+[کد آپدیت شده‌ی ورکر تولید ساب برای کلاینت‌های v2ray رو آپدیت کردم و میتونید از روی گیت‌هاب نسخه‌ی ۱.۷ رو دریافت و روی ورکرهاتون جایگزین کنید.
+](https://threadreaderapp.com/thread/1656027952746823681.html)
+
 [ ساخت فیلترشکن رایگان بدون سرور و دامین با استفاده از ورکر Cloudflare-Worker ](https://www.youtube.com/watch?v=9v57JYYn-Ww)
+
+[امروز میخوام یه داستان بگم برای کسانی که میخوان vpn یا کانفیگ خودشون رو درست کنن و نمیدونن از کجا شروع کنن؟](https://threadreaderapp.com/thread/1639220465477492738.html)
 
 [cf-ip-scanner](https://vfarid.github.io/cf-ip-scanner/)
 
 [راهکار جامع کانفیگ‌های v2ray روی ورکر](https://github.com/vfarid/v2ray-worker/blob/main/README-fa.md)
 
 [v2ray-worker](https://github.com/vfarid/v2ray-worker)
+
+[کانال وحید](https://www.youtube.com/@vahidfarid)
 
 
 # نکوباکس
@@ -1026,7 +1033,12 @@ https://www.fakexy.com/
 
 ### روش ورکر
 
+[کد آپدیت شده‌ی ورکر تولید ساب برای کلاینت‌های v2ray رو آپدیت کردم و میتونید از روی گیت‌هاب نسخه‌ی ۱.۷ رو دریافت و روی ورکرهاتون جایگزین کنید.
+](https://threadreaderapp.com/thread/1656027952746823681.html)
+
 [ ساخت فیلترشکن رایگان بدون سرور و دامین با استفاده از ورکر Cloudflare-Worker ](https://www.youtube.com/watch?v=9v57JYYn-Ww)
+
+[امروز میخوام یه داستان بگم برای کسانی که میخوان vpn یا کانفیگ خودشون رو درست کنن و نمیدونن از کجا شروع کنن؟](https://threadreaderapp.com/thread/1639220465477492738.html)
 
 [cf-ip-scanner](https://vfarid.github.io/cf-ip-scanner/)
 

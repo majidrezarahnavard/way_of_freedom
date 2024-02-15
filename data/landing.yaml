@@ -41,7 +41,7 @@ hero:
   cta2Button:
     icon: info
     btnText: "راهنما"
-    url: "/docs"
+    url: "/way_of_freedom/docs"
 
   info: "**Open Source** MIT Licensed"
 

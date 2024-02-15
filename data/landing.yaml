@@ -41,7 +41,7 @@ hero:
   cta2Button:
     icon: info
     btnText: "راهنما"
-    url: "/vpndocs/docs"
+    url: "/docs"
 
   info: "**Open Source** MIT Licensed"
 

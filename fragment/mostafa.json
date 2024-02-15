@@ -57,7 +57,7 @@
               {
                 "id": "آی دی وی لس کانفیگ شما",
                 "alterId": 0,
-                "email": "a@a.aa",
+                "email": "t@t.tt",
                 "security": "auto",
                 "encryption": "none",
                 "flow": ""
@@ -68,18 +68,15 @@
       },
       "streamSettings": {
         "network": "ws",
-        "sockopt": {
-          "dialerProxy": "fragment-out"
-        },
         "security": "tls",
         "tlsSettings": {
           "allowInsecure": false,
           "serverName": "دامنه سایت شما",
           "alpn": [
-                        "h2",
-                        "http\/1.1"
+            "h2",
+            "http/1.1"
           ],
-          "fingerprint": "chrome",
+          "fingerprint": "randomized",
           "show": false
         },
         "wsSettings": {
@@ -87,6 +84,12 @@
           "headers": {
             "Host": "دامنه سایت شما"
           }
+        },
+        "sockopt": {
+          "dialerProxy": "fragment",
+          "tcpKeepAliveIdle": 200,
+          "mark": 255,
+          "tcpNoDelay": true
         }
       },
       "mux": {
@@ -101,8 +104,8 @@
         "domainStrategy": "AsIs",
         "fragment": {
           "packets": "tlshello",
-          "length": "400-500",
-          "interval": "20-25"
+          "length": "200-300",
+          "interval": "15-30"
         }
       },
       "streamSettings": {

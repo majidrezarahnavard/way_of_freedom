@@ -306,9 +306,6 @@ https://trends.builtwith.com/cdn/Cloudflare/China
 * پرونده cert را در پیکربندی Vless خود قرار دهید.
 * از شیوه‌نامهٔ Vmess یا Shadowsocks به جای Vless بدون TLS استفاده کنید.
   
-منابع:
-    https://twitter.com/Nima__Nikjoo/status/1756866122123452520
-
 
 هشدار:
 * عدم تحقیق در مورد امنیت سایبری می‌تواند خطرناک باشد.

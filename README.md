@@ -50,8 +50,12 @@
 
 
 مقادیر فارسی را باتوجه به اطلاعات سرور و وب سوکت خود پر کنید
+
 [نمونه کانفیگ مصطفی با فرگمنت](https://raw.githubusercontent.com/majidrezarahnavard/way_of_freedom/main/fragment/mostafa.json)
+
 [2 نمونه کانفیگ مصطفی با فرگمنت](https://raw.githubusercontent.com/majidrezarahnavard/way_of_freedom/main/fragment/mostafa2.json)
+
+[اگر همچنان توی دریافت کانفیگ های فرگمنت دار با لینک در اندروید مشکل دارید](https://twitter.com/seramo_ir/status/1758228777006453240)
 
 اگر دیدید وصل نمی‌شه این دو تا پارامتر رو تغییر بدید:
 ```

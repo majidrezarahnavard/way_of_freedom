@@ -780,11 +780,16 @@ Traffic:
 
 [نکات مهم برای عبور از فیلترینگ!](https://threadreaderapp.com/thread/1754472982687150413.html)
 
-# تست سرعت
-
+# speedtest - تست سرعت
+[Client]
 * https://fiber.google.com/speedtest/
 * https://speed.cloudflare.com/
 * https://www.speedtest.net/
+
+[Server]
+```
+wget -qO- bench.sh | bash
+```
 
 # مخزن دانلود فیلترشکن
 [fdroid.noql.net](fdroid.noql.net)

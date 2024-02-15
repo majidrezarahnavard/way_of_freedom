@@ -839,7 +839,19 @@ https://threadreaderapp.com/thread/1757432205570187325.html
 
 [reality-ezpz](https://github.com/aleskxyz/reality-ezpz)
 
+# آموزش راه‌اندازی Home Server با VPN مرکزی
 
+
+شما در پایان این آموزش توانایی راه‌اندازی یک Home Server با امکانات زیر را خواهید داشت:
+-VPN Server (Xray, Sing-Box, OpenVPN, WireGuard)
+-Media Center (DLNA/Plex/Emby)
+-Home Cloud/NAS
+-MultiWAN
+-Ad Blocker
+-Docker
+
+
+[Home Server](https://threadreaderapp.com/thread/1757862582717759721.html)
 
  # Net4people
 

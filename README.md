@@ -262,6 +262,13 @@ https://twitter.com/seramo_ir/status/1757698224897294818
 
 مقالهٔ [DNS over HTTPS (DOH) with Adguard on personal server](https://telegra.ph/DNS-over-HTTPS-DOH-with-Adguard-on-personal-server-02-14)
 
+
+## DOH with NextDNS on Cloudflare Worker
+
+خوب در ادامه‌ی آموزش استفاده از DOH امروز میخوام روش استفاده از DNS قدرتمند NextDNS با کلی قابلیت روی کلاودفلر به صورت رایگان رو بگم...
+
+[DOH with NextDNS on Cloudflare Worker](https://telegra.ph/DOH-with-NextDNS-on-Cloudflare-Worker-02-15)
+
 ## کلود فلیر
 از هر دامنه از کلود فلیر که فیلتر نیست می‌تونید استفاده کنید. این پیوندهای خزنده هم جالب هستند: 
 https://ircf.space/list.php

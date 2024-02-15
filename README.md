@@ -801,7 +801,7 @@ wget -qO- bench.sh | bash
 ```
 
 # مخزن دانلود فیلترشکن
-[fdroid.noql.net](fdroid.noql.net)
+[Mark Pashmfouroush](https://fdroid.noql.net/)
 
 
 

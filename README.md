@@ -12,7 +12,7 @@
 
 [صحبت های سارینا اسماعیل زاده](https://www.youtube.com/watch?v=gpRnvFZ3vTU&t=52s)
 
-[ زادروز مجیدرضا رهنورد، روز ملی شیروخورشید ](https://www.youtube.com/watch?v=N3Yo009a7Uc)
+[زادروز مجیدرضا رهنورد](https://www.youtube.com/watch?v=N3Yo009a7Uc)
 
 # فرگمنت
 فرگمنت به معنی تکه تکه کردن درخواست‌هاست که تشخیص رو برای «[دیوار آتش بزرگ](https://fa.wikipedia.org/wiki/%D8%AF%DB%8C%D9%88%D8%A7%D8%B1_%D8%A2%D8%AA%D8%B4_%D8%A8%D8%B2%D8%B1%DA%AF_%DA%86%DB%8C%D9%86)» سخت می‌کند.
@@ -479,14 +479,17 @@ Network Programming with Go
 [v2hub](https://github.com/sarinaesmailzadeh/V2Hub/blob/main/merged)
 
 
-# Hiddify
+# Hiddify هیدیفای
 
 
 [ آموزش کامل تنظیمات پیشرفته هیدیفای نکست Hiddify Next ](https://www.youtube.com/watch?v=NtQ0bQlIRrY)
 
 [Hiddify Next](https://www.youtube.com/watch?v=EjHjLQbC40E)
 
-[hiddify-next github](https://github.com/hiddify/hiddify-next/releases/v0.15.6)
+[hiddify-next github](https://github.com/hiddify/hiddify-next/release)
+
+[کانفیگ امین](https://github.com/amin4139/share_file/blob/main/Hiddify+)
+[توضیحات امین](https://twitter.com/amin_o__o/status/1758010995207729342)
 
 # Mahsa NG
 

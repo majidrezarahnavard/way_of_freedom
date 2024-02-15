@@ -49,6 +49,9 @@
 [  راه حل تضمینی فرگمنت روی IOS ](https://www.youtube.com/watch?v=Q8_K_GRmEbU)
 
 
+مقادیر فارسی را باتوجه به اطلاعات سرور و وب سوکت خود پر کنید
+[نمونه کانفیگ مصطفی با فرگمنت](https://raw.githubusercontent.com/majidrezarahnavard/way_of_freedom/main/fragment/mostafa.json)
+
 اگر دیدید وصل نمی‌شه این دو تا پارامتر رو تغییر بدید:
 ```
 length , interval

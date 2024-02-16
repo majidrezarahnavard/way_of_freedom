@@ -494,6 +494,8 @@ https://t.me/generatewarpplusbot
 
 2. [ReverseTlsTunnel](https://github.com/radkesvat/ReverseTlsTunnel)
 
+
+3. [ریورس پروکسی grpc / معکوس تمام سایت](https://www.youtube.com/watch?v=QBEnXWTyQwE)
 # Bepass
 
 Bepass: A DPI-nightmare proxy
@@ -812,7 +814,7 @@ wget -qO- bench.sh | bash
 [Mark Pashmfouroush](https://fdroid.noql.net/)
 
 
-# آموزش های امین
+# آموزش ترکیب v2rayNG و nekobox و با استفاده از فرگمنت داخلی xray فعال کردن کانیفگ های ورکر داخل nekobox
 
 [amin](https://twitter.com/amin_o__o/status/1758258329514598534)
 
@@ -960,6 +962,11 @@ https://threadreaderapp.com/thread/1757432205570187325.html
 [نکاتی در خصوص امنیت پلتفرم توییتر (X) برای فعالین سیاسی، اجتماعی، مدنی و کلا" همه !](https://telegra.ph/%D9%86%DA%A9%D8%A7%D8%AA%DB%8C-%D8%AF%D8%B1-%D8%AE%D8%B5%D9%88%D8%B5-%D8%A7%D9%85%D9%86%DB%8C%D8%AA-%D9%BE%D9%84%D8%AA%D9%81%D8%B1%D9%85-%D8%AA%D9%88%DB%8C%DB%8C%D8%AA%D8%B1-X-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%81%D8%B9%D8%A7%D9%84%DB%8C%D9%86-%D8%B3%DB%8C%D8%A7%D8%B3%DB%8C-%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%DB%8C-%D9%85%D8%AF%D9%86%DB%8C-%D9%88-%DA%A9%D9%84%D8%A7-%D9%87%D9%85%D9%87-02-13)
 
 [ How to Set up 2-Factor Authentication On Twitter Account ](https://www.youtube.com/watch?v=BXLQNr-gaEs)
+
+
+#  Shadowsocks + cloak server - آموزش و کانفیگ شادوساکس 
+
+[ Shadowsocks + cloak server - آموزش و کانفیگ شادوساکس ](https://www.youtube.com/watch?v=wrPP0V32rxc)
 
 # xray
 

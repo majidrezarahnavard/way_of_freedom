@@ -57,6 +57,8 @@
 
 [اگر همچنان توی دریافت کانفیگ های فرگمنت دار با لینک در اندروید مشکل دارید](https://twitter.com/seramo_ir/status/1758228777006453240)
 
+[آموزش اتصال به کانفیگ ها با استفاده از قابلیت فرگمنت برنامه V2rayNG اندروید](https://twitter.com/seramo_ir/status/1758394849349218471)
+
 اگر دیدید وصل نمی‌شه این دو تا پارامتر رو تغییر بدید:
 ```
 length , interval
@@ -1160,3 +1162,14 @@ ubuntu 22
 
 
 لزومی ندارد از تونل کلود فلیر استفاده کنید.
+
+
+
+# ابزار ها
+
+##  Build the Fastest Blog Website with Markdown Content | Hugo Static Site Generation Tutorial 
+[ Build the Fastest Blog Website with Markdown Content | Hugo Static Site Generation Tutorial ](https://www.youtube.com/watch?v=6BRZ-yHjYwo)
+
+[ Host on GitHub Pages ](https://gohugo.io/hosting-and-deployment/hosting-on-github/)
+
+[ Hugo Documentation  ](https://gohugo.io/documentation/)

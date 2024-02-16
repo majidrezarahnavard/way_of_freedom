@@ -812,6 +812,10 @@ Traffic:
 wget -qO- bench.sh | bash
 ```
 
+# روش استفاده مجدد از دامنه های فیلتر شده یا کند شده
+
+[روش استفاده مجدد از دامنه های فیلتر شده یا کند شده](https://telegra.ph/%D8%B1%D9%88%D8%B4-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D9%85%D8%AC%D8%AF%D8%AF-%D8%A7%D8%B2-%D8%AF%D8%A7%D9%85%D9%86%D9%87-%D9%87%D8%A7%DB%8C-%D9%81%DB%8C%D9%84%D8%AA%D8%B1-%D8%B4%D8%AF%D9%87-%DB%8C%D8%A7-%DA%A9%D9%86%D8%AF-%D8%B4%D8%AF%D9%87-02-16)
+
 # مخزن دانلود فیلترشکن
 [Mark Pashmfouroush](https://fdroid.noql.net/)
 
@@ -1165,7 +1169,7 @@ ubuntu 22
 
 
 
-# ابزار ها
+#  ساخت وب سایت از مستندات
 
 ##  Build the Fastest Blog Website with Markdown Content | Hugo Static Site Generation Tutorial 
 [ Build the Fastest Blog Website with Markdown Content | Hugo Static Site Generation Tutorial ](https://www.youtube.com/watch?v=6BRZ-yHjYwo)

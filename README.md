@@ -812,6 +812,9 @@ wget -qO- bench.sh | bash
 [Mark Pashmfouroush](https://fdroid.noql.net/)
 
 
+# آموزش های امین
+
+[amin](https://twitter.com/amin_o__o/status/1758258329514598534)
 
 # نرم افزار secure dnsعبور از فیلتر سایتهای بر پایه sni/dns فیلتر شدند مثل یوتیوب،توییتر و.در ویندوز 
 

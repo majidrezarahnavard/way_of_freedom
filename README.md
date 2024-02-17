@@ -59,6 +59,10 @@
 
 [آموزش اتصال به کانفیگ ها با استفاده از قابلیت فرگمنت برنامه V2rayNG اندروید](https://twitter.com/seramo_ir/status/1758394849349218471)
 
+[ ترکیب ARGO - MUX - FRAGMENT افزایش سرعت ](https://www.youtube.com/shorts/cA3knbaqUjk)
+
+[نحوه عملکرد فرگمنت](https://www.youtube.com/watch?v=NKPMH10jbvM)
+
 اگر دیدید وصل نمی‌شه این دو تا پارامتر رو تغییر بدید:
 ```
 length , interval
@@ -413,6 +417,13 @@ https://twitter.com/seramo_ir/status/1756738507446366380
 ifp=5-10
 warp://auto/?ifp=5-10
 ```
+
+# warp
+
+میخوام اموزش کامل وارپ را بزارم دوستان قبل کامل گذاشتن
+یک سری نکته و راحت تر وصل شدن هست
+
+[warp](https://threadreaderapp.com/thread/1747875764018515991.html)
 
 # آموزش اتصال به وارپ با Hiddify Next
 https://twitter.com/seramo_ir/status/1756040074607628786

@@ -74,6 +74,8 @@
 
 [نحوه عملکرد فرگمنت](https://www.youtube.com/watch?v=NKPMH10jbvM)
 
+[حل مشکل ایرانسل](https://www.youtube.com/watch?v=4tRjRUXrGZQ)
+
 اگر دیدید وصل نمی‌شه این دو تا پارامتر رو تغییر بدید:
 ```
 length , interval
@@ -437,6 +439,8 @@ ifp=5-10
 warp://auto/?ifp=5-10
 ```
 
+[Warp-on-Warp](https://www.youtube.com/watch?v=tlxeXvBdZ84)
+
 # warp
 
 میخوام اموزش کامل وارپ را بزارم دوستان قبل کامل گذاشتن
@@ -456,7 +460,7 @@ _وارپ+سایفون ترکیب طلایی_
 https://threadreaderapp.com/thread/1757057880295903274.html
 
 
-
+[فیلترشکن با پروتکل وارپ](https://www.youtube.com/watch?v=4FbgWDVt98Y)
 
 # وارپ+التراسرف
 

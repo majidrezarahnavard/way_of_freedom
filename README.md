@@ -14,6 +14,17 @@
 
 [زادروز مجیدرضا رهنورد](https://www.youtube.com/watch?v=N3Yo009a7Uc)
 
+
+### امنیت پلتفرم توییتر
+
+اگربه امنیت خودتون اهمیت میدین این موارد رو تو اتصال به توییتر خودتون حتما لحاظ کنید
+
+[نکاتی در خصوص امنیت پلتفرم توییتر (X) برای فعالین سیاسی، اجتماعی، مدنی و کلا" همه !](https://telegra.ph/%D9%86%DA%A9%D8%A7%D8%AA%DB%8C-%D8%AF%D8%B1-%D8%AE%D8%B5%D9%88%D8%B5-%D8%A7%D9%85%D9%86%DB%8C%D8%AA-%D9%BE%D9%84%D8%AA%D9%81%D8%B1%D9%85-%D8%AA%D9%88%DB%8C%DB%8C%D8%AA%D8%B1-X-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%81%D8%B9%D8%A7%D9%84%DB%8C%D9%86-%D8%B3%DB%8C%D8%A7%D8%B3%DB%8C-%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%DB%8C-%D9%85%D8%AF%D9%86%DB%8C-%D9%88-%DA%A9%D9%84%D8%A7-%D9%87%D9%85%D9%87-02-13)
+
+[ How to Set up 2-Factor Authentication On Twitter Account ](https://www.youtube.com/watch?v=BXLQNr-gaEs)
+
+
+
 # فرگمنت
 فرگمنت به معنی تکه تکه کردن درخواست‌هاست که تشخیص رو برای «[دیوار آتش بزرگ](https://fa.wikipedia.org/wiki/%D8%AF%DB%8C%D9%88%D8%A7%D8%B1_%D8%A2%D8%AA%D8%B4_%D8%A8%D8%B2%D8%B1%DA%AF_%DA%86%DB%8C%D9%86)» سخت می‌کند.
 این قابلیت در xray هم پشتیبانی می‌شود.
@@ -350,6 +361,14 @@ https://trends.builtwith.com/cdn/Cloudflare/China
 [ آموزش جلوگیری از حمله به سرور و ایران اکسس کردن با ۲ روش ساده ](https://www.youtube.com/watch?v=U90a43fTyL0)
 
 
+# مسدودسازی سایت‌ها و اپلیکیشن‌های ایرانی
+
+سیستم فیلترینگ از روش‌های متنوعی استفاده می‌کند تا بتواند «حدس بزند» یک IP متعلق به پروکسی سرور می‌باشد یا نه. در چین، یکی از روش‌هایی که GFW استفاده می‌کند این است که اگر از یک سرور خارجی درخواستی به سمت سایت‌های داخلی چینی بیاید، آن را مسدود می‌کند. حدس می‌زنیم که در ایران هم از سیستم مشابهی استفاده می‌شود.
+
+
+[iranxray](https://github.com/iranxray/hope/blob/main/routing.md#%D9%85%D8%B3%D8%AF%D9%88%D8%AF%D8%B3%D8%A7%D8%B2%DB%8C-%D8%A7%D8%B2-%D8%B3%D9%85%D8%AA-%D8%B3%D8%B1%D9%88%D8%B1)
+
+
 # بستن دامنه‌های ایران و چین
 
 برای این کار فقط کافیه این رو به انتهای پیکربندی‌تون اضافه کنید.
@@ -515,6 +534,10 @@ Bepass: A DPI-nightmare proxy
 [bepass](https://github.com/bepass-org/bepass)
 
 [Bepass-worker](https://www.youtube.com/watch?v=1UG8g9-6XUc&t=161s)
+
+
+# تذکر
+اپلیکشن Beepass ربطی به این اپلیکشن ندارد و ناامن است.
 
 </br>
 برای کمک به این پروژه کتاب 
@@ -914,6 +937,11 @@ https://threadreaderapp.com/thread/1757432205570187325.html
 [آموزش راه‌اندازی Home Server با VPN مرکزی(قسمت دوم)](https://threadreaderapp.com/thread/1758165072625451522.html)
 
 
+[راه‌اندازی Home Server با VPN مرکزی – قسمت ۳](https://ivpn.pro/openwrt/how-to-deploy-home-server-with-built-in-vpn/)
+
+
+[وبلاگ کوین](https://ivpn.pro/)
+
 # invisible pro
 
 [invisible pro](https://threadreaderapp.com/thread/1758395708925784320.html)
@@ -965,6 +993,14 @@ https://threadreaderapp.com/thread/1757432205570187325.html
 
 [bot telegram](https://t.me/IRAN_VPN_Guide_bot)
 
+
+# geo-location routing
+
+This is an Enhanced and All-in-One set of geo-location routing files optimized for Iranian users to use in v2ray/xray and all their compatible clients.
+
+[Iran-v2ray-rules](https://github.com/Chocolate4U/Iran-v2ray-rules)
+
+
 # تاثیرات فیلترینگ
 
 خیلی خلاصه بگم به دلیل وجود #فیلترینگ:
@@ -980,13 +1016,6 @@ https://threadreaderapp.com/thread/1757432205570187325.html
 و این موارد خیلی زیاده، عمدتا نتایج فیلترینگ و البته بخشیش هم تبعات تحریم و شرایط بد اقتصادی کشوره.
 
 
-# امنیت پلتفرم توییتر
-
-اگربه امنیت خودتون اهمیت میدین این موارد رو تو اتصال به توییتر خودتون حتما لحاظ کنید
-
-[نکاتی در خصوص امنیت پلتفرم توییتر (X) برای فعالین سیاسی، اجتماعی، مدنی و کلا" همه !](https://telegra.ph/%D9%86%DA%A9%D8%A7%D8%AA%DB%8C-%D8%AF%D8%B1-%D8%AE%D8%B5%D9%88%D8%B5-%D8%A7%D9%85%D9%86%DB%8C%D8%AA-%D9%BE%D9%84%D8%AA%D9%81%D8%B1%D9%85-%D8%AA%D9%88%DB%8C%DB%8C%D8%AA%D8%B1-X-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%81%D8%B9%D8%A7%D9%84%DB%8C%D9%86-%D8%B3%DB%8C%D8%A7%D8%B3%DB%8C-%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%DB%8C-%D9%85%D8%AF%D9%86%DB%8C-%D9%88-%DA%A9%D9%84%D8%A7-%D9%87%D9%85%D9%87-02-13)
-
-[ How to Set up 2-Factor Authentication On Twitter Account ](https://www.youtube.com/watch?v=BXLQNr-gaEs)
 
 
 #  Shadowsocks + cloak server - آموزش و کانفیگ شادوساکس 
@@ -1177,14 +1206,3 @@ ubuntu 22
 
 
 لزومی ندارد از تونل کلود فلیر استفاده کنید.
-
-
-
-#  ساخت وب سایت از مستندات
-
-##  Build the Fastest Blog Website with Markdown Content | Hugo Static Site Generation Tutorial 
-[ Build the Fastest Blog Website with Markdown Content | Hugo Static Site Generation Tutorial ](https://www.youtube.com/watch?v=6BRZ-yHjYwo)
-
-[ Host on GitHub Pages ](https://gohugo.io/hosting-and-deployment/hosting-on-github/)
-
-[ Hugo Documentation  ](https://gohugo.io/documentation/)

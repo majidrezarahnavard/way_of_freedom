@@ -64,7 +64,7 @@
 
 [نمونه کانفیگ مصطفی با فرگمنت](https://raw.githubusercontent.com/majidrezarahnavard/way_of_freedom/main/fragment/mostafa.json)
 
-[2 نمونه کانفیگ مصطفی با فرگمنت](https://raw.githubusercontent.com/majidrezarahnavard/way_of_freedom/main/fragment/mostafa2.json)
+[ نمونه کانفیگ مصطفی با فرگمنت ۲](https://raw.githubusercontent.com/majidrezarahnavard/way_of_freedom/main/fragment/mostafa2.json)
 
 [اگر همچنان توی دریافت کانفیگ های فرگمنت دار با لینک در اندروید مشکل دارید](https://twitter.com/seramo_ir/status/1758228777006453240)
 
@@ -185,7 +185,11 @@ length , interval
 ```
 
 
+## SDC - Secure DNS Client
 
+بچه‌ها برای فرگمنت روی ویندوز از Secure DNS Client استفاده کنید هم DNS ردیف میشه هم فرگمنت بسیار حرفه‌ای داره خیلی حرفه ای تر از چیزی که روی گوشی هستش برای ترکیب کردن هم نیاز به کار خاصی نیست کنارش v2rayNG را باز کنید کانفیگ ها از فرگمنت و DNS استفاده میکنند
+
+[SecureDNSClient](https://github.com/msasanmh/SecureDNSClient)
 
 ## Random Fragment Sub Worker 
 

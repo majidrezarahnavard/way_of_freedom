@@ -1,0 +1,5 @@
+name: My GitHub Repository
+description: A sample repository
+visibility: public
+theme: jekyll-theme-minimal
+baseurl : "way_of_freedom"

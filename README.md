@@ -81,6 +81,8 @@
 
 [حل مشکل ایرانسل](https://www.youtube.com/watch?v=4tRjRUXrGZQ)
 
+[ساخت VPN با سرور دارای IP فیلترشده، بدون نیاز به دامنه، بدون نیاز به اکانت کلاودفلر، حتی با یک IPv6](https://ivpn.pro/how-to/vpn-with-filtered-ip-without-domain/)
+
 اگر دیدید وصل نمی‌شه این دو تا پارامتر رو تغییر بدید:
 ```
 length , interval
@@ -522,6 +524,10 @@ https://t.me/generatewarpplusbot
 [کانال وحید](https://www.youtube.com/@vahidfarid)
 
 
+[EDtunnel](https://github.com/3Kmfi6HP/EDtunnel)
+
+[ Cloudflare Pages to easily deploy v2ray proxy, no server required & extremely fast! Step-by-step! ](https://www.youtube.com/watch?v=8I-yTNHB0aw)
+
 # نکوباکس
 
 
@@ -746,14 +752,18 @@ https://fixedfloat.com/
 https://www.thorswap.finance/
 ```
 
-## Namizun - نامیزون
+# Buy VPS and Domain just with 10$ for One Year! with iSegaro
+[Buy VPS and Domain just with 10$ for One Year! with iSegaro](https://telegra.ph/Buy-VPS-and-Domain-just-with-10-for-One-Year-with-iSegaro-03-29)
+
+
+# Namizun - نامیزون
 با استفاده از نامیزون مقدار مصرف ترافیک رو نامتعادل کنید اینطوری هم دیرتر شناسایی میشه هم اگه جایی مشکل مصرف منصفانه داشتید میتونید بااین روش دورش بزنید:
 
 [گیتهاب پروژه](https://github.com/salehi/namizun)
 
 [آموزش](https://www.youtube.com/watch?v=rFXG6SdcqWw)
 
-## افزایش سرعت SSH
+# افزایش سرعت SSH
 معمولا سرعت اتصال به ssh خیلی کمه و  اختلال بالایی داره با ۲راه میتونید تا حد زیادی مشکل رو حل کنید که یکیش عوض کردنه پورت اتصال هستش یکیش عوض کردن نحوه رمزنگاری این پروتکل
 
 ```
@@ -942,6 +952,13 @@ https://threadreaderapp.com/thread/1757432205570187325.html
 
  https://github.com/krlvm/PowerTunnel-Android
 
+
+ # معرفی یک سری فیلترشکن روی اندروید 
+ معرفی یک سری فیلترشکن روی اندروید خوب کار می کنند لینک گوگل پلی برای افرادی دیدن آموزش براشون سخته و میخوان برای توییتر ایسنتا وصل بشن روی همراه مخابرات تست شده در ریپلای پست جوابش
+در رپیلای پست عکسشون به همراه لینک دانلود هست
+
+[آموزش](https://threadreaderapp.com/thread/1759572051084382496.html)
+
 # Brook
 
 [ روش جدید دورزدن فیلترینگ با استفاده از Brook ](https://youtu.be/0YR4ZpnoYUY?si=Xs1BPq98XuNxtiUt)
@@ -966,6 +983,13 @@ https://threadreaderapp.com/thread/1757432205570187325.html
 [aio-proxy All-In-One Proxy Tools](https://github.com/hrostami/aio-proxy)
 
 [reality-ezpz](https://github.com/aleskxyz/reality-ezpz)
+
+[How run Hysteria V2 Protocol with iSegaro](https://telegra.ph/How-run-Hysteria-V2-Protocol-with-iSegaro-09-02)
+
+[How run Hysteria Protocol with iSegaro](https://telegra.ph/How-run-Hysteria-Protocol-with-iSegaro-04-07)
+
+[How to start the TUIC v5 protocol with iSegaro](https://telegra.ph/How-to-start-the-TUIC-v5-protocol-with-iSegaro-08-26)
+
 
 # آموزش راه‌اندازی Home Server با VPN مرکزی
 
@@ -1041,6 +1065,10 @@ https://threadreaderapp.com/thread/1757432205570187325.html
 [bot telegram](https://t.me/IRAN_VPN_Guide_bot)
 
 
+# iSegaro
+
+[تمام آموزش های سگارو](https://www.google.com/search?q=iSegaro+site:https://telegra.ph)
+
 # geo-location routing
 
 This is an Enhanced and All-in-One set of geo-location routing files optimized for Iranian users to use in v2ray/xray and all their compatible clients.
@@ -1074,6 +1102,9 @@ This is an Enhanced and All-in-One set of geo-location routing files optimized f
 مهم ترین پروژه که تمام روش های بر اساس این پروژه هست.
 
 [Xray-core](https://github.com/XTLS/Xray-core)
+
+
+[computerscot.github.io](https://computerscot.github.io/)
 
 ## آشنایی و نحوه کلی کار با هسته Xray و نوشتن کانفیگ برای آن
 [آشنایی و نحوه کلی کار با هسته Xray و نوشتن کانفیگ برای آن](https://telegra.ph/%D8%A2%D8%B4%D9%86%D8%A7%DB%8C%DB%8C-%D9%88-%D9%86%D8%AD%D9%88%D9%87-%DA%A9%D9%84%DB%8C-%DA%A9%D8%A7%D8%B1-%D8%A8%D8%A7-%D9%87%D8%B3%D8%AA%D9%87-Xray-%D9%88-%D9%86%D9%88%D8%B4%D8%AA%D9%86-%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A2%D9%86-01-08)

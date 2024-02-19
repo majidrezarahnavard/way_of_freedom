@@ -12,7 +12,10 @@
 
 [صحبت های سارینا اسماعیل زاده](https://www.youtube.com/watch?v=gpRnvFZ3vTU&t=52s)
 
-[زادروز مجیدرضا رهنورد](https://www.youtube.com/watch?v=N3Yo009a7Uc)
+[مجیدرضا رهنورد](https://www.youtube.com/watch?v=N3Yo009a7Uc)
+
+
+[نمایش به صورت وبسایت](https://majidrezarahnavard.github.io/way_of_freedom/)
 
 
 ### امنیت پلتفرم توییتر
@@ -40,7 +43,7 @@
 [آموزش دور زدن فیلترینگ دامنه توسط فرگمنت در تمام دیوایس ها](https://www.youtube.com/watch?v=LXJIcLa1v6Y&t=66s)
 
 
-[ استفاده از دامنهٔ فیلتر شده با فرگمنت | دامنه مردتو زنده کن ](https://www.youtube.com/watch?v=kdd2wSrCDxc)
+[ استفاده از دامنهٔ فیلتر شده با فرگمنت](https://www.youtube.com/watch?v=kdd2wSrCDxc)
 
 [اخرین آموزش سگارو](https://telegra.ph/How-to-use-Argo-Cloudflare-tunnel-with-iSegaro-12-15)
 
@@ -215,7 +218,7 @@ length , interval
 
 ## Worker Serverless + Fragment
 
-[ عبور از فیلترینگ با Edge Tunnel و بررسی پنل BPB و پنل وحید فرید | فیلترشکن رایگان، سریع و ضد تحریم ](https://www.youtube.com/watch?v=jvZkHANYfno&t=297s)
+[ عبور از فیلترینگ با Edge Tunnel و بررسی پنل BPB و پنل وحید فرید , فیلترشکن رایگان، سریع و ضد تحریم ](https://www.youtube.com/watch?v=jvZkHANYfno&t=297s)
 
 [نحوه‌ی راه‌اندازی BPB Worker Panel به همراه Fragment نسخه‌ی 2.1](https://telegra.ph/%D9%86%D8%AD%D9%88%D9%87%E2%80%8C%DB%8C-%D8%B1%D8%A7%D9%87%E2%80%8C%D8%A7%D9%86%D8%AF%D8%A7%D8%B2%DB%8C-BPB-Worker-Panel-%D8%A8%D9%87%E2%80%8C%D9%87%D9%85%D8%B1%D8%A7%D9%87-Fragment-01-28)
 
@@ -446,7 +449,7 @@ https://twitter.com/seramo_ir/status/1756738507446366380
 
 [warp kian](https://twitter.com/lowercase_1978/status/1752285825789034927)
 
-[ اتصال به وارپ روی اکثر اینترنت‌ها | حل مشکل وارپ ](https://www.youtube.com/watch?v=KT_cxcKesS0)
+[ اتصال به وارپ روی اکثر اینترنت‌ها , حل مشکل وارپ ](https://www.youtube.com/watch?v=KT_cxcKesS0)
 
 حالا اگر از وارپ استفاده می‌کنید اعداد IFP رو تغییر بدید دوباره وصل میشه 
 
@@ -523,7 +526,7 @@ https://t.me/generatewarpplusbot
 
 # v2ray windows
 
-[ آموزش استفاده از v2ray در ویندوز | نحوه اتصال کانفیگ v2ray در ویندوز ](https://www.youtube.com/watch?v=Z31wBnYe3co)
+[ آموزش استفاده از v2ray در ویندوز , نحوه اتصال کانفیگ v2ray در ویندوز ](https://www.youtube.com/watch?v=Z31wBnYe3co)
 
 
 # نحوه جلوگیری از عبور ترافیک داخلی از سرور پروکسی
@@ -543,7 +546,7 @@ https://t.me/generatewarpplusbot
 
 [chain](https://www.youtube.com/watch?v=0SBtJ11EcjA)
 
-[ ریورس تانل | v2ray | حرفه ای و بدون اختلال با پنل x-ui ](https://www.youtube.com/watch?v=2ieccbVzlUw)
+[ ریورس تانل , v2ray , حرفه ای و بدون اختلال با پنل x-ui ](https://www.youtube.com/watch?v=2ieccbVzlUw)
 
 2. [ReverseTlsTunnel](https://github.com/radkesvat/ReverseTlsTunnel)
 
@@ -1112,7 +1115,7 @@ This is an Enhanced and All-in-One set of geo-location routing files optimized f
 
 [DNSSEC – Domain Name System Security Extensions Explained](https://www.socinvestigation.com/dnssec-domain-name-system-security-extensions-explained/)
 
-[ Git Command Line Tutorial for Beginners | Git CLI Complete Crash Course | Learn Git in 45 Minutes ](https://www.youtube.com/watch?v=e5wY8G00OfI)
+[ Git Command Line Tutorial for Beginners , Git CLI Complete Crash Course , Learn Git in 45 Minutes ](https://www.youtube.com/watch?v=e5wY8G00OfI)
 
 # اگر دانش فنی کامپیوتر ندارید از این بخش شروع کنید
 
@@ -1159,7 +1162,7 @@ https://www.fakexy.com/
 
 ### warp on warp
 
-[ دور زدن رایگان فیلترینگ با یک روش قدرتمند اما ساده، بسیار سریع و ضد تحریم | Warp-on-Warp ](https://www.youtube.com/watch?v=VnsjxHl41mU)
+[ دور زدن رایگان فیلترینگ با یک روش قدرتمند اما ساده، بسیار سریع و ضد تحریم , Warp-on-Warp ](https://www.youtube.com/watch?v=VnsjxHl41mU)
 
 ## Worker
 
@@ -1221,7 +1224,7 @@ ubuntu 22
 
 ### دامنه بخرید
 
-[ خرید دامنه با کریپتو | خرید دامنه با بیت کوین | خرید دامنه با ارز دیجیتال ](https://www.youtube.com/watch?v=3fUx7Em_-C8)
+[ خرید دامنه با کریپتو , خرید دامنه با بیت کوین , خرید دامنه با ارز دیجیتال ](https://www.youtube.com/watch?v=3fUx7Em_-C8)
 
 
 
@@ -1240,7 +1243,7 @@ ubuntu 22
 
 ### روش فرگمنت رو استفاده کنید
 
-[ استفاده از دامین فیلتر شده با فرگمنت | دامنه مردتو زنده کن ](https://www.youtube.com/watch?v=kdd2wSrCDxc)
+[ استفاده از دامین فیلتر شده با فرگمنت , دامنه مردتو زنده کن ](https://www.youtube.com/watch?v=kdd2wSrCDxc)
 
 [ تحلیل فنی فیلترینگ کلودفلر و بی اثر کردن کامل آن با یک vless/vmess ساده و سرعت عالی حتی بدون TLS ](https://www.youtube.com/watch?v=aBaEOJLfUkg&t=925s)
 

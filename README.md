@@ -23,7 +23,9 @@
 
 [ How to Set up 2-Factor Authentication On Twitter Account ](https://www.youtube.com/watch?v=BXLQNr-gaEs)
 
+[ How To Change Email Address In Twitter (2022) ](https://www.youtube.com/watch?v=F-itvjI0r-8)
 
+[ How to set up two-factor authentication (2FA) for ProtonMail ](https://www.youtube.com/watch?v=GgrNWoLyp1g)
 
 # فرگمنت
 فرگمنت به معنی تکه تکه کردن درخواست‌هاست که تشخیص رو برای «[دیوار آتش بزرگ](https://fa.wikipedia.org/wiki/%D8%AF%DB%8C%D9%88%D8%A7%D8%B1_%D8%A2%D8%AA%D8%B4_%D8%A8%D8%B2%D8%B1%DA%AF_%DA%86%DB%8C%D9%86)» سخت می‌کند.
@@ -322,7 +324,7 @@ https://trends.builtwith.com/cdn/Cloudflare/China
 می توانیم نوع  ip4 یا ip6 انتخاب کنیم
 ای پی ها به ترتیب از بهترین به پایین نشان داده می شوند
 
-[hostmonit.com] (stock.hostmonit.com/CloudFlareYes)
+[hostmonit.com](stock.hostmonit.com/CloudFlareYes)
 [ip.flares.cloud](http://ip.flares.cloud/whole/)
 
 [دو روش پیدا کردن آی پی تمیز برای کلودفلر ورکر](https://threadreaderapp.com/thread/1759249427473002782.html)
@@ -560,9 +562,7 @@ Bepass: A DPI-nightmare proxy
 
 </br>
 برای کمک به این پروژه کتاب 
-</br>
-Network Programming with Go
-</br>
+Network Programg with Go
 را مطالعه کنید
 
 # Yebekhe
@@ -816,6 +816,27 @@ http://Bitpay.com
 خودشان به همین سادگی و به هزینه‌ی مردم به اندازه‌ی دو اپراتور اصلی کشور درآمد کسب می‌کنند.
 
 
+
+# بستن سایت های غیر اخلاقی و پورن
+
+``` json
+{ "type": "field", "outboundTag": "blocked","domain": [ "geosite:category-porn" ] } 
+
+
+"routing": {
+    "domainStrategy": "IPIfNonMatch",
+    "rules": [
+      {
+        "domain": [
+          "geosite:category-porn",
+        ],
+        "outboundTag": "BLOCK",
+        "type": "field"
+      },
+    ]
+  },
+```
+
 # نکات خرید سرور
 
 
@@ -1045,7 +1066,10 @@ This is an Enhanced and All-in-One set of geo-location routing files optimized f
 
 مهم ترین پروژه که تمام روش های بر اساس این پروژه هست.
 
-https://github.com/XTLS/Xray-core
+[Xray-core](https://github.com/XTLS/Xray-core)
+
+## آشنایی و نحوه کلی کار با هسته Xray و نوشتن کانفیگ برای آن
+[آشنایی و نحوه کلی کار با هسته Xray و نوشتن کانفیگ برای آن](https://telegra.ph/%D8%A2%D8%B4%D9%86%D8%A7%DB%8C%DB%8C-%D9%88-%D9%86%D8%AD%D9%88%D9%87-%DA%A9%D9%84%DB%8C-%DA%A9%D8%A7%D8%B1-%D8%A8%D8%A7-%D9%87%D8%B3%D8%AA%D9%87-Xray-%D9%88-%D9%86%D9%88%D8%B4%D8%AA%D9%86-%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A2%D9%86-01-08)
 
 
 ## WebSocket

@@ -18,7 +18,10 @@ layout: default
 
 [صحبت های سارینا اسماعیل زاده](https://www.youtube.com/watch?v=gpRnvFZ3vTU&t=52s)
 
-[ مجیدرضا رهنورد](https://www.youtube.com/watch?v=N3Yo009a7Uc)
+[مجیدرضا رهنورد](https://www.youtube.com/watch?v=N3Yo009a7Uc)
+
+
+[نمایش به صورت وبسایت](https://majidrezarahnavard.github.io/way_of_freedom/)
 
 
 ### امنیت پلتفرم توییتر
@@ -46,7 +49,7 @@ layout: default
 [آموزش دور زدن فیلترینگ دامنه توسط فرگمنت در تمام دیوایس ها](https://www.youtube.com/watch?v=LXJIcLa1v6Y&t=66s)
 
 
-[ استفاده از دامنهٔ فیلتر شده با فرگمنت ](https://www.youtube.com/watch?v=kdd2wSrCDxc)
+[ استفاده از دامنهٔ فیلتر شده با فرگمنت](https://www.youtube.com/watch?v=kdd2wSrCDxc)
 
 [اخرین آموزش سگارو](https://telegra.ph/How-to-use-Argo-Cloudflare-tunnel-with-iSegaro-12-15)
 
@@ -83,6 +86,30 @@ layout: default
 [نحوه عملکرد فرگمنت](https://www.youtube.com/watch?v=NKPMH10jbvM)
 
 [حل مشکل ایرانسل](https://www.youtube.com/watch?v=4tRjRUXrGZQ)
+
+[ساخت VPN با سرور دارای IP فیلترشده، بدون نیاز به دامنه، بدون نیاز به اکانت کلاودفلر، حتی با یک IPv6](https://ivpn.pro/how-to/vpn-with-filtered-ip-without-domain/)
+
+
+[فعالسازی فرگمنت در ios / android / windows](https://telegra.ph/%D9%86%D8%AD%D9%88%D9%87-%D9%81%D8%B9%D8%A7%D9%84%D8%B3%D8%A7%D8%B2%DB%8C-%D9%81%D8%B1%DA%AF%D9%85%D9%86%D8%AA-%D8%AF%D8%B1-ios--android--windows-01-10)
+
+
+[ساخت کانفیگ بدون دامنه | با ای پی فیلتر شده](https://telegra.ph/%D8%B3%D8%A7%D8%AE%D8%AA-%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF-%D8%A8%D8%AF%D9%88%D9%86-%D8%AF%D8%A7%D9%85%D9%86%D9%87--%D8%A8%D8%A7-%D8%A7%DB%8C-%D9%BE%DB%8C-%D9%81%DB%8C%D9%84%D8%AA%D8%B1-%D8%B4%D8%AF%D9%87-02-20)
+
+اگر دنبال الگوی تنظیمات #فرگمنت هستین، میتونین از این ۳ نمونه که مربوط به کانفیگ‌های اپ مهسا [اپلیکشن مهسا](https://play.google.com/store/apps/details?id=com.MahsaNet.MahsaNG) هستن کمک بگیرین.
+در این کانفیگ‌ها از آی‌پی تمیز کلودفلر به‌همراه دامنه فیلترشده استفاده‌شده و توصیه‌میشه شما هم دامنه‌های مرده‌تون رو این‌مدلی زنده‌کنین!
+
+```
+"fragment": { 
+    "packets": "1-1", 
+    "length": "3-5", 
+    "interval": "5" 
+}
+```
+💡 فیلد packets در کانفیگ فاقد TLS باید برابر ۱ و دارای TLS برابر با tlshello باشه. فیلد length اندازه پکت‌های خردشده برحسب بایت و فیلد interval تاخیر ارسال پکت‌ها برحسب میلی‌ثانیه هست. مثلن اگر اندازه پکت ۴۰۰ بایت باشه، با تنظیمات بالا به حدودن ۱۰۰ تکه خرد و در مدت ۵*۱۰۰ میلی‌ثانیه ارسال میشه؛ یعنی ۵۰۰ میلی‌ثانیه به پینگ اضافه میشه
+💡 با افزایش تاخیر از ۵ به ۱۰، قدرت عبور از فیلتر بیشتر، اما پینگ هم بیشتر خواهد شد
+
+[✅ دور زدن فیلترینگ دامنه با فرگمنت](https://t.me/ircfspace/345)
+
 
 اگر دیدید وصل نمی‌شه این دو تا پارامتر رو تغییر بدید:
 ```
@@ -386,6 +413,8 @@ https://trends.builtwith.com/cdn/Cloudflare/China
 [ آموزش جلوگیری از حمله به سرور و ایران اکسس کردن با ۲ روش ساده ](https://www.youtube.com/watch?v=U90a43fTyL0)
 
 
+[اعمال محدودیت برای دسترسی‌های مشکوک به دامین از طریق کلودفلر](https://telegra.ph/%D8%A7%D8%B9%D9%85%D8%A7%D9%84-%D9%85%D8%AD%D8%AF%D9%88%D8%AF%DB%8C%D8%AA-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AF%D8%B3%D8%AA%D8%B1%D8%B3%DB%8C%E2%80%8C%D9%87%D8%A7%DB%8C-%D9%85%D8%B4%DA%A9%D9%88%DA%A9-%D8%A8%D9%87-%D8%AF%D8%A7%D9%85%DB%8C%D9%86-%D8%A7%D8%B2-%D8%B7%D8%B1%DB%8C%D9%82-%DA%A9%D9%84%D9%88%D8%AF%D9%81%D9%84%D8%B1-01-14)
+
 # مسدودسازی سایت‌ها و اپلیکیشن‌های ایرانی
 
 سیستم فیلترینگ از روش‌های متنوعی استفاده می‌کند تا بتواند «حدس بزند» یک IP متعلق به پروکسی سرور می‌باشد یا نه. در چین، یکی از روش‌هایی که GFW استفاده می‌کند این است که اگر از یک سرور خارجی درخواستی به سمت سایت‌های داخلی چینی بیاید، آن را مسدود می‌کند. حدس می‌زنیم که در ایران هم از سیستم مشابهی استفاده می‌شود.
@@ -452,7 +481,7 @@ https://twitter.com/seramo_ir/status/1756738507446366380
 
 [warp kian](https://twitter.com/lowercase_1978/status/1752285825789034927)
 
-[ اتصال به وارپ روی اکثر اینترنت‌ها و حل مشکل وارپ ](https://www.youtube.com/watch?v=KT_cxcKesS0)
+[ اتصال به وارپ روی اکثر اینترنت‌ها , حل مشکل وارپ ](https://www.youtube.com/watch?v=KT_cxcKesS0)
 
 حالا اگر از وارپ استفاده می‌کنید اعداد IFP رو تغییر بدید دوباره وصل میشه 
 
@@ -502,6 +531,14 @@ https://twitter.com/seramo_ir/status/1756738507446366380
 https://t.me/generatewarpplusbot
 
 
+[Oblivion](https://www.youtube.com/watch?v=MJ6l4CVeDBg)
+
+
+[لینک گرفتن کلید وارپ در تلگرام](https://t.me/generatewarpplusbot)
+
+# Wireguard go
+[wireguard-go](https://github.com/bepass-org/wireguard-go/releases/tag/v1.0.4-rc2)
+[خیلی ساده برین توی گیت هاب BePass و فایل مربوط به سیستمتون رو دانلود کنید :](https://threadreaderapp.com/thread/1759816946474766832.html)
 
 # Worker
 
@@ -520,6 +557,10 @@ https://t.me/generatewarpplusbot
 
 [کانال وحید](https://www.youtube.com/@vahidfarid)
 
+
+[EDtunnel](https://github.com/3Kmfi6HP/EDtunnel)
+
+[ Cloudflare Pages to easily deploy v2ray proxy, no server required & extremely fast! Step-by-step! ](https://www.youtube.com/watch?v=8I-yTNHB0aw)
 
 # نکوباکس
 
@@ -745,14 +786,18 @@ https://fixedfloat.com/
 https://www.thorswap.finance/
 ```
 
-## Namizun - نامیزون
+# Buy VPS and Domain just with 10$ for One Year! with iSegaro
+[Buy VPS and Domain just with 10$ for One Year! with iSegaro](https://telegra.ph/Buy-VPS-and-Domain-just-with-10-for-One-Year-with-iSegaro-03-29)
+
+
+# Namizun - نامیزون
 با استفاده از نامیزون مقدار مصرف ترافیک رو نامتعادل کنید اینطوری هم دیرتر شناسایی میشه هم اگه جایی مشکل مصرف منصفانه داشتید میتونید بااین روش دورش بزنید:
 
 [گیتهاب پروژه](https://github.com/salehi/namizun)
 
 [آموزش](https://www.youtube.com/watch?v=rFXG6SdcqWw)
 
-## افزایش سرعت SSH
+# افزایش سرعت SSH
 معمولا سرعت اتصال به ssh خیلی کمه و  اختلال بالایی داره با ۲راه میتونید تا حد زیادی مشکل رو حل کنید که یکیش عوض کردنه پورت اتصال هستش یکیش عوض کردن نحوه رمزنگاری این پروتکل
 
 ```
@@ -941,6 +986,13 @@ https://threadreaderapp.com/thread/1757432205570187325.html
 
  https://github.com/krlvm/PowerTunnel-Android
 
+
+ # معرفی یک سری فیلترشکن روی اندروید 
+ معرفی یک سری فیلترشکن روی اندروید خوب کار می کنند لینک گوگل پلی برای افرادی دیدن آموزش براشون سخته و میخوان برای توییتر ایسنتا وصل بشن روی همراه مخابرات تست شده در ریپلای پست جوابش
+در رپیلای پست عکسشون به همراه لینک دانلود هست
+
+[آموزش](https://threadreaderapp.com/thread/1759572051084382496.html)
+
 # Brook
 
 [ روش جدید دورزدن فیلترینگ با استفاده از Brook ](https://youtu.be/0YR4ZpnoYUY?si=Xs1BPq98XuNxtiUt)
@@ -965,6 +1017,13 @@ https://threadreaderapp.com/thread/1757432205570187325.html
 [aio-proxy All-In-One Proxy Tools](https://github.com/hrostami/aio-proxy)
 
 [reality-ezpz](https://github.com/aleskxyz/reality-ezpz)
+
+[How run Hysteria V2 Protocol with iSegaro](https://telegra.ph/How-run-Hysteria-V2-Protocol-with-iSegaro-09-02)
+
+[How run Hysteria Protocol with iSegaro](https://telegra.ph/How-run-Hysteria-Protocol-with-iSegaro-04-07)
+
+[How to start the TUIC v5 protocol with iSegaro](https://telegra.ph/How-to-start-the-TUIC-v5-protocol-with-iSegaro-08-26)
+
 
 # آموزش راه‌اندازی Home Server با VPN مرکزی
 
@@ -1040,6 +1099,15 @@ https://threadreaderapp.com/thread/1757432205570187325.html
 [bot telegram](https://t.me/IRAN_VPN_Guide_bot)
 
 
+# iSegaro
+
+[تمام آموزش های سگارو](https://www.google.com/search?q=iSegaro+site:https://telegra.ph)
+
+
+# ircf.space
+
+[ircf.space](https://ircf.space/linkbox.php)
+
 # geo-location routing
 
 This is an Enhanced and All-in-One set of geo-location routing files optimized for Iranian users to use in v2ray/xray and all their compatible clients.
@@ -1073,6 +1141,9 @@ This is an Enhanced and All-in-One set of geo-location routing files optimized f
 مهم ترین پروژه که تمام روش های بر اساس این پروژه هست.
 
 [Xray-core](https://github.com/XTLS/Xray-core)
+
+
+[computerscot.github.io](https://computerscot.github.io/)
 
 ## آشنایی و نحوه کلی کار با هسته Xray و نوشتن کانفیگ برای آن
 [آشنایی و نحوه کلی کار با هسته Xray و نوشتن کانفیگ برای آن](https://telegra.ph/%D8%A2%D8%B4%D9%86%D8%A7%DB%8C%DB%8C-%D9%88-%D9%86%D8%AD%D9%88%D9%87-%DA%A9%D9%84%DB%8C-%DA%A9%D8%A7%D8%B1-%D8%A8%D8%A7-%D9%87%D8%B3%D8%AA%D9%87-Xray-%D9%88-%D9%86%D9%88%D8%B4%D8%AA%D9%86-%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A2%D9%86-01-08)
@@ -1189,6 +1260,21 @@ https://www.fakexy.com/
 [v2ray-worker](https://github.com/vfarid/v2ray-worker)
 
 [کانال وحید](https://www.youtube.com/@vahidfarid)
+
+
+## Oblivion - Unofficial Warp Client for Android
+Oblivion provides secure, optimized internet access through a user-friendly Android app.
+[Oblivion](https://github.com/bepass-org/oblivion/releases/)
+
+https://twitter.com/seramo_ir/status/1756738507446366380
+
+https://t.me/generatewarpplusbot
+
+
+[Oblivion](https://www.youtube.com/watch?v=MJ6l4CVeDBg)
+
+
+[لینک گرفتن کلید وارپ در تلگرام](https://t.me/generatewarpplusbot)
 
 # روش سرور
 

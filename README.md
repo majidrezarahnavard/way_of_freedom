@@ -87,6 +87,8 @@
 [فعالسازی فرگمنت در ios / android / windows](https://telegra.ph/%D9%86%D8%AD%D9%88%D9%87-%D9%81%D8%B9%D8%A7%D9%84%D8%B3%D8%A7%D8%B2%DB%8C-%D9%81%D8%B1%DA%AF%D9%85%D9%86%D8%AA-%D8%AF%D8%B1-ios--android--windows-01-10)
 
 
+[ساخت کانفیگ بدون دامنه | با ای پی فیلتر شده](https://telegra.ph/%D8%B3%D8%A7%D8%AE%D8%AA-%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF-%D8%A8%D8%AF%D9%88%D9%86-%D8%AF%D8%A7%D9%85%D9%86%D9%87--%D8%A8%D8%A7-%D8%A7%DB%8C-%D9%BE%DB%8C-%D9%81%DB%8C%D9%84%D8%AA%D8%B1-%D8%B4%D8%AF%D9%87-02-20)
+
 اگر دنبال الگوی تنظیمات #فرگمنت هستین، میتونین از این ۳ نمونه که مربوط به کانفیگ‌های اپ مهسا [اپلیکشن مهسا](https://play.google.com/store/apps/details?id=com.MahsaNet.MahsaNG) هستن کمک بگیرین.
 در این کانفیگ‌ها از آی‌پی تمیز کلودفلر به‌همراه دامنه فیلترشده استفاده‌شده و توصیه‌میشه شما هم دامنه‌های مرده‌تون رو این‌مدلی زنده‌کنین!
 
@@ -527,6 +529,10 @@ https://t.me/generatewarpplusbot
 
 
 [لینک گرفتن کلید وارپ در تلگرام](https://t.me/generatewarpplusbot)
+
+# Wireguard go
+[wireguard-go](https://github.com/bepass-org/wireguard-go/releases/tag/v1.0.4-rc2)
+[خیلی ساده برین توی گیت هاب BePass و فایل مربوط به سیستمتون رو دانلود کنید :](https://threadreaderapp.com/thread/1759816946474766832.html)
 
 # Worker
 

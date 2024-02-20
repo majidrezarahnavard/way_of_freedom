@@ -89,6 +89,9 @@
 
 [ساخت کانفیگ بدون دامنه | با ای پی فیلتر شده](https://telegra.ph/%D8%B3%D8%A7%D8%AE%D8%AA-%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF-%D8%A8%D8%AF%D9%88%D9%86-%D8%AF%D8%A7%D9%85%D9%86%D9%87--%D8%A8%D8%A7-%D8%A7%DB%8C-%D9%BE%DB%8C-%D9%81%DB%8C%D9%84%D8%AA%D8%B1-%D8%B4%D8%AF%D9%87-02-20)
 
+
+[یه دامنه دراز انتخاب کنید](https://threadreaderapp.com/thread/1759982865297588554.html)
+
 اگر دنبال الگوی تنظیمات #فرگمنت هستین، میتونین از این ۳ نمونه که مربوط به کانفیگ‌های اپ مهسا [اپلیکشن مهسا](https://play.google.com/store/apps/details?id=com.MahsaNet.MahsaNG) هستن کمک بگیرین.
 در این کانفیگ‌ها از آی‌پی تمیز کلودفلر به‌همراه دامنه فیلترشده استفاده‌شده و توصیه‌میشه شما هم دامنه‌های مرده‌تون رو این‌مدلی زنده‌کنین!
 
@@ -556,6 +559,9 @@ https://t.me/generatewarpplusbot
 
 [ Cloudflare Pages to easily deploy v2ray proxy, no server required & extremely fast! Step-by-step! ](https://www.youtube.com/watch?v=8I-yTNHB0aw)
 
+
+[آموزش cloudflare pages برای اولین بار برای عبور از فیلترینگ با سرعت بالا+ای پی تمیز+فرگمنت کردن کانفیگ](https://telegra.ph/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-cloudflare-pages-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D9%88%D9%84%DB%8C%D9%86-%D8%A8%D8%A7%D8%B1-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B9%D8%A8%D9%88%D8%B1-%D8%A7%D8%B2-%D9%81%DB%8C%D9%84%D8%AA%D8%B1%DB%8C%D9%86%DA%AF-%D8%A8%D8%A7-%D8%B3%D8%B1%D8%B9%D8%AA-%D8%A8%D8%A7%D9%84%D8%A7%D8%A7%DB%8C-%D9%BE%DB%8C-%D8%AA%D9%85%DB%8C%D8%B2%D9%81%D8%B1%DA%AF%D9%85%D9%86%D8%AA-%DA%A9%D8%B1%D8%AF%D9%86-%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF-02-20)
+
 # نکوباکس
 
 
@@ -626,6 +632,9 @@ Network Programg with Go
 
 [کانفیگ امین](https://github.com/amin4139/share_file/blob/main/Hiddify+)
 [توضیحات امین](https://twitter.com/amin_o__o/status/1758010995207729342)
+
+[ اتصال به اینترنت آزاد با معجره هایدیفای ](https://www.youtube.com/watch?v=qLrAdVcPpB0)
+[کانفیگ](https://t.me/geekmeekbysina/97)
 
 # Mahsa NG
 
@@ -1046,7 +1055,18 @@ https://threadreaderapp.com/thread/1757432205570187325.html
 [invisible pro](https://threadreaderapp.com/thread/1758395708925784320.html)
 
 
- # Net4people
+# chiselBox
+
+با استفاده از اپ chiselBox به‌سادگی از کانفیگ‌های چیزل در دیوایس‌های اندرویدی استفاده کنین.
+چیزل یک تانل سریع WS/TCP/UDP از طریق HTTP هست، که چندی‌پیش توسط سگارو معرفی شد؛
+
+
+[ircfspace](https://threadreaderapp.com/thread/1759832792236491136.html)
+[ChiselBox ](https://github.com/PsrkGrmez/ChiselBox)
+
+[اتصال به وارپ از طریق تانل چیزل..](https://threadreaderapp.com/thread/1759985555725598930.html)
+
+# Net4people
 
  [ net4people ](https://github.com/net4people/bbs/issues?q=is%3Aissue+is%3Aopen+label%3AIran) 
 
@@ -1123,8 +1143,11 @@ This is an Enhanced and All-in-One set of geo-location routing files optimized f
 
 و این موارد خیلی زیاده، عمدتا نتایج فیلترینگ و البته بخشیش هم تبعات تحریم و شرایط بد اقتصادی کشوره.
 
+# Free V2ray Config 
 
+This repository contains a collection of free V2ray configuration files that you can use with your V2ray client to access the internet securely and anonymously.
 
+[V2ray-Configs](https://github.com/barry-far/V2ray-Configs)
 
 #  Shadowsocks + cloak server - آموزش و کانفیگ شادوساکس 
 

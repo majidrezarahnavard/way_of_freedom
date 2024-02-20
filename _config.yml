@@ -1,5 +1,5 @@
-name: My GitHub Repository
-description: A sample repository
+name: connect secure to internet
+description: Methods for connect secure to internet
 visibility: public
 baseurl : "way_of_freedom"
 remote_theme: pages-themes/time-machine@v0.2.0

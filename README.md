@@ -8,7 +8,8 @@
 
 [اگر دانش کافی ندارید از این بخش شروع کنید](https://github.com/majidrezarahnavard/way_of_freedom?tab=readme-ov-file#%D8%A7%DA%AF%D8%B1-%D8%AF%D8%A7%D9%86%D8%B4-%D9%81%D9%86%DB%8C-%DA%A9%D8%A7%D9%85%D9%BE%DB%8C%D9%88%D8%AA%D8%B1-%D9%86%D8%AF%D8%A7%D8%B1%DB%8C%D8%AF-%D8%A7%D8%B2-%D8%A7%DB%8C%D9%86-%D8%A8%D8%AE%D8%B4-%D8%B4%D8%B1%D9%88%D8%B9-%DA%A9%D9%86%DB%8C%D8%AF)
 
-
+* به یاد یوسف قبادی
+* به یاد سگارو
 
 [صحبت های سارینا اسماعیل زاده](https://www.youtube.com/watch?v=gpRnvFZ3vTU&t=52s)
 
@@ -91,6 +92,8 @@
 
 
 [یه دامنه دراز انتخاب کنید](https://threadreaderapp.com/thread/1759982865297588554.html)
+
+[فرگمنت روی x-ui و بالا بردن امنیت پنل x-ui](https://www.youtube.com/watch?v=EXRsHjWtXpM)
 
 اگر دنبال الگوی تنظیمات #فرگمنت هستین، میتونین از این ۳ نمونه که مربوط به کانفیگ‌های اپ مهسا [اپلیکشن مهسا](https://play.google.com/store/apps/details?id=com.MahsaNet.MahsaNG) هستن کمک بگیرین.
 در این کانفیگ‌ها از آی‌پی تمیز کلودفلر به‌همراه دامنه فیلترشده استفاده‌شده و توصیه‌میشه شما هم دامنه‌های مرده‌تون رو این‌مدلی زنده‌کنین!
@@ -468,6 +471,8 @@ https://twitter.com/seramo_ir/status/1756738507446366380
 
 # warp on warp
 
+[ دور زدن رایگان فیلترینگ با ساخت یک کانفیگ شخصی Warp on Warp](https://www.youtube.com/watch?v=SJWf_XsWiA4)
+
 [warp-on-warp](https://www.youtube.com/watch?si=bJq3Wn6bxD9wNruP&v=VnsjxHl41mU&feature=youtu.be)
 
 [wiregaurd-go](https://github.com/bepass-org/wireguard-go)
@@ -532,6 +537,8 @@ https://t.me/generatewarpplusbot
 
 
 [لینک گرفتن کلید وارپ در تلگرام](https://t.me/generatewarpplusbot)
+
+[حل مشکل اتصال oblivion ](https://threadreaderapp.com/thread/1760300277553356917.html)
 
 # Wireguard go
 [wireguard-go](https://github.com/bepass-org/wireguard-go/releases/tag/v1.0.4-rc2)
@@ -631,6 +638,7 @@ Network Programg with Go
 [hiddify-next github](https://github.com/hiddify/hiddify-next/release)
 
 [کانفیگ امین](https://github.com/amin4139/share_file/blob/main/Hiddify+)
+
 [توضیحات امین](https://twitter.com/amin_o__o/status/1758010995207729342)
 
 [ اتصال به اینترنت آزاد با معجره هایدیفای ](https://www.youtube.com/watch?v=qLrAdVcPpB0)

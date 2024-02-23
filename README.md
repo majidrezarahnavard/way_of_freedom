@@ -909,6 +909,7 @@ http://Bitpay.com
 
 # نکات خرید سرور
 
+[آنچه باید قبل از خرید VPS بدانید؛ چک لیست نکات مهم در خرید سرور برای VPN شخصی!](https://ivpn.pro/how-to/what-you-should-know-before-buying-a-vps-for-vpn/)
 
 Choose a server:
 </br>

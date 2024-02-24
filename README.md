@@ -6,10 +6,12 @@
 
 > :+1:  اگر دانش کامپیوتر کمی دارید یا برنامه‌نویس و شبکه بلد نیستید، بخشی مخصوص شما داریم. به آخرین قسمت مستندات بروید.
 
-[اگر دانش کافی ندارید از این بخش شروع کنید](https://github.com/majidrezarahnavard/way_of_freedom?tab=readme-ov-file#%D8%A7%DA%AF%D8%B1-%D8%AF%D8%A7%D9%86%D8%B4-%D9%81%D9%86%DB%8C-%DA%A9%D8%A7%D9%85%D9%BE%DB%8C%D9%88%D8%AA%D8%B1-%D9%86%D8%AF%D8%A7%D8%B1%DB%8C%D8%AF-%D8%A7%D8%B2-%D8%A7%DB%8C%D9%86-%D8%A8%D8%AE%D8%B4-%D8%B4%D8%B1%D9%88%D8%B9-%DA%A9%D9%86%DB%8C%D8%AF)
-
 * به یاد یوسف قبادی
 * به یاد سگارو
+
+[اگر دانش کافی ندارید از این بخش شروع کنید](https://github.com/majidrezarahnavard/way_of_freedom?tab=readme-ov-file#%D8%A7%DA%AF%D8%B1-%D8%AF%D8%A7%D9%86%D8%B4-%D9%81%D9%86%DB%8C-%DA%A9%D8%A7%D9%85%D9%BE%DB%8C%D9%88%D8%AA%D8%B1-%D9%86%D8%AF%D8%A7%D8%B1%DB%8C%D8%AF-%D8%A7%D8%B2-%D8%A7%DB%8C%D9%86-%D8%A8%D8%AE%D8%B4-%D8%B4%D8%B1%D9%88%D8%B9-%DA%A9%D9%86%DB%8C%D8%AF)
+
+
 
 [صحبت های سارینا اسماعیل زاده](https://www.youtube.com/watch?v=gpRnvFZ3vTU&t=52s)
 
@@ -252,6 +254,15 @@ length , interval
 
 [نحوه‌ی راه‌اندازی BPB Worker Panel به همراه Fragment نسخه‌ی 2.1](https://telegra.ph/%D9%86%D8%AD%D9%88%D9%87%E2%80%8C%DB%8C-%D8%B1%D8%A7%D9%87%E2%80%8C%D8%A7%D9%86%D8%AF%D8%A7%D8%B2%DB%8C-BPB-Worker-Panel-%D8%A8%D9%87%E2%80%8C%D9%87%D9%85%D8%B1%D8%A7%D9%87-Fragment-01-28)
 
+
+## ServerLess_TLSFrag_Xray_Config
+ کانفیگ یوتیوب بصورت مستقیم
+
+از آنجایی که تکنولوژی فرگمنت در هسته 1.8.3 xray پیاده سازی شده ، با افزودن این کانفیگ serverless_TLSFrag_xray.json یا این کانفیگ t.me/ircfspace/224 در هر کلاینت با هسته 1.8.3 به بالا میتوانید از یوتیوب بصورت مستقیم و بدون سرور واسطه استفاده کنید
+
+[ServerLess_TLSFrag_Xray_Config.json](https://github.com/GFW-knocker/gfw_resist_HTTPS_proxy/blob/main/ServerLess_TLSFrag_Xray_Config.json)
+
+[README](https://github.com/GFW-knocker/gfw_resist_HTTPS_proxy/blob/main/README.md)
 
 ## ChainWireguard_v2ray_(DNS Fragment)
 
@@ -783,7 +794,7 @@ https://www.spaceship.com/
 
 با 0.6$ دامین shop. و 0.18$ کارمزد ICANN جمعا 0.78$ هزینه خرید
 
-
+[خرید VPS با کریپتو؛ بهترین VPS های ارزان‌قیمت و با کیفیت برای VPN شخصی](https://ivpn.pro/vps-offers/buy-vps-by-crypto/)
 
 ## باریال چجوری کریپتو بخرم 
 
@@ -1011,6 +1022,8 @@ https://threadreaderapp.com/thread/1757688129648013538.html
 
 [ آموزش ساخت openvpn روی سرور مجازی ](https://www.youtube.com/watch?v=X8GOExnqPCY)
 
+
+[برنامه OpenVPN را با v2rayNG ترکیب کنم](https://threadreaderapp.com/thread/1761155128487448961.html)
 
 # PowerTunnel for Android
 

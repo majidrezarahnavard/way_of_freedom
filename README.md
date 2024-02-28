@@ -363,6 +363,9 @@ https://trends.builtwith.com/cdn/Cloudflare/China
 
 [مجموعه سایت‌های معتبر برای دریافت آی‌پی تمیز کلودفلر ورکر با کارکرد بالا و طولانی مدت](https://threadreaderapp.com/thread/1757395742434505118.html)
 
+
+[آموزش پیدا کردن ای پی تمیز برای ورکر و پیج کلودفلر از طریق ویندوز تست شده روی نت مخابرات،همراه اول،ایرانسل نگید ادرس پیج معلوم مهم نیست ](https://twitter.com/horizonbehind2/status/1762487430186180736)
+
 ## دو روش پیدا کردن آی پی تمیز برای کلودفلر ورکر
 دو روش پیدا کردن آی پی تمیز برای کلودفلر ورکر
 وارد سایت زیر می شویم 
@@ -516,6 +519,8 @@ warp://auto/?ifp=5-10
 
 [Warp-on-Warp](https://www.youtube.com/watch?v=tlxeXvBdZ84)
 
+[AminiYT](https://www.youtube.com/watch?v=w4dtN22YCi8)
+
 # warp
 
 میخوام اموزش کامل وارپ را بزارم دوستان قبل کامل گذاشتن
@@ -549,17 +554,18 @@ https://threadreaderapp.com/thread/1757319934512910486.html
 Oblivion provides secure, optimized internet access through a user-friendly Android app.
 [Oblivion](https://github.com/bepass-org/oblivion/releases/)
 
-https://twitter.com/seramo_ir/status/1756738507446366380
+[آموزش دریافت لایسنس نامحدود Warp Plus از ربات تلگرام و استفاده در Oblivion](https://twitter.com/seramo_ir/status/1756738507446366380)
 
-https://t.me/generatewarpplusbot
-
+[generatewarpplusbot](https://t.me/generatewarpplusbot)
 
 [Oblivion](https://www.youtube.com/watch?v=MJ6l4CVeDBg)
-
 
 [لینک گرفتن کلید وارپ در تلگرام](https://t.me/generatewarpplusbot)
 
 [حل مشکل اتصال oblivion ](https://threadreaderapp.com/thread/1760300277553356917.html)
+
+[ICYBOY](https://www.youtube.com/watch?v=xVqkoxtxsk8)
+
 
 # Wireguard go
 [wireguard-go](https://github.com/bepass-org/wireguard-go/releases/tag/v1.0.4-rc2)

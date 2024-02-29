@@ -43,6 +43,11 @@
 
 [ How to set up two-factor authentication (2FA) for ProtonMail ](https://www.youtube.com/watch?v=GgrNWoLyp1g)
 
+[تو این #رشتو می خواهم توضیح بدهم که شیوه کارکرد #عرزشی های #سایبری چجوری هست و چگونه مغز شما رو منفجر می کنند:](https://threadreaderapp.com/thread/1762784314478022916.html?utm_campaign=topunroll)
+
+
+[اگر از سرور ناشناس استفاده کنیم چه میشود؟](https://threadreaderapp.com/thread/1762770899537690939.html)
+
 # فرگمنت
 فرگمنت به معنی تکه تکه کردن درخواست‌هاست که تشخیص رو برای «[دیوار آتش بزرگ](https://fa.wikipedia.org/wiki/%D8%AF%DB%8C%D9%88%D8%A7%D8%B1_%D8%A2%D8%AA%D8%B4_%D8%A8%D8%B2%D8%B1%DA%AF_%DA%86%DB%8C%D9%86)» سخت می‌کند.
 این قابلیت در xray هم پشتیبانی می‌شود.
@@ -685,6 +690,9 @@ Network Programg with Go
 [ اتصال به اینترنت آزاد با معجره هایدیفای ](https://www.youtube.com/watch?v=qLrAdVcPpB0)
 [کانفیگ](https://t.me/geekmeekbysina/97)
 
+[ پیدا کردن ایپی تمیز و ساخت کانفیگ شخصی برای هیدیفای کاملا رایگان ](https://www.youtube.com/watch?v=uzdUFBEOTOU)
+
+
 # Mahsa NG
 
 [Mahsa NG Application](https://play.google.com/store/apps/details?id=com.MahsaNet.MahsaNG)
@@ -841,6 +849,8 @@ https://www.thorswap.finance/
 # Buy VPS and Domain just with 10$ for One Year! with iSegaro
 [Buy VPS and Domain just with 10$ for One Year! with iSegaro](https://telegra.ph/Buy-VPS-and-Domain-just-with-10-for-One-Year-with-iSegaro-03-29)
 
+
+[ آموزش خرید دامین (دامنه) از هاستینگر Hostinger با ارز دیجیتال و ساخت اکانت کلادفلر ](https://www.youtube.com/watch?v=sZzXI7BGClI)
 
 # Namizun - نامیزون
 با استفاده از نامیزون مقدار مصرف ترافیک رو نامتعادل کنید اینطوری هم دیرتر شناسایی میشه هم اگه جایی مشکل مصرف منصفانه داشتید میتونید بااین روش دورش بزنید:
@@ -1345,6 +1355,8 @@ https://t.me/generatewarpplusbot
 
 [لینک گرفتن کلید وارپ در تلگرام](https://t.me/generatewarpplusbot)
 
+[فیلترشکن با پروتکل وارپ](https://www.youtube.com/watch?v=Xjy6hpgJBC8)
+
 # روش سرور
 
 اگر نمی دونید سرور چی هست اول این ویدیو رو ببنید.
@@ -1358,6 +1370,9 @@ https://t.me/generatewarpplusbot
 هر سرور برای ۳۰۰ نفر راحت کار می کند و شما می توانید با این روش کل خانواده و دوستان رو وصل کنید.
 
 تو این روش بهتون یه ای پی ثابت داده میشود.
+
+
+[آموزش 0 تا 100 راه اندازی پنل و ساخت کانفیگ](https://www.youtube.com/watch?v=hV5s0Eqzei0)
 
 ### اول یک جیمیل بسازید 
 [ آموزش ساخت Gmail / آموزش ساخت ایمیل ](https://www.youtube.com/watch?v=tZPt45qnxC4)

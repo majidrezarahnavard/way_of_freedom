@@ -456,6 +456,18 @@ https://trends.builtwith.com/cdn/Cloudflare/China
     },
 ```
 
+# افزایش سرعت
+این قسمت ربطی به سرور نداره و کلاینت باید خودش دستبکار بشه
+
+۱. MTU:
+
+https://www.youtube.com/watch?v=yM_quSzPJvA
+
+۲. استفاده از اد بلاکرها:
+با بلاک کردن تبلیغات میتونید در مصرف اینترنت و وقتتون صرفه جویی کنید 
+
+https://github.com/MasterKia/PersianBlocker
+
 # آموزش BBR
 خلاصه بگم bbr برای بهینه کردن نحوه کانکشن بکار میره توضیحات اضافی + آموزش:
 

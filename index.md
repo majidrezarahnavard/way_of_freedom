@@ -461,6 +461,11 @@ https://trends.builtwith.com/cdn/Cloudflare/China
 
 https://www.youtube.com/watch?v=pAzI_YOtJnQ
 
+# آموزش فالبک - fallback
+استفاده از فالبک به شما این امکان رو میده که هر چندتا کانفیگی که دارید از یک پورت عبور بدید که مریت‌های خودشو داره./ آموزش:
+
+https://www.youtube.com/watch?v=sXKK0rCrm8s
+
 # مخفی سازی
 
 این روش به تنهایی باعث فیلترشدن دامنه می‌شود.

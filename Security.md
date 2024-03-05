@@ -67,3 +67,24 @@
 ## از پورت های دیفالت پنل ها استفاده نکنید
 
 [ اینکارو نکنی سرورت هک میشه! ](https://www.youtube.com/watch?v=Oiag_izb5wk)
+
+
+# بستن سایت های غیر اخلاقی و پورن
+
+``` json
+{ "type": "field", "outboundTag": "blocked","domain": [ "geosite:category-porn" ] } 
+
+
+"routing": {
+    "domainStrategy": "IPIfNonMatch",
+    "rules": [
+      {
+        "domain": [
+          "geosite:category-porn",
+        ],
+        "outboundTag": "BLOCK",
+        "type": "field"
+      },
+    ]
+  },
+```

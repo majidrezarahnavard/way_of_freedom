@@ -8,9 +8,10 @@
 | روش | توضیحات |
 | --- | --- |
 | [Fragment](https://github.com/majidrezarahnavard/way_of_freedom/blob/main/Fragment.md) | در این روش پکیت ها تکه تکه می شوند و نیاز به دامنه و سرور کثیف هست |
-| [DNS](https://github.com/majidrezarahnavard/way_of_freedom/blob/main/DNS.md) | این کار زمانی مناسب است که می خواهید خودتان DNS داشته باشید |
+| [DNS](https://github.com/majidrezarahnavard/way_of_freedom/blob/main/DNS.md) | این کار زمانی مناسب است که می خواهید خودتان داشته باشید |
 | [CloudFlare White IP](https://github.com/majidrezarahnavard/way_of_freedom/blob/main/CloudFlare.md) | روش هایی برای یافتن ای پی های مناسب کلودفلیر |
 | [Server Security](https://github.com/majidrezarahnavard/way_of_freedom/blob/main/Security.md) | روش های رعایت امنیت در سرور |
+| [Oblivion](https://github.com/majidrezarahnavard/way_of_freedom/blob/main/Oblivion.md) | اپلیکیشین با تکنولوژی وارپ بدون سرور و دامنه |
 | Warp on Warp | کار با کامیپوتر و گوشی |
 | Worker | کار با کامیپوتر و گوشی |
 
@@ -57,8 +58,6 @@
 
 
 
-# آموزش دریافت لایسنس نامحدود Warp Plus از ربات تلگرام و استفاده در Oblivion
-https://twitter.com/seramo_ir/status/1756738507446366380
 
 # warp on warp
 
@@ -117,21 +116,6 @@ _وارپ+التراسرف ترکیب طلایی_
 
 https://threadreaderapp.com/thread/1757319934512910486.html
 
-# Oblivion - Unofficial Warp Client for Android
-Oblivion provides secure, optimized internet access through a user-friendly Android app.
-[Oblivion](https://github.com/bepass-org/oblivion/releases/)
-
-[آموزش دریافت لایسنس نامحدود Warp Plus از ربات تلگرام و استفاده در Oblivion](https://twitter.com/seramo_ir/status/1756738507446366380)
-
-[generatewarpplusbot](https://t.me/generatewarpplusbot)
-
-[Oblivion](https://www.youtube.com/watch?v=MJ6l4CVeDBg)
-
-[لینک گرفتن کلید وارپ در تلگرام](https://t.me/generatewarpplusbot)
-
-[حل مشکل اتصال oblivion ](https://threadreaderapp.com/thread/1760300277553356917.html)
-
-[ICYBOY](https://www.youtube.com/watch?v=xVqkoxtxsk8)
 
 
 # Wireguard go
@@ -495,25 +479,7 @@ http://Bitpay.com
 
 
 
-# بستن سایت های غیر اخلاقی و پورن
 
-``` json
-{ "type": "field", "outboundTag": "blocked","domain": [ "geosite:category-porn" ] } 
-
-
-"routing": {
-    "domainStrategy": "IPIfNonMatch",
-    "rules": [
-      {
-        "domain": [
-          "geosite:category-porn",
-        ],
-        "outboundTag": "BLOCK",
-        "type": "field"
-      },
-    ]
-  },
-```
 
 # نکات خرید سرور
 

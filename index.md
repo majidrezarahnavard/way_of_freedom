@@ -456,6 +456,11 @@ https://trends.builtwith.com/cdn/Cloudflare/China
     },
 ```
 
+# آموزش BBR
+خلاصه بگم bbr برای بهینه کردن نحوه کانکشن بکار میره توضیحات اضافی + آموزش:
+
+https://www.youtube.com/watch?v=pAzI_YOtJnQ
+
 # مخفی سازی
 
 این روش به تنهایی باعث فیلترشدن دامنه می‌شود.

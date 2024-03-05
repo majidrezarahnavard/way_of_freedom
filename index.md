@@ -456,6 +456,28 @@ https://trends.builtwith.com/cdn/Cloudflare/China
     },
 ```
 
+# افزایش سرعت
+این قسمت ربطی به سرور نداره و کلاینت باید خودش دستبکار بشه
+
+۱. MTU:
+
+https://www.youtube.com/watch?v=yM_quSzPJvA
+
+۲. استفاده از اد بلاکرها:
+با بلاک کردن تبلیغات میتونید در مصرف اینترنت و وقتتون صرفه جویی کنید 
+
+https://github.com/MasterKia/PersianBlocker
+
+# آموزش BBR
+خلاصه بگم bbr برای بهینه کردن نحوه کانکشن بکار میره توضیحات اضافی + آموزش:
+
+https://www.youtube.com/watch?v=pAzI_YOtJnQ
+
+# آموزش فالبک - fallback
+استفاده از فالبک به شما این امکان رو میده که هر چندتا کانفیگی که دارید از یک پورت عبور بدید که مریت‌های خودشو داره./ آموزش:
+
+https://www.youtube.com/watch?v=sXKK0rCrm8s
+
 # مخفی سازی
 
 این روش به تنهایی باعث فیلترشدن دامنه می‌شود.

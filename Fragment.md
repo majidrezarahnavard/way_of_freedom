@@ -177,3 +177,140 @@ length , interval
         "tag": "dns"
     },
 ```
+
+
+
+## Random Fragment Sub Worker 
+
+ترکیب Edge Tunnel و Fragment فوق العادس
+
+[آموزش اتصال به پیکربندی‌ها با استفاده از فرگمنت در برنامه MahsaNG اندروید](https://twitter.com/seramo_ir/status/1753080310982701493)
+
+[آموزش اتصال به پیکربندی‌ها با استفاده از فرگمنت در برنامه V2Box آیفون](https://twitter.com/seramo_ir/status/1753080558127869976)
+
+این فقط یه دونه خروجی جیسون بر اساس اون اطلاعات می‌سازه که پیکربندی سفارشی دارای فرگمنته.
+این کلا ربطی به اون ورکر نداره.
+فقط میاد بر اساس دامنه و آیدی، پیکربندی جیسونش رو می‌سازه.
+
+[پیکربندی‌های سفارشی توی V2rayNG](https://twitter.com/seramo_ir/status/1754959963187712478)
+
+[نمونه‌ای از worker.js](https://github.com/seramo/random-fragment-sub-worker/blob/main/worker.js)
+
+برای استفاده از ورکر ساخت ساب فرگمنت می‌تونید دامنه خودتون رو جایگزین domain و uuid پیکربندی رو جایگزین userUUID کنید.
+
+نکته: این برای Edge Tunnel نوشته شده و می‌تونید متناسب با پیکربندی خودتون port، path و ... رو تغییر بدید.
+
+
+
+
+## Worker Serverless + Fragment
+
+[ عبور از فیلترینگ با Edge Tunnel و بررسی پنل BPB و پنل وحید فرید , فیلترشکن رایگان، سریع و ضد تحریم ](https://www.youtube.com/watch?v=jvZkHANYfno&t=297s)
+
+[نحوه‌ی راه‌اندازی BPB Worker Panel به همراه Fragment نسخه‌ی 2.1](https://telegra.ph/%D9%86%D8%AD%D9%88%D9%87%E2%80%8C%DB%8C-%D8%B1%D8%A7%D9%87%E2%80%8C%D8%A7%D9%86%D8%AF%D8%A7%D8%B2%DB%8C-BPB-Worker-Panel-%D8%A8%D9%87%E2%80%8C%D9%87%D9%85%D8%B1%D8%A7%D9%87-Fragment-01-28)
+
+
+## ServerLess_TLSFrag_Xray_Config
+ کانفیگ یوتیوب بصورت مستقیم
+
+از آنجایی که تکنولوژی فرگمنت در هسته 1.8.3 xray پیاده سازی شده ، با افزودن این کانفیگ serverless_TLSFrag_xray.json یا این کانفیگ t.me/ircfspace/224 در هر کلاینت با هسته 1.8.3 به بالا میتوانید از یوتیوب بصورت مستقیم و بدون سرور واسطه استفاده کنید
+
+[ServerLess_TLSFrag_Xray_Config.json](https://github.com/GFW-knocker/gfw_resist_HTTPS_proxy/blob/main/ServerLess_TLSFrag_Xray_Config.json)
+
+[README](https://github.com/GFW-knocker/gfw_resist_HTTPS_proxy/blob/main/README.md)
+
+## ChainWireguard_v2ray_(DNS Fragment)
+
+https://threadreaderapp.com/thread/1757369865550135679.html
+
+[ChainWireguard_v2ray_(DNS Fragment)](https://github.com/amin4139/share_file/blob/main/ChainWireguard_v2ray_(DNS%20Fragment))
+
+## ChainWireguard_v2ray
+
+https://threadreaderapp.com/thread/1757369865550135679.html
+
+[ChainWireguard_v2ray](https://github.com/amin4139/share_file/blob/main/ChainWireguard_v2ray)
+
+## ChainWireguard_v2ray_(IRDNS Fragment)
+
+https://threadreaderapp.com/thread/1757369865550135679.html
+
+[ChainWireguard_v2ray_(IRDNS Fragment)](https://github.com/amin4139/share_file/blob/main/ChainWireguard_v2ray_(IRDNS%20Fragment))
+
+## Vless warp fragment 
+۱. نصب پنل سنایی
+```bash
+bash <(curl -Ls https://raw.githubusercontent.com/mhsanaei/3x-ui/master/install.sh)
+```
+۲.سرتیفیکیت دامنه 
+
+۳.نصب warp go 
+```bash
+bash <(curl -Ls https://gitlab.com/rwkgyg/CFwarp/raw/main/CFwarp.sh)
+```
+
+۴.ساخت کانفینگ 
+
+۵.زدن فرگمنت 
+
+توصیه ما این است که بهترین گزینه برای سرور، اوبونتو ۲۲ است.
+
+
+## رفع فیلتر دامنه و ای پی با فرگمنت و وارپ روی تروجان
+
+فقط به جای vless ws لطفا trojan ws بسازید.
+
+[رفع فیلتر دامنه و ای‌پی با فرگمنت و وارپ روی تروجان](https://telegra.ph/%D8%B1%D9%81%D8%B9-%D9%81%DB%8C%D9%84%D8%AA%D8%B1-%D8%AF%D8%A7%D9%85%D9%86%D9%87-%D9%88-%D8%A7%DB%8C-%D9%BE%DB%8C-%D8%A8%D8%A7-%D9%81%D8%B1%DA%AF%D9%85%D9%86%D8%AA-%D9%88-%D9%88%D8%A7%D8%B1%D9%BE-%D8%B1%D9%88%DB%8C-%D8%AA%D8%B1%D9%88%D8%AC%D8%A7%D9%86-02-14)
+
+## Streisand IOS
+برنامهٔ #Streisand یکی‌از پایدارترین گزینه‌ها برای #آیفون هست که متاسفانه در رابطه با واردکردن پیگربندی JSON از URL با مشکل مواجه بود؛ این زمانی اهمیت بیشتری پیدا می‌کرد که درحال‌حاضر #فرگمنت در ایران به‌عنوان یکی‌از روش‌های کاربردی برای دسترسی آزاد به اینترنت به‌شمار میره /تب
+
+https://apps.apple.com/us/app/streisand/id6450534064?platform=iphone
+
+
+## آموزش اتصال به کانفیگ ها با استفاده از فرگمنت در برنامه MahsaNG اندروید
+
+https://threadreaderapp.com/thread/1753080310982701493.html
+
+
+## آموزش اتصال به کانفیگ ها با استفاده از فرگمنت در برنامه Nekoray ویندوز و لینوکس
+
+نشانی دریافت Nekoray:
+https://github.com/MatsuriDayo/nekoray/releases
+
+https://twitter.com/seramo_ir/status/1757698224897294818
+
+
+## اگر فرگمنت نزنیم چی میشه؟
+
+رو دامنه‌های قدیمی که از قبل اینجوری وصلن احتمال فیلتر شدن کمه ولی دامنه‌های جدیدی که تازه بخوان از این روش استفاده کنن کمتر از ۲۴ ساعت و ترافیک زیر ۱۰ گیگ برای خودم دوتا دامنه اینجوری فیلتر شد و حتی دوستان و اطرافیان هم همینطور ترافیک شون به ۱۰ گیگ نرسیده دامنه فیلتر شده
+حتی اگر یک وبسایت داشته باشید و رشد نمایی ترافیک داشته باشد فیلتر می شود.
+
+
+但是我们收到了 REALITY 被伊朗 GFW 封锁的报告 XTLS/Xray-core#2778 ，并且 Cloak 似乎没有过于流行以至于会被单独针对，所以伊朗 GFW 可能尚未针对上述小众特征，更有可能是在针对普遍的 IP、域名、流量特征等，它们也会导致 Cloak 被封锁。
+
+خصیصه‌های آماری و الگویی اتصال و آی‌پی و پهنای باند مصرفی و تعداد اتصال‌ها مورد ارزیابی قرار می گیرد و بر اساس آنها فیلتر می شوند. هم چنین ربات‌هایی برای تشخیص سرور وجود دارند که عملیات شناسایی رو سریع‌تر می کنند.
+
+
+## خطرات امنیتی پروتکل Vless بدون TLS
+
+نکات کلیدی:
+
+* پروتکل Vless بدون TLS، داده‌های شما را تا سرور رمزنگاری نمی‌کند و در معرض خطر است.
+* استفاده از درگاه 80 بدون TLS خطرناک است.
+* اگر از پیکربندی Vless بدون TLS استفاده می‌کنید، گزینه "insecure" را فعال نکنید.
+* به جای فعال کردن insecure، پرونده cert (کلید عمومی) را در پیکربندی قرار دهید.
+* شیوه‌نامه‌های Vmess و Shadowsocks بدون TLS امن هستند زیرا داده‌ها را رمزنگاری می‌کنند.
+
+راه حل:
+
+* از Vless با TLS استفاده کنید.
+* از درگاه‌های امن مانند 443 استفاده کنید.
+* پرونده cert را در پیکربندی Vless خود قرار دهید.
+* از شیوه‌نامهٔ Vmess یا Shadowsocks به جای Vless بدون TLS استفاده کنید.
+  
+
+هشدار:
+* عدم تحقیق در مورد امنیت سایبری می‌تواند خطرناک باشد.
+* فعال کردن گزینهٔ "insecure" امنیت پیکربندی شما را به خطر می‌اندازد.
+

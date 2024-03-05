@@ -12,8 +12,11 @@
 | [CloudFlare White IP](https://github.com/majidrezarahnavard/way_of_freedom/blob/main/CloudFlare.md) | روش هایی برای یافتن ای پی های مناسب کلودفلیر |
 | [Server Security](https://github.com/majidrezarahnavard/way_of_freedom/blob/main/Security.md) | روش های رعایت امنیت در سرور |
 | [Oblivion](https://github.com/majidrezarahnavard/way_of_freedom/blob/main/Oblivion.md) | اپلیکیشین با تکنولوژی وارپ بدون سرور و دامنه |
-| Warp on Warp | کار با کامیپوتر و گوشی |
-| Worker | کار با کامیپوتر و گوشی |
+| [Warp on Warp](https://github.com/majidrezarahnavard/way_of_freedom/blob/main/Warp.md)|روش های که با آنها وارپ را به کار می اندازید|
+| [Worker](https://github.com/majidrezarahnavard/way_of_freedom/blob/main/Worker.md) | به صورت رایگان کانفیگ ورکر بسازید در صورت نیاز دامنه تهیه کنید |
+| [Internal Server](https://github.com/majidrezarahnavard/way_of_freedom/blob/main/Internal_Server.md) | روش برای افرادی که یک سرور داخلی دارند و یک سرور خارجی |
+
+
 
 [اگر دانش کافی ندارید از این بخش شروع کنید](https://github.com/majidrezarahnavard/way_of_freedom?tab=readme-ov-file#%D8%A7%DA%AF%D8%B1-%D8%AF%D8%A7%D9%86%D8%B4-%D9%81%D9%86%DB%8C-%DA%A9%D8%A7%D9%85%D9%BE%DB%8C%D9%88%D8%AA%D8%B1-%D9%86%D8%AF%D8%A7%D8%B1%DB%8C%D8%AF-%D8%A7%D8%B2-%D8%A7%DB%8C%D9%86-%D8%A8%D8%AE%D8%B4-%D8%B4%D8%B1%D9%88%D8%B9-%DA%A9%D9%86%DB%8C%D8%AF)
 
@@ -49,72 +52,27 @@
 
 [تو این #رشتو می خواهم توضیح بدهم که شیوه کارکرد #عرزشی های #سایبری چجوری هست و چگونه مغز شما رو منفجر می کنند:](https://threadreaderapp.com/thread/1762784314478022916.html?utm_campaign=topunroll)
 
-
 [اگر از سرور ناشناس استفاده کنیم چه میشود؟](https://threadreaderapp.com/thread/1762770899537690939.html)
 
+## Data leak
+
+هرکانفیگی که استفاده می کنید حتما یکبار با سایت زیر چک کنید که دیتا لیک نداشته باشد
+
+https://browserleaks.com/
 
 
 
 
+WebRTC in Firefox
 
+    To disable WebRTC in Firefox:
+    Type about:config in the address bar and press Enter.
+    In the search bar, type media.peerconnection.enabled and double-click the preference to set its value to false.
 
+WebRTC in Chrome
 
-# warp on warp
+    The recommended solution to limit the risk of IP leakage via WebRTC is to use the official Google extension called WebRTC Network Limiter, which provides a range of options with varying levels of protection.
 
-[ دور زدن رایگان فیلترینگ با ساخت یک کانفیگ شخصی Warp on Warp](https://www.youtube.com/watch?v=SJWf_XsWiA4)
-
-[warp-on-warp](https://www.youtube.com/watch?si=bJq3Wn6bxD9wNruP&v=VnsjxHl41mU&feature=youtu.be)
-
-[wiregaurd-go](https://github.com/bepass-org/wireguard-go)
-
-[github.com Elfiinaa](https://github.com/Elfiinaa/ConfigFiles/blob/main/WoW/WarpOnWarp-HiddifyNext.json)
-
-[warp-phiphon](https://www.youtube.com/shorts/y1Cqo0Ru0vI)
-
-[warp kian](https://twitter.com/lowercase_1978/status/1752285825789034927)
-
-[ اتصال به وارپ روی اکثر اینترنت‌ها , حل مشکل وارپ ](https://www.youtube.com/watch?v=KT_cxcKesS0)
-
-حالا اگر از وارپ استفاده می‌کنید اعداد IFP رو تغییر بدید دوباره وصل میشه 
-
-نمونه:
-```
-ifp=5-10
-warp://auto/?ifp=5-10
-```
-
-[Warp-on-Warp](https://www.youtube.com/watch?v=tlxeXvBdZ84)
-
-[AminiYT](https://www.youtube.com/watch?v=w4dtN22YCi8)
-
-# warp
-
-میخوام اموزش کامل وارپ را بزارم دوستان قبل کامل گذاشتن
-یک سری نکته و راحت تر وصل شدن هست
-
-[warp](https://threadreaderapp.com/thread/1747875764018515991.html)
-
-# آموزش اتصال به وارپ با Hiddify Next
-https://twitter.com/seramo_ir/status/1756040074607628786
-
-# وارپ+سایفون
-
-_وارپ+سایفون ترکیب طلایی_
-
-وارپ در حالت عادی توسط سیستم فیلترینگ مسدود شد با ترکیب وارپ و سایفون روی ویندوز فیلترینگ را با سرعت  دور بزنیم. وای فای مخابرات تست شده
-
-https://threadreaderapp.com/thread/1757057880295903274.html
-
-
-[فیلترشکن با پروتکل وارپ](https://www.youtube.com/watch?v=4FbgWDVt98Y)
-
-# وارپ+التراسرف
-
-_وارپ+التراسرف ترکیب طلایی_
-
- وارپ در حالت عادی توسط سیستم فیلترینگ مسدود شد با ترکیب وارپ و التراسرف روی ویندوز فیلترینگ را با سرعت  دور بزنیم. وای فای مخابرات تست شده
-
-https://threadreaderapp.com/thread/1757319934512910486.html
 
 
 
@@ -122,78 +80,15 @@ https://threadreaderapp.com/thread/1757319934512910486.html
 [wireguard-go](https://github.com/bepass-org/wireguard-go/releases/tag/v1.0.4-rc2)
 [خیلی ساده برین توی گیت هاب BePass و فایل مربوط به سیستمتون رو دانلود کنید :](https://threadreaderapp.com/thread/1759816946474766832.html)
 
-# Worker
-
-[کد آپدیت شده‌ی ورکر تولید ساب برای کلاینت‌های v2ray رو آپدیت کردم و میتونید از روی گیت‌هاب نسخه‌ی ۱.۷ رو دریافت و روی ورکرهاتون جایگزین کنید.
-](https://threadreaderapp.com/thread/1656027952746823681.html)
-
-[ ساخت فیلترشکن رایگان بدون سرور و دامین با استفاده از ورکر Cloudflare-Worker ](https://www.youtube.com/watch?v=9v57JYYn-Ww)
-
-[امروز میخوام یه داستان بگم برای کسانی که میخوان vpn یا کانفیگ خودشون رو درست کنن و نمیدونن از کجا شروع کنن؟](https://threadreaderapp.com/thread/1639220465477492738.html)
-
-[cf-ip-scanner](https://vfarid.github.io/cf-ip-scanner/)
-
-[راهکار جامع کانفیگ‌های v2ray روی ورکر](https://github.com/vfarid/v2ray-worker/blob/main/README-fa.md)
-
-[v2ray-worker](https://github.com/vfarid/v2ray-worker)
-
-[کانال وحید](https://www.youtube.com/@vahidfarid)
-
-
-[EDtunnel](https://github.com/3Kmfi6HP/EDtunnel)
-
-[ Cloudflare Pages to easily deploy v2ray proxy, no server required & extremely fast! Step-by-step! ](https://www.youtube.com/watch?v=8I-yTNHB0aw)
-
-
-[آموزش cloudflare pages برای اولین بار برای عبور از فیلترینگ با سرعت بالا+ای پی تمیز+فرگمنت کردن کانفیگ](https://telegra.ph/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-cloudflare-pages-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D9%88%D9%84%DB%8C%D9%86-%D8%A8%D8%A7%D8%B1-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B9%D8%A8%D9%88%D8%B1-%D8%A7%D8%B2-%D9%81%DB%8C%D9%84%D8%AA%D8%B1%DB%8C%D9%86%DA%AF-%D8%A8%D8%A7-%D8%B3%D8%B1%D8%B9%D8%AA-%D8%A8%D8%A7%D9%84%D8%A7%D8%A7%DB%8C-%D9%BE%DB%8C-%D8%AA%D9%85%DB%8C%D8%B2%D9%81%D8%B1%DA%AF%D9%85%D9%86%D8%AA-%DA%A9%D8%B1%D8%AF%D9%86-%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF-02-20)
 
 # نکوباکس
 
-
 [ اموزش کامل برنامهٔ نکو باکس Neko Box (برای دور زدن فیلترینگ) ](https://www.youtube.com/watch?v=JjvSeQwdxT8)
-
 
 # v2ray windows
 
 [ آموزش استفاده از v2ray در ویندوز , نحوه اتصال کانفیگ v2ray در ویندوز ](https://www.youtube.com/watch?v=Z31wBnYe3co)
 
-# استفاده از سرور داخلی
-
-## نحوه جلوگیری از عبور ترافیک داخلی از سرور پروکسی
-
-ایده‌آل‌ترین حالت اینه که ترافیک داخلی ایران به سمت سرور پروکسی ارسال نشه. برای این‌منظور می‌تونیم توی کلاینت‌های مختلف با Routing Rules تعریف‌کنیم این‌ترافیک از پروکسی عبور نکنه و فقط ترافیک خارجی به سمت سرور پروکسی ارسال بشه.
-
-[نحوه جلوگیری از عبور ترافیک داخلی از سرور پروکسی](https://telegra.ph/%D9%86%D8%AD%D9%88%D9%87-%D9%85%D8%B3%D8%AF%D9%88%D8%AF%D8%B3%D8%A7%D8%B2%DB%8C-%D8%B3%D8%A7%DB%8C%D8%AA%E2%80%8C%D9%87%D8%A7-%D9%88-%D8%A7%D9%BE%E2%80%8C%E2%80%8C%D9%87%D8%A7%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%DB%8C-%D8%A7%D8%B2-%D8%B3%D9%85%D8%AA-%DA%A9%D8%A7%D8%B1%D8%A8%D8%B1-02-15)
-
-## ReverseTlsTunnel - تانل معکوس
-دراین روش بجای اینکه از سرور داخل به خارج تانل بزنیم داریم از سرور خارج به ایران میزنیم برای همین در برخی مواقع حتی ممکنه روی سرور فیلتر شده هم جواب بده!!
-
-با ۲روش میشه انجامش داد که یکی با خود پنل x-ui هستش یکی هم پروژه ReverseTlsTunnel
-
-1. x-ui:
-
-[آموزش تانل معکوس](https://www.youtube.com/watch?v=jCg6Yci7a5U)
-
-[chain](https://www.youtube.com/watch?v=0SBtJ11EcjA)
-
-[ ریورس تانل , v2ray , حرفه ای و بدون اختلال با پنل x-ui ](https://www.youtube.com/watch?v=2ieccbVzlUw)
-
-2. [ReverseTlsTunnel](https://github.com/radkesvat/ReverseTlsTunnel)
-
-
-3. [ریورس پروکسی grpc / معکوس تمام سایت](https://www.youtube.com/watch?v=QBEnXWTyQwE)
-
-
-## وردپرس با پنل سنایی و علیرضا
-
-[ پنل xui و وردپرس رو کنار هم داشته باش! اسکریپت خودکار WUI  تک پورت کردن پنل سنایی و علیرضا ](https://www.youtube.com/watch?v=OksLefIcUxc)
-
-
-
-همونطور که میدونین استفاده از پنل های xui بدون اینکه سایتی در پس زمینه باشه میتونه احتمال فیلتر شدن آیپی سرور و دامنه رو افزایش بده . به همین علت اسکریپت WUI میتونه برای ما وردپرس رو در کنار پنل xui نصب کنه و مارو به حالت عادی نزدیکتر کنه. با اینکار یک سایت وردپرسی روی دامنه شما ایجاد میشه و با یک مسیر مخفی میتونیم به  پنلمون دسترسی داشته باشیم.
-
-
-[WUI (WordPress + XUI Panel)](https://github.com/azavaxhuman/WUI)
 
 # Bepass
 
@@ -263,25 +158,6 @@ https://threadreaderapp.com/thread/1757093989616947356.html
 
 # argovpn 
 [ArgoVPN](https://play.google.com/store/apps/details?id=com.filtershekanha.argovpn&hl=en_US)
-
-# Data leak
-
-هرکانفیگی که استفاده می کنید حتما یکبار با سایت زیر چک کنید که دیتا لیک نداشته باشد
-
-https://browserleaks.com/
-
-
-
-
-WebRTC in Firefox
-
-    To disable WebRTC in Firefox:
-    Type about:config in the address bar and press Enter.
-    In the search bar, type media.peerconnection.enabled and double-click the preference to set its value to false.
-
-WebRTC in Chrome
-
-    The recommended solution to limit the risk of IP leakage via WebRTC is to use the official Google extension called WebRTC Network Limiter, which provides a range of options with varying levels of protection.
 
 
 # Edge Tunnel 

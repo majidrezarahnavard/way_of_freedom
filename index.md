@@ -1090,9 +1090,9 @@ https://threadreaderapp.com/thread/1757432205570187325.html
 
 [وبلاگ کوین](https://ivpn.pro/)
 
-# invisible pro
+# invisible pro اپلیکیشن
 
-[invisible pro](https://threadreaderapp.com/thread/1758395708925784320.html)
+[invisible pro VPN](https://threadreaderapp.com/thread/1758395708925784320.html)
 
 
 # chiselBox

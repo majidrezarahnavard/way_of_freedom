@@ -830,9 +830,13 @@ https://www.thorswap.finance/
 
 
 # Namizun - نامیزون
+!توجه!
+
+[پروژه اصلی](https://github.com/malkemit/namizun) نامیزون حدود ۲سال هستش که اپدیت نشده و مواردی داشتیم که باعث دیتکت شدن سرور میشه 
+
 با استفاده از نامیزون مقدار مصرف ترافیک رو نامتعادل کنید اینطوری هم دیرتر شناسایی میشه هم اگه جایی مشکل مصرف منصفانه داشتید میتونید بااین روش دورش بزنید:
 
-[گیتهاب پروژه](https://github.com/salehi/namizun)
+[گیتهاب پروژه (فورک شده)](https://github.com/salehi/namizun)
 
 [آموزش](https://www.youtube.com/watch?v=rFXG6SdcqWw)
 

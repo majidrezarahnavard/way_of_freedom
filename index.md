@@ -1102,7 +1102,8 @@ https://threadreaderapp.com/thread/1757432205570187325.html
 
 [اتصال به وارپ از طریق تانل چیزل..](https://threadreaderapp.com/thread/1759985555725598930.html)
 
-# Net4people
+# Net4people انجمن
+یک انجمن فراگیر و چند زبانه برای بحث و گفتگوی عمومی در مورد دور زدن سانسور اینترنت است. این مکانی برای توسعه دهندگان و محققان است تا بحث کنند و اطلاعات، فنون و تحقیقات را به اشتراک بگذارند:
 
  [ net4people ](https://github.com/net4people/bbs/issues?q=is%3Aissue+is%3Aopen+label%3AIran) 
 

@@ -35,3 +35,11 @@
 
 
 [WUI (WordPress + XUI Panel)](https://github.com/azavaxhuman/WUI)
+
+
+## Namizun - نامیزون
+با استفاده از نامیزون مقدار مصرف ترافیک رو نامتعادل کنید اینطوری هم دیرتر شناسایی میشه هم اگه جایی مشکل مصرف منصفانه داشتید میتونید بااین روش دورش بزنید:
+
+[گیتهاب پروژه](https://github.com/salehi/namizun)
+
+[آموزش](https://www.youtube.com/watch?v=rFXG6SdcqWw)

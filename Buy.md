@@ -1,0 +1,188 @@
+# از پرداخت با ریال جدا خودداری کنید
+
+برای خرید سرور و دامنه و فیلترشکن و تلفن تلگرام هرگز از ریال استفاده نکنید.
+
+
+[آموزش کیف پول متامسک](https://www.youtube.com/watch?v=DE4iA1-vLrU)
+
+
+اگر از شبکه ترون 
+</br>
+TRX
+</br>
+استفاده کمترین کارمزد رو خواهد داشت.
+
+
+[شبکه ترون چیست؟](https://www.youtube.com/watch?v=UWz8C0dLDkI)
+
+## آدرس فیک
+
+```
+https://www.fakexy.com/
+```
+
+
+
+## از کجا سرور و دامنه با کریپتو بخرم؟
+
+```
+https://www.ethernetservers.com/vps-hosting
+https://www.digiturunc.com/
+yottasrc.com
+https://www.hazi.ro/
+https://aeza.net/
+https://regxa.com/
+https://racknerd.com/NewYear/
+https://www.ihc.ru/?ref=405186
+https://github.com/dalisoft/awesome-hosting
+vps2day.com
+https://vps.one
+frantech.ca
+https://hostvds.com/
+https://4vps.su/
+https://www.netcup.eu/vserver/vps.php#v-server-details
+my.spectraip.net
+https://www.namesilo.com/
+https://www.hostinger.com/payments
+https://bluevps.com/
+```
+
+## با کریپتو دامنه بخریم؟
+
+```
+https://www.spaceship.com/
+```
+
+
+با 0.6$ دامین shop. و 0.18$ کارمزد ICANN جمعا 0.78$ هزینه خرید
+
+[خرید VPS با کریپتو؛ بهترین VPS های ارزان‌قیمت و با کیفیت برای VPN شخصی](https://ivpn.pro/vps-offers/buy-vps-by-crypto/)
+
+## باریال چجوری کریپتو بخرم 
+
+اگر هیچ دارایی کریپتو ندارید اول با ریال  نوبیتکس خرید کنید
+
+[نحوه خرید کریپتو از نوبیتکس](https://www.youtube.com/watch?v=j2gDuIHKIko)
+
+نوبیتکس آدرس ولت شما رو ذخیره می کنه و چون  می تونند با هویت شما تطابق دهند.
+
+
+وقتی از درگاه های کریپتو خرید می کنید پول شما وارد استخر می شود و رهگیری اش سخت هست
+ولی اگر بازم اگر خواستید می تونید از تبدیل های زیر استفاده کنید و به یک  ولت دیگر انتقال دهید.
+
+### سایت های ایرانی خرید رمز ارز
+```
+https://arzanpay724.com/
+https://nobitex.ir/
+https://tetherland.com/
+https://bit24.cash/
+https://ok-ex.io/
+```
+
+
+### توجه
+هرگز آدرس پرداخت رو مستقیم در نوبیتکس نزنید. و در ابتدا به متامسک یا تراست ولت انتقال دهید.
+
+## Exchange
+برای تبدیل دارایی خود می توانید از سایت زیر استفاده کنید
+
+```
+https://swapspace.co
+https://fixedfloat.com/
+https://www.thorswap.finance/
+```
+
+# Buy VPS and Domain just with 10$ for One Year! with iSegaro
+[Buy VPS and Domain just with 10$ for One Year! with iSegaro](https://telegra.ph/Buy-VPS-and-Domain-just-with-10-for-One-Year-with-iSegaro-03-29)
+
+
+[ آموزش خرید دامین (دامنه) از هاستینگر Hostinger با ارز دیجیتال و ساخت اکانت کلادفلر ](https://www.youtube.com/watch?v=sZzXI7BGClI)
+
+
+
+
+## درگاه کریپتو برای فروشندگان
+
+به جای پرداخت ریالی پرداخت با ترون راه اندازی کنید.
+
+
+```
+http://Nowpayments.io
+http://Coinpayments.net
+http://Bitpay.com
+```
+
+[ آموزش ثبت نام و تنظیمات درگاه پرداخت NOWPayments ](https://www.youtube.com/watch?v=cIR8VTHFyn0)
+
+
+# اگر فیلترشکن با ریال بخریم چه اطلاعاتی رو می توانند به دست بیاورند؟ 
+
+برخی از فروشندگان فیلترشکن حکومتی هستند . تشخیص اینکه آیا این فیلترشکن حکومتی هست یا نه به سادگی نیست.
+
+## اگر از فیلترشکن حکومتی با ریال خرید کنید چه اطلاعاتی از شما رو به دست می آورند:
+
+* نام و نام خانوادگی
+* کدملی
+* آدرس محل سکونت
+* کدپستی
+* آی پی
+* نوع دستگاه و بروزی که استفاده می کنید
+* لیست سایت هایی که مشاهده می کنید
+* لیست خرید های آنلاین از پلتفرم های بزرگ
+* لیست مکان هایی که با اسنپ یا تپسی رفتید
+
+
+## درآمد فیلترشکن
+
+درآمد ایرانسل حدودا ۳۰ همت
+</br>
+اسنپ حدودا ۳۲ همت
+</br>
+و گردش سالانه فیلترینگ حدودا ۵۰-۶۰ همت
+</br>
+بدون درگیری مجوز و سرمایه‌گذاری و پرداخت حق لایسنس و استخدام نیرو و بیمه و مالیات و حساب و کتاب.
+</br>
+خودشان به همین سادگی و به هزینه‌ی مردم به اندازه‌ی دو اپراتور اصلی کشور درآمد کسب می‌کنند.
+
+
+
+
+
+# نکات خرید سرور
+
+[آنچه باید قبل از خرید VPS بدانید؛ چک لیست نکات مهم در خرید سرور برای VPN شخصی!](https://ivpn.pro/how-to/what-you-should-know-before-buying-a-vps-for-vpn/)
+
+Choose a server:
+</br>
+
+* سیستم عامل سرور Ubuntu 22 
+* پینگ کم (80 تا 100 میلی‌ثانیه) برای اروپا، 160 تا 180 میلی‌ثانیه برای آمریکا
+* دیتاسنترهای اروپایی (فرانکفورت، آمستردام، لوکزامبورگ) بهترین گزینه
+* از اروپای شرقی، ترکیه و امارات دوری کنید
+* مراقب فروشندگان روس و هندی باشید
+* قیمت مناسب: 5 دلار در ماه برای یک VPS نرمال
+  
+</br>
+Server Configuration:
+</br>
+
+* پورت 1Gbps
+* CPU: حداقل اینتل E5 ورژن 3 یا 4، AMD Ryzen یا EPYC
+* رم: DDR4 یا DDR5
+* فضای ذخیره: SSD NVMe (نه HDD)
+* 
+
+</br>
+Traffic:
+</br>
+
+
+* ترافیک 1000GB در عمل 500GB ترافیک برای کل یوزرهای VPN شما است.
+
+خرید از صرافی‌های کریپتو:
+
+* با VPN و آدرس اروپایی خرید کنید.
+*با کارت ویزا یا مستر کارت گزینه‌های بیشتر و ارزانتری هست.
+
+
+[نکات مهم برای عبور از فیلترینگ!](https://threadreaderapp.com/thread/1754472982687150413.html)

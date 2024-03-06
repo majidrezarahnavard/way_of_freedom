@@ -37,3 +37,13 @@ https://trends.builtwith.com/cdn/Cloudflare/China
 * دوم. برخی از این آدرس‌ها سرویس‌های ایرانی هستند.
 
 [ Websites On Cloudflare ](https://webcf.xericsusi.workers.dev/)
+
+
+## Scan with Port and SNI
+
+امکان اسکن آی‌پی تمیز کلودفلر با ست‌کردن SNI و Port فراهم شد.
+با توجه به محدودیتی‌که فیلترچی برای ارسال درخواست https بدون SNI به کلودفلر اعمال کرده بود، اکثر اسکنرهای آی‌پی تمیز تحت وب روی اپراتورهای موبایل دیگه کار نمی‌کردن
+
+[link](https://threadreaderapp.com/thread/1765371203475145113.html)
+
+[scanner](http://scanner.github1.cloud/)

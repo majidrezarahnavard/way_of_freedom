@@ -297,6 +297,8 @@ https://threadreaderapp.com/thread/1757432205570187325.html
 [راه‌اندازی Home Server با VPN مرکزی – قسمت ۳](https://ivpn.pro/openwrt/how-to-deploy-home-server-with-built-in-vpn/)
 
 
+[نصب و راه‌اندازی OpenWrt روی کامپیوتر و رزبری با یک کارت شبکه](https://ivpn.pro/openwrt/how-to-install-openwrt-on-a-pc-or-raspberry-with-one-ethernet-port/)
+
 [وبلاگ کوین](https://ivpn.pro/)
 
 # invisible pro

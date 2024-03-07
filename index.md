@@ -830,9 +830,13 @@ https://www.thorswap.finance/
 
 
 # Namizun - نامیزون
+!توجه!
+
+[پروژه اصلی](https://github.com/malkemit/namizun) نامیزون حدود ۲سال هستش که اپدیت نشده و مواردی داشتیم که باعث دیتکت شدن سرور میشه 
+
 با استفاده از نامیزون مقدار مصرف ترافیک رو نامتعادل کنید اینطوری هم دیرتر شناسایی میشه هم اگه جایی مشکل مصرف منصفانه داشتید میتونید بااین روش دورش بزنید:
 
-[گیتهاب پروژه](https://github.com/salehi/namizun)
+[گیتهاب پروژه (فورک شده)](https://github.com/salehi/namizun)
 
 [آموزش](https://www.youtube.com/watch?v=rFXG6SdcqWw)
 
@@ -1086,9 +1090,9 @@ https://threadreaderapp.com/thread/1757432205570187325.html
 
 [وبلاگ کوین](https://ivpn.pro/)
 
-# invisible pro
+# invisible pro اپلیکیشن
 
-[invisible pro](https://threadreaderapp.com/thread/1758395708925784320.html)
+[invisible pro VPN](https://threadreaderapp.com/thread/1758395708925784320.html)
 
 
 # chiselBox
@@ -1102,7 +1106,8 @@ https://threadreaderapp.com/thread/1757432205570187325.html
 
 [اتصال به وارپ از طریق تانل چیزل..](https://threadreaderapp.com/thread/1759985555725598930.html)
 
-# Net4people
+# Net4people انجمن
+یک انجمن فراگیر و چند زبانه برای بحث و گفتگوی عمومی در مورد دور زدن سانسور اینترنت است. این مکانی برای توسعه دهندگان و محققان است تا بحث کنند و اطلاعات، فنون و تحقیقات را به اشتراک بگذارند:
 
  [ net4people ](https://github.com/net4people/bbs/issues?q=is%3Aissue+is%3Aopen+label%3AIran) 
 

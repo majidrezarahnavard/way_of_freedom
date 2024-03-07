@@ -17,6 +17,7 @@
 | [Internal Server](https://github.com/majidrezarahnavard/way_of_freedom/blob/main/Internal_Server.md) | روش برای افرادی که یک سرور داخلی دارند و یک سرور خارجی |
 | [‌Buy server and domain](https://github.com/majidrezarahnavard/way_of_freedom/blob/main/Buy.md) | خرید دامنه و سرور با رمز ارز |
 | [مقدماتی](https://github.com/majidrezarahnavard/way_of_freedom/blob/main/Primary.md) | اگر هیچ دانشی ندارید و برنامه نویسی و شبکه نمی دانید از این بخش شروع کنید |
+| [اپلیکیشن](https://github.com/majidrezarahnavard/way_of_freedom/blob/main/Application.md) | این اپلیکشن ها به صورت مستقیم روی گوشی نصب می شوند و قابل استفاده هستند |
 
 
 
@@ -134,45 +135,10 @@ Network Programg with Go
 [ پیدا کردن ایپی تمیز و ساخت کانفیگ شخصی برای هیدیفای کاملا رایگان ](https://www.youtube.com/watch?v=uzdUFBEOTOU)
 
 
-# Mahsa NG
-
-[Mahsa NG Application](https://play.google.com/store/apps/details?id=com.MahsaNet.MahsaNG)
-
-
-# Amnezia VPN
-
-[ آموزش نصب و کانفیگ Amnezia VPN روی سرور (نصب ساده با پینگ مناسب - مناسب ترید) ](https://www.youtube.com/watch?v=JIgMNK_oQYk)
-
-
-https://threadreaderapp.com/thread/1757093989616947356.html
-
-
-بله، زمان ترید ساعت سیستم رو به سوئد تغییر بدین.
-البته به شرطی که ژئولوکیشن ip سرورتون هم سوئد باشه.
-از سایت http://ipinfo.io لوکیشن ip تون رو چک کنین.
-
-</br>
-
-این روش amnezia پارسال یه اپدیت خیلی مهم گرفت که عملا سیستم dpi روسیه رو  نابود کرد ازونجایی هم که سیستم dpi ایران عملا همون نسخه روسی هست بنابراین تو ایران هم خوب جواب میده منتها یکسری اشکالات امنیتی داذه که فیلترچی میتونه ازشون سو استفاده کنه ولی اون اشکالاتم میشه حل کرد
-
-
-# argovpn 
-[ArgoVPN](https://play.google.com/store/apps/details?id=com.filtershekanha.argovpn&hl=en_US)
-
-
 # Edge Tunnel 
 
 [ بدون داشتن سرور و با Edge Tunnel کانفیگ Vless بساز و محدودیت کلودفلر رو دور بزن ](https://www.youtube.com/watch?v=3XoiNd3CNts)
 
-# Tor project
-
-[ روش استفاده از مرورگر "تور" در اندروید ](https://www.youtube.com/watch?v=h24QM4iEhvE)
-
-
-[ آموزش مخفی کردن آی پی سرور پشت آی پی های پروژه تور (Tor with X-UI) ](https://www.youtube.com/watch?v=sHI8oXN0Qg8)
-
-
-[ترکیب Tor Browser و v2rayNG](https://www.youtube.com/watch?v=ZLsLDrm1Wh4&t=56s)
 
 # IPv6 TunnelBroker
 [اگر سرور مجازی شما ipv6 نداره ، این اسکریپت به شما کمک میکنه تا براحتی IPv6 که با استفاده از سرویس های تانل بروکر دریافت کردید رو روی سرور مجازیتون ست کنید. همینطور به راحتی میتونید تنظیمات رو مشاهده کنید یا اون رو به حالت قبل برگردونید. ](https://github.com/azavaxhuman/IPv6-TunnelBroker)
@@ -193,20 +159,6 @@ wget -qO- bench.sh | bash
 
 [روش استفاده مجدد از دامنه های فیلتر شده یا کند شده](https://telegra.ph/%D8%B1%D9%88%D8%B4-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D9%85%D8%AC%D8%AF%D8%AF-%D8%A7%D8%B2-%D8%AF%D8%A7%D9%85%D9%86%D9%87-%D9%87%D8%A7%DB%8C-%D9%81%DB%8C%D9%84%D8%AA%D8%B1-%D8%B4%D8%AF%D9%87-%DB%8C%D8%A7-%DA%A9%D9%86%D8%AF-%D8%B4%D8%AF%D9%87-02-16)
 
-# مخزن دانلود فیلترشکن
-[Mark Pashmfouroush](https://fdroid.noql.net/)
-
-
-# آموزش ترکیب v2rayNG و nekobox و با استفاده از فرگمنت داخلی xray فعال کردن کانیفگ های ورکر داخل nekobox
-
-[amin](https://twitter.com/amin_o__o/status/1758258329514598534)
-
-# نرم افزار secure dnsعبور از فیلتر سایتهای بر پایه sni/dns فیلتر شدند مثل یوتیوب،توییتر و.در ویندوز 
-
-نرم افزار secure dnsعبور از فیلتر سایتهای بر پایه sni/dns فیلتر شدند مثل یوتیوب،توییتر و.در ویندوز 
-افرادی  بدون نیاز به تغییر ای پی می خواهند از این سایتها استفاده کنند
-
-https://threadreaderapp.com/thread/1757688129648013538.html
 
 
 # پنل علیرضا
@@ -232,20 +184,6 @@ https://threadreaderapp.com/thread/1757688129648013538.html
 
 [برنامه OpenVPN را با v2rayNG ترکیب کنم](https://threadreaderapp.com/thread/1761155128487448961.html)
 
-# PowerTunnel for Android
-
- Simple, scalable, cross-platform and effective solution against government censorship for Android 
-
-https://threadreaderapp.com/thread/1757432205570187325.html
-
- https://github.com/krlvm/PowerTunnel-Android
-
-
- # معرفی یک سری فیلترشکن روی اندروید 
- معرفی یک سری فیلترشکن روی اندروید خوب کار می کنند لینک گوگل پلی برای افرادی دیدن آموزش براشون سخته و میخوان برای توییتر ایسنتا وصل بشن روی همراه مخابرات تست شده در ریپلای پست جوابش
-در رپیلای پست عکسشون به همراه لینک دانلود هست
-
-[آموزش](https://threadreaderapp.com/thread/1759572051084382496.html)
 
 # Brook
 
@@ -303,21 +241,7 @@ https://threadreaderapp.com/thread/1757432205570187325.html
 
 [وبلاگ کوین](https://ivpn.pro/)
 
-# invisible pro
 
-[invisible pro](https://threadreaderapp.com/thread/1758395708925784320.html)
-
-
-# chiselBox
-
-با استفاده از اپ chiselBox به‌سادگی از کانفیگ‌های چیزل در دیوایس‌های اندرویدی استفاده کنین.
-چیزل یک تانل سریع WS/TCP/UDP از طریق HTTP هست، که چندی‌پیش توسط سگارو معرفی شد؛
-
-
-[ircfspace](https://threadreaderapp.com/thread/1759832792236491136.html)
-[ChiselBox ](https://github.com/PsrkGrmez/ChiselBox)
-
-[اتصال به وارپ از طریق تانل چیزل..](https://threadreaderapp.com/thread/1759985555725598930.html)
 
 # Net4people
 

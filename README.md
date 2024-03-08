@@ -18,10 +18,12 @@
 | [‌Buy server and domain](https://github.com/majidrezarahnavard/way_of_freedom/blob/main/Buy.md) | خرید دامنه و سرور با رمز ارز |
 | [مقدماتی](https://github.com/majidrezarahnavard/way_of_freedom/blob/main/Primary.md) | اگر هیچ دانشی ندارید و برنامه نویسی و شبکه نمی دانید از این بخش شروع کنید |
 | [اپلیکیشن](https://github.com/majidrezarahnavard/way_of_freedom/blob/main/Application.md) | این اپلیکشن ها به صورت مستقیم روی گوشی نصب می شوند و قابل استفاده هستند |
+| [Wireguard](https://github.com/majidrezarahnavard/way_of_freedom/blob/main/Wireguard.md) | استفاده از روش وایرگارد برای اتصال به اینترنت |
+| [Bepass](https://github.com/majidrezarahnavard/way_of_freedom/blob/main/Other.md#Bepass) | روش های یوسف قبادی برای اتصال به اینترنت آزاد |
+| [پنل ها](https://github.com/majidrezarahnavard/way_of_freedom/blob/main/Panel.md) | آموزش پنل مشهور علیرضا و ثنایی و مرزبان و غیره |
+| [Yebekhe](https://github.com/majidrezarahnavard/way_of_freedom/blob/main/Other.md#Yebekhe) | جمع آوری کانفیگ ها از کانال ها تلگرام و رتبه بندی آنها |
 
 
-
-[نمایش به صورت وبسایت](https://majidrezarahnavard.github.io/way_of_freedom/)
 
 
 #  گرم یاد آوری یا نه من از یادت نمی کاهم
@@ -29,12 +31,9 @@
 * به یاد یوسف قبادی
 * به یاد سگارو
 
-
-
 [صحبت های سارینا اسماعیل زاده](https://www.youtube.com/watch?v=gpRnvFZ3vTU&t=52s)
 
 [مجیدرضا رهنورد](https://www.youtube.com/watch?v=N3Yo009a7Uc)
-
 
 
 # امنیت پلتفرم توییتر
@@ -59,9 +58,7 @@
 
 هرکانفیگی که استفاده می کنید حتما یکبار با سایت زیر چک کنید که دیتا لیک نداشته باشد
 
-https://browserleaks.com/
-
-
+[browserleaks](https://browserleaks.com/)
 
 
 WebRTC in Firefox
@@ -75,13 +72,6 @@ WebRTC in Chrome
     The recommended solution to limit the risk of IP leakage via WebRTC is to use the official Google extension called WebRTC Network Limiter, which provides a range of options with varying levels of protection.
 
 
-
-
-# Wireguard go
-[wireguard-go](https://github.com/bepass-org/wireguard-go/releases/tag/v1.0.4-rc2)
-[خیلی ساده برین توی گیت هاب BePass و فایل مربوط به سیستمتون رو دانلود کنید :](https://threadreaderapp.com/thread/1759816946474766832.html)
-
-
 # نکوباکس
 
 [ اموزش کامل برنامهٔ نکو باکس Neko Box (برای دور زدن فیلترینگ) ](https://www.youtube.com/watch?v=JjvSeQwdxT8)
@@ -89,31 +79,6 @@ WebRTC in Chrome
 # v2ray windows
 
 [ آموزش استفاده از v2ray در ویندوز , نحوه اتصال کانفیگ v2ray در ویندوز ](https://www.youtube.com/watch?v=Z31wBnYe3co)
-
-
-# Bepass
-
-Bepass: A DPI-nightmare proxy
-[bepass](https://github.com/bepass-org/bepass)
-
-[Bepass-worker](https://www.youtube.com/watch?v=1UG8g9-6XUc&t=161s)
-
-
-# تذکر
-اپلیکشن Beepass ربطی به این اپلیکشن ندارد و ناامن است.
-
-</br>
-برای کمک به این پروژه کتاب 
-Network Programg with Go
-را مطالعه کنید
-
-# Yebekhe
-
-[TelegramV2rayCollector](https://github.com/yebekhe/TelegramV2rayCollector)
-
-[cf-clean-ip-resolver](https://github.com/yebekhe/cf-clean-ip-resolver)
-
-[v2hub](https://github.com/sarinaesmailzadeh/V2Hub/blob/main/merged)
 
 
 # Hiddify هیدیفای
@@ -144,7 +109,7 @@ Network Programg with Go
 [اگر سرور مجازی شما ipv6 نداره ، این اسکریپت به شما کمک میکنه تا براحتی IPv6 که با استفاده از سرویس های تانل بروکر دریافت کردید رو روی سرور مجازیتون ست کنید. همینطور به راحتی میتونید تنظیمات رو مشاهده کنید یا اون رو به حالت قبل برگردونید. ](https://github.com/azavaxhuman/IPv6-TunnelBroker)
 
 
-# speedtest - تست سرعت
+# Speedtest - تست سرعت
 [Client]
 * https://fiber.google.com/speedtest/
 * https://speed.cloudflare.com/
@@ -159,15 +124,6 @@ wget -qO- bench.sh | bash
 
 [روش استفاده مجدد از دامنه های فیلتر شده یا کند شده](https://telegra.ph/%D8%B1%D9%88%D8%B4-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D9%85%D8%AC%D8%AF%D8%AF-%D8%A7%D8%B2-%D8%AF%D8%A7%D9%85%D9%86%D9%87-%D9%87%D8%A7%DB%8C-%D9%81%DB%8C%D9%84%D8%AA%D8%B1-%D8%B4%D8%AF%D9%87-%DB%8C%D8%A7-%DA%A9%D9%86%D8%AF-%D8%B4%D8%AF%D9%87-02-16)
 
-
-
-# پنل علیرضا
-
-[An Advanced Web Panel • Built on SagerNet/Sing-Box](https://github.com/alireza0/s-ui)
-
-پورت ۲۰۹۵ و admin برای یوزر/پسورد
-
-[ نصب و بررسی پنل S-UI جایگزین پنل X-UI (ساپورت از تمام پروتکل ها) ](https://www.youtube.com/watch?v=Vwg5OOI8J_w)
 
 # Spotify
 
@@ -349,18 +305,6 @@ This repository contains a collection of free V2ray configuration files that you
 
 پرامتر early data برای کاهش تاخیر (پینگ) هستش و اون عدد 2048 هم که پیشنهاد project x بوده برای ارسال حداکثر اولین پکت
 
-
-# آموزش مقدماتی و نصب پنل
-
-[نقشه راه دسترسی به اینترنت آزاد - از کانال یوتیوب ایمان آقاپور](https://iaghapour.github.io/freehope/)
-
-[آموزش کامل پنل مرزبان](https://www.youtube.com/watch?v=2yWopaxdkM0&t=211s)
-
-[آموزش جامع پنل سنایی](https://www.youtube.com/watch?v=pDfUWzCLb6I)
-
-[ V2ray, Cloudflare, SSL, CDN, Proxy آموزش کامل ](https://www.youtube.com/watch?v=yIkJvmQjVr0)
-
-[ آموزش ساخت سریعترین وی پی ان ایران - فیلترشکن XRay و V2Ray ](https://www.youtube.com/watch?v=MjqZ--zYrdc)
 
 
 #   آموزش لینوکس و شبکه

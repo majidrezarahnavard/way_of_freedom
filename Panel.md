@@ -27,3 +27,24 @@
 [ عبور از فیلترینگ با Edge Tunnel و بررسی پنل BPB و پنل وحید فرید , فیلترشکن رایگان، سریع و ضد تحریم ](https://www.youtube.com/watch?v=jvZkHANYfno&t=297s)
 
 [نحوه‌ی راه‌اندازی BPB Worker Panel به همراه Fragment نسخه‌ی 2.1](https://telegra.ph/%D9%86%D8%AD%D9%88%D9%87%E2%80%8C%DB%8C-%D8%B1%D8%A7%D9%87%E2%80%8C%D8%A7%D9%86%D8%AF%D8%A7%D8%B2%DB%8C-BPB-Worker-Panel-%D8%A8%D9%87%E2%80%8C%D9%87%D9%85%D8%B1%D8%A7%D9%87-Fragment-01-28)
+
+
+# reality-ezpz
+[reality-ezpz](https://github.com/aleskxyz/reality-ezpz)
+
+Install and configure vless with reality or TLS on your linux server by executing a single command!
+
+TUIC and hysteria2 on sing-box is also supported!
+
+This script:
+
+    Installs docker with compose plugin in your server
+    Generates docker-compose.yml and sing-box/xray configuration for vless protocol for reality and tls
+    Generates docker-compose.yml and sing-box configuration for TUIC protocol with tls
+    Generates docker-compose.yml and sing-box configuration for hysteria2 protocol with tls
+    Create Cloudflare warp account and configure warp as outbound
+    Generates client configuration string and QRcode
+    Gets and renews valid certificate from Letsencrypt for TLS encryption
+    Fine-tunes kernel tunables
+    Is designed by taking security considerations into account to make the server undetectable
+    Provides a Telegram bot to manage users from Telegram

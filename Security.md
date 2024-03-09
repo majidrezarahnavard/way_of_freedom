@@ -113,5 +113,10 @@ sudo systemctl restart sshd
 برای اتصال به سرور از ای پی ایران استفاده نکنید.
 می تونید حتی از این پراکسی ها استفاده کنید.
 
-https://ssheasy.com/
+[ssheasy](https://ssheasy.com/)
 
+
+
+## مخفی سازی پنل 
+
+[ GateKeeper راه‌حل مدیریت و امنیت لینک‌های V2ray و VPN ](https://www.youtube.com/watch?v=b0rMI8boAiI)

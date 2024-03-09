@@ -15,6 +15,7 @@
 | [Warp on Warp](https://github.com/majidrezarahnavard/way_of_freedom/blob/main/Warp.md)|روش های که با آنها وارپ را به کار می اندازید|
 | [Worker](https://github.com/majidrezarahnavard/way_of_freedom/blob/main/Worker.md) | به صورت رایگان کانفیگ ورکر بسازید در صورت نیاز دامنه تهیه کنید |
 | [Internal Server](https://github.com/majidrezarahnavard/way_of_freedom/blob/main/Internal_Server.md) | روش برای افرادی که یک سرور داخلی دارند و یک سرور خارجی |
+| [Clients](https://github.com/majidrezarahnavard/way_of_freedom/blob/main/Clients.md) | برای اتصال اندروید و اپل و کامپیوتر که به سرور متصل می شوند |
 | [‌Buy server and domain](https://github.com/majidrezarahnavard/way_of_freedom/blob/main/Buy.md) | خرید دامنه و سرور با رمز ارز |
 | [مقدماتی](https://github.com/majidrezarahnavard/way_of_freedom/blob/main/Primary.md) | اگر هیچ دانشی ندارید و برنامه نویسی و شبکه نمی دانید از این بخش شروع کنید |
 | [اپلیکیشن](https://github.com/majidrezarahnavard/way_of_freedom/blob/main/Application.md) | این اپلیکشن ها به صورت مستقیم روی گوشی نصب می شوند و قابل استفاده هستند |
@@ -22,8 +23,10 @@
 | [Bepass](https://github.com/majidrezarahnavard/way_of_freedom/blob/main/Other.md#Bepass) | روش های یوسف قبادی برای اتصال به اینترنت آزاد |
 | [پنل ها](https://github.com/majidrezarahnavard/way_of_freedom/blob/main/Panel.md) | آموزش پنل مشهور علیرضا و ثنایی و مرزبان و غیره |
 | [Yebekhe](https://github.com/majidrezarahnavard/way_of_freedom/blob/main/Other.md#Yebekhe) | جمع آوری کانفیگ ها از کانال ها تلگرام و رتبه بندی آنها |
-
-
+| [Home Server](https://github.com/majidrezarahnavard/way_of_freedom/blob/main/Other.md#Home_Server) | وقتی داخل یک شرکت یا سازمان هستید به جای اینکه هر کسی یک فیلترشکن اجرا کند یک سیستم مرکزی ایجاد می شه کرد |
+| [Open VPN](https://github.com/majidrezarahnavard/way_of_freedom/blob/main/Other.md#Open_VPN) | این روش نیاز به سرور و کلاینت مخصوص خود را دارد|
+| [Brook](https://github.com/majidrezarahnavard/way_of_freedom/blob/main/Other.md#Brook) | روش های جدید دورزدن فیلترینگ با استفاده از Brook |
+| [Hysteria 2  and TUIC](https://github.com/majidrezarahnavard/way_of_freedom/blob/main/Other.md#UDP) | روش ها بر اساس یو دی پی |
 
 
 #  گرم یاد آوری یا نه من از یادت نمی کاهم
@@ -72,43 +75,6 @@ WebRTC in Chrome
     The recommended solution to limit the risk of IP leakage via WebRTC is to use the official Google extension called WebRTC Network Limiter, which provides a range of options with varying levels of protection.
 
 
-# نکوباکس
-
-[ اموزش کامل برنامهٔ نکو باکس Neko Box (برای دور زدن فیلترینگ) ](https://www.youtube.com/watch?v=JjvSeQwdxT8)
-
-# v2ray windows
-
-[ آموزش استفاده از v2ray در ویندوز , نحوه اتصال کانفیگ v2ray در ویندوز ](https://www.youtube.com/watch?v=Z31wBnYe3co)
-
-
-# Hiddify هیدیفای
-
-
-[ آموزش کامل تنظیمات پیشرفته هیدیفای نکست Hiddify Next ](https://www.youtube.com/watch?v=NtQ0bQlIRrY)
-
-[Hiddify Next](https://www.youtube.com/watch?v=EjHjLQbC40E)
-
-[hiddify-next github](https://github.com/hiddify/hiddify-next/release)
-
-[کانفیگ امین](https://github.com/amin4139/share_file/blob/main/Hiddify+)
-
-[توضیحات امین](https://twitter.com/amin_o__o/status/1758010995207729342)
-
-[ اتصال به اینترنت آزاد با معجره هایدیفای ](https://www.youtube.com/watch?v=qLrAdVcPpB0)
-[کانفیگ](https://t.me/geekmeekbysina/97)
-
-[ پیدا کردن ایپی تمیز و ساخت کانفیگ شخصی برای هیدیفای کاملا رایگان ](https://www.youtube.com/watch?v=uzdUFBEOTOU)
-
-
-# Edge Tunnel 
-
-[ بدون داشتن سرور و با Edge Tunnel کانفیگ Vless بساز و محدودیت کلودفلر رو دور بزن ](https://www.youtube.com/watch?v=3XoiNd3CNts)
-
-
-# IPv6 TunnelBroker
-[اگر سرور مجازی شما ipv6 نداره ، این اسکریپت به شما کمک میکنه تا براحتی IPv6 که با استفاده از سرویس های تانل بروکر دریافت کردید رو روی سرور مجازیتون ست کنید. همینطور به راحتی میتونید تنظیمات رو مشاهده کنید یا اون رو به حالت قبل برگردونید. ](https://github.com/azavaxhuman/IPv6-TunnelBroker)
-
-
 # Speedtest - تست سرعت
 [Client]
 * https://fiber.google.com/speedtest/
@@ -129,73 +95,6 @@ wget -qO- bench.sh | bash
 
 برای حل مشکل اسپاتیفای باید از دامنه و سرور استفاده کنید
 و این کانفیگ رو به افراد متعدد ندهید. یک راه گران هم خرید وی پی ان نورد و گذاشتن در لایه آخر تونل هست.
-
-
-# Open VPN
-
-برای این روش یک سرور نیاز دارید.
-
-[ آموزش ساخت openvpn روی سرور مجازی ](https://www.youtube.com/watch?v=X8GOExnqPCY)
-
-
-[برنامه OpenVPN را با v2rayNG ترکیب کنم](https://threadreaderapp.com/thread/1761155128487448961.html)
-
-
-# Brook
-
-[ روش جدید دورزدن فیلترینگ با استفاده از Brook ](https://youtu.be/0YR4ZpnoYUY?si=Xs1BPq98XuNxtiUt)
-[آموزش](https://twitter.com/kevinzakarian/status/1753403463608730017)
-
-از لینک زیر پلاگین Brook برای نکوباکس رو دانلود و نصب کنید. با این پلاگین می‌تونین بُروک رو در گوشی اندروید با نکوباس اجرا کنین و در کنار اپ اصلی برنامه داشته باشین. (برای تشخیص v8a یا v7a پردازنده گوشی=> تلگرام در منوی setting اون پائین نوع CPU رو زده)
-
-
-[plugin](https://github.com/MatsuriDayo/plugins/releases/tag/Brook-v20220707-1)
-
-
-[ آموزش نصب و کانفیگ Brook VPN روی سرور به 2 روش ](https://www.youtube.com/watch?v=2IiJM6jyAUs)
-
-
-# Hysteria 2  and TUIC
-
-[ آموزش راه اندازی Hysteria 2 و TUIC با یک کلیک همراه با مدیریت کاربران (سرعت بالا و پینگ پایین) ](https://www.youtube.com/watch?v=T_p9VqngfY8&t=69s)
-
-[ آموزش راه اندازی Hysteria 2 با یک کلیک (سرعت بالا و پینگ پایین) ](https://www.youtube.com/watch?v=Tj-zM0yT62A&t=5s)
-
-
-[aio-proxy All-In-One Proxy Tools](https://github.com/hrostami/aio-proxy)
-
-[reality-ezpz](https://github.com/aleskxyz/reality-ezpz)
-
-[How run Hysteria V2 Protocol with iSegaro](https://telegra.ph/How-run-Hysteria-V2-Protocol-with-iSegaro-09-02)
-
-[How run Hysteria Protocol with iSegaro](https://telegra.ph/How-run-Hysteria-Protocol-with-iSegaro-04-07)
-
-[How to start the TUIC v5 protocol with iSegaro](https://telegra.ph/How-to-start-the-TUIC-v5-protocol-with-iSegaro-08-26)
-
-
-# آموزش راه‌اندازی Home Server با VPN مرکزی
-
-
-شما در پایان این آموزش توانایی راه‌اندازی یک Home Server با امکانات زیر را خواهید داشت:
--VPN Server (Xray, Sing-Box, OpenVPN, WireGuard)
--Media Center (DLNA/Plex/Emby)
--Home Cloud/NAS
--MultiWAN
--Ad Blocker
--Docker
-
-
-[Home Server](https://threadreaderapp.com/thread/1757862582717759721.html)
-
-[آموزش راه‌اندازی Home Server با VPN مرکزی(قسمت دوم)](https://threadreaderapp.com/thread/1758165072625451522.html)
-
-
-[راه‌اندازی Home Server با VPN مرکزی – قسمت ۳](https://ivpn.pro/openwrt/how-to-deploy-home-server-with-built-in-vpn/)
-
-
-[نصب و راه‌اندازی OpenWrt روی کامپیوتر و رزبری با یک کارت شبکه](https://ivpn.pro/openwrt/how-to-install-openwrt-on-a-pc-or-raspberry-with-one-ethernet-port/)
-
-[وبلاگ کوین](https://ivpn.pro/)
 
 
 
@@ -299,14 +198,12 @@ This repository contains a collection of free V2ray configuration files that you
 [آشنایی و نحوه کلی کار با هسته Xray و نوشتن کانفیگ برای آن](https://telegra.ph/%D8%A2%D8%B4%D9%86%D8%A7%DB%8C%DB%8C-%D9%88-%D9%86%D8%AD%D9%88%D9%87-%DA%A9%D9%84%DB%8C-%DA%A9%D8%A7%D8%B1-%D8%A8%D8%A7-%D9%87%D8%B3%D8%AA%D9%87-Xray-%D9%88-%D9%86%D9%88%D8%B4%D8%AA%D9%86-%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A2%D9%86-01-08)
 
 
-## gcore
+## Gcore
 
 
 [admin](https://threadreaderapp.com/thread/1667191394887163906.html)
 
 [ اموزش استفاده از gcore و پیدا کردن ای پی تمیز gcore. #cdn ](https://www.youtube.com/watch?v=fIBnImTUY_M)
-
-
 
 
 ## WebSocket

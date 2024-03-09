@@ -29,10 +29,14 @@
 
 
 
-## EDtunnel
+## EDtunnel or Edge Tunnel 
 
 [amin](https://twitter.com/amin_o__o/status/1766080891544027145)
 بعد بچه‌ها از این کد برای ورکر استفاده کنید
 انتهای کد تعداد زیادی آدرس وبسایت های چینی هستش همه را پاک کنید مثل عکس آدرس های ایرانی بزنید من تست کردم ping کمتر میشه البته تست که روی این اینترنت ت.خ معنی نداره
 
 [worker](https://github.com/3Kmfi6HP/EDtunnel/blob/main/_worker.js)
+
+
+[ بدون داشتن سرور و با Edge Tunnel کانفیگ Vless بساز و محدودیت کلودفلر رو دور بزن ](https://www.youtube.com/watch?v=3XoiNd3CNts)
+

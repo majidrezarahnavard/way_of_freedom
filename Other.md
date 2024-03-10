@@ -46,6 +46,9 @@ Network Programg with Go
 [وبلاگ کوین](https://ivpn.pro/)
 
 
+## Mikro tik
+
+[اتصال با روش میکروتیک](https://www.youtube.com/watch?v=d2ou-XCLr4g)
 
 # Open_VPN
 

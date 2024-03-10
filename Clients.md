@@ -45,3 +45,13 @@ https://apps.apple.com/us/app/foxray/id6448898396
 ## V2rayNG
 
 [ مهمترین تنظیمات فیلترشکن V2rayNG ](https://www.youtube.com/watch?v=hR3RjIdfhFM)
+
+
+## shadowshare
+
+برنامه shadowshare اندروید  منبع برای کانفیگهای v2ray قابل استفاده در ویندوز،اندروید ،ios پرسرعت
+ابتدا از لینک زیر آخرین نسخه را دانلود کنید
+
+[ShadowShare](https://play.google.com/store/apps/details?id=com.v2cross.shadowshare&hl=en_US)
+
+[mostafa](https://twitter.com/horizonbehind2/status/1766497353647935771)

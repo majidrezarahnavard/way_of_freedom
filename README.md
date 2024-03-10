@@ -107,6 +107,15 @@ wget -qO- bench.sh | bash
 [Investigation on Blocking of Reality in IRAN](https://github.com/XTLS/Xray-core/issues/2778)
 
 
+# تحقیقات
+
+ نتایج یک ارزیابی نشون‌میده که ترافیک پروکسی‌های مبهم‌سازی‌شده، حتی با پدینگ تصادفی، چندین‌لایه از پوشش و استفاده از هندشیک‌های TLS مخفی‌شده توسط فینگرپرینت قابل اعتماد، بازم قابل تشخیص هستن!
+
+[ترافیک پروکسی‌های مبهم‌سازی‌شده، حتی با پدینگ تصادفی، چندین‌لایه از پوشش و استفاده از هندشیک‌های TLS مخفی‌شده توسط فینگرپرینت قابل اعتماد، بازم قابل تشخیص هستن](https://threadreaderapp.com/thread/1766364108322996468.html)
+
+
+[Fingerprinting Obfuscated Proxy Traffic with Encapsulated TLS Handshakes](https://www.usenix.org/conference/usenixsecurity24/presentation/xue)
+
 # آینده فیلترینگ
 
 [سیستم فیلترینگ جدید همراه اول چجوری کار میکنه؟](https://threadreaderapp.com/thread/1753357101001265309.html)
@@ -160,6 +169,17 @@ This is an Enhanced and All-in-One set of geo-location routing files optimized f
 
 [Iran-v2ray-rules](https://github.com/Chocolate4U/Iran-v2ray-rules)
 
+# Iran Hosted Domains
+
+دوست داشتید اینو ببینید جالبه
+برای تعریف rule روی برنامه های مختلف توضیح داده
+و میتونید ترافیک ایران و خارج رو تفکیک کنید تا نیازی به قطع و وصل وی پی ان برای مراجعه به سایت هایی که روزانه استفاده می کنید نداشته باشید
+
+</br>
+
+بسیاری از سرویس‌ها و دامنه‌های خارج از ایران سانسور و مسدود شده‌اند و باید برای دسترسی به آن‌ها از VPN و Proxy هایی با امنیت بالا استفاده کنیم، جدای از این مسئله دسترسی به بعضی سرویس‌های ایرانی از طریق IP خارجی مسدود شده است. حال برای رد کردن این سرویس ها لیستی از دامنه‌های داخلی را جمع کرده‌ایم تا با اضافه کردن آن‌ به کلاینت‌های مورد استفاده، دیگر نیاز به قطع کردن VPN برای دسترسی به سرویس‌های داخلی نباشد.
+
+[Iran Hosted Domains](https://github.com/bootmortis/iran-hosted-domains?tab=readme-ov-file)
 
 # تاثیرات فیلترینگ
 

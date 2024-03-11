@@ -63,3 +63,8 @@ https://threadreaderapp.com/thread/1757319934512910486.html
 [twitter](https://twitter.com/aamirrhosein/status/1765523822621446346)
 
 [json](https://raw.githubusercontent.com/ByteMysticRogue/Hiddify-Warp/main/warp.json)
+
+
+# subscribe github 
+با گیت هاب لینک سابسکرایب برای هدیفای بسازید
+[ نحوه ساخت sub برای v2ray و warp در برنامه Hiddify در گیت هاب (Github) ](https://www.youtube.com/watch?v=NDDR8czHyPY)

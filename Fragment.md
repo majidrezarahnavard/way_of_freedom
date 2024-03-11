@@ -54,6 +54,9 @@
 
 [فرگمنت روی x-ui و بالا بردن امنیت پنل x-ui](https://www.youtube.com/watch?v=EXRsHjWtXpM)
 
+[استفاده مستقیم از فرگمنت روی V2rayNG ](https://private-user-images.githubusercontent.com/23278340/304508567-3589354b-b412-4649-8c44-2883186dc396.mp4?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTAxNDE2NjgsIm5iZiI6MTcxMDE0MTM2OCwicGF0aCI6Ii8yMzI3ODM0MC8zMDQ1MDg1NjctMzU4OTM1NGItYjQxMi00NjQ5LThjNDQtMjg4MzE4NmRjMzk2Lm1wND9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAzMTElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMzExVDA3MTYwOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPThlNjI3YTQ1ZDY5NmU2ZjU1Mzk5MGQ0MDg3ZmI5ZTcwYjZmMzEzMDliY2M1NDhiODY4ZmEzMWYwNDI1MjBmOWImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.gIM-R3feV3djiR7qbIcavdEsV2OAqVWUIYW3OpUnFxU)
+
+
 اگر دنبال الگوی تنظیمات #فرگمنت هستین، میتونین از این ۳ نمونه که مربوط به کانفیگ‌های اپ مهسا [اپلیکشن مهسا](https://play.google.com/store/apps/details?id=com.MahsaNet.MahsaNG) هستن کمک بگیرین.
 در این کانفیگ‌ها از آی‌پی تمیز کلودفلر به‌همراه دامنه فیلترشده استفاده‌شده و توصیه‌میشه شما هم دامنه‌های مرده‌تون رو این‌مدلی زنده‌کنین!
 
@@ -261,6 +264,12 @@ bash <(curl -Ls https://gitlab.com/rwkgyg/CFwarp/raw/main/CFwarp.sh)
 فقط به جای vless ws لطفا trojan ws بسازید.
 
 [رفع فیلتر دامنه و ای‌پی با فرگمنت و وارپ روی تروجان](https://telegra.ph/%D8%B1%D9%81%D8%B9-%D9%81%DB%8C%D9%84%D8%AA%D8%B1-%D8%AF%D8%A7%D9%85%D9%86%D9%87-%D9%88-%D8%A7%DB%8C-%D9%BE%DB%8C-%D8%A8%D8%A7-%D9%81%D8%B1%DA%AF%D9%85%D9%86%D8%AA-%D9%88-%D9%88%D8%A7%D8%B1%D9%BE-%D8%B1%D9%88%DB%8C-%D8%AA%D8%B1%D9%88%D8%AC%D8%A7%D9%86-02-14)
+
+
+## Get A Free Node + Fragment
+
+[Get A Free Node](https://www.youtube.com/watch?v=2QtzmuOjc2Q)
+
 
 ## Streisand IOS
 برنامهٔ #Streisand یکی‌از پایدارترین گزینه‌ها برای #آیفون هست که متاسفانه در رابطه با واردکردن پیگربندی JSON از URL با مشکل مواجه بود؛ این زمانی اهمیت بیشتری پیدا می‌کرد که درحال‌حاضر #فرگمنت در ایران به‌عنوان یکی‌از روش‌های کاربردی برای دسترسی آزاد به اینترنت به‌شمار میره /تب

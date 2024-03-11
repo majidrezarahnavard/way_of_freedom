@@ -120,3 +120,8 @@ sudo systemctl restart sshd
 ## مخفی سازی پنل 
 
 [ GateKeeper راه‌حل مدیریت و امنیت لینک‌های V2ray و VPN ](https://www.youtube.com/watch?v=b0rMI8boAiI)
+
+
+#  آموزش دایرکت کردن سایت ها و برنامه های ایرانی در تمام دیوایس ها 
+
+[ آموزش دایرکت کردن سایت ها و برنامه های ایرانی در تمام دیوایس ها ](https://www.youtube.com/watch?v=78DKbSuNk30)

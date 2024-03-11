@@ -27,6 +27,7 @@
 | [Open VPN](https://github.com/majidrezarahnavard/way_of_freedom/blob/main/Other.md#Open_VPN) | این روش نیاز به سرور و کلاینت مخصوص خود را دارد|
 | [Brook](https://github.com/majidrezarahnavard/way_of_freedom/blob/main/Other.md#Brook) | روش های جدید دورزدن فیلترینگ با استفاده از Brook |
 | [Hysteria 2  and TUIC](https://github.com/majidrezarahnavard/way_of_freedom/blob/main/Other.md#UDP) | روش ها بر اساس یو دی پی |
+| [R&D](https://github.com/majidrezarahnavard/way_of_freedom/blob/main/Research.md) |  تحقیقات در مورد گریت فایروال و آینده فیلترینگ و تاثیرات فیلترینگ |
 
 
 #  گرم یاد آوری یا نه من از یادت نمی کاهم
@@ -75,16 +76,7 @@ WebRTC in Chrome
     The recommended solution to limit the risk of IP leakage via WebRTC is to use the official Google extension called WebRTC Network Limiter, which provides a range of options with varying levels of protection.
 
 
-# Speedtest - تست سرعت
-[Client]
-* https://fiber.google.com/speedtest/
-* https://speed.cloudflare.com/
-* https://www.speedtest.net/
 
-[Server]
-```
-wget -qO- bench.sh | bash
-```
 
 # روش استفاده مجدد از دامنه های فیلتر شده یا کند شده
 
@@ -96,44 +88,6 @@ wget -qO- bench.sh | bash
 برای حل مشکل اسپاتیفای باید از دامنه و سرور استفاده کنید
 و این کانفیگ رو به افراد متعدد ندهید. یک راه گران هم خرید وی پی ان نورد و گذاشتن در لایه آخر تونل هست.
 
-
-
-# Net4people
-
- [ net4people ](https://github.com/net4people/bbs/issues?q=is%3Aissue+is%3Aopen+label%3AIran) 
-
-# Investigation on Blocking of Reality in IRAN
-
-[Investigation on Blocking of Reality in IRAN](https://github.com/XTLS/Xray-core/issues/2778)
-
-
-# تحقیقات
-
- نتایج یک ارزیابی نشون‌میده که ترافیک پروکسی‌های مبهم‌سازی‌شده، حتی با پدینگ تصادفی، چندین‌لایه از پوشش و استفاده از هندشیک‌های TLS مخفی‌شده توسط فینگرپرینت قابل اعتماد، بازم قابل تشخیص هستن!
-
-[ترافیک پروکسی‌های مبهم‌سازی‌شده، حتی با پدینگ تصادفی، چندین‌لایه از پوشش و استفاده از هندشیک‌های TLS مخفی‌شده توسط فینگرپرینت قابل اعتماد، بازم قابل تشخیص هستن](https://threadreaderapp.com/thread/1766364108322996468.html)
-
-
-[Fingerprinting Obfuscated Proxy Traffic with Encapsulated TLS Handshakes](https://www.usenix.org/conference/usenixsecurity24/presentation/xue)
-
-# آینده فیلترینگ
-
-[سیستم فیلترینگ جدید همراه اول چجوری کار میکنه؟](https://threadreaderapp.com/thread/1753357101001265309.html)
-
-
-[ماشین لرنینگ ها چجوری کار می کنند؟](https://threadreaderapp.com/thread/1753405311921078406.html)
-
-
-[داستان dns و فیلترینگ](https://threadreaderapp.com/thread/1721555866875257190.html)
-
-
-[Conjure](https://www.youtube.com/watch?v=Um881kkzJuk)
-
-
-[Fingerprinting Obfuscated Proxy Traffic with Encapsulated TLS Handshakes](https://www.usenix.org/conference/usenixsecurity24/presentation/xue)
-
-
-[اینترنت، فیلترینگ و IPv6](https://threadreaderapp.com/thread/1755968930433093941.html)
 
 
 # پروژه امید
@@ -181,19 +135,6 @@ This is an Enhanced and All-in-One set of geo-location routing files optimized f
 
 [Iran Hosted Domains](https://github.com/bootmortis/iran-hosted-domains?tab=readme-ov-file)
 
-# تاثیرات فیلترینگ
-
-خیلی خلاصه بگم به دلیل وجود #فیلترینگ:
-* ۱. دستگاه‌ها و برنامه‌ها به سختی امکان آپدیت دارن و در نتیجه دچار ضعف امنیتی شدن.
-* ۲. وجود vpnهای بدون هویت باعث افزایش زامبی در شبکه شده.
-* ۳. خرید سرور داخلی جهت عبور از محدودیت‌ها توسط افراد غیر متخصص باعث افزایش آسیب‌پذیری شبکه و دیوایس‌های زامبی شده.
-* ۴. الگوی غلط #ایران_اکسس که توهم امنیت ایجاد میکنه باعث عدم توجه جدی به مقوله‌ی امنیت شده.
-* ۵. کوچ متخصصان و سپردن کار به افراد غیر متخصص که این هم بخشیش به خاطر فیلترینگ
-
-
-</br>
-
-و این موارد خیلی زیاده، عمدتا نتایج فیلترینگ و البته بخشیش هم تبعات تحریم و شرایط بد اقتصادی کشوره.
 
 # Free V2ray Config 
 

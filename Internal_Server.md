@@ -43,3 +43,14 @@
 [گیتهاب پروژه](https://github.com/salehi/namizun)
 
 [آموزش](https://www.youtube.com/watch?v=rFXG6SdcqWw)
+
+## Speedtest - تست سرعت
+[Client]
+* https://fiber.google.com/speedtest/
+* https://speed.cloudflare.com/
+* https://www.speedtest.net/
+
+[Server]
+```
+wget -qO- bench.sh | bash
+```

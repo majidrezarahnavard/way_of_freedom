@@ -48,3 +48,20 @@ This script:
     Fine-tunes kernel tunables
     Is designed by taking security considerations into account to make the server undetectable
     Provides a Telegram bot to manage users from Telegram
+
+
+
+# Hiddify-Manager
+
+[آپدیت جدید و خفن هدیفای منیجر X پشتیبانی از SINGBOX+V2RAY درکنار هم ](https://youtu.be/GY0qJQd9WcA?si=j_G0JaMAWw2U7bnp)
+
+[Hiddify-Manager](https://github.com/hiddify/Hiddify-Manager)
+
+
+# Noobz Vpn
+[ آموزش نصب اسکریپت Noobz Vpn (سرعت خوب و تست شده روی 3 اپراتور) ](https://www.youtube.com/watch?v=GSPO1TaCni4)
+
+
+
+# آموزش کامل نصب پنل
+[ آموزش خرید سرور و گرفتن ساب دامنه رایگان و نصب X-UI به صورت خودکار با یک کلیک ](https://www.youtube.com/watch?v=PLQsNbE2oLc)

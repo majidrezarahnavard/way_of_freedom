@@ -55,3 +55,15 @@ https://apps.apple.com/us/app/foxray/id6448898396
 [ShadowShare](https://play.google.com/store/apps/details?id=com.v2cross.shadowshare&hl=en_US)
 
 [mostafa](https://twitter.com/horizonbehind2/status/1766497353647935771)
+
+
+## Speedtest - تست سرعت
+[Client]
+* https://fiber.google.com/speedtest/
+* https://speed.cloudflare.com/
+* https://www.speedtest.net/
+
+[Server]
+```
+wget -qO- bench.sh | bash
+```

@@ -28,6 +28,12 @@
 | [Brook](https://github.com/majidrezarahnavard/way_of_freedom/blob/main/Other.md#Brook) | روش های جدید دورزدن فیلترینگ با استفاده از Brook |
 | [Hysteria 2  and TUIC](https://github.com/majidrezarahnavard/way_of_freedom/blob/main/Other.md#UDP) | روش ها بر اساس یو دی پی |
 | [R&D](https://github.com/majidrezarahnavard/way_of_freedom/blob/main/Research.md) |  تحقیقات در مورد گریت فایروال و آینده فیلترینگ و تاثیرات فیلترینگ |
+| [Network](https://github.com/majidrezarahnavard/way_of_freedom/blob/main/Network.md) | آموزش های پایه درمورد شبکه |
+| [Twitter](https://github.com/majidrezarahnavard/way_of_freedom/blob/main/Twitter.md) | نکات امنیتی در توییتر |
+| [Other Learning resouce](https://github.com/majidrezarahnavard/way_of_freedom/blob/main/Learning.md) | سایر منابع آموزشی اینترنت آزاد |
+| [xray](https://github.com/majidrezarahnavard/way_of_freedom/blob/main/xray.md) | آموزش هسته xray |
+| [Cloack](https://github.com/majidrezarahnavard/way_of_freedom/blob/main/Other.md#Cloak) | روش کلاک |
+
 
 
 #  گرم یاد آوری یا نه من از یادت نمی کاهم
@@ -38,42 +44,6 @@
 [صحبت های سارینا اسماعیل زاده](https://www.youtube.com/watch?v=gpRnvFZ3vTU&t=52s)
 
 [مجیدرضا رهنورد](https://www.youtube.com/watch?v=N3Yo009a7Uc)
-
-
-# امنیت پلتفرم توییتر
-
-اگربه امنیت خودتون اهمیت میدین این موارد رو تو اتصال به توییتر خودتون حتما لحاظ کنید
-
-[نکاتی در خصوص امنیت پلتفرم توییتر (X) برای فعالین سیاسی، اجتماعی، مدنی و کلا" همه !](https://telegra.ph/%D9%86%DA%A9%D8%A7%D8%AA%DB%8C-%D8%AF%D8%B1-%D8%AE%D8%B5%D9%88%D8%B5-%D8%A7%D9%85%D9%86%DB%8C%D8%AA-%D9%BE%D9%84%D8%AA%D9%81%D8%B1%D9%85-%D8%AA%D9%88%DB%8C%DB%8C%D8%AA%D8%B1-X-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%81%D8%B9%D8%A7%D9%84%DB%8C%D9%86-%D8%B3%DB%8C%D8%A7%D8%B3%DB%8C-%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%DB%8C-%D9%85%D8%AF%D9%86%DB%8C-%D9%88-%DA%A9%D9%84%D8%A7-%D9%87%D9%85%D9%87-02-13)
-
-[ How to Set up 2-Factor Authentication On Twitter Account ](https://www.youtube.com/watch?v=BXLQNr-gaEs)
-
-[ How To Change Email Address In Twitter (2022) ](https://www.youtube.com/watch?v=F-itvjI0r-8)
-
-[ How to set up two-factor authentication (2FA) for ProtonMail ](https://www.youtube.com/watch?v=GgrNWoLyp1g)
-
-[تو این #رشتو می خواهم توضیح بدهم که شیوه کارکرد #عرزشی های #سایبری چجوری هست و چگونه مغز شما رو منفجر می کنند:](https://threadreaderapp.com/thread/1762784314478022916.html?utm_campaign=topunroll)
-
-[اگر از سرور ناشناس استفاده کنیم چه میشود؟](https://threadreaderapp.com/thread/1762770899537690939.html)
-
-[آموزش امنیتی!](https://twitter.com/markpash/status/1765676867296678122)
-
-## Data leak
-
-هرکانفیگی که استفاده می کنید حتما یکبار با سایت زیر چک کنید که دیتا لیک نداشته باشد
-
-[browserleaks](https://browserleaks.com/)
-
-
-WebRTC in Firefox
-
-    To disable WebRTC in Firefox:
-    Type about:config in the address bar and press Enter.
-    In the search bar, type media.peerconnection.enabled and double-click the preference to set its value to false.
-
-WebRTC in Chrome
-
-    The recommended solution to limit the risk of IP leakage via WebRTC is to use the official Google extension called WebRTC Network Limiter, which provides a range of options with varying levels of protection.
 
 
 
@@ -90,51 +60,6 @@ WebRTC in Chrome
 
 
 
-# پروژه امید
-
-ما در پروژه امید خواهان فراهم آوردن اینترنت آزاد برای همه ایران هستیم. هدف ما ساده‌سازی و همگانی کردن دانش عبور از فیلترینگ جمهوری اسلامی است. اینجا محفلی است برای به اشتراک گذاری تکنولوژی‌هایی که برای عبور از فیلترینگ حاکمیت ایران موثر هستند. هویت ما هیچگاه مشخص نخواهد شد و تا روز آزادی تلاش‌مان را برای گسترش اینترنت آزاد در ایران ادامه خواهیم داد.
-
-[پروژه امید](https://github.com/iranxray/hope)
-
-# بات تلگرام IRAN_VPN_Guide_bot
-
-با درود
-این مجموعه آموزش های و تنظیمات تخصصی اپلیکیشن های VPN مختص به XRay و V2Ray و به زبان فارسی برای کاربران ایرانی تهیه و تنظیم شده است.
-
-هم یاد بگیریم و هم به بقیه یاد بدهیم
-دست‌های هم رو بگیرید، تنهایی از این جا نمی‌تونیم گذر کنیم.
-به امید پیروزی که خیلی دور نیست🤞🏽
-
-[bot telegram](https://t.me/IRAN_VPN_Guide_bot)
-
-
-# iSegaro
-
-[تمام آموزش های سگارو](https://www.google.com/search?q=iSegaro+site:https://telegra.ph)
-
-
-# ircf.space
-
-[ircf.space](https://ircf.space/linkbox.php)
-
-# geo-location routing
-
-This is an Enhanced and All-in-One set of geo-location routing files optimized for Iranian users to use in v2ray/xray and all their compatible clients.
-
-[Iran-v2ray-rules](https://github.com/Chocolate4U/Iran-v2ray-rules)
-
-# Iran Hosted Domains
-
-دوست داشتید اینو ببینید جالبه
-برای تعریف rule روی برنامه های مختلف توضیح داده
-و میتونید ترافیک ایران و خارج رو تفکیک کنید تا نیازی به قطع و وصل وی پی ان برای مراجعه به سایت هایی که روزانه استفاده می کنید نداشته باشید
-
-</br>
-
-بسیاری از سرویس‌ها و دامنه‌های خارج از ایران سانسور و مسدود شده‌اند و باید برای دسترسی به آن‌ها از VPN و Proxy هایی با امنیت بالا استفاده کنیم، جدای از این مسئله دسترسی به بعضی سرویس‌های ایرانی از طریق IP خارجی مسدود شده است. حال برای رد کردن این سرویس ها لیستی از دامنه‌های داخلی را جمع کرده‌ایم تا با اضافه کردن آن‌ به کلاینت‌های مورد استفاده، دیگر نیاز به قطع کردن VPN برای دسترسی به سرویس‌های داخلی نباشد.
-
-[Iran Hosted Domains](https://github.com/bootmortis/iran-hosted-domains?tab=readme-ov-file)
-
 
 # Free V2ray Config 
 
@@ -142,21 +67,7 @@ This repository contains a collection of free V2ray configuration files that you
 
 [V2ray-Configs](https://github.com/barry-far/V2ray-Configs)
 
-#  Shadowsocks + cloak server - آموزش و کانفیگ شادوساکس 
 
-[ Shadowsocks + cloak server - آموزش و کانفیگ شادوساکس ](https://www.youtube.com/watch?v=wrPP0V32rxc)
-
-# xray
-
-مهم ترین پروژه که تمام روش های بر اساس این پروژه هست.
-
-[Xray-core](https://github.com/XTLS/Xray-core)
-
-
-[computerscot.github.io](https://computerscot.github.io/)
-
-## آشنایی و نحوه کلی کار با هسته Xray و نوشتن کانفیگ برای آن
-[آشنایی و نحوه کلی کار با هسته Xray و نوشتن کانفیگ برای آن](https://telegra.ph/%D8%A2%D8%B4%D9%86%D8%A7%DB%8C%DB%8C-%D9%88-%D9%86%D8%AD%D9%88%D9%87-%DA%A9%D9%84%DB%8C-%DA%A9%D8%A7%D8%B1-%D8%A8%D8%A7-%D9%87%D8%B3%D8%AA%D9%87-Xray-%D9%88-%D9%86%D9%88%D8%B4%D8%AA%D9%86-%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A2%D9%86-01-08)
 
 
 ## Gcore
@@ -166,34 +77,4 @@ This repository contains a collection of free V2ray configuration files that you
 
 [ اموزش استفاده از gcore و پیدا کردن ای پی تمیز gcore. #cdn ](https://www.youtube.com/watch?v=fIBnImTUY_M)
 
-
-## WebSocket
-
-[WebSocket](https://xtls.github.io/Xray-docs-next/en/config/transports/websocket.html#websocket)
-
-پرامتر early data برای کاهش تاخیر (پینگ) هستش و اون عدد 2048 هم که پیشنهاد project x بوده برای ارسال حداکثر اولین پکت
-
-
-
-#   آموزش لینوکس و شبکه
-
-[دوره الپیک جادی](https://www.youtube.com/watch?v=cqfrsmg4BKo&list=PL-tKrPVkKKE0kM18Sg5fqaZW1V2nidAeU)
-
-
-[آموزش برنامه نویسی شبکه با Go](https://git.ir/packtpub-network-programming-with-go-video/)
-
-[دانلود کتاب برنامه نویسی شبکه با زبان Go ](https://bibis.ir/network-programming-with-go-language-essential-skills-for-programming-using-and-securing-networks-2nd-edition-by-jan-newmarch/)
-
-
-[Udemy – Learn Programming in GO (golang): A Rich Guide for Beginners 2022-8](https://downloadly.ir/elearning/video-tutorials/learn-programming-in-go-golang-a-rich-guide-for-beginners/)
-
-
-[کتاب Network Programming with Go](https://faghatketab.ir/product/%DA%A9%D8%AA%D8%A7%D8%A8-network-programming-with-go/)
-
-
-[web_ethical](https://www.youtube.com/watch?v=oV_yD-tuFLM)
-
-[DNSSEC – Domain Name System Security Extensions Explained](https://www.socinvestigation.com/dnssec-domain-name-system-security-extensions-explained/)
-
-[ Git Command Line Tutorial for Beginners , Git CLI Complete Crash Course , Learn Git in 45 Minutes ](https://www.youtube.com/watch?v=e5wY8G00OfI)
 

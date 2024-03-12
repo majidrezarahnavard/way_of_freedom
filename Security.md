@@ -125,3 +125,22 @@ sudo systemctl restart sshd
 #  آموزش دایرکت کردن سایت ها و برنامه های ایرانی در تمام دیوایس ها 
 
 [ آموزش دایرکت کردن سایت ها و برنامه های ایرانی در تمام دیوایس ها ](https://www.youtube.com/watch?v=78DKbSuNk30)
+
+
+# geo-location routing
+
+This is an Enhanced and All-in-One set of geo-location routing files optimized for Iranian users to use in v2ray/xray and all their compatible clients.
+
+[Iran-v2ray-rules](https://github.com/Chocolate4U/Iran-v2ray-rules)
+
+# Iran Hosted Domains
+
+دوست داشتید اینو ببینید جالبه
+برای تعریف rule روی برنامه های مختلف توضیح داده
+و میتونید ترافیک ایران و خارج رو تفکیک کنید تا نیازی به قطع و وصل وی پی ان برای مراجعه به سایت هایی که روزانه استفاده می کنید نداشته باشید
+
+</br>
+
+بسیاری از سرویس‌ها و دامنه‌های خارج از ایران سانسور و مسدود شده‌اند و باید برای دسترسی به آن‌ها از VPN و Proxy هایی با امنیت بالا استفاده کنیم، جدای از این مسئله دسترسی به بعضی سرویس‌های ایرانی از طریق IP خارجی مسدود شده است. حال برای رد کردن این سرویس ها لیستی از دامنه‌های داخلی را جمع کرده‌ایم تا با اضافه کردن آن‌ به کلاینت‌های مورد استفاده، دیگر نیاز به قطع کردن VPN برای دسترسی به سرویس‌های داخلی نباشد.
+
+[Iran Hosted Domains](https://github.com/bootmortis/iran-hosted-domains?tab=readme-ov-file)

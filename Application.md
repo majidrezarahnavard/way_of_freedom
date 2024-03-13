@@ -36,6 +36,18 @@ https://threadreaderapp.com/thread/1757093989616947356.html
 [ترکیب Tor Browser و v2rayNG](https://www.youtube.com/watch?v=ZLsLDrm1Wh4&t=56s)
 
 
+پروژه Tor به صورت رسمی webtunnel رو معرفی کرد، یه نوع پل جدید برای جلوگیری از مسدود کردن Tor توسط دولت‌ها، میاد شبکه Tor رو با https ترکیب میکنه و ناظر شبکه فقط یه اتصال https ساده رو میبینه و نمیتونه ارتباط رو بلاک کنه
+
+پروژه Tor رسما WebTunnel را معرفی کرد
+مشکل قبلا شناسایی bridges ها بود که obfsproxy معرفی شده ولی شناسایی میشود
+ایده WebTunnel از HTTPT probe-resistant proxy میاد 
+که باHTTPS شناسایی ترافیک Tor را سخت میکنه
+از اینجا میتوانید WebTunnel بگیرید
+
+[bridges](https://bridges.torproject.org/options)
+
+
+
 # مخزن دانلود فیلترشکن
 [Mark Pashmfouroush](https://fdroid.noql.net/)
 

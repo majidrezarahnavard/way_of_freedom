@@ -24,3 +24,8 @@
 # ircf.space
 
 [ircf.space](https://ircf.space/linkbox.php)
+
+
+# Stupid_risks
+
+[Stupid_risks](https://linktr.ee/Stupid_risks)

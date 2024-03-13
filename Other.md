@@ -94,6 +94,7 @@ Network Programg with Go
 [How to start the TUIC v5 protocol with iSegaro](https://telegra.ph/How-to-start-the-TUIC-v5-protocol-with-iSegaro-08-26)
 
 
+[ترکیب hysteria2 با فرگمنت یا وایرگارد برای عبور از فیلترینگ!](https://telegra.ph/%D8%AA%D8%B1%DA%A9%DB%8C%D8%A8-hysteria2-%D8%A8%D8%A7-fragment-%D9%88-%D9%88%D8%A7%DB%8C%D8%B1%DA%AF%D8%A7%D8%B1%D8%AF-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B9%D8%A8%D9%88%D8%B1-%D8%A7%D8%B2-%D9%81%DB%8C%D9%84%D8%AA%D8%B1%DB%8C%D9%86%DA%AF-03-13)
 
 
 # Cloak

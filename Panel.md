@@ -53,6 +53,9 @@ This script:
 
 # Hiddify-Manager
 
+در آپدیت جدید هیدیفای‌منیجر علاوه‌براینکه رابط کاربری پنل بازطراحی شده، قابلیت‌هایی مثل DOH, HttpUpgrade, TlsFragment, TlsPadding, TLS Mixed SNI Case و MUX، و پروتکل‌هایی مثل Hysteria, TUIC, Wireguard و ... اضافه‌شدن.
+
+
 [آپدیت جدید و خفن هدیفای منیجر X پشتیبانی از SINGBOX+V2RAY درکنار هم ](https://youtu.be/GY0qJQd9WcA?si=j_G0JaMAWw2U7bnp)
 
 [Hiddify-Manager](https://github.com/hiddify/Hiddify-Manager)

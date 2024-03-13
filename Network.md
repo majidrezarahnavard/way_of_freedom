@@ -20,3 +20,6 @@
 [DNSSEC – Domain Name System Security Extensions Explained](https://www.socinvestigation.com/dnssec-domain-name-system-security-extensions-explained/)
 
 [ Git Command Line Tutorial for Beginners , Git CLI Complete Crash Course , Learn Git in 45 Minutes ](https://www.youtube.com/watch?v=e5wY8G00OfI)
+
+
+[برخی از اموزش های رایگان و پولی لینوکس](https://threadreaderapp.com/thread/1746669511908987038.html)

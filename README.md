@@ -33,7 +33,10 @@
 | [Other Learning resouce](https://github.com/majidrezarahnavard/way_of_freedom/blob/main/Learning.md) | سایر منابع آموزشی اینترنت آزاد |
 | [xray](https://github.com/majidrezarahnavard/way_of_freedom/blob/main/xray.md) | آموزش هسته xray |
 | [Cloack](https://github.com/majidrezarahnavard/way_of_freedom/blob/main/Other.md#Cloak) | روش کلاک |
-
+| [NordVPN](https://github.com/majidrezarahnavard/way_of_freedom/blob/main/Other.md#NordVPN) | نورد وی پی ان که در لایه آخر امکان استفاده دارد |
+| [Tips](https://github.com/majidrezarahnavard/way_of_freedom/blob/main/Other.md#Tips) | تکنیک های موقت برای فریب گریت فایر وال |
+| [Gcore](https://github.com/majidrezarahnavard/way_of_freedom/blob/main/Other.md#Gcore) | Gcore CDN |
+| [Free config](https://github.com/majidrezarahnavard/way_of_freedom/blob/main/Free.md) | کانفیگ های رایگان |
 
 
 #  گرم یاد آوری یا نه من از یادت نمی کاهم
@@ -44,37 +47,3 @@
 [صحبت های سارینا اسماعیل زاده](https://www.youtube.com/watch?v=gpRnvFZ3vTU&t=52s)
 
 [مجیدرضا رهنورد](https://www.youtube.com/watch?v=N3Yo009a7Uc)
-
-
-
-
-# روش استفاده مجدد از دامنه های فیلتر شده یا کند شده
-
-[روش استفاده مجدد از دامنه های فیلتر شده یا کند شده](https://telegra.ph/%D8%B1%D9%88%D8%B4-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D9%85%D8%AC%D8%AF%D8%AF-%D8%A7%D8%B2-%D8%AF%D8%A7%D9%85%D9%86%D9%87-%D9%87%D8%A7%DB%8C-%D9%81%DB%8C%D9%84%D8%AA%D8%B1-%D8%B4%D8%AF%D9%87-%DB%8C%D8%A7-%DA%A9%D9%86%D8%AF-%D8%B4%D8%AF%D9%87-02-16)
-
-
-# Spotify
-
-برای حل مشکل اسپاتیفای باید از دامنه و سرور استفاده کنید
-و این کانفیگ رو به افراد متعدد ندهید. یک راه گران هم خرید وی پی ان نورد و گذاشتن در لایه آخر تونل هست.
-
-
-
-
-# Free V2ray Config 
-
-This repository contains a collection of free V2ray configuration files that you can use with your V2ray client to access the internet securely and anonymously.
-
-[V2ray-Configs](https://github.com/barry-far/V2ray-Configs)
-
-
-
-
-## Gcore
-
-
-[admin](https://threadreaderapp.com/thread/1667191394887163906.html)
-
-[ اموزش استفاده از gcore و پیدا کردن ای پی تمیز gcore. #cdn ](https://www.youtube.com/watch?v=fIBnImTUY_M)
-
-

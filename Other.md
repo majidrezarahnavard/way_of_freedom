@@ -98,3 +98,29 @@ Network Programg with Go
 ##  Shadowsocks + cloak server - آموزش و کانفیگ شادوساکس 
 
 [ Shadowsocks + cloak server - آموزش و کانفیگ شادوساکس ](https://www.youtube.com/watch?v=wrPP0V32rxc)
+
+
+# NordVPN
+
+## Spotify
+
+برای حل مشکل اسپاتیفای باید از دامنه و سرور استفاده کنید
+و این کانفیگ رو به افراد متعدد ندهید. یک راه گران هم خرید وی پی ان نورد و گذاشتن در لایه آخر تونل هست.
+
+[nordvpn](https://nordvpn.com/)
+
+# Tips
+
+
+## روش استفاده مجدد از دامنه های فیلتر شده یا کند شده
+
+[روش استفاده مجدد از دامنه های فیلتر شده یا کند شده](https://telegra.ph/%D8%B1%D9%88%D8%B4-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D9%85%D8%AC%D8%AF%D8%AF-%D8%A7%D8%B2-%D8%AF%D8%A7%D9%85%D9%86%D9%87-%D9%87%D8%A7%DB%8C-%D9%81%DB%8C%D9%84%D8%AA%D8%B1-%D8%B4%D8%AF%D9%87-%DB%8C%D8%A7-%DA%A9%D9%86%D8%AF-%D8%B4%D8%AF%D9%87-02-16)
+
+
+# Gcore
+
+
+[amin](https://threadreaderapp.com/thread/1667191394887163906.html)
+
+[ اموزش استفاده از gcore و پیدا کردن ای پی تمیز gcore. #cdn ](https://www.youtube.com/watch?v=fIBnImTUY_M)
+

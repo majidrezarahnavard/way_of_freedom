@@ -71,6 +71,9 @@ Network Programg with Go
 
 [ آموزش نصب و کانفیگ Brook VPN روی سرور به 2 روش ](https://www.youtube.com/watch?v=2IiJM6jyAUs)
 
+
+[ساخت VPN با IP فیلتر شده با پروتکل Brook](https://ivpn.pro/how-to/brook-vpn-with-filtered-ip-and-cloudflare/)
+
 # UDP
 
 ## Hysteria 2  and TUIC

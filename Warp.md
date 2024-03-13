@@ -68,3 +68,10 @@ https://threadreaderapp.com/thread/1757319934512910486.html
 # subscribe github 
 با گیت هاب لینک سابسکرایب برای هدیفای بسازید
 [ نحوه ساخت sub برای v2ray و warp در برنامه Hiddify در گیت هاب (Github) ](https://www.youtube.com/watch?v=NDDR8czHyPY)
+
+
+#  فیلترشکن رایگان با روش Warp on Warp بدون نیاز به سرور ( اندروید,  ویندوز ) 
+
+[ فیلترشکن رایگان با روش Warp on Warp بدون نیاز به سرور ( اندروید , ویندوز ) ](https://www.youtube.com/watch?v=a89SGsWIpe4)
+
+[🚀 Quick Warp On Warp (WoW)](https://github.com/azavaxhuman/Quick_Warp_on_Warps)

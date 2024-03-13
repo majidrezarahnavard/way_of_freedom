@@ -8,7 +8,7 @@
 | روش | توضیحات |
 | --- | --- |
 | [Fragment](https://github.com/majidrezarahnavard/way_of_freedom/blob/main/Fragment.md) | در این روش پکیت ها تکه تکه می شوند و نیاز به دامنه و سرور کثیف هست |
-| [DNS](https://github.com/majidrezarahnavard/way_of_freedom/blob/main/DNS.md) | این کار زمانی مناسب است که می خواهید خودتان داشته باشید |
+| [DNS](https://github.com/majidrezarahnavard/way_of_freedom/blob/main/DNS.md) | این کار زمانی مناسب است که می خواهید خودتان مسیر یاب داشته باشید |
 | [CloudFlare White IP](https://github.com/majidrezarahnavard/way_of_freedom/blob/main/CloudFlare.md) | روش هایی برای یافتن ای پی های مناسب کلودفلیر |
 | [Server Security](https://github.com/majidrezarahnavard/way_of_freedom/blob/main/Security.md) | روش های رعایت امنیت در سرور |
 | [Oblivion](https://github.com/majidrezarahnavard/way_of_freedom/blob/main/Oblivion.md) | اپلیکیشین با تکنولوژی وارپ بدون سرور و دامنه |

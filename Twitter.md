@@ -36,3 +36,7 @@ WebRTC in Chrome
 
 
 [ تشخیص ip leak وdns leak و جلوگیری از آن روی اوبونتو](https://www.youtube.com/watch?v=zo7-nJBx-Ss)
+
+[ipleak](https://ipleak.net/)
+
+[dnsleaktest](https://www.dnsleaktest.com)

@@ -24,6 +24,14 @@ Network Programg with Go
 [v2hub](https://github.com/sarinaesmailzadeh/V2Hub/blob/main/merged)
 
 
+سینگ باکس بریز، لینک وارپ رو از اینجا بردار و لذتشو ببر ( ایرانسل باشی که چه بهتر)
+لایسنس داری؟ جلو key بنویسش
+اون [] هارو حذف کن
+https://api[.]yebekhe[.]link/warp?key=&device_name=WARP+&singbox=true&ip=188.114.98.224&port=908
+Quote
+
+
+
 # Home_Server
 
 ## آموزش راه‌اندازی Home Server با VPN مرکزی
@@ -73,6 +81,8 @@ Network Programg with Go
 
 
 [ساخت VPN با IP فیلتر شده با پروتکل Brook](https://ivpn.pro/how-to/brook-vpn-with-filtered-ip-and-cloudflare/)
+
+[اسکریپت نصب brook](https://github.com/Ptechgithub/Brook)
 
 # UDP
 

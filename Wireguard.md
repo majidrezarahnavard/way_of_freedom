@@ -15,3 +15,8 @@ WireGuard® یک VPN بسیار ساده و در عین حال سریع و مد�
 # Patched Wireguard
 
 [ مقابله با فیلترینگ دامنه و آیپی توسط روش بسیار سریع Patched Wireguard ضد اختلال، راحت و با پینگ عالی ](https://www.youtube.com/watch?v=TS09YzcTIb4)
+
+
+# Wireguard
+
+[ساخت VPN با پروتکل WireGuard](https://ivpn.pro/how-to/wireguard-vpn/)

@@ -34,3 +34,5 @@ WebRTC in Chrome
     The recommended solution to limit the risk of IP leakage via WebRTC is to use the official Google extension called WebRTC Network Limiter, which provides a range of options with varying levels of protection.
 
 
+
+[ تشخیص ip leak وdns leak و جلوگیری از آن روی اوبونتو](https://www.youtube.com/watch?v=zo7-nJBx-Ss)

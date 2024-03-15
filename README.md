@@ -31,7 +31,7 @@
 | [Network](https://github.com/majidrezarahnavard/way_of_freedom/blob/main/Network.md) | آموزش های پایه درمورد شبکه |
 | [Twitter](https://github.com/majidrezarahnavard/way_of_freedom/blob/main/Twitter.md) | نکات امنیتی در توییتر |
 | [Other Learning resouce](https://github.com/majidrezarahnavard/way_of_freedom/blob/main/Learning.md) | سایر منابع آموزشی اینترنت آزاد |
-| [xray](https://github.com/majidrezarahnavard/way_of_freedom/blob/main/xray.md) | آموزش هسته xray |
+| [Xray](https://github.com/majidrezarahnavard/way_of_freedom/blob/main/Xray.md) | آموزش هسته xray |
 | [Cloack](https://github.com/majidrezarahnavard/way_of_freedom/blob/main/Other.md#Cloak) | روش کلاک |
 | [NordVPN](https://github.com/majidrezarahnavard/way_of_freedom/blob/main/Other.md#NordVPN) | نورد وی پی ان که در لایه آخر امکان استفاده دارد |
 | [Tips](https://github.com/majidrezarahnavard/way_of_freedom/blob/main/Other.md#Tips) | تکنیک های موقت برای فریب گریت فایر وال |

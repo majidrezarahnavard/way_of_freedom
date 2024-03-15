@@ -9,3 +9,10 @@ This repository contains a collection of free V2ray configuration files that you
 # FORWARDV2RAY
 
 [FORWARDV2RAY](https://t.me/forwardv2ray)
+
+
+# V2RAY_SUBSCRIPTION_LINK
+
+[V2RAY_SUBSCRIPTION_LINK](https://github.com/freev2rayconfig/V2RAY_SUBSCRIPTION_LINK)
+
+[300 کانفیگ داخل کانال تلگرام هر روز بروز رسانی میشن.](https://raw.githubusercontent.com/freev2rayconfig/V2RAY_SUBSCRIPTION_LINK/main/v2rayconfigs.txt)

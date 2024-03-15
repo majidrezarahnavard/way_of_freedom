@@ -54,6 +54,19 @@ Quote
 [وبلاگ کوین](https://ivpn.pro/)
 
 
+## OpenWrt
+
+عزیزانی که OpenWrt و PassWall 2 دارند، از طریق SSH با ۳ خط دستور زیر PassWall 2 را آپدیت کنید.
+از پنل Luci و منوی System\Software امکان آپدیت نیست!
+
+```
+wget https://github.com/xiaorouji/openwrt-passwall2/releases/download/1.28-1/luci-23.05_luci-app-passwall2_1.28-1_all.ipk
+opkg install luci-23.05_luci-app-passwall2_1.28-1_all.ipk
+opkg update
+```
+
+رای سرور خانگی ما از سیستم‌عامل OpenWrt استفاده می‌کنیم و برای عبور از فیلترینگ اپ PassWall 2 رو روی OpenWrt نصب می‌کنیم. آپدیت‌ها از درون خود پنل OpenWrt انجام میشه ولی در مورد این آپدیت باید به سرور خونگی (همون OpenWrt) ارتباط SSH بزنیم و آپدیت رو انجام بدیم.
+
 ## Mikro tik
 
 [اتصال با روش میکروتیک](https://www.youtube.com/watch?v=d2ou-XCLr4g)

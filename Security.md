@@ -148,3 +148,8 @@ This is an Enhanced and All-in-One set of geo-location routing files optimized f
 بسیاری از سرویس‌ها و دامنه‌های خارج از ایران سانسور و مسدود شده‌اند و باید برای دسترسی به آن‌ها از VPN و Proxy هایی با امنیت بالا استفاده کنیم، جدای از این مسئله دسترسی به بعضی سرویس‌های ایرانی از طریق IP خارجی مسدود شده است. حال برای رد کردن این سرویس ها لیستی از دامنه‌های داخلی را جمع کرده‌ایم تا با اضافه کردن آن‌ به کلاینت‌های مورد استفاده، دیگر نیاز به قطع کردن VPN برای دسترسی به سرویس‌های داخلی نباشد.
 
 [Iran Hosted Domains](https://github.com/bootmortis/iran-hosted-domains?tab=readme-ov-file)
+
+
+# تمیزی IP
+
+[تست تمیزی IP و هر آنچه در مورد IP تمیز یا فیلتر شده باید بدانید!](https://ivpn.pro/how-to/how-to-test-clean-ip-for-vpn/)

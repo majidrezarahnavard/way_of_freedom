@@ -16,3 +16,9 @@ This repository contains a collection of free V2ray configuration files that you
 [V2RAY_SUBSCRIPTION_LINK](https://github.com/freev2rayconfig/V2RAY_SUBSCRIPTION_LINK)
 
 [300 کانفیگ داخل کانال تلگرام هر روز بروز رسانی میشن.](https://raw.githubusercontent.com/freev2rayconfig/V2RAY_SUBSCRIPTION_LINK/main/v2rayconfigs.txt)
+
+# deatnote
+
+[deatnote](https://github.com/xc0000e9/deatnote)
+
+[Hiddify-next.fragment](https://raw.githubusercontent.com/xc0000e9/deatnote/main/Hiddify-next.fragment)

@@ -54,10 +54,19 @@
 
 [فرگمنت روی x-ui و بالا بردن امنیت پنل x-ui](https://www.youtube.com/watch?v=EXRsHjWtXpM)
 
-[استفاده مستقیم از فرگمنت روی V2rayNG ](https://private-user-images.githubusercontent.com/23278340/304508567-3589354b-b412-4649-8c44-2883186dc396.mp4?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTAxNDE2NjgsIm5iZiI6MTcxMDE0MTM2OCwicGF0aCI6Ii8yMzI3ODM0MC8zMDQ1MDg1NjctMzU4OTM1NGItYjQxMi00NjQ5LThjNDQtMjg4MzE4NmRjMzk2Lm1wND9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAzMTElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMzExVDA3MTYwOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPThlNjI3YTQ1ZDY5NmU2ZjU1Mzk5MGQ0MDg3ZmI5ZTcwYjZmMzEzMDliY2M1NDhiODY4ZmEzMWYwNDI1MjBmOWImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.gIM-R3feV3djiR7qbIcavdEsV2OAqVWUIYW3OpUnFxU)
 
 
 [چون در مورد #فرگمنت کمتر صحبت شده و دوستان زیادی نمیدونن چطور استفاده کنن یه داستان بگم براش، یه مدته داستان نگفتم :)](https://threadreaderapp.com/thread/1767652392034533608.html?utm_campaign=topunroll)
+
+
+
+[ تحلیل فنی فیلترینگ کلودفلر و بی اثر کردن کامل آن با یک vless/vmess ساده و سرعت عالی حتی بدون TLS ](https://www.youtube.com/watch?v=aBaEOJLfUkg)
+
+
+
+[استفاده مستقیم از فرگمنت روی V2rayNG ](https://private-user-images.githubusercontent.com/23278340/304508567-3589354b-b412-4649-8c44-2883186dc396.mp4?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTAxNDE2NjgsIm5iZiI6MTcxMDE0MTM2OCwicGF0aCI6Ii8yMzI3ODM0MC8zMDQ1MDg1NjctMzU4OTM1NGItYjQxMi00NjQ5LThjNDQtMjg4MzE4NmRjMzk2Lm1wND9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAzMTElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMzExVDA3MTYwOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPThlNjI3YTQ1ZDY5NmU2ZjU1Mzk5MGQ0MDg3ZmI5ZTcwYjZmMzEzMDliY2M1NDhiODY4ZmEzMWYwNDI1MjBmOWImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.gIM-R3feV3djiR7qbIcavdEsV2OAqVWUIYW3OpUnFxU)
+
+
 
 اگر دنبال الگوی تنظیمات #فرگمنت هستین، میتونین از این ۳ نمونه که مربوط به کانفیگ‌های اپ مهسا [اپلیکشن مهسا](https://play.google.com/store/apps/details?id=com.MahsaNet.MahsaNG) هستن کمک بگیرین.
 در این کانفیگ‌ها از آی‌پی تمیز کلودفلر به‌همراه دامنه فیلترشده استفاده‌شده و توصیه‌میشه شما هم دامنه‌های مرده‌تون رو این‌مدلی زنده‌کنین!
@@ -332,3 +341,20 @@ https://twitter.com/seramo_ir/status/1757698224897294818
 
 # IPv6 TunnelBroker
 [اگر سرور مجازی شما ipv6 نداره ، این اسکریپت به شما کمک میکنه تا براحتی IPv6 که با استفاده از سرویس های تانل بروکر دریافت کردید رو روی سرور مجازیتون ست کنید. همینطور به راحتی میتونید تنظیمات رو مشاهده کنید یا اون رو به حالت قبل برگردونید. ](https://github.com/azavaxhuman/IPv6-TunnelBroker)
+
+
+# Iphone
+
+گوشیت آیفونه؟ فیلترشکن میخری؟ تنبلی؟
+نخر آقا
+https://apps.apple.com/us/app/streisand/id6450534064
+اینو نصب کن ، بازش کن بعد + بالا رو بزن و اینو کپی کن:
+https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Sub9.txt
+
+بعدش import from clipboard رو بزن و تامام!🎉
+
+برای وصل شدن هم فقط دستت رو روی کلمه Subscription نگه دار و auto connect رو بزن. 🫡
+
+
+
+

@@ -79,3 +79,9 @@ https://threadreaderapp.com/thread/1757319934512910486.html
 # warp+nekobox
 
 [اموزش ترکیب warp+nekobox برای عبور از #فیلترینگ با سرعت بالا و تبدیل ای پی ایران وارپ به آلمان به یاد #یوسف_قبادی و #سگارو](https://threadreaderapp.com/thread/1768276268762431751.html)
+
+
+# Warp + Sing box
+
+[ اتصال warp بوسیله sing box در آیفون واندروید بهترین روش جایگزین Hiddify بهمراه روش استفاده درویندوز ](https://www.youtube.com/watch?v=nrhnw6JBENc)
+

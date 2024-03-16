@@ -22,3 +22,12 @@ This repository contains a collection of free V2ray configuration files that you
 [deatnote](https://github.com/xc0000e9/deatnote)
 
 [Hiddify-next.fragment](https://raw.githubusercontent.com/xc0000e9/deatnote/main/Hiddify-next.fragment)
+
+# chrome-go
+
+[ فیلترشکن رایگان برای تمام دیوایس ها و اپراتور ها chrome-go ](https://www.youtube.com/watch?v=ownhYyhHH44)
+
+
+# barry-far
+
+[barry-far](https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Sub9.txt)

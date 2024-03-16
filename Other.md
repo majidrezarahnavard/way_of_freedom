@@ -71,6 +71,8 @@ opkg update
 
 [اتصال با روش میکروتیک](https://www.youtube.com/watch?v=d2ou-XCLr4g)
 
+[ آموزش نصب و راه اندازی پنل سنایی در میکروتیک | نصب Pihole در میکروتیک ](https://www.youtube.com/watch?v=zSCbAHpSXa0)
+
 # Open_VPN
 
 برای این روش یک سرور نیاز دارید.
@@ -96,6 +98,9 @@ opkg update
 [ساخت VPN با IP فیلتر شده با پروتکل Brook](https://ivpn.pro/how-to/brook-vpn-with-filtered-ip-and-cloudflare/)
 
 [اسکریپت نصب brook](https://github.com/Ptechgithub/Brook)
+
+
+[ آموزش ساخت brook vpn با ایپی فیلتر شده و کلودفلر ](https://www.youtube.com/watch?v=1AVXSNQdJtg)
 
 # UDP
 
@@ -151,3 +156,5 @@ opkg update
 
 [ اموزش استفاده از gcore و پیدا کردن ای پی تمیز gcore. #cdn ](https://www.youtube.com/watch?v=fIBnImTUY_M)
 
+
+[ کلودفلر؟ نه ممنون من از اینا استفاده میکنم! معرفی جایگزین های رایگان کلادفلر ](https://www.youtube.com/watch?v=STe5s-xjEF0)

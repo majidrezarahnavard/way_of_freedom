@@ -22,7 +22,7 @@ https://threadreaderapp.com/thread/1757093989616947356.html
 این روش amnezia پارسال یه اپدیت خیلی مهم گرفت که عملا سیستم dpi روسیه رو  نابود کرد ازونجایی هم که سیستم dpi ایران عملا همون نسخه روسی هست بنابراین تو ایران هم خوب جواب میده منتها یکسری اشکالات امنیتی داذه که فیلترچی میتونه ازشون سو استفاده کنه ولی اون اشکالاتم میشه حل کرد
 
 
-## argovpn 
+## Argovpn 
 [ArgoVPN](https://play.google.com/store/apps/details?id=com.filtershekanha.argovpn&hl=en_US)
 
 
@@ -104,3 +104,8 @@ https://apps.apple.com/us/app/privatevpn/id1168424870?ls=1
 android:
 https://play.google.com/store/apps/details?id=com.pvpn.privatevpn
 #فیلترشکن #فیلترشکن_قوی 
+
+
+# beepassvpn
+
+[beepassvpn](https://beepassvpn.com/en/)

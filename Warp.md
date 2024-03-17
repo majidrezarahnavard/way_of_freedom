@@ -85,3 +85,8 @@ https://threadreaderapp.com/thread/1757319934512910486.html
 
 [ اتصال warp بوسیله sing box در آیفون واندروید بهترین روش جایگزین Hiddify بهمراه روش استفاده درویندوز ](https://www.youtube.com/watch?v=nrhnw6JBENc)
 
+
+
+# Warp + hiddify next
+
+[ ترکیب وارپ با هیدیفای نکست | Combination of Hidify Next and Warp ](https://www.youtube.com/watch?v=sADw7mtCOxY)

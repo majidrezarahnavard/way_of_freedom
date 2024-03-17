@@ -64,3 +64,8 @@ wget -qO- bench.sh | bash
 # Port to Port
 
 [ آموزش تانل سرور ایران به چند سرور خارج با روش Port to Port ](https://www.youtube.com/watch?v=AplqTJDN1YY)
+
+
+# چرا NGINX انقدر وحشتناک سریعه؟!
+
+[چرا NGINX انقدر وحشتناک سریعه؟!](https://threadreaderapp.com/thread/1761266188871496093.html)

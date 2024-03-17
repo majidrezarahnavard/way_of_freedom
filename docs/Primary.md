@@ -1,4 +1,5 @@
-# اگر دانش فنی کامپیوتر ندارید از این بخش شروع کنید
+# دانش پایه
+## اگر دانش فنی کامپیوتر ندارید از این بخش شروع کنید
 
 
 اول از همه سعی کنید از این حوزه نترسید. شما فقط قرار چند تا مرحله رو پیش ببرید و عینا کپی کنید.
@@ -21,37 +22,37 @@
 
 
 
-## روش بدون سرور
+### روش بدون سرور
 
 
 این روش نیازی به خرید سرور ندارد و معمولا برای چند نفر اتصال همزمان کاملا کار آمد هست.
 بهشون کانفیگ رایگان هم می گویند.
 
-## warp on warp
+### warp on warp
 
 
-### اول یک جیمیل بسازید 
+#### اول یک جیمیل بسازید 
 [ آموزش ساخت Gmail / آموزش ساخت ایمیل ](https://www.youtube.com/watch?v=tZPt45qnxC4)
 
-### اطلاعات فیک داشته باشید
+#### اطلاعات فیک داشته باشید
 وارد این سایت بشید و اطلاعات فیک به دست بیاورید.
 https://www.fakexy.com/
 
-### اکانت کلود فلیر بسازید
+#### اکانت کلود فلیر بسازید
 
 [ آموزش کامل کلودفلر و ایجاد ساب دامنه بی نهایت (فرار از فیلترینگ) ](https://www.youtube.com/watch?v=BM3T_8qKcuo&t=61s)
 
-### warp on warp
+#### warp on warp
 
 [ دور زدن رایگان فیلترینگ با یک روش قدرتمند اما ساده، بسیار سریع و ضد تحریم , Warp-on-Warp ](https://www.youtube.com/watch?v=VnsjxHl41mU)
 
-## Worker
+### Worker
 
-### اکانت کلود فلیر بسازید
+#### اکانت کلود فلیر بسازید
 
 [ آموزش کامل کلودفلر و ایجاد ساب دامنه بی نهایت (فرار از فیلترینگ) ](https://www.youtube.com/watch?v=BM3T_8qKcuo&t=61s)
 
-### روش ورکر
+#### روش ورکر
 
 [کد آپدیت شده‌ی ورکر تولید ساب برای کلاینت‌های v2ray رو آپدیت کردم و میتونید از روی گیت‌هاب نسخه‌ی ۱.۷ رو دریافت و روی ورکرهاتون جایگزین کنید.
 ](https://threadreaderapp.com/thread/1656027952746823681.html)
@@ -69,7 +70,7 @@ https://www.fakexy.com/
 [کانال وحید](https://www.youtube.com/@vahidfarid)
 
 
-## Oblivion - Unofficial Warp Client for Android
+### Oblivion - Unofficial Warp Client for Android
 Oblivion provides secure, optimized internet access through a user-friendly Android app.
 [Oblivion](https://github.com/bepass-org/oblivion/releases/)
 
@@ -85,7 +86,7 @@ https://t.me/generatewarpplusbot
 
 [فیلترشکن با پروتکل وارپ](https://www.youtube.com/watch?v=Xjy6hpgJBC8)
 
-# روش سرور
+## روش سرور
 
 اگر نمی دونید سرور چی هست اول این ویدیو رو ببنید.
 [سرور چیه](https://www.youtube.com/watch?v=A_J8oLH4RN0)
@@ -102,18 +103,18 @@ https://t.me/generatewarpplusbot
 
 [آموزش 0 تا 100 راه اندازی پنل و ساخت کانفیگ](https://www.youtube.com/watch?v=hV5s0Eqzei0)
 
-### اول یک جیمیل بسازید 
+#### اول یک جیمیل بسازید 
 [ آموزش ساخت Gmail / آموزش ساخت ایمیل ](https://www.youtube.com/watch?v=tZPt45qnxC4)
 
-### اطلاعات فیک داشته باشید
+#### اطلاعات فیک داشته باشید
 وارد این سایت بشید و اطلاعات فیک به دست بیاورید.
 https://www.fakexy.com/
 
-### ولت رمز دیجیتال بسازید
+#### ولت رمز دیجیتال بسازید
 
 [کیف پول متامسک](https://www.youtube.com/watch?v=aLDtocc8kWw)
 
-### سرور بخرید
+#### سرور بخرید
 
 [ خرید بهترین سرورهای جایگزین هتزنر برای راه اندازی پروکسی - vps ](https://www.youtube.com/watch?v=5d5n0yP_JYQ)
 
@@ -123,7 +124,7 @@ https://www.fakexy.com/
 </br>
 ubuntu 22
 
-### دامنه بخرید
+#### دامنه بخرید
 
 [ خرید دامنه با کریپتو , خرید دامنه با بیت کوین , خرید دامنه با ارز دیجیتال ](https://www.youtube.com/watch?v=3fUx7Em_-C8)
 
@@ -132,17 +133,17 @@ ubuntu 22
 [ساخت اکانت روی هاتزنر ](https://www.youtube.com/watch?v=Q0n2rLAZ_Ac)
 
 
-### اکانت کلود فلیر بسازید
+#### اکانت کلود فلیر بسازید
 
 [ آموزش کامل کلودفلر و ایجاد ساب دامنه بی نهایت (فرار از فیلترینگ) ](https://www.youtube.com/watch?v=BM3T_8qKcuo&t=61s)
 
 
-### وب سوکت 
+#### وب سوکت 
 
 [ آموزش پروتکل وب سوکت در v2ray پروتکل خوب و پایدار با sni سریع ](https://www.youtube.com/watch?v=ygE4DL9t1zQ)
 
 
-### روش فرگمنت رو استفاده کنید
+#### روش فرگمنت رو استفاده کنید
 
 [ استفاده از دامین فیلتر شده با فرگمنت , دامنه مردتو زنده کن ](https://www.youtube.com/watch?v=kdd2wSrCDxc)
 

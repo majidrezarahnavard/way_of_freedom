@@ -1,10 +1,11 @@
-# Mahsa NG
+# نرم افزارها
+## Mahsa NG
 
 [Mahsa NG Application](https://play.google.com/store/apps/details?id=com.MahsaNet.MahsaNG)
 
 
 
-# Amnezia VPN
+## Amnezia VPN
 
 [ آموزش نصب و کانفیگ Amnezia VPN روی سرور (نصب ساده با پینگ مناسب - مناسب ترید) ](https://www.youtube.com/watch?v=JIgMNK_oQYk)
 
@@ -21,11 +22,11 @@ https://threadreaderapp.com/thread/1757093989616947356.html
 این روش amnezia پارسال یه اپدیت خیلی مهم گرفت که عملا سیستم dpi روسیه رو  نابود کرد ازونجایی هم که سیستم dpi ایران عملا همون نسخه روسی هست بنابراین تو ایران هم خوب جواب میده منتها یکسری اشکالات امنیتی داذه که فیلترچی میتونه ازشون سو استفاده کنه ولی اون اشکالاتم میشه حل کرد
 
 
-# argovpn 
+## argovpn 
 [ArgoVPN](https://play.google.com/store/apps/details?id=com.filtershekanha.argovpn&hl=en_US)
 
 
-# Tor project
+## Tor project
 
 [ روش استفاده از مرورگر "تور" در اندروید ](https://www.youtube.com/watch?v=h24QM4iEhvE)
 
@@ -48,12 +49,12 @@ https://threadreaderapp.com/thread/1757093989616947356.html
 
 
 
-# مخزن دانلود فیلترشکن
+## مخزن دانلود فیلترشکن
 [Mark Pashmfouroush](https://fdroid.noql.net/)
 
 
 
- # معرفی یک سری فیلترشکن روی اندروید 
+ ## معرفی یک سری فیلترشکن روی اندروید 
  معرفی یک سری فیلترشکن روی اندروید خوب کار می کنند لینک گوگل پلی برای افرادی دیدن آموزش براشون سخته و میخوان برای توییتر ایسنتا وصل بشن روی همراه مخابرات تست شده در ریپلای پست جوابش
 در رپیلای پست عکسشون به همراه لینک دانلود هست
 
@@ -61,7 +62,7 @@ https://threadreaderapp.com/thread/1757093989616947356.html
 
 
 
-# chiselBox
+## chiselBox
 
 با استفاده از اپ chiselBox به‌سادگی از کانفیگ‌های چیزل در دیوایس‌های اندرویدی استفاده کنین.
 چیزل یک تانل سریع WS/TCP/UDP از طریق HTTP هست، که چندی‌پیش توسط سگارو معرفی شد؛
@@ -73,12 +74,12 @@ https://threadreaderapp.com/thread/1757093989616947356.html
 [اتصال به وارپ از طریق تانل چیزل..](https://threadreaderapp.com/thread/1759985555725598930.html)
 
 
-# Invisible pro
+## Invisible pro
 
 [invisible pro](https://threadreaderapp.com/thread/1758395708925784320.html)
 
 
-# PowerTunnel for Android
+## PowerTunnel for Android
 
 Simple, scalable, cross-platform and effective solution against government censorship for Android 
 
@@ -88,12 +89,12 @@ https://github.com/krlvm/PowerTunnel-Android
 
 
 
-# v4freedom
+## v4freedom
 
 [v4freedom](https://threadreaderapp.com/thread/1767174746544759158.html)
 
 
-# privatevpn
+## privatevpn
 
 لینک دانلود نسخه  های برنامه:
 windows:

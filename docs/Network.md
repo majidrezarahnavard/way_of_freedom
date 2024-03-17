@@ -23,3 +23,10 @@
 
 
 [برخی از اموزش های رایگان و پولی لینوکس](https://threadreaderapp.com/thread/1746669511908987038.html)
+
+
+
+
+# ساخت گیت هاب پیج
+
+[Using mkdocs for better search and usablity](https://github.com/majidrezarahnavard/way_of_freedom/pull/20)

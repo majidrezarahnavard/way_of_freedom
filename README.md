@@ -5,6 +5,14 @@
 در حال حاضر سه روش fragment, warp on warp, worker   بسیار موثر هستند.
 در نظر داشته باشید روش های بسیار متعددی و گوناگونی معرفی شده است .
 
+# وب سایت ها
+
+[وب سایت راه آزادی](https://wayoffreedom.sbs/)
+[نمایش به صورت وبسایت](https://majidrezarahnavard.github.io/way_of_freedom/)
+[گیت هاب راه آزادی](https://github.com/sarinaesmailzadeh/wayoffreedom.sbs)
+
+# فهرست مطالب
+
 | روش | توضیحات |
 | --- | --- |
 | [Fragment](docs/Fragment.md) | در این روش پکیت ها تکه تکه می شوند و نیاز به دامنه و سرور کثیف هست |

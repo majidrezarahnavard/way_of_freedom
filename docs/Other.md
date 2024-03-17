@@ -55,6 +55,8 @@ https://api.yebekhe.link/warp?key=&device_name=WARP+&singbox=true&ip=188.114.98.
 [وبلاگ کوین](https://ivpn.pro/)
 
 
+[راه‌اندازی Home Server با VPN مرکزی – قسمت ۶ – راه‌اندازی DLNA Server و Share Drive](https://ivpn.pro/openwrt/how-to-install-dlna-server-on-openwrt/)
+
 ## OpenWrt
 
 عزیزانی که OpenWrt و PassWall 2 دارند، از طریق SSH با ۳ خط دستور زیر PassWall 2 را آپدیت کنید.

@@ -27,9 +27,9 @@ Network Programg with Go
 
 سینگ باکس بریز، لینک وارپ رو از اینجا بردار و لذتشو ببر ( ایرانسل باشی که چه بهتر)
 لایسنس داری؟ جلو key بنویسش
-اون [] هارو حذف کن
-https://api[.]yebekhe[.]link/warp?key=&device_name=WARP+&singbox=true&ip=188.114.98.224&port=908
-Quote
+```
+https://api.yebekhe.link/warp?key=&device_name=WARP+&singbox=true&ip=188.114.98.224&port=908
+```
 
 
 

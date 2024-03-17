@@ -2,16 +2,16 @@
 # تحقیقات
 
 
-# Net4people
+## Net4people
 
  [ net4people ](https://github.com/net4people/bbs/issues?q=is%3Aissue+is%3Aopen+label%3AIran) 
 
-# Investigation on Blocking of Reality in IRAN
+## Investigation on Blocking of Reality in IRAN
 
 [Investigation on Blocking of Reality in IRAN](https://github.com/XTLS/Xray-core/issues/2778)
 
 
-# تحقیقات
+## تحقیقات
 
  نتایج یک ارزیابی نشون‌میده که ترافیک پروکسی‌های مبهم‌سازی‌شده، حتی با پدینگ تصادفی، چندین‌لایه از پوشش و استفاده از هندشیک‌های TLS مخفی‌شده توسط فینگرپرینت قابل اعتماد، بازم قابل تشخیص هستن!
 
@@ -20,7 +20,7 @@
 
 [Fingerprinting Obfuscated Proxy Traffic with Encapsulated TLS Handshakes](https://www.usenix.org/conference/usenixsecurity24/presentation/xue)
 
-# آینده فیلترینگ
+## آینده فیلترینگ
 
 [سیستم فیلترینگ جدید همراه اول چجوری کار میکنه؟](https://threadreaderapp.com/thread/1753357101001265309.html)
 
@@ -40,7 +40,7 @@
 [اینترنت، فیلترینگ و IPv6](https://threadreaderapp.com/thread/1755968930433093941.html)
 
 
-# تاثیرات فیلترینگ
+## تاثیرات فیلترینگ
 
 خیلی خلاصه بگم به دلیل وجود #فیلترینگ:
 * ۱. دستگاه‌ها و برنامه‌ها به سختی امکان آپدیت دارن و در نتیجه دچار ضعف امنیتی شدن.
@@ -55,5 +55,5 @@
 و این موارد خیلی زیاده، عمدتا نتایج فیلترینگ و البته بخشیش هم تبعات تحریم و شرایط بد اقتصادی کشوره.
 
 
-# شل کردن #فیلترینگ
+## شل کردن #فیلترینگ
 [ما مفهمومی به اسم شل کردن #فیلترینگ نداریم. ](https://threadreaderapp.com/thread/1768634445253267609.html)

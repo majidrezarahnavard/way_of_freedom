@@ -1,0 +1,7 @@
+{
+    "recommendations": [
+        "redhat.vscode-yaml",
+        "aikebang.mkdocs-syntax-highlight",
+        "ms-python.python"
+    ]
+}

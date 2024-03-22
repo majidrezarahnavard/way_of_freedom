@@ -60,6 +60,7 @@ This script:
 
 [Hiddify-Manager](https://github.com/hiddify/Hiddify-Manager)
 
+[ آموزش جدید صفر تا صد آپدیت پنل هدیفای + اموزش هدیفای نکست ](https://www.youtube.com/watch?v=6mCt60Gnp6M)
 
 ## Noobz Vpn
 [ آموزش نصب اسکریپت Noobz Vpn (سرعت خوب و تست شده روی 3 اپراتور) ](https://www.youtube.com/watch?v=GSPO1TaCni4)
@@ -68,3 +69,8 @@ This script:
 
 ## آموزش کامل نصب پنل
 [ آموزش خرید سرور و گرفتن ساب دامنه رایگان و نصب X-UI به صورت خودکار با یک کلیک ](https://www.youtube.com/watch?v=PLQsNbE2oLc)
+
+
+## مرزبان نامه
+
+[ نصب پنل مرزبان و مقدمه‌ای بر بخش‌های مختلف آن ](https://www.youtube.com/watch?v=zT9Pz0UYWqs)

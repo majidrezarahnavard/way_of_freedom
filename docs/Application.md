@@ -60,6 +60,8 @@ https://threadreaderapp.com/thread/1757093989616947356.html
 
 [آموزش](https://threadreaderapp.com/thread/1759572051084382496.html)
 
+یکبار گفتم گوش نکردی برای بار دوم میگم جز Invisiblepro که اوپن سورس هست اون 3 تا #فیلترشکن_ناامن هستند کل این بخشو رو پاک کن چون یک بار Invisiblepro
+رو معرفی کردی قرار نیست جاسوس افزار پخش کنی
 
 
 ## chiselBox

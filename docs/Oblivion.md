@@ -21,3 +21,6 @@ Oblivion provides secure, optimized internet access through a user-friendly Andr
 
 
 [ فیلترشکنی برای همه اینترنت ها - قدرتمندترین فیلترشکن دنیا - فیلترشکن با پروتکل وارپ ](https://www.youtube.com/watch?v=66NV9z-oVPE)
+
+
+[ورژن آلوده توسط فیلترچی](https://www.youtube.com/watch?v=2PwOf3_Qn_s)

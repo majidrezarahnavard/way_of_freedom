@@ -66,6 +66,12 @@ https://threadreaderapp.com/thread/1757319934512910486.html
 [json](https://raw.githubusercontent.com/ByteMysticRogue/Hiddify-Warp/main/warp.json)
 
 
+[ ساده‌ترین راه ساخت کانفیگ warp on warp رایگان ](https://www.youtube.com/watch?v=UqaOYMuCZ9U)
+
+#  کانفیگ شخصی وارپ آن وارپ
+
+[ کانفیگ شخصی وارپ آن وارپ](https://www.youtube.com/watch?v=2XCJgQNBzKs)
+
 # subscribe github 
 با گیت هاب لینک سابسکرایب برای هدیفای بسازید
 [ نحوه ساخت sub برای v2ray و warp در برنامه Hiddify در گیت هاب (Github) ](https://www.youtube.com/watch?v=NDDR8czHyPY)
@@ -91,3 +97,24 @@ https://threadreaderapp.com/thread/1757319934512910486.html
 # Warp + hiddify next
 
 [ ترکیب وارپ با هیدیفای نکست | Combination of Hidify Next and Warp ](https://www.youtube.com/watch?v=sADw7mtCOxY)
+
+
+[اموزش  ترکیب warp و sing box  برای عبور از فیلترینگ در اندروید و ایفون تست شده روی همراه اول،ایرانسل،مخابرات](https://threadreaderapp.com/thread/1770028400909894083.html)
+
+# Warp generate
+
+توسط این‌ابزار کاربردی می‌تونین لینک ساب از کانفیگ‌های رایگان Xray, ClashMeta, SingBox و SurfBoard دریافت کرده یا کانفیگ وارپ بسازید.
+
+[yebekhe](https://app.yebekhe.link/)
+
+# zula
+
+نمی‌دونم پشت این دامنه zula چی هستش اما میتونید از 
+Zula.(ru
+هم به عنوان IP وارپ استفاده کنید 😂
+
+
+# clean-ip-warp-list 
+
+[clean-ip-warp-list ](https://github.com/freedomnet25500/clean-ip-warp-list/blob/main/ip%20list)
+

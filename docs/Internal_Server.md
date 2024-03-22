@@ -1,4 +1,4 @@
-# استفاده از سرور داخلی
+#   استفاده از سرور داخلی یا تانل
 
 ## نحوه جلوگیری از عبور ترافیک داخلی از سرور پروکسی
 
@@ -24,6 +24,10 @@
 
 3. [ریورس پروکسی grpc / معکوس تمام سایت](https://www.youtube.com/watch?v=QBEnXWTyQwE)
 
+
+## RATHOLE
+
+[آموزش تانل RATHOLE روی پنل3x-ui به روش آزومی](https://www.youtube.com/watch?v=xRGROvccDIc)
 
 ## وردپرس با پنل سنایی و علیرضا
 
@@ -59,11 +63,18 @@ wget -qO- bench.sh | bash
 
 [آموزش اجرای تانل معکوس Gost بر روی سرور ایران](https://telegra.ph/%D8%AA%D8%A7%D9%86%D9%84-%D9%85%D8%B9%DA%A9%D9%88%D8%B3-Gost-%D8%A8%D8%A7-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%A7%D8%B2-CDN-03-13)
 
+# یک به چند
 
+[آموزش تانل یک سرور ایران به چند سرور خارج روی پنل علیرضا و ثنایی](https://www.youtube.com/watch?v=4bB34F2QoK0)
 
 # Port to Port
 
 [ آموزش تانل سرور ایران به چند سرور خارج با روش Port to Port ](https://www.youtube.com/watch?v=AplqTJDN1YY)
+
+
+# ipv4 to ipv6
+
+[ تانل Ipv6 با ماژول Ip6GRE + IPtables | حل اختلال v2ray با ساخت شبکه خصوصی ](https://www.youtube.com/watch?v=j5TtmVXq-rE)
 
 
 # چرا NGINX انقدر وحشتناک سریعه؟!

@@ -122,7 +122,7 @@
         <div class="entry-thumbnail">
             <img src="https://bytegate.io/wp-content/uploads/How-VPN-works.jpg" alt="Internal Server"/>
         </div>
-        <h2 class="my_title">Internal Server</h2>
+        <h2 class="my_title">Tunnel Or Internal Server</h2>
         <p class="my_text">
             وقتی یک سرور داخلی و یک سرور خارجی دارید از این روش ها استفاده کنید
         </p>

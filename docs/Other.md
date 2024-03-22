@@ -57,6 +57,10 @@ https://api.yebekhe.link/warp?key=&device_name=WARP+&singbox=true&ip=188.114.98.
 
 [راه‌اندازی Home Server با VPN مرکزی – قسمت ۶ – راه‌اندازی DLNA Server و Share Drive](https://ivpn.pro/openwrt/how-to-install-dlna-server-on-openwrt/)
 
+## کنسول بازی
+
+[ اشترک گذاری فیلترشکن رو کنسول با کمک برنامه Hiddify با استتفاده از warp بصورت رایگان ](https://www.youtube.com/watch?v=ZIOuMJGXr-Q)
+
 ## OpenWrt
 
 عزیزانی که OpenWrt و PassWall 2 دارند، از طریق SSH با ۳ خط دستور زیر PassWall 2 را آپدیت کنید.
@@ -83,6 +87,9 @@ opkg update
 [ آموزش ساخت openvpn روی سرور مجازی ](https://www.youtube.com/watch?v=X8GOExnqPCY)
 
 [برنامه OpenVPN را با v2rayNG ترکیب کنم](https://threadreaderapp.com/thread/1761155128487448961.html)
+
+
+[ساخت کانفیگ رایگان ](https://www.youtube.com/watch?v=cN4YD8X35nQ)
 
 
 # Brook

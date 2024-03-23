@@ -153,3 +153,8 @@ This is an Enhanced and All-in-One set of geo-location routing files optimized f
 ## تمیزی IP
 
 [تست تمیزی IP و هر آنچه در مورد IP تمیز یا فیلتر شده باید بدانید!](https://ivpn.pro/how-to/how-to-test-clean-ip-for-vpn/)
+
+
+## شناسایی سرورهای کاربران ssh
+
+[markpash.me](https://markpash.me/blog/fa-ssh-key-identity-discovery)

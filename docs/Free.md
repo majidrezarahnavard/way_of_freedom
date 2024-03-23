@@ -32,3 +32,8 @@ This repository contains a collection of free V2ray configuration files that you
 # barry-far
 
 [barry-far](https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Sub9.txt)
+
+
+# Sarina
+
+[v2hub](https://github.com/sarinaesmailzadeh/V2Hub/blob/main/merged)

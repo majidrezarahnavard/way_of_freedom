@@ -1,10 +1,10 @@
-site_name: Sarina
-site_author: wayoffreedom.sbs
-site_url: 'https://wayoffreedom.sbs/'
+site_name: filtershekan
+site_author: filtershekan.sbs
+site_url: 'https://filtershekan.sbs/'
 repo_url: https://github.com/majidrezarahnavard/way_of_freedom
 repo_name: majidrezarahnavard/way_of_freedom
-copyright: Copyleft &copy; 2024 Sarina
-site_description: آموزش دسترسی به اینترنت آزاد
+copyright: Copyleft &copy; 2024 Filtershekan
+site_description: دانشنامه آزاد غیر متمرکز دسترسی به اینترنت آزاد
 remote_branch: docs
 edit_uri: https://github.com/majidrezarahnavard/way_of_freedom/edit/main/docs/
 watch:

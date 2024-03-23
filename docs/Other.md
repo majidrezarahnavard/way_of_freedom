@@ -22,7 +22,6 @@ Network Programg with Go
 
 [cf-clean-ip-resolver](https://github.com/yebekhe/cf-clean-ip-resolver)
 
-[v2hub](https://github.com/sarinaesmailzadeh/V2Hub/blob/main/merged)
 
 
 سینگ باکس بریز، لینک وارپ رو از اینجا بردار و لذتشو ببر ( ایرانسل باشی که چه بهتر)

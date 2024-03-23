@@ -30,7 +30,7 @@ Network Programg with Go
 https://api.yebekhe.link/warp?key=&device_name=WARP+&singbox=true&ip=188.114.98.224&port=908
 ```
 
-
+[برا ایفونت #فیلترشکن میخوای خب بیا این مراحل رو برو و حالشو ببر](https://threadreaderapp.com/thread/1771404783330443591.html)
 
 # Home_Server
 

@@ -39,3 +39,8 @@ https://threadreaderapp.com/thread/1757688129648013538.html
 
 
 [سرویس DNS چیه و چرا باید تغییرش داد؟](https://twitter.com/ShahrSakhtAfzar/status/1769059543298838724)
+
+
+# وارپ زیروتراست
+
+[بریم یک آموزش کوچک بزنیم و DNS بسازیم](https://threadreaderapp.com/thread/1771566490656915457.html)

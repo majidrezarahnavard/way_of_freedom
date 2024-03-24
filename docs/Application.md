@@ -1,6 +1,6 @@
 # نرم افزارها
 
-#  هشدار
+##  هشدار
 
 به هیچ عنوان نرم افزار اندروید رو از کانال تلگرام دانلود و نصب نکنید.
 
@@ -73,8 +73,10 @@ https://threadreaderapp.com/thread/1757093989616947356.html
 [Mark Pashmfouroush](https://fdroid.noql.net/)
 
 
+## اتصال با هدیفای بدون سرور و دامنه
 
 
+[ WARP دسترسی به اینترنت آزاد بدون سرور و دامین به صورت رایگان ](https://www.youtube.com/watch?v=nLvLUxOz9OU&t=194s)
 
 ## ChiselBox
 

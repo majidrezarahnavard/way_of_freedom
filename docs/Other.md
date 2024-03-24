@@ -32,6 +32,23 @@ https://api.yebekhe.link/warp?key=&device_name=WARP+&singbox=true&ip=188.114.98.
 
 [برا ایفونت #فیلترشکن میخوای خب بیا این مراحل رو برو و حالشو ببر](https://threadreaderapp.com/thread/1771404783330443591.html)
 
+
+آموزش دریافت آی‌پی پورت تمیز warp در آیفون با کلاینت ish shell:
+اول نصب برنامه ish shell: https://apps.apple.com/us/app/ish-shell/id1436902243
+بعد از نصب دستورات رو بترتیب اجرا کنید:
+1: apk update
+2: apk upgrade
+3: apk add neofetch
+4: apk add curl
+5: curl -o http://install.sh https://raw.githubusercontent.com/Ptechgithub/warp/main/endip/install.sh
+Quote
+6: chmod +x http://install.sh
+7: ./install.sh
+
+توجه داشته باشید، یکبار که این مراحل رو اجرا کردید و آیپی تمیز گرفتید برای دفعات بعد فقط کافیه همین دستور رو اجرا کنید: ./install.sh
+با تشکر از تمام عزیزانی که جهت کمک به دیگران برای دسترسی آزاد اینترنت تلاش می‌کنند
+
+
 # Home_Server
 
 ## آموزش راه‌اندازی Home Server با VPN مرکزی

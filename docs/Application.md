@@ -21,7 +21,6 @@ https://virustotal.com
 [Mahsa NG Application](https://play.google.com/store/apps/details?id=com.MahsaNet.MahsaNG)
 
 
-
 ## Amnezia VPN
 
 [ آموزش نصب و کانفیگ Amnezia VPN روی سرور (نصب ساده با پینگ مناسب - مناسب ترید) ](https://www.youtube.com/watch?v=JIgMNK_oQYk)
@@ -181,8 +180,6 @@ https://instagram.com/beepassvpn
 
 [آموزش](https://threadreaderapp.com/thread/1759572051084382496.html)
 
-یکبار گفتم گوش نکردی برای بار دوم میگم جز Invisiblepro که اوپن سورس هست اون 3 تا #فیلترشکن_ناامن هستند کل این بخشو رو پاک کن چون یک بار Invisiblepro
-رو معرفی کردی قرار نیست جاسوس افزار پخش کنی
 
 
 # فیلترشکن V2 VPN - Safe proxy؛ ردیابی گسترده، ناشناس و مبهم!  

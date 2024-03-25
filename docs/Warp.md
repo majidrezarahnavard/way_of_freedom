@@ -118,3 +118,7 @@ Zula.(ru
 
 [clean-ip-warp-list ](https://github.com/freedomnet25500/clean-ip-warp-list/blob/main/ip%20list)
 
+
+#  warp با آی‌پی پورت تمیز و اتصال اتوماتیک
+
+[خب بریم سراغ آموزش warp با آی‌پی پورت تمیز و اتصال اتوماتیک:](https://threadreaderapp.com/thread/1771883093277786116.html)

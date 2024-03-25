@@ -158,3 +158,8 @@ This is an Enhanced and All-in-One set of geo-location routing files optimized f
 ## شناسایی سرورهای کاربران ssh
 
 [markpash.me](https://markpash.me/blog/fa-ssh-key-identity-discovery)
+
+
+## برای بک آپ کردن کلید ssh باید چه کار کنیم؟
+
+[برای بک آپ کردن کلید ssh باید چه کار کنیم؟](https://twitter.com/markpash/status/1771899769989767342)

@@ -44,3 +44,6 @@ https://threadreaderapp.com/thread/1757688129648013538.html
 # وارپ زیروتراست
 
 [بریم یک آموزش کوچک بزنیم و DNS بسازیم](https://threadreaderapp.com/thread/1771566490656915457.html)
+
+
+[نحوه ایجاد DNS شخصی به‌کمک سرویس Zero Trust کلودفلر](https://telegra.ph/%D9%86%D8%AD%D9%88%D9%87-%D8%A7%DB%8C%D8%AC%D8%A7%D8%AF-DNS-%D8%A8%D9%87%E2%80%8C%DA%A9%D9%85%DA%A9-%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-Zero-Trust-%DA%A9%D9%84%D9%88%D8%AF%D9%81%D9%84%D8%B1-03-25)

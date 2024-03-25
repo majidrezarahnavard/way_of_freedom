@@ -189,3 +189,8 @@ opkg update
 
 
 [ کلودفلر؟ نه ممنون من از اینا استفاده میکنم! معرفی جایگزین های رایگان کلادفلر ](https://www.youtube.com/watch?v=STe5s-xjEF0)
+
+
+# Telegram
+
+[ آموزش ساخت پروکسی تلگرام روی سرور شخصی و اسپانسر کردن کانال تبلیغاتی|How can create mtproto Telegram ](https://www.youtube.com/watch?v=RQXFaDUofOQ)

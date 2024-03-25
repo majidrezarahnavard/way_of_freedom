@@ -67,6 +67,7 @@
 [استفاده مستقیم از فرگمنت روی V2rayNG ](https://private-user-images.githubusercontent.com/23278340/304508567-3589354b-b412-4649-8c44-2883186dc396.mp4?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTAxNDE2NjgsIm5iZiI6MTcxMDE0MTM2OCwicGF0aCI6Ii8yMzI3ODM0MC8zMDQ1MDg1NjctMzU4OTM1NGItYjQxMi00NjQ5LThjNDQtMjg4MzE4NmRjMzk2Lm1wND9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAzMTElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMzExVDA3MTYwOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPThlNjI3YTQ1ZDY5NmU2ZjU1Mzk5MGQ0MDg3ZmI5ZTcwYjZmMzEzMDliY2M1NDhiODY4ZmEzMWYwNDI1MjBmOWImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.gIM-R3feV3djiR7qbIcavdEsV2OAqVWUIYW3OpUnFxU)
 
 
+[ اعمال راحت و متمرکز فرگمنت برای کل کاربران، بررسی آخرین و بهترین روش ها و کانفیگ ها ](https://www.youtube.com/watch?v=qeD1jwOXW4A)
 
 اگر دنبال الگوی تنظیمات #فرگمنت هستین، میتونین از این ۳ نمونه که مربوط به کانفیگ‌های اپ مهسا [اپلیکشن مهسا](https://play.google.com/store/apps/details?id=com.MahsaNet.MahsaNG) هستن کمک بگیرین.
 در این کانفیگ‌ها از آی‌پی تمیز کلودفلر به‌همراه دامنه فیلترشده استفاده‌شده و توصیه‌میشه شما هم دامنه‌های مرده‌تون رو این‌مدلی زنده‌کنین!

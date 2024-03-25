@@ -73,6 +73,11 @@ Quote
 
 [راه‌اندازی Home Server با VPN مرکزی – قسمت ۶ – راه‌اندازی DLNA Server و Share Drive](https://ivpn.pro/openwrt/how-to-install-dlna-server-on-openwrt/)
 
+
+تو این ویدیو نصب وطریقه راه اندازی سرور vpn خونگی روی دار هست رو توضیح دادم اسم این برنامه v2raya هست که میتونید کانفیگ های v2ray های خودتون رو بهش اضافه کنید تا اعضای خانواده بهش متصل بشن
+
+[ سرور vpn خونگی خودتو روی داکر نصب کن با پنل v2raya راحت فیلترینگ رو دور بزن ](https://www.youtube.com/watch?v=qNLS590GrBg)
+
 ## کنسول بازی
 
 [ اشترک گذاری فیلترشکن رو کنسول با کمک برنامه Hiddify با استتفاده از warp بصورت رایگان ](https://www.youtube.com/watch?v=ZIOuMJGXr-Q)

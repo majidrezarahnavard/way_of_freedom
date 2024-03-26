@@ -5,11 +5,8 @@
 
 [warp-on-warp](https://www.youtube.com/watch?si=bJq3Wn6bxD9wNruP&v=VnsjxHl41mU&feature=youtu.be)
 
-[wiregaurd-go](https://github.com/bepass-org/wireguard-go)
-
 [github.com Elfiinaa](https://github.com/Elfiinaa/ConfigFiles/blob/main/WoW/WarpOnWarp-HiddifyNext.json)
 
-[warp-phiphon](https://www.youtube.com/shorts/y1Cqo0Ru0vI)
 
 [warp kian](https://twitter.com/lowercase_1978/status/1752285825789034927)
 
@@ -48,6 +45,9 @@ https://threadreaderapp.com/thread/1757057880295903274.html
 
 [فیلترشکن با پروتکل وارپ](https://www.youtube.com/watch?v=4FbgWDVt98Y)
 
+[warp-phiphon](https://www.youtube.com/shorts/y1Cqo0Ru0vI)
+
+
 # وارپ+التراسرف
 
 _وارپ+التراسرف ترکیب طلایی_
@@ -72,7 +72,7 @@ https://threadreaderapp.com/thread/1757319934512910486.html
 
 [ کانفیگ شخصی وارپ آن وارپ](https://www.youtube.com/watch?v=2XCJgQNBzKs)
 
-# subscribe github 
+# Subscribe github 
 با گیت هاب لینک سابسکرایب برای هدیفای بسازید
 [ نحوه ساخت sub برای v2ray و warp در برنامه Hiddify در گیت هاب (Github) ](https://www.youtube.com/watch?v=NDDR8czHyPY)
 
@@ -83,7 +83,7 @@ https://threadreaderapp.com/thread/1757319934512910486.html
 
 [🚀 Quick Warp On Warp (WoW)](https://github.com/azavaxhuman/Quick_Warp_on_Warps)
 
-# warp+nekobox
+# Warp+nekobox
 
 [اموزش ترکیب warp+nekobox برای عبور از #فیلترینگ با سرعت بالا و تبدیل ای پی ایران وارپ به آلمان به یاد #یوسف_قبادی و #سگارو](https://threadreaderapp.com/thread/1768276268762431751.html)
 
@@ -107,7 +107,7 @@ https://threadreaderapp.com/thread/1757319934512910486.html
 
 [yebekhe](https://app.yebekhe.link/)
 
-# zula
+# Zula
 
 نمی‌دونم پشت این دامنه zula چی هستش اما میتونید از 
 Zula.(ru
@@ -122,3 +122,8 @@ Zula.(ru
 #  warp با آی‌پی پورت تمیز و اتصال اتوماتیک
 
 [خب بریم سراغ آموزش warp با آی‌پی پورت تمیز و اتصال اتوماتیک:](https://threadreaderapp.com/thread/1771883093277786116.html)
+
+
+#  آموزش ساخت اسان کانفیگ WOW (warp on warp) بدون نرم افزار
+
+[ آموزش ساخت اسان کانفیگ WOW (warp on warp) بدون نرم افزار(برای اولین بار در یوتوب) ](https://www.youtube.com/watch?v=34-h_yfMYM4)

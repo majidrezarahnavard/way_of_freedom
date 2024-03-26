@@ -44,6 +44,10 @@
 [ با SoftEther VPN از سرور خارج به ایران ریورس تانل بزن! ](https://www.youtube.com/watch?v=WNPNkJix4fk)
 
 
+## GENEVE
+
+[ آموزش ساخت IPV6 با استفاده ازGENEVE به روش آزومی ](https://www.youtube.com/watch?v=mXDgJhQ8Rzw)
+
 ## وردپرس با پنل سنایی و علیرضا
 
 [ پنل xui و وردپرس رو کنار هم داشته باش! اسکریپت خودکار WUI  تک پورت کردن پنل سنایی و علیرضا ](https://www.youtube.com/watch?v=OksLefIcUxc)
@@ -95,3 +99,4 @@ wget -qO- bench.sh | bash
 # چرا NGINX انقدر وحشتناک سریعه؟!
 
 [چرا NGINX انقدر وحشتناک سریعه؟!](https://threadreaderapp.com/thread/1761266188871496093.html)
+

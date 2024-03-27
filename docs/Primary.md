@@ -86,6 +86,11 @@ https://t.me/generatewarpplusbot
 
 [فیلترشکن با پروتکل وارپ](https://www.youtube.com/watch?v=Xjy6hpgJBC8)
 
+
+### IRCF
+
+[ بهترین فیلترشکن رایگان موبایل | کاملا رایگان با قابلیت انتخاب لوکیشن دلخواه ](https://www.youtube.com/watch?v=MNqsR8F6JWs)
+
 ## روش سرور
 
 اگر نمی دونید سرور چی هست اول این ویدیو رو ببنید.

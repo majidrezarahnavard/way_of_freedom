@@ -37,3 +37,10 @@ This repository contains a collection of free V2ray configuration files that you
 # Sarina
 
 [v2hub](https://github.com/sarinaesmailzadeh/V2Hub/blob/main/merged)
+
+
+# ircfspace
+
+توسط این‌ابزار می‌تونین به کانفیگ‌های رایگان گردآوری‌شده از طریق TVC بر اساس لوکیشن دلخواه دسترسی داشته باشین. این‌کانفیگ‌ها به‌صورت خودکار و منظم، بدون دخل‌وتصرف از یه‌سری کانال تلگرامی جمع‌آوری میشن و برای رعایت مسائل امنیتی توصیه میشه تنها برای مصارف عادی ازشون استفاده کنین.
+
+[link](https://ircfspace.github.io/location/)

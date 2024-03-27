@@ -21,6 +21,10 @@
 
 [نقشه راه دسترسی به اینترنت آزاد](https://iaghapour.github.io/freehope/)
 
+[ircf.space](https://ircf.space/linkbox.php)
+
+[تمام آموزش های سگارو](https://www.google.com/search?q=iSegaro+site:https://telegra.ph)
+
 
 # فهرست مطالب
 

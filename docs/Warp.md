@@ -32,7 +32,7 @@ warp://auto/?ifp=5-10
 [warp](https://threadreaderapp.com/thread/1747875764018515991.html)
 
 # آموزش اتصال به وارپ با Hiddify Next
-https://twitter.com/seramo_ir/status/1756040074607628786
+[seramo](https://twitter.com/seramo_ir/status/1756040074607628786)
 
 # وارپ+سایفون
 
@@ -127,3 +127,21 @@ Zula.(ru
 #  آموزش ساخت اسان کانفیگ WOW (warp on warp) بدون نرم افزار
 
 [ آموزش ساخت اسان کانفیگ WOW (warp on warp) بدون نرم افزار(برای اولین بار در یوتوب) ](https://www.youtube.com/watch?v=34-h_yfMYM4)
+
+
+#  Reserved از کانفیگ warp در Nekobox رو تبدیل میکنه 
+
+مقدار Reserved از کانفیگ warp در Nekobox رو تبدیل میکنه ، که میتونید ازش  توی V2rayNG هم استفاده کنید.
+
+[twitter](https://twitter.com/29peyman/status/1772611062291927376)
+
+[Github](https://ptechgithub.github.io/abzar/)
+
+
+# استفاده از وایرگارد کلودفلر (وارپ) از طریق برنامه نکوری ویندوز (Nekoray)، ایجاد chain proxy و تغییر لوکیشن دلخواه.
+
+
+آموزش ساده‌ی استفاده از وایرگارد کلودفلر (وارپ) از طریق برنامه نکوری ویندوز (Nekoray)، ایجاد chain proxy و تغییر لوکیشن دلخواه.
+کد کانفیگ رو هم در ادامه قرار دادم.
+
+[google drive](https://drive.google.com/file/d/1fhfIn9pYIPKO4w0gDf6LE6GuhTlRlPzR/view)

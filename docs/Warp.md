@@ -145,3 +145,11 @@ Zula.(ru
 کد کانفیگ رو هم در ادامه قرار دادم.
 
 [google drive](https://drive.google.com/file/d/1fhfIn9pYIPKO4w0gDf6LE6GuhTlRlPzR/view)
+
+
+# وارپ در کلاینت جدید
+
+خب بریم سراغ وارپ در کلاینت جدید البته برای iOS
+اول از همه باید نرم افزار Streisand رو از اپ استور دانلود کنید
+
+[twitter](https://threadreaderapp.com/thread/1772937606835167555.html)

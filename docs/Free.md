@@ -44,3 +44,9 @@ This repository contains a collection of free V2ray configuration files that you
 توسط این‌ابزار می‌تونین به کانفیگ‌های رایگان گردآوری‌شده از طریق TVC بر اساس لوکیشن دلخواه دسترسی داشته باشین. این‌کانفیگ‌ها به‌صورت خودکار و منظم، بدون دخل‌وتصرف از یه‌سری کانال تلگرامی جمع‌آوری میشن و برای رعایت مسائل امنیتی توصیه میشه تنها برای مصارف عادی ازشون استفاده کنین.
 
 [link](https://ircfspace.github.io/location/)
+
+
+
+# Free MTProto Proxies
+
+[MTProtoCollector](https://yebekhe.github.io/MTProtoCollector/)

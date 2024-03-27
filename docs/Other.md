@@ -194,3 +194,8 @@ opkg update
 # Telegram
 
 [ آموزش ساخت پروکسی تلگرام روی سرور شخصی و اسپانسر کردن کانال تبلیغاتی|How can create mtproto Telegram ](https://www.youtube.com/watch?v=RQXFaDUofOQ)
+
+
+[ ساخت پروکسی تلگرام (Mtproto) به روش کانال های تلگرام + کانال اسپانسری💥⚡ ](https://www.youtube.com/watch?v=8i63EewMTv0)
+
+[ توضیح پروتکل MTProto و رمزنگاری دو طرفه در تلگرام ](https://www.youtube.com/watch?v=JKabA7Ed7Ks)

@@ -67,3 +67,19 @@ https://apps.apple.com/us/app/foxray/id6448898396
 ```
 wget -qO- bench.sh | bash
 ```
+
+
+## Download Clients
+
+```
+🤍 v2rayNG:
+https://github.com/2dust/v2rayNG/releases/download/1.8.18/v2rayNG_1.8.18.apk
+v2rayN (64-bit):
+https://github.com/2dust/v2rayN/releases/download/6.32/v2rayN.zip
+v2rayN (32-bit):
+https://github.com/2dust/v2rayN/releases/download/6.32/v2rayN-32.zip
+⚙️ Streisand:
+https://apps.apple.com/us/app/streisand/id6450534064
+🤍 NPV Tunnel:
+https://apps.apple.com/tr/app/npv-tunnel/id1629465476
+```

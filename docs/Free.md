@@ -50,3 +50,8 @@ This repository contains a collection of free V2ray configuration files that you
 # Free MTProto Proxies
 
 [MTProtoCollector](https://yebekhe.github.io/MTProtoCollector/)
+
+
+# XrayIran
+
+[XrayIran](https://github.com/XrayIran/free-configs)

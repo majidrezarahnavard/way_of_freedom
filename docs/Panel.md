@@ -62,6 +62,12 @@ This script:
 
 [ آموزش جدید صفر تا صد آپدیت پنل هدیفای + اموزش هدیفای نکست ](https://www.youtube.com/watch?v=6mCt60Gnp6M)
 
+
+[ آموزش کامل نصب و راه‌اندازی هیدیفای منیجر ورژن ۱۰ (X) ](https://www.youtube.com/watch?v=iJPj30yc2ag)
+
+
+[ بررسی امکانات نرم افزار hiddify و معرفی کامل امکانات برنامه ](https://www.youtube.com/watch?v=6jpmrq9effA)
+
 ## Noobz Vpn
 [ آموزش نصب اسکریپت Noobz Vpn (سرعت خوب و تست شده روی 3 اپراتور) ](https://www.youtube.com/watch?v=GSPO1TaCni4)
 

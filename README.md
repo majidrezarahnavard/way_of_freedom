@@ -24,6 +24,7 @@
 
 [تمام آموزش های سگارو](https://www.google.com/search?q=iSegaro+site:https://telegra.ph)
 
+[دانشکده رنگین کمان ](https://lowercase78.github.io/)
 
 # فهرست مطالب
 

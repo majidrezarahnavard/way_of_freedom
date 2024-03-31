@@ -210,3 +210,11 @@ https://instagram.com/beepassvpn
 
 
 [جدید فیلترشکن tools for اندروید](https://paskoocheh.com/?platform=android&category=circumvention)
+
+
+# sshmax + proxychain + Tor project
+
+[ آموزش ساخت فیلترشکن دست ساز - نکوباکس- فیلترشکن - فیلترشکن رایگان - ترفندکده ](https://www.youtube.com/watch?v=LD_s79f8swQ)
+
+[sshmax](https://sshmax.net/)
+

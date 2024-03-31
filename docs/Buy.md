@@ -3,8 +3,10 @@
 
 برای خرید سرور و دامنه و فیلترشکن و تلفن تلگرام هرگز از ریال استفاده نکنید.
 
+[ آموزش کیف پول تراست ولت | آموزش نصب تراست ولت نسخه جدید ](https://www.youtube.com/watch?v=qUluyoS1CG8)
 
-[آموزش کیف پول متامسک](https://www.youtube.com/watch?v=DE4iA1-vLrU)
+[ آموزش کیف پول تراست ولت | Trust wallet ](https://www.youtube.com/watch?v=z55r4xkBc8U&t=38s)
+
 
 
 اگر از شبکه ترون 
@@ -15,6 +17,20 @@ TRX
 
 
 [شبکه ترون چیست؟](https://www.youtube.com/watch?v=UWz8C0dLDkI)
+
+[ How to Add Tron Network to Trust Wallet (Step by Step) ](https://www.youtube.com/watch?v=0o9ok66dolw)
+
+[آموزش کیف پول متامسک](https://www.youtube.com/watch?v=DE4iA1-vLrU)
+
+
+[ How to Add TRON Network to Metamask (Step by Step) ](https://www.youtube.com/watch?v=xIJ-IqXoM8Q)
+
+
+[ آموزش خرید دامین (دامنه) از هاستینگر Hostinger با ارز دیجیتال و ساخت اکانت کلادفلر ](https://www.youtube.com/watch?v=sZzXI7BGClI)
+
+
+[ آموزش ساخت اکانت و ثبت نام در پرفکت مانی و وریفای کردن آن | بهترین جایگزین پی پال | پرفکت مانی چیست ](https://www.youtube.com/watch?v=Zoqq0vEbDgE)
+
 
 ### آدرس فیک
 
@@ -52,12 +68,24 @@ https://bluevps.com/
 
 ```
 https://www.spaceship.com/
+https://aeza.net/
+https://regxa.com/
 ```
 
 
 با 0.6$ دامین shop. و 0.18$ کارمزد ICANN جمعا 0.78$ هزینه خرید
 
 [خرید VPS با کریپتو؛ بهترین VPS های ارزان‌قیمت و با کیفیت برای VPN شخصی](https://ivpn.pro/vps-offers/buy-vps-by-crypto/)
+
+</br>
+
+برای سایت خرید دامنه ارزان، سایت spaceship com رو معرفی کردین
+[ آموزش خرید دامنه یک ساله با 1 دلار |قابلیت تمدید و تغییر سرورنیم ](https://www.youtube.com/watch?v=roT2F8Aw7yI)
+
+
+تو کامنت‌های این ویدیو یه سری‌ها گفتن این سایت هم با ایرانی‌ها مشکل داره و اکانتشون رو مثل اینکه مسدود کرده.
+
+
 
 ### باریال چجوری کریپتو بخرم 
 

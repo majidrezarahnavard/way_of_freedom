@@ -55,3 +55,8 @@ This repository contains a collection of free V2ray configuration files that you
 # XrayIran
 
 [XrayIran](https://github.com/XrayIran/free-configs)
+
+
+# azadi_az_inja_migzare
+
+[ آزادی از اینجا میگذره ](https://t.me/azadi_az_inja_migzare)

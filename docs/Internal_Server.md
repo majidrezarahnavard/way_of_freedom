@@ -100,3 +100,8 @@ wget -qO- bench.sh | bash
 
 [چرا NGINX انقدر وحشتناک سریعه؟!](https://threadreaderapp.com/thread/1761266188871496093.html)
 
+
+
+#  آموزش ساخت کانفیگ نیم بها و افزایش سرعت دانلود و آپلود سرور 
+
+[ آموزش ساخت کانفیگ نیم بها و افزایش سرعت دانلود و آپلود سرور ](https://www.youtube.com/watch?v=NNbYF633B_I)

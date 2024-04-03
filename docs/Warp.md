@@ -153,3 +153,12 @@ Zula.(ru
 اول از همه باید نرم افزار Streisand رو از اپ استور دانلود کنید
 
 [twitter](https://threadreaderapp.com/thread/1772937606835167555.html)
+
+
+# Run Warp-Plus on windows
+
+سلام امروز می‌خوایم روش اجرای پروژه وارپ پلاس(وایرگارد گو) مهندس یوسف قبادی رو روی ویندوز یاد بگیریم.
+
+[Run Warp-Plus on windows](https://telegra.ph/Run-Warp-Plus-on-windows-04-01)
+
+[warp-plus](https://github.com/bepass-org/warp-plus/releases/tag/v1.1.2)

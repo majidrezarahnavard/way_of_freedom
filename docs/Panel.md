@@ -68,6 +68,8 @@ This script:
 
 [ بررسی امکانات نرم افزار hiddify و معرفی کامل امکانات برنامه ](https://www.youtube.com/watch?v=6jpmrq9effA)
 
+[ ساخت کانفیگ هیدیفای با آی پی تمیز شخصی ](https://www.youtube.com/watch?v=iXl8bcnK6Mw)
+
 ## Noobz Vpn
 [ آموزش نصب اسکریپت Noobz Vpn (سرعت خوب و تست شده روی 3 اپراتور) ](https://www.youtube.com/watch?v=GSPO1TaCni4)
 

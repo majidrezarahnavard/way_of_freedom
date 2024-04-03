@@ -219,3 +219,36 @@ https://instagram.com/beepassvpn
 
 [sshmax](https://sshmax.net/)
 
+# معرفی ۲۸ برنامه جاسوسی اندرویدی به شکل سرویس وی‌پی‌ان توسط موسسه Human Security 
+
+
+[موسسه‌ای با نام Human Security یافته‌های تحقیقات ۹ ماهه خود را در سال‌های ۲۰۲۳ و ۲۰۲۴ منتشر کرده که شامل فهرست ۲۸ برنامه جاسوسی اندرویدی است. این برنامه‌ها به ظاهر به‌عنوان سرویس‌های  وی‌پی‌ان رایگان به کاربران ارائه می‌شوند.](https://twitter.com/TavaanaTech/status/1773747071108997388)
+
+Lite VPN
+Anims Keyboard
+Blaze Stride
+Byte Blade VPN
+Android 12 Launcher (by CaptainDroid)
+Android 13 Launcher (by CaptainDroid)
+Android 14 Launcher (by CaptainDroid)
+CaptainDroid Feeds
+Free Old Classic Movies (by CaptainDroid)
+Phone Comparison (by CaptainDroid)
+Fast Fly VPN
+Fast Fox VPN
+Fast Line VPN
+Funny Char Ging Animation
+Limo Edges
+Oko VPN
+Phone App Launcher
+Quick Flow VPN
+Sample VPN
+Secure Thunder
+Shine Secure
+Speed Surf
+Swift Shield VPN
+Turbo Track VPN
+Turbo Tunnel VPN
+Yellow Flash VPN
+VPN Ultra
+Run VPN

@@ -204,6 +204,11 @@ opkg update
 [ توضیح پروتکل MTProto و رمزنگاری دو طرفه در تلگرام ](https://www.youtube.com/watch?v=JKabA7Ed7Ks)
 
 
+[ آموزش گذاشتن تبلیغ در کانال دلخواه تلگرام | توی هر کانالی دوست داری تبلیغ بزار ](https://www.youtube.com/watch?v=16YZFJE8s1U)
+
+
+[ آموزش کامل کسب درآمد از تلگرام : مانیتایز کردن کانال تلگرام در 2 ساعت و شروع درآمدزایی ](https://www.youtube.com/watch?v=JCuemNOettI)
+
 # VPNHood
 
 [Github](https://github.com/vpnhood/VpnHood)

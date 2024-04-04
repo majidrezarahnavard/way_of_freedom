@@ -46,6 +46,8 @@ This repository contains a collection of free V2ray configuration files that you
 [link](https://ircfspace.github.io/location/)
 
 
+[ آموزش v2ray با آی پی های کشور مختلف ](https://www.youtube.com/watch?v=OMlU35tqzfw)
+
 
 # Free MTProto Proxies
 

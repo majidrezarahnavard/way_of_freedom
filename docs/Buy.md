@@ -62,6 +62,7 @@ my.spectraip.net
 https://www.namesilo.com/
 https://www.hostinger.com/payments
 https://bluevps.com/
+https://www.hosttest.de/vergleich/vserver.html
 ```
 
 ### با کریپتو دامنه بخریم؟

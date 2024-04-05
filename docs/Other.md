@@ -209,6 +209,9 @@ opkg update
 
 [ آموزش کامل کسب درآمد از تلگرام : مانیتایز کردن کانال تلگرام در 2 ساعت و شروع درآمدزایی ](https://www.youtube.com/watch?v=JCuemNOettI)
 
+[ تلگرام برای هر هزار بازدید چقدر میده : آموزش کسب درآمد از تلگرام و شروع درآمدزایی - CPM تلگرام چقدره ](https://www.youtube.com/watch?v=T4HWqpKBZEo)
+
+
 # VPNHood
 
 [Github](https://github.com/vpnhood/VpnHood)

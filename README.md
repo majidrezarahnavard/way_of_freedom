@@ -26,7 +26,15 @@
 
 [دانشکده رنگین کمان ](https://lowercase78.github.io/)
 
+[آی VPN.پُرو ](https://ivpn.pro/)
+
 [ تمامی افرادی که دارن به اینترنت آزاد در توییتر کمک می‌کنند](https://threadreaderapp.com/thread/1776593904583790980.html)
+
+
+[توییت های وحید فرید](https://threadreaderapp.com/user/vahidfarid)
+
+
+[ترکیب های امین](https://threadreaderapp.com/user/amin_o__o)
 
 
 # فهرست مطالب

@@ -276,3 +276,8 @@ Run VPN
 [shadowrocket_for_android](https://threadreaderapp.com/thread/1776401864235381160.html)
 
 [github](https://github.com/Pawdroid/shadowrocket_for_android)
+
+
+# فیلترشکن Alvand VPN؛ ردیابی گسترده، دسترسی غیرمعمول!  
+
+[🔴فیلترشکن Alvand VPN؛ ردیابی گسترده، دسترسی غیرمعمول!  ](https://twitter.com/PasKoocheh/status/1776898513990791206)

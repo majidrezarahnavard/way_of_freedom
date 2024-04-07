@@ -169,3 +169,8 @@ Zula.(ru
 این برنامه به شما کمک میکند تا آیپی و پورتهای خود را به کانفیگ رایج Warp تبدیل کنید. هر دوفایل را دانلود کرده و از حالت فشرده خارج کنید. روش کار بسیار ساده است، آیپی و پورت را در پنجره سمت چپ paste کنید و با زدن کلید Show result نتیجه را در پنجره سمت راست دریافت کنی
 
 [WARP-Config-Builder](https://github.com/bin1zone/WARP-Config-Builder)
+
+
+# رهنمای نصب IP وارپ روی سرور مجازی
+
+[WARP-for-VPS](https://github.com/amin2plus/WARP-for-VPS)

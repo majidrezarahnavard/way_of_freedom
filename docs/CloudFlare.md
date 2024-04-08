@@ -75,3 +75,10 @@ https://trends.builtwith.com/cdn/Cloudflare/China
 [EDtunnel](https://github.com/3Kmfi6HP/EDtunnel)
 
 [ Cloudflare Pages to easily deploy v2ray proxy, no server required & extremely fast! Step-by-step! ](https://www.youtube.com/watch?v=8I-yTNHB0aw)
+
+
+#  آموزش ساخت پنل وحید با سرعت بالا v2ray 
+
+تو این ویدیوی آموزشی قصد بر این بوده که یه توضیحی در مورد ساخت پنل وحید رو بهتون بدم که خیلی کانفیگ های خوبی داره و پرسرعت با پایداری بالا که عالیه و می تونه به کارتون بیاد.
+
+[ آموزش ساخت پنل وحید با سرعت بالا v2ray ](https://www.youtube.com/watch?v=PpDIJUeFbxc)

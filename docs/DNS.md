@@ -78,3 +78,11 @@ https://threadreaderapp.com/thread/1757688129648013538.html
 
 
 [ آموزش ساخت DNS شخصی ](https://www.youtube.com/watch?v=kFfw4FuQd34)
+
+
+# blocky
+
+اگر مثل من در وضعیتی هستید که نیاز دارید DNS-Server اختصاصی خودتان را داشته باشید و شبیه شکن نیز عمل کند (Custom DNS resolution/Conditional forwarding) و از DoH پشتیبانی کند، به نظرم باید Blocky را تست کنیم.
+
+
+[blocky](https://github.com/0xERR0R/blocky)

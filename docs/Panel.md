@@ -22,7 +22,10 @@
 [ نصب و بررسی پنل S-UI جایگزین پنل X-UI (ساپورت از تمام پروتکل ها) ](https://www.youtube.com/watch?v=Vwg5OOI8J_w)
 
 
-## Worker Serverless + Fragment
+## BPB + Worker Serverless + Fragment
+
+
+[نسخه‌ی ۲.۳ پنل BPB ریلیز شد!](https://threadreaderapp.com/thread/1777729570692628977.html)
 
 [ عبور از فیلترینگ با Edge Tunnel و بررسی پنل BPB و پنل وحید فرید , فیلترشکن رایگان، سریع و ضد تحریم ](https://www.youtube.com/watch?v=jvZkHANYfno&t=297s)
 

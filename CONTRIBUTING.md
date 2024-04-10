@@ -1,4 +1,4 @@
-# docs.hiddify.com
+# filtershekan.sbs
 
 
 ## add abbrivations:
@@ -6,7 +6,7 @@ add abbrivations in includes/abbrivations.md it will included automatically
 
 ## example elements:
    docs/all_elements.md
-   https://docs.hiddify.com/all_elements
+   https://filtershekan.sbs/all_elements
 
 ## disable comments:
    add comments: false on page meta 

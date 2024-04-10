@@ -111,11 +111,7 @@ markdown_extensions:
           format: !!python/name:pymdownx.superfences.fence_code_format
 
 extra:
-  homepage: https://hiddify.com
-
-  social:
-    - icon: fontawesome/brands/github
-      link: https://github.com/hiddify/hiddify-manager
+  homepage: https://filtershekan.sbs/
   generator: false
 
   alternate:
@@ -125,31 +121,6 @@ extra:
     - name: فارسی
       link: /fa/
       lang: fa
-  # consent:
-  #   title: Cookie consent
-  #   description: >- 
-  #     We use cookies to recognize your repeated visits and preferences, as well
-  #     as to measure the effectiveness of our documentation and whether users
-  #     find what they're searching for. With your consent, you're helping us to
-  #     make our documentation better.
-
-  # analytics:
-  #   provider: google
-  #   property: G-1B5433L63G
-  #   feedback:
-  #     title: Was this page helpful?
-  #     ratings:
-  #       - icon: material/emoticon-happy-outline
-  #         name: This page was helpful
-  #         data: 1
-  #         note: >-
-  #           Thanks for your feedback!
-  #       - icon: material/emoticon-sad-outline
-  #         name: This page could be improved
-  #         data: 0
-  #         note: >- 
-  #           Thanks for your feedback! Help us improve this page by
-  #           using our <a href="https://github.com/hiddify/docs.hiddify.com/issues/new/?title=[Feedback]+{title}+-+{url}" target="_blank" rel="noopener">feedback form</a>.
 extra_css:
   - assets/css/site.css
 extra_javascript:
@@ -190,10 +161,4 @@ plugins:
       fallback_to_build_date: true
   - blog:
       post_readtime: true
-
-# nav: #docs/app/install.md
-#   - Home: index.html
-#   - ...
-  
-#   - privacy-policy.md
       

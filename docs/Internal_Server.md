@@ -114,3 +114,10 @@ wget -qO- bench.sh | bash
 
 
 [ آموزش تانل باIP6IP6 به روش آزومی روی پنل 3X-UI ثنایی-SIXTININELEARN ](https://www.youtube.com/watch?v=VIZ-WyTpEx8)
+
+
+#  روش جدید تانل OPENVPN پرسرعت ترین روش ممکن-SIXTININELEARN 
+
+ا دامنه ی فیلتر شده ی خودتون کانفیگ بسازین و بتونین به اینترنت آزاد وصل بشین
+
+[OPENVPN](https://www.youtube.com/watch?v=z1XecNzLlG0)

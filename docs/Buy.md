@@ -65,6 +65,9 @@ https://bluevps.com/
 https://www.hosttest.de/vergleich/vserver.html
 ```
 
+
+[آموزش خرید سرور از سایت Aeza با پرفکت مانی](https://telegra.ph/Kharide-server-az-Aeza-ba-perfect-mony-04-05)
+
 ### با کریپتو دامنه بخریم؟
 
 ```

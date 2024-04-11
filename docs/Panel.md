@@ -32,6 +32,8 @@
 [نحوه‌ی راه‌اندازی BPB Worker Panel به همراه Fragment نسخه‌ی 2.1](https://telegra.ph/%D9%86%D8%AD%D9%88%D9%87%E2%80%8C%DB%8C-%D8%B1%D8%A7%D9%87%E2%80%8C%D8%A7%D9%86%D8%AF%D8%A7%D8%B2%DB%8C-BPB-Worker-Panel-%D8%A8%D9%87%E2%80%8C%D9%87%D9%85%D8%B1%D8%A7%D9%87-Fragment-01-28)
 
 
+[Install BPB Pages ](https://www.youtube.com/watch?v=-LR7cS2ifTQ)
+
 ## reality-ezpz
 [reality-ezpz](https://github.com/aleskxyz/reality-ezpz)
 

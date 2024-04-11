@@ -8,6 +8,8 @@
 [ آموزش استفاده از v2ray در ویندوز , نحوه اتصال کانفیگ v2ray در ویندوز ](https://www.youtube.com/watch?v=Z31wBnYe3co)
 
 
+[ آموزش کار با وی پی ان وی2ری ان | V2rayNG تو کامپیوتر ](https://www.youtube.com/watch?v=GJAC-EkmYLM)
+
 # Hiddify هیدیفای
 
 

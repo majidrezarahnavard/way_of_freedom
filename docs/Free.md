@@ -71,3 +71,8 @@ This repository contains a collection of free V2ray configuration files that you
 این بات رایگان، فاقد تبلیغات و عضویت اجباری در کانال و پیام های تبلیغاتی خواهد بود!
 
 [telegram bot](t.me/TheTVCbots)
+
+
+# Happy_Bam
+
+[telegram](https://t.me/Happy_Bam)

@@ -93,3 +93,12 @@ Yes
 
 
 [https://one.one.one.one/help/](https://one.one.one.one/help/)
+
+
+#  سی‌دی‌ان CDN چیست و برای گذر از فیلتر چه کمکی به ما می‌کند؟ 
+
+در این ویدئو با نحوه کار سی‌دی‌ان CDN یا شبکه توزیع محتوا آشنا می‌شوید و یاد می‌گیرید که چطور به صورت عملی از آن برای ساخت پروکسی‌های بهتر استفاده کنید. 
+
+[ سی‌دی‌ان CDN چیست و برای گذر از فیلتر چه کمکی به ما می‌کند؟ ](https://www.youtube.com/watch?v=vBrD9iYeIrM)
+
+[سی‌دی‌ان چیست و چه کمکی به ما می‌کند؟](https://hiddify.com/fa/manager/domain-worker-cdn-and-tunneling/What-is-CDN-and-how-does-it-help-us%3F/#_2)

@@ -76,3 +76,23 @@ This repository contains a collection of free V2ray configuration files that you
 # Happy_Bam
 
 [telegram](https://t.me/Happy_Bam)
+
+
+# Bot TVC
+
+[نحوه استفاده از Bot TVC](https://telegra.ph/%D9%86%D8%AD%D9%88%D9%87-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%A7%D8%B2-Bot-TVC-04-11)
+
+
+#  جدیدترین روش ساخت کانفیگ های رایگان با پنل اختصاصی بدون محدودیت 
+
+سلام رفقا تو این اموزش توضیح میدم چطوری میتونید با یه روش ساده کانفیگهای اختصاصی مختلف برای خودتون و خانواده تون بدون سرور و دامین بسازید و ازش استفاده کنید 
+
+[ جدیدترین روش ساخت کانفیگ های رایگان با پنل اختصاصی بدون محدودیت ](https://www.youtube.com/watch?v=9_ufuwcIOmI)
+
+
+# ProxyMTProto
+[telegram ProxyMTProto](https://t.me/ProxyMTProto)
+
+
+# TelegramV2rayCollector
+[TelegramV2rayCollector](https://github.com/yebekhe/TelegramV2rayCollector)

@@ -17,3 +17,11 @@
 
 
 [ کسب درآمد از نمایش تبلیغات در تلگرام ( فعال سازی درآمد از تلگرام از ایران و افغانستان ) ](https://www.youtube.com/watch?v=qJR6KUHFl2Y)
+
+
+## MTProxy
+
+[MTProxy](https://github.com/TelegramMessenger/MTProxy)
+
+
+[telegram ProxyMTProto](https://t.me/ProxyMTProto)

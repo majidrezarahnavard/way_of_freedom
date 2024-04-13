@@ -87,3 +87,19 @@ This script:
 ## مرزبان نامه
 
 [ نصب پنل مرزبان و مقدمه‌ای بر بخش‌های مختلف آن ](https://www.youtube.com/watch?v=zT9Pz0UYWqs)
+
+
+
+##  لینک ساب پروکسی چیست و چگونه آن را رایگان ضد فیلتر کنیم؟ بخش اول: سایت میانی PHP 
+
+پروتکل‌های فیلترشکن در نهایت شناسایی می‌شوند، اما با داشتن یک سایت مخصوص که تنها اطلاعات پروکسی را ارائه می‌دهد، حتی در صورت فیلتر شدن سرور، می‌توان به راحتی سرور را تغییر داد و بدون هیچ تغییری برای کاربران، لینک‌های ساب ثابت باشد. در اینجا از یک سایت PHP رایگان برای این مخفی‌سازی لینک ساب استفاده می‌شود.
+
+
+[ لینک ساب پروکسی چیست و چگونه آن را رایگان ضد فیلتر کنیم؟ بخش اول: سایت میانی PHP ](https://www.youtube.com/watch?v=Xn9qwxpWmWQ)
+
+
+##   V2Hub
+
+V2Hub is a script that can be used to aggregate and merge multiple subscription links for V2Ray, Trojan, Shadowsocks, and other protocols. The script can process both plain text and base64-encoded subscription links.
+
+[V2Hub](https://github.com/yebekhe/V2Hub)

@@ -57,6 +57,13 @@ https://virustotal.com
 [Mahsa NG Application](https://play.google.com/store/apps/details?id=com.MahsaNet.MahsaNG)
 
 
+اپلیکیشن Mahsang را در اندروید نصب کنید.
+در شرایطی که فیلترینگ شدید است به کانکشن‌هایی که «فرگمنت‌»شان فعال است وصل شوید و به «پینگ» و تست توجه نکنید.
+در صورت قطعی کامل نیز از قسمت منوی اپلیکیشن، روی get ems config بزنید تا کانکشن‌های تونل و مخصوص آن شرایط را دریافت کنید.
+
+
+[AminAnvary](https://twitter.com/AminAnvary/status/1779318799906332888)
+
 ##  bepass oblivion
 
 [google play](https://play.google.com/store/apps/details?id=org.bepass.oblivion)

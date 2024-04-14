@@ -31,6 +31,10 @@
 
 [آموزش استفاده از HiddifyCli یا هیدیفای‌کامندلاین](https://hiddify.com/fa/app/HiddifyCli-guide/)
 
+[آموزش کار با نرم‌افزار HiddifyN](https://hiddify.com/fa/manager/client-software-on-desktop/Tutorial-for-HiddifyN-software/)
+
+[هیدیفای نسخه مک ](https://www.youtube.com/watch?v=S64_lmNe7eQ)
+
 ## Streisand IOS
 برنامهٔ #Streisand یکی‌از پایدارترین گزینه‌ها برای #آیفون هست که متاسفانه در رابطه با واردکردن پیگربندی JSON از URL با مشکل مواجه بود؛ این زمانی اهمیت بیشتری پیدا می‌کرد که درحال‌حاضر #فرگمنت در ایران به‌عنوان یکی‌از روش‌های کاربردی برای دسترسی آزاد به اینترنت به‌شمار میره /تب
 

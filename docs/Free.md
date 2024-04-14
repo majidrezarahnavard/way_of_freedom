@@ -96,3 +96,8 @@ This repository contains a collection of free V2ray configuration files that you
 
 # TelegramV2rayCollector
 [TelegramV2rayCollector](https://github.com/yebekhe/TelegramV2rayCollector)
+
+
+# گروه وب‌سایت «آزادی ما»
+
+[گروه وب‌سایت «آزادی ما»](https://azadima.com/)

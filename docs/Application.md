@@ -68,6 +68,7 @@ https://virustotal.com
 
 [google play](https://play.google.com/store/apps/details?id=org.bepass.oblivion)
 
+[ اتصال به اینترنت آزاد با Oblivion بدون نیاز به هیچ کانفیگی ](https://www.youtube.com/watch?v=Hs4DyZOI8Xg)
 
 ## Amnezia VPN
 

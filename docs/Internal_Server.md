@@ -217,20 +217,20 @@ sysctl -p
 ```
 
 میزان نگه داری لاگ ها
+
 ```
 journalctl --vacuum-time=10d
 ‍‍‍```
 
 تنظیم ساعت سرور
+
 ```
 #set timezone
 timedatectl set-timezone UTC
 timedatectl
 echo "UTC" | sudo tee /etc/timezone
 cat /etc/timezone
-```
 
-```
 #set timezone
 timedatectl set-timezone Asia/Tehran
 timedatectl
@@ -260,7 +260,8 @@ bash <(curl -fsSL https://raw.githubusercontent.com/Ptechgithub/NginxReverseProx
 ```
 
 مسیر nginx
-‍‍‍```
+
+```
 cd /etc/nginx/sites-available/
 ```
 

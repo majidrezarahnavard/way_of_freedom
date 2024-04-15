@@ -313,7 +313,7 @@ bash -c "$(curl -L https://github.com/XTLS/Xray-install/raw/main/install-release
 ```
 sudo ufw app list
 
-sudo ufw allow 22
+sudo ufw deny 22
 sudo ufw allow 443
 sudo ufw deny 80
 sudo ufw deny 80/tcp

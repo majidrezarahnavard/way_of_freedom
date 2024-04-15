@@ -103,3 +103,14 @@ This script:
 V2Hub is a script that can be used to aggregate and merge multiple subscription links for V2Ray, Trojan, Shadowsocks, and other protocols. The script can process both plain text and base64-encoded subscription links.
 
 [V2Hub](https://github.com/yebekhe/V2Hub)
+
+
+#  مشکل امنیت در سنایی؟ | بالا بردن امنیت سرور و پنل x-ui | جلوگیری از هک و فیلتر سرور 
+
+
+مشکل امنیت در سنایی؟ 
+بالا بردن امنیت سرور و پنل x-ui 
+جلوگیری از هک و فیلتر سرور
+چند روزی هست که یه بحثی پیش اومده که سنایی ، علیرضا و مرزبان امن نیستن ، لازم دونستم این ویدئو رو بذارم و توضیحاتی در این خصوص بدم و یه سری آموزش ها هم قرار بدم که بتونه به بالا بردن امنیت سرورتون کمک کنه ، امیدوارم به دردتون بخوره
+
+[ مشکل امنیت در سنایی؟ | بالا بردن امنیت سرور و پنل x-ui | جلوگیری از هک و فیلتر سرور ](https://www.youtube.com/watch?v=bgL14NYsOQg&t=29s)

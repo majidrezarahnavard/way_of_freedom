@@ -381,3 +381,12 @@ vi /etc/proxychains.conf
 socks5  127.0.0.1 10808
 ```
 proxychains curl ip-api.com
+
+
+## گرفتن مجددا certbot
+
+‍‍```
+	sudo certbot --nginx -d "$domain" --register-unsafely-without-email --non-interactive --agree-tos --redirect || display_error "Failed to obtain SSL certificate"
+```
+
+[How To Secure Nginx with Let's Encrypt on Ubuntu 20.04](https://www.digitalocean.com/community/tutorials/how-to-secure-nginx-with-let-s-encrypt-on-ubuntu-20-04)

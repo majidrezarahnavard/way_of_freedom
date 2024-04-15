@@ -178,3 +178,10 @@ https://threadreaderapp.com/thread/1757688129648013538.html
 
 
 [blocky](https://github.com/0xERR0R/blocky)
+
+
+#  The ULTIMATE Guide to Mastering NextDNS! 
+
+NextDNS is an insanely powerful privacy and security tool allowing you to reclaim control across various devices via DNS. In this guide/tutorial, I will be explaining what NextDNS is and how it differs from most other DNS providers, all the settings offered, some of my suggested use-cases, blocklist recommendations, set-up, and many other things so you can feel confident using NextDNS. Enjoy!
+
+[ The ULTIMATE Guide to Mastering NextDNS! ](https://www.youtube.com/watch?v=WUG57ynLb8I)

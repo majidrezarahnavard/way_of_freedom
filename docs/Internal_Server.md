@@ -220,7 +220,7 @@ sysctl -p
 
 ```
 journalctl --vacuum-time=10d
-‍‍‍```
+```
 
 تنظیم ساعت سرور
 

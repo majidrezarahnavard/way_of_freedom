@@ -2,7 +2,7 @@ server {
         root /var/www/html;
         grpc_read_timeout 1h;
 		grpc_send_timeout 1h;
-    	grpc_set_header X-Real-IP $remote_addr;
+        grpc_set_header X-Real-IP $remote_addr;
 
         # Add index.php to the list if you are using PHP
         index index.html index.htm index.nginx-debian.html;

@@ -350,7 +350,15 @@ sudo systemctl restart nginx
 حالا کافی هست که کانفیگ xray بسازیم
 نمونه کانفیگ در فولدر tunnel موجود است
 
+```
+https://raw.githubusercontent.com/majidrezarahnavard/way_of_freedom/main/tunnel/nginx_confix
+```
+
 xray رو با دستور زیر در tmux اجرا کنید
+
+```
+https://raw.githubusercontent.com/majidrezarahnavard/way_of_freedom/main/tunnel/xray_config.json
+```
 
 ```
 xray -x xray_config.json

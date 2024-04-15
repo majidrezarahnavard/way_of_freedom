@@ -339,8 +339,11 @@ tail -f /var/log/nginx/domain.access.log
 
 نمونه کانفیگ در فولدر tunnel موجود است
 
-restart nginx
+```
+https://raw.githubusercontent.com/majidrezarahnavard/way_of_freedom/main/tunnel/nginx_confix
+```
 
+restart nginx
 
 ```
 sudo systemctl restart nginx
@@ -351,9 +354,6 @@ sudo systemctl restart nginx
 حالا کافی هست که کانفیگ xray بسازیم
 نمونه کانفیگ در فولدر tunnel موجود است
 
-```
-https://raw.githubusercontent.com/majidrezarahnavard/way_of_freedom/main/tunnel/nginx_confix
-```
 
 xray رو با دستور زیر در tmux اجرا کنید
 

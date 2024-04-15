@@ -174,3 +174,24 @@ Zula.(ru
 # رهنمای نصب IP وارپ روی سرور مجازی
 
 [WARP-for-VPS](https://github.com/amin2plus/WARP-for-VPS)
+
+
+# WARP+ Keys Collector
+
+a simple tool that automatically collects 15 WARP+ Keys once every hour.
+یک ابزار ساده که به‌طور خودکار هر یک‌ساعت یکبار ۱۵ عدد کلید وارپ‌پلاس را جمع‌آوری می‌کند.
+
+
+[Github](https://github.com/ircfspace/warpkey)
+
+[sub](https://raw.githubusercontent.com/ircfspace/warpkey/main/list)
+
+
+#  WARP دسترسی به اینترنت آزاد بدون سرور و دامین به صورت رایگان 
+  
+توی این ویدیو، به شما نحوه دسترسی به اینترنت بدون محدودیت و به صورت رایگان رو با استفاده از اپلیکیشن Hiddify و یک کانفیگ کاستوم برای WARP از سرویس Cloudflare رو توضیح میدم.
+
+با این راهنما، شما قادر هستید به راحتی فیلترینگ رو دور بزنید و از اینترنت بدون محدودیت لذت ببرید. اپلیکیشن Hiddify به شما این امکان رو می‌دهد تا به راحتی به WARP متصل بشید و از اینترنت آزاد و رایگان بهره‌مند باشید.
+
+
+[ WARP دسترسی به اینترنت آزاد بدون سرور و دامین به صورت رایگان ](https://www.youtube.com/watch?v=nLvLUxOz9OU)

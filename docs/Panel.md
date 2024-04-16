@@ -34,6 +34,9 @@
 
 [Install BPB Pages ](https://www.youtube.com/watch?v=-LR7cS2ifTQ)
 
+
+[نصب از طریق Cloudflare Pages](https://github.com/bia-pain-bache/BPB-Worker-Panel/blob/main/docs/pages_installation_fa.md)
+
 ## reality-ezpz
 [reality-ezpz](https://github.com/aleskxyz/reality-ezpz)
 

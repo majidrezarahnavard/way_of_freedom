@@ -195,3 +195,11 @@ a simple tool that automatically collects 15 WARP+ Keys once every hour.
 
 
 [ WARP دسترسی به اینترنت آزاد بدون سرور و دامین به صورت رایگان ](https://www.youtube.com/watch?v=nLvLUxOz9OU)
+
+
+# ترکیب وارپ پلاس و پراکسی فایر
+
+امروز میخوام یه آموزش مختصر بزارم برای استفاده از وارپ پلاس به همراه نرم افزار پراکسی فایر
+
+
+[ترکیب وارپ پلاس و پراکسی فایر](https://lowercase78.github.io/warp-plus/2024/04/14/%D8%AA%D8%B1%DA%A9%DB%8C%D8%A8-%D9%88%D8%A7%D8%B1%D9%BE-%D9%BE%D9%84%D8%A7%D8%B3-%D9%88-%D9%BE%D8%B1%D8%A7%DA%A9%D8%B3%DB%8C-%D9%81%D8%A7%DB%8C%D8%B1.html)

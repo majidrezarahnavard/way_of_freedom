@@ -385,7 +385,7 @@ proxychains curl ip-api.com
 
 ## گرفتن مجددا certbot
 
-‍‍```
+```
 	sudo certbot --nginx -d "$domain" --register-unsafely-without-email --non-interactive --agree-tos --redirect || display_error "Failed to obtain SSL certificate"
 ```
 

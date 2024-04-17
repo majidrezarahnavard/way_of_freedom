@@ -241,3 +241,28 @@ opkg update
 [Github](https://github.com/vpnhood/VpnHood)
 
 [آموزش دور زدن فیلترینگ با VpnHood](https://telegra.ph/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%AF%D9%88%D8%B1-%D8%B2%D8%AF%D9%86-%D9%81%DB%8C%D9%84%D8%AA%D8%B1%DB%8C%D9%86%DA%AF-%D8%A8%D8%A7-VpnHood-03-31)
+
+
+# Synapse 
+
+Synapse is now actively maintained at element-hq/synapse =================================================================================================
+
+Synapse is an open-source Matrix homeserver developed from 2019 through 2023 as part of the Matrix.org Foundation. The Matrix.org Foundation is not able to resource maintenance of Synapse and it continues to be developed by Element; additionally you have the choice of other Matrix homeservers.
+
+See The future of Synapse and Dendrite blog post for more information.
+
+[Synapse](https://github.com/matrix-org/synapse)
+
+
+matrix 
+An open network for secure, decentralised communication
+
+[https://matrix.org/](https://matrix.org/)
+
+
+[ A walk through of installing Synapse+Riot+Jitsi from scratch on Debian ](https://www.youtube.com/watch?v=dDddKmdLEdg)
+
+بخش jitsi رو احتیاجی نیست نصب بشه. به جاش از coturn استفاده میشه. تو بخش doc میتونی تنظیمات رو ببینی
+
+اگر رو سرور نصب بشه که هیچ. من رو دسکتاپ نصب کردم. ای پی ثابت میخواد و یک دومین برای  فعال کردن encryption
+

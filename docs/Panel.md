@@ -25,6 +25,8 @@
 ## BPB + Worker Serverless + Fragment
 
 
+[✅ ورژن ۲.۳.۳ پنل BPB منتشر شد!](https://twitter.com/bia_pain_bache/status/1780601903338099022)
+
 [نسخه‌ی ۲.۳ پنل BPB ریلیز شد!](https://threadreaderapp.com/thread/1777729570692628977.html)
 
 [ عبور از فیلترینگ با Edge Tunnel و بررسی پنل BPB و پنل وحید فرید , فیلترشکن رایگان، سریع و ضد تحریم ](https://www.youtube.com/watch?v=jvZkHANYfno&t=297s)
@@ -78,6 +80,9 @@ This script:
 
 [ ساخت کانفیگ هیدیفای با آی پی تمیز شخصی ](https://www.youtube.com/watch?v=iXl8bcnK6Mw)
 
+
+[ تنظیم دامنه‌ها و پروکسی‌های مختلف در هیدیفای منیجر ورژن ۱۰ ](https://www.youtube.com/watch?v=G7uB_xSQc3Y)
+
 ## Noobz Vpn
 [ آموزش نصب اسکریپت Noobz Vpn (سرعت خوب و تست شده روی 3 اپراتور) ](https://www.youtube.com/watch?v=GSPO1TaCni4)
 
@@ -117,3 +122,19 @@ V2Hub is a script that can be used to aggregate and merge multiple subscription 
 چند روزی هست که یه بحثی پیش اومده که سنایی ، علیرضا و مرزبان امن نیستن ، لازم دونستم این ویدئو رو بذارم و توضیحاتی در این خصوص بدم و یه سری آموزش ها هم قرار بدم که بتونه به بالا بردن امنیت سرورتون کمک کنه ، امیدوارم به دردتون بخوره
 
 [ مشکل امنیت در سنایی؟ | بالا بردن امنیت سرور و پنل x-ui | جلوگیری از هک و فیلتر سرور ](https://www.youtube.com/watch?v=bgL14NYsOQg&t=29s)
+
+
+
+#  روش جدید ساخت کانفیگ ویتوری | v2ray | به روش httpupgrade روی پنل x-ui 
+
+
+در آخرین نسخه پنل x-ui در قسمت ترنسمیشن گزینه ای اضافه شده با عنوان httpupgrade که در این ویدیو نحوه ساخت کانفیگ روی این شبکه رو به شما آموزش می دهیم.
+
+[httpupgrade](https://www.youtube.com/watch?v=HX7WKGLnjMI)
+
+
+#  آموزش قابلیت HTTP UPGRADE + ساخت کانفیگ مرتبط با ان 
+
+ رفقا توی این ویدیو قابلیت ترنزمیشن HTTP UPGRADE در آپدیت جدید X-UI بررسی کردم و چندتا کانفیگ براش ست کردم سرعت و پایداری خوبی داره امیدوارم مورد استفادتون قرار بگیره 
+
+[HTTP UPGRADE](https://www.youtube.com/watch?v=52fKKXEwcJQ)

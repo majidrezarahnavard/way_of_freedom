@@ -185,3 +185,10 @@ https://threadreaderapp.com/thread/1757688129648013538.html
 NextDNS is an insanely powerful privacy and security tool allowing you to reclaim control across various devices via DNS. In this guide/tutorial, I will be explaining what NextDNS is and how it differs from most other DNS providers, all the settings offered, some of my suggested use-cases, blocklist recommendations, set-up, and many other things so you can feel confident using NextDNS. Enjoy!
 
 [ The ULTIMATE Guide to Mastering NextDNS! ](https://www.youtube.com/watch?v=WUG57ynLb8I)
+
+
+# dnscrypt
+
+یکی از DNSسرورهای خوب موجود dnscrypt است که از انواع encryptionها مثل Blocky که قبلا معرفی کردم پشتیبانی می‌کند و چند ویژگی جالب مثل Time-based filtering و Cloaking همراه با Load balancing دارد که بر اساس سرعت بهترین DNS resolver را خودکار انتخاب می‌کند.
+
+[dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy)

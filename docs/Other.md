@@ -219,6 +219,11 @@ opkg update
 [ کلودفلر؟ نه ممنون من از اینا استفاده میکنم! معرفی جایگزین های رایگان کلادفلر ](https://www.youtube.com/watch?v=STe5s-xjEF0)
 
 
+چپ و راست دیدم بعضیا از gcore استفاده می‌کنن. گفتم خودمم امتحانش کنم.
+
+مجبور شدم دستی درخواست API بزنم تا بتونم IPv6 رو فعال کنم. هعیییی.
+
+[twitter](https://threadreaderapp.com/thread/1781697748875546941.html)
 
 
  ## Activating the income generation section through the Telegram channel 
@@ -283,6 +288,8 @@ An open network for secure, decentralised communication
 
 [wiiz.ir](https://wiiz.ir/)
 
+
+[ آموزش دور زدن فیلترینگ با استفاده از پل ماتریکس | ضد فیلترکردن شبکه های اجتماعی ](https://www.youtube.com/watch?v=LDtA00cbaes)
 
 # تفاوت VPN های سنتی با Tailscale چیه؟
 

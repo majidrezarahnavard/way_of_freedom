@@ -44,3 +44,7 @@
  برای نگه‌داری/استفاده از تون، از کیف پول Ton Keeper و... استفاده کنید. و از صرافی ایرانی به کیف پول‌تون واریز انجام ندید.
 
 [twitter](https://twitter.com/TavaanaTech/status/1781753325345439986)
+
+اگرم کسی بخواد داخل خود تلگرام استفاده‌کنه میتونه سیمکارت خارجی تهیه کنه
+
+[buy simcard ProServicesIR](https://t.me/ProServicesIR)

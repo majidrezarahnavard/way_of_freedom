@@ -48,3 +48,6 @@
 اگرم کسی بخواد داخل خود تلگرام استفاده‌کنه میتونه سیمکارت خارجی تهیه کنه
 
 [buy simcard ProServicesIR](https://t.me/ProServicesIR)
+
+
+[ کسب درآمد از تلگرام با نمایش تبلیغات ( راهنمای کامل تبلیغ در پلتفرم تلگرام ) ](https://www.youtube.com/watch?v=qCt2JZ_yUp0)

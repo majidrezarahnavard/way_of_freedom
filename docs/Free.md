@@ -77,6 +77,11 @@ This repository contains a collection of free V2ray configuration files that you
 
 [telegram](https://t.me/Happy_Bam)
 
+[config](https://raw.githubusercontent.com/bamdad23/-Happy_Bam/main/sub2in1)
+
+
+[github](https://github.com/bamdad23/-Happy_Bam)
+
 
 # Bot TVC
 

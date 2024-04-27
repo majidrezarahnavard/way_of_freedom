@@ -351,6 +351,9 @@ wget -qO- bench.sh | bash
 
 [ آموزش تانل بین 2 سرور با Gost V3 ساده و با سرعت بالا ](https://www.youtube.com/watch?v=wBRyHV0jEpU&t=45s)
 
+
+[ آموزش ساخت ipv6 لوکال به روش GRE و تانل بین سرور ایران و خارج به روش gost v3 ](https://www.youtube.com/watch?v=zNqOXJUAlhc)
+
 # یک به چند
 
 [آموزش تانل یک سرور ایران به چند سرور خارج روی پنل علیرضا و ثنایی](https://www.youtube.com/watch?v=4bB34F2QoK0)

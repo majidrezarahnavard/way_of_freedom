@@ -4,6 +4,21 @@
 اگر #فیلترشکن کار می کند ولی بعضی از سایت های باز نمیشود یا عکس های توییتر یا جاهای دیگر باز نمیشود از این روش استفاده کنید.
 
 
+# DNS client V2RayNG
+
+توی اغلب پنل‌هایی که بر پایه x-ui هستن یه بخش تنظیمات پشرفته داره که میتونید کدهای جیسون پنل رو ببینید
+
+توی همون قسمت تنظیمات dns سرور رو میتونید تغییر بدین..
+
+البته مشکلی که میگین راهش اصلاح dns تو کلاینته، 
+
+مثلا تنظیمات من رو توی v2rayNG ببینید 
+
+[twitter](https://twitter.com/Eagle_1157/status/1784084062602133996)
+
+
+
+
 ##  بهترین DNS برای اینترنت خودتو پیدا کن + مخصوص PC 
 
 
@@ -187,8 +202,34 @@ NextDNS is an insanely powerful privacy and security tool allowing you to reclai
 [ The ULTIMATE Guide to Mastering NextDNS! ](https://www.youtube.com/watch?v=WUG57ynLb8I)
 
 
-# dnscrypt
+# dnscrypt-proxy
 
 یکی از DNSسرورهای خوب موجود dnscrypt است که از انواع encryptionها مثل Blocky که قبلا معرفی کردم پشتیبانی می‌کند و چند ویژگی جالب مثل Time-based filtering و Cloaking همراه با Load balancing دارد که بر اساس سرعت بهترین DNS resolver را خودکار انتخاب می‌کند.
 
 [dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy)
+
+# dnscrypt
+
+اگر به جز dns های معروف دنبال گزینه دیگه ای هستین این منبع خوبی هست
+
+[dnscrypt](https://dnscrypt.info/public-servers/)
+
+
+
+
+# serverless-dns
+
+It's a bird, it's a plane, it's... a self-hosted, pi-hole esque, DNS resolver
+serverless-dns is a Pi-Hole esque content-blocking, serverless, stub DNS-over-HTTPS (DoH) and DNS-over-TLS (DoT) resolver. Runs out-of-the-box on Cloudflare Workers, Deno Deploy, Fastly Compute@Edge, and Fly.io. Free tiers of all these services should be enough to cover 10 to 20 devices worth of DNS traffic per month.
+
+[serverless-dns](https://github.com/serverless-dns/serverless-dns)
+
+
+# cf-workers-dns-over-https
+
+A very minimalist DNS-over-HTTPS proxy on Cloudflare Workers.
+
+Sign up for a free Cloudflare Workers account, create a new worker, replace the Script with the content of index.js, deploy the worker, and you're done, use the address anywhere DoH is accepted (AdGuard, browsers secure DNS settings, YogaDNS, Intra, Nebulo etc). Feel free to replace the doh variable with any DNS-over-HTTPS server you want. Confirmed to work with Cloudflare itself, Google, and NextDNS. The rarely supported JSON API is available through the dohjson variable. Some providers use identical URL (Cloudlfare, NextDNS), some use /resolve instead of /dns-query for path (Google, AdGuard).
+
+
+[cf-workers-dns-over-https](https://github.com/msasanmh/cf-workers-dns-over-https)

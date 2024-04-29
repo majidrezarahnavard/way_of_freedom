@@ -66,3 +66,8 @@
 منظور از اقتصاد روشهای درآمدی و هزینه برای ساخت و تهیه و فروش #فیلترشکن هست. کامل رشتو رو بخونید بعد قضاوت کنید.
 
 [twitter](https://threadreaderapp.com/thread/1781953442065383859.html)
+
+
+# ابزار جهانی رصد اینترنت
+
+https://ioda.inetintel.cc.gatech.edu/country/IR

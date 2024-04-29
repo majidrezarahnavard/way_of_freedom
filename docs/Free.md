@@ -73,16 +73,6 @@ This repository contains a collection of free V2ray configuration files that you
 [telegram bot](t.me/TheTVCbots)
 
 
-# Happy_Bam
-
-[telegram](https://t.me/Happy_Bam)
-
-[config](https://raw.githubusercontent.com/bamdad23/-Happy_Bam/main/sub2in1)
-
-
-[github](https://github.com/bamdad23/-Happy_Bam)
-
-
 # Bot TVC
 
 [نحوه استفاده از Bot TVC](https://telegra.ph/%D9%86%D8%AD%D9%88%D9%87-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%A7%D8%B2-Bot-TVC-04-11)

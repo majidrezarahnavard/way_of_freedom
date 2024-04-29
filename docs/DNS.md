@@ -240,3 +240,8 @@ Sign up for a free Cloudflare Workers account, create a new worker, replace the 
 
 
 [cf-workers-dns-over-https](https://github.com/msasanmh/cf-workers-dns-over-https)
+
+
+# آموزش تنظیم DNS
+
+[twitter](https://threadreaderapp.com/thread/1784432781793103978.html)

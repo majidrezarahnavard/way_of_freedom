@@ -80,6 +80,17 @@ Quote
 
 [ سرور vpn خونگی خودتو روی داکر نصب کن با پنل v2raya راحت فیلترینگ رو دور بزن ](https://www.youtube.com/watch?v=qNLS590GrBg)
 
+
+
+قسمت ۸ از سری آموزش‌های
+"راه‌اندازی Home Server با VPN مرکزی"
+منتشر شد:
+
+نصب و راه‌اندازی Plex روی OpenWrt
+
+
+[راه‌اندازی Home Server با VPN مرکزی – قسمت ۸ – نصب و راه‌اندازی Plex روی سرور خانگی OpenWrt](https://ivpn.pro/openwrt/how-to-install-plex-on-openwrt/)
+
 ## کنسول بازی
 
 [ اشترک گذاری فیلترشکن رو کنسول با کمک برنامه Hiddify با استتفاده از warp بصورت رایگان ](https://www.youtube.com/watch?v=ZIOuMJGXr-Q)

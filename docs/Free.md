@@ -34,12 +34,12 @@ This repository contains a collection of free V2ray configuration files that you
 [barry-far](https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Sub9.txt)
 
 
-# Sarina
+## Sarina
 
 [v2hub](https://github.com/sarinaesmailzadeh/V2Hub/blob/main/merged)
 
 
-# ircfspace
+## ircfspace
 
 توسط این‌ابزار می‌تونین به کانفیگ‌های رایگان گردآوری‌شده از طریق TVC بر اساس لوکیشن دلخواه دسترسی داشته باشین. این‌کانفیگ‌ها به‌صورت خودکار و منظم، بدون دخل‌وتصرف از یه‌سری کانال تلگرامی جمع‌آوری میشن و برای رعایت مسائل امنیتی توصیه میشه تنها برای مصارف عادی ازشون استفاده کنین.
 
@@ -49,22 +49,22 @@ This repository contains a collection of free V2ray configuration files that you
 [ آموزش v2ray با آی پی های کشور مختلف ](https://www.youtube.com/watch?v=OMlU35tqzfw)
 
 
-# Free MTProto Proxies
+## Free MTProto Proxies
 
 [MTProtoCollector](https://yebekhe.github.io/MTProtoCollector/)
 
 
-# XrayIran
+## XrayIran
 
 [XrayIran](https://github.com/XrayIran/free-configs)
 
 
-# azadi_az_inja_migzare
+## azadi_az_inja_migzare
 
 [ آزادی از اینجا میگذره ](https://t.me/azadi_az_inja_migzare)
 
 
-# TheTVCbots
+## TheTVCbots
 
 مفتخرم ورژن جدید، مینیمال و ساده بات TVC با تمرکز روی دریافت لینک های اشتراک و وارپ رو به اشتراک بذارم🌱
 
@@ -73,31 +73,31 @@ This repository contains a collection of free V2ray configuration files that you
 [telegram bot](t.me/TheTVCbots)
 
 
-# Bot TVC
+## Bot TVC
 
 [نحوه استفاده از Bot TVC](https://telegra.ph/%D9%86%D8%AD%D9%88%D9%87-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%A7%D8%B2-Bot-TVC-04-11)
 
 
-#  جدیدترین روش ساخت کانفیگ های رایگان با پنل اختصاصی بدون محدودیت 
+##  جدیدترین روش ساخت کانفیگ های رایگان با پنل اختصاصی بدون محدودیت 
 
 سلام رفقا تو این اموزش توضیح میدم چطوری میتونید با یه روش ساده کانفیگهای اختصاصی مختلف برای خودتون و خانواده تون بدون سرور و دامین بسازید و ازش استفاده کنید 
 
 [ جدیدترین روش ساخت کانفیگ های رایگان با پنل اختصاصی بدون محدودیت ](https://www.youtube.com/watch?v=9_ufuwcIOmI)
 
 
-# ProxyMTProto
+## ProxyMTProto
 [telegram ProxyMTProto](https://t.me/ProxyMTProto)
 
 
-# TelegramV2rayCollector
+## TelegramV2rayCollector
 [TelegramV2rayCollector](https://github.com/yebekhe/TelegramV2rayCollector)
 
 
-# گروه وب‌سایت «آزادی ما»
+## گروه وب‌سایت «آزادی ما»
 
 [گروه وب‌سایت «آزادی ما»](https://azadima.com/)
 
-# MTPrototech
+## MTPrototech
 
 [telegram](https://t.me/MTPrototech)
 
@@ -105,7 +105,7 @@ This repository contains a collection of free V2ray configuration files that you
 Fast telegram MTProto proxies
 ‌
 
-# ارگو وی پی ان | فیلترشکن رایگان
+## ارگو وی پی ان | فیلترشکن رایگان
 
 《فالکن های پرسرعت و خفن》
 
@@ -113,6 +113,6 @@ Fast telegram MTProto proxies
 
 
 
-# جاوید نامان ایران
+## جاوید نامان ایران
 
 [telegram](https://t.me/JavidnamanIran)

@@ -110,3 +110,9 @@ Fast telegram MTProto proxies
 《فالکن های پرسرعت و خفن》
 
 [telegram](https://t.me/ArgoVPN_falcon)
+
+
+
+# جاوید نامان ایران
+
+[telegram](https://t.me/JavidnamanIran)

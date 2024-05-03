@@ -255,3 +255,18 @@ Sign up for a free Cloudflare Workers account, create a new worker, replace the 
 
 
 [twitter](https://threadreaderapp.com/thread/1785092535527850292.html)
+
+
+# این برنامه هم خیلی خوبه مخصوصا قسمت تست DNS
+
+ Karing - Simple & Powerful proxy utility 
+
+
+    Compatible with Clash, V2ray/V2fly, Sing-box, Shadowsocks, Sub, Github Subscriptions.
+    Full clash config supported, Partial clash.meta config supported.
+    Simple UI and supports custom theme color.
+    Built-in support singbox core.
+    System proxy setting and guard.
+    Plan to support all platforms.
+
+[github](https://github.com/KaringX/karing)

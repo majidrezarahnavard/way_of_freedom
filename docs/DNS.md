@@ -245,3 +245,13 @@ Sign up for a free Cloudflare Workers account, create a new worker, replace the 
 # آموزش تنظیم DNS
 
 [twitter](https://threadreaderapp.com/thread/1784432781793103978.html)
+
+
+# YogaDNS
+
+
+آموزش استفاده از برنامه YogaDNS برای خلاص شدن از شر DNS Hijacking
+و فیلترینگ های مربوط به DNS 
+
+
+[twitter](https://threadreaderapp.com/thread/1785092535527850292.html)

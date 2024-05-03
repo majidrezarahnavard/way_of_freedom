@@ -96,3 +96,17 @@ This repository contains a collection of free V2ray configuration files that you
 # گروه وب‌سایت «آزادی ما»
 
 [گروه وب‌سایت «آزادی ما»](https://azadima.com/)
+
+# MTPrototech
+
+[telegram](https://t.me/MTPrototech)
+
+پروکسی‌های پرسرعت تلگرام
+Fast telegram MTProto proxies
+‌
+
+# ارگو وی پی ان | فیلترشکن رایگان
+
+《فالکن های پرسرعت و خفن》
+
+[telegram](https://t.me/ArgoVPN_falcon)

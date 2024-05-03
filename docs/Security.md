@@ -176,3 +176,10 @@ This is an Enhanced and All-in-One set of geo-location routing files optimized f
 # کانال حدودا یک میلیون نفری، احتمالا در حال پخش فیلترشکن و VPN آلوده به بدافزار هست.
 
 [کانال حدودا یک میلیون نفری، احتمالا در حال پخش فیلترشکن و VPN آلوده به بدافزار هست.](https://threadreaderapp.com/thread/1772902718559936590.html)
+
+
+# ESSL
+
+اسکریپت ESSL برای ساده‌تر کردن فرآیند دریافت گواهی SSL از طریق روش‌های مختلف و مسیردهی اتوماتیک یا شخصی‌سازی‌شده اون طراحی شده و برای صدور یا تمدید گواهی از Acme، Certbot و Cloudflare api پشتیبانی می‌کنه.
+
+[github](https://github.com/erfjab/ESSL)

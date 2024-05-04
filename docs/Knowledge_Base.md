@@ -29,3 +29,6 @@
 
 
 [ترکیب های امین](https://threadreaderapp.com/user/amin_o__o)
+
+
+[کانال تلگرام  اتومات محتوای توییتر بچه های ساید IT](https://t.me/Ghost_Resisters)

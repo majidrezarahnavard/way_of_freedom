@@ -203,3 +203,15 @@ a simple tool that automatically collects 15 WARP+ Keys once every hour.
 
 
 [ترکیب وارپ پلاس و پراکسی فایر](https://lowercase78.github.io/warp-plus/2024/04/14/%D8%AA%D8%B1%DA%A9%DB%8C%D8%A8-%D9%88%D8%A7%D8%B1%D9%BE-%D9%BE%D9%84%D8%A7%D8%B3-%D9%88-%D9%BE%D8%B1%D8%A7%DA%A9%D8%B3%DB%8C-%D9%81%D8%A7%DB%8C%D8%B1.html)
+
+
+# نسخه 0.2 اینترفیس Warp on Warp 
+
+قابلیت ها :
++ ذخیره تنظیمات
++ اضافه شدن امکان استفاده از لایسنس +Warp
++ اضافه شدن تیک پروکسی در صفحه اصلی
+
+از قسمت Releses نسخه آخر رو دانلود کنید.
+
+[NIKJOO](https://github.com/NIKJOO/WarpOnWarp-Windows-Client)

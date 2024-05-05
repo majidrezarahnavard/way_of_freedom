@@ -270,3 +270,19 @@ Sign up for a free Cloudflare Workers account, create a new worker, replace the 
     Plan to support all platforms.
 
 [github](https://github.com/KaringX/karing)
+
+
+#  روش جدید دریافت DNSشخصی-SIXTININELEARN 
+
+
+سلام رفقا توی این ویدیو قراره بهتون یاد بدم چجوری خیلی راحت با استفاده از سایت controld  برای خودتون dns شخصی بگیرین و بتونین روی سرورتون با سرعت بالا استفاده کنین.
+
+[ روش جدید دریافت DNSشخصی-SIXTININELEARN ](https://www.youtube.com/watch?v=ju8b8IepAvk)
+
+
+#  آموزش ساخت dns شخصی و کاهش پینگ بازی ها | عبور از تحریم مانند سایت شکن 
+
+
+در این ویدیو با استفاده از یک سرور مجازی و یک دامنه به راحتی یک dns شخصی برای خودمون میسازیم که میتوانیم برای عبور از تحریم ها و کاهش پینگ بازی ها از این سرویس استفاده کنیم. از انجایی که این سرویس کاهش پینگ شخصی هست سرعت بسیار بالایی دار
+
+[ آموزش ساخت dns شخصی و کاهش پینگ بازی ها | عبور از تحریم مانند سایت شکن ](https://www.youtube.com/watch?v=VBtLNR1Dqyo)

@@ -223,3 +223,20 @@ Traffic:
 
 
 [نکات مهم برای عبور از فیلترینگ!](https://threadreaderapp.com/thread/1754472982687150413.html)
+
+
+## آموزش خرید هاست خارجی ارزان + دامین
+
+ Training on buying cheap hosting with digital currency for Telegram bot and website domain settings 
+
+ My need was to buy a host and Domin for Telegram bot and of course the WordPress site host that I had designed.
+I fully explained how to buy a host with crypto and how to buy a domain and how to configure these two so that they are connected.
+I fully explained how to change the NS (Name server) of the half servers and test that the half server has changed.
+I told the full tutorial on buying a domain from Hostinger
+I told the necessary explanations about the web hosting management panel Cpanel
+I told you how to get SSL with Cpanel
+I explained how to have unlimited email with Cpanel web hosting
+I explained the management of server files and how to transfer files to public_html
+I explained the easy installation of WordPress
+
+[youtube](https://www.youtube.com/watch?v=KmaVLWwwgZE)

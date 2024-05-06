@@ -214,10 +214,13 @@ a simple tool that automatically collects 15 WARP+ Keys once every hour.
 
 از قسمت Releses نسخه آخر رو دانلود کنید.
 
-[NIKJOO](https://github.com/NIKJOO/WarpOnWarp-Windows-Client)
 
 همچنین اخیرا کلاینتی ویندوزی توسط یک «کاربر خطرناک» برای پروژه warp ای که #یوسف_قبادی (https://twitter.com/hashtag/%DB%8C%D9%88%D8%B3%D9%81_%D9%82%D8%A8%D8%A7%D8%AF%DB%8C) عزیز درست کرده بود نوشته شده که اصلا استفاده ازش رو توصیه نمیکنم!
 
 علت: سابقه بد کاربر، امکان همراه داشتن بدافزار یا نشت اطلاعات (نیازمند بررسی کارشناسان)، بی احترامی به توسعه دهندگان فعلی
+
+این نسخه به خاطر وجود بد افزار حذف شد
+
+https://www.virustotal.com/gui/file/b8074cfce57f6203212b73fd44a30d5ec6e79dc0db41c554e26224dfb42b3b88/behavior
 
 

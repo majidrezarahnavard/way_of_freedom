@@ -102,3 +102,14 @@ Yes
 [ سی‌دی‌ان CDN چیست و برای گذر از فیلتر چه کمکی به ما می‌کند؟ ](https://www.youtube.com/watch?v=vBrD9iYeIrM)
 
 [سی‌دی‌ان چیست و چه کمکی به ما می‌کند؟](https://hiddify.com/fa/manager/domain-worker-cdn-and-tunneling/What-is-CDN-and-how-does-it-help-us%3F/#_2)
+
+
+## برای  ای پی تمیز پرسرعت از لینک زیر فایل دانلود کنید 
+
+https://github.com/freedomnet25500/clean-ip-worker
+
+درپوشه cmd باز کنید  فایل .exe داخلش بکشید 
+ تنظیمات طبق کادر از n  تا  dt  وارد کنید  سپس enter  بزنید  خروجی ip تمیز پرسرعت میده .خروجی  پینگ هم سرعت دانلود
+#فیلترشکن #فیلترنت 
+
+[twitter](https://twitter.com/horizonbehind2/status/1787398902846476467)

@@ -298,3 +298,17 @@ Sign up for a free Cloudflare Workers account, create a new worker, replace the 
 quic://dns.adguard-dns.com
 
 [twitter](https://twitter.com/Eagle_1157/status/1787326418386305173)
+
+
+# کلیات قضیه اینه که ما دو جا dns رو نیاز داریم،
+
+کلیات قضیه اینه که ما دو جا dns رو نیاز داریم،
+
+مرحله اول (لوکال dns) برای بدست آوردن ip سرور کانفیگمون هست، که اگه توی کانفیگ از ip استفاده کنیم تو این مرحله نیاز نیست دی‌ان‌اس کاری انجام بده
+
+برای دی‌ان‌اس لوکال معمولا همون
+8.8.8.8
+کار رو راه میندازه.. 
+
+
+[twitter](https://threadreaderapp.com/thread/1787495310643618178.html)

@@ -134,3 +134,12 @@ https://play.google.com/store/apps/details?id=com.filtershekanha.argovpn&hl=en_U
 اصولا سرورهایی که ip هاشون بلا نباشه وصل میشن
 
 [telegram](https://t.me/myuploadch/115)
+
+
+## Vpnclashfa
+
+ کانفیگای کلش و کلش متا با قوانین مخصوص ایران 
+
+ [github](https://github.com/coldwater-10/Vpnclashfa)
+
+ [config](https://raw.githubusercontent.com/coldwater-10/Vpnclashfa/main/raw/irc)

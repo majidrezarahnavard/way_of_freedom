@@ -434,3 +434,25 @@ http://github.com/bepass-org/oblivion-desktop/issues
 ◽️ http://github.com/bepass-org/oblivion-desktop
 ◽️ http://github.com/bepass-org/oblivion-desktop/blob/main/FAQ.md
 ◽️ http://github.com/bepass-org/oblivion-desktop/blob/main/SECURITY.md
+
+
+## Geph
+
+ فیلترشکن Geph با باز بودن کد منبع، به‌روزرسانی مداوم و بررسی روش‌های #فیلترینگ در کشورهای تحت #سانسور به منظور بهبود کارایی، توانسته به ابزاری کارآمد تبدیل شود.   
+
+📍این سرویس به گونه‌ای طراحی شده است که برابر #فیلترینگ شدید اینترنت مقاوم باشد.  
+
+ برای دانلود فقط کافی است یک ایمیل خالی به ایمیل‌های زیر بفرستید👇
+  برای #ویندوز:
+geph-windows@paskoocheh.com  
+
+برای #اندروید از طریق اپ پس‌کوچه: 
+paskoocheh-android@paskoocheh.com
+
+ برای #مک:
+geph-macos@paskoocheh.com
+
+برای #لینوکس:
+geph-linux@paskoocheh.com
+
+[twitter](https://twitter.com/PasKoocheh/status/1787874416858218709)

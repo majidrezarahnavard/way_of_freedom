@@ -45,3 +45,16 @@ WebRTC in Chrome
 [ipleak](https://ipleak.net/)
 
 [dnsleaktest](https://www.dnsleaktest.com)
+
+
+#  ترفند حذف کردن همه توییت ها و لایک ها | delete all twittes & likes 
+
+
+
+توی این ویدئو بهتون آموزش میدم که چطوری همه توییت ها و لایک هاتونو به یک باره حذف کنید.
+in this video you will learn how to delete all of your twittes and likes
+
+[youtube](https://www.youtube.com/watch?v=PSg9WS6-MWo)
+
+
+[github](https://github.com/alirezakargar1380/delete_tweetes_scripts)

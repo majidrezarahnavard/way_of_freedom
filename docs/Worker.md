@@ -117,3 +117,18 @@ https://twitter.com/horizonbehind2/status/1787109656449462724
 hash میشه رمز ورکر
 حروفی که خودشون میدن میشه رمز کانفیگ
 
+# استفاده ترکیبی از singbox ,cloudflare worker
+
+برای دسترسی به سایتهای  تحریم و پالایش شده😚😚
+با توجه به اختلالات شدید
+ممکنه برای بعضی ها singbox کانفیگ کار نکنه
+دوستان صاحب نظر می تونند کد بهینه کنند 
+
+[twitter](https://threadreaderapp.com/thread/1788484810790334646.html)
+
+
+# اموزش ساخت کانفیگ Trojan روی Worker سایت Cloudflare
+
+[youtube](https://www.youtube.com/shorts/H33KkfkJoMo)
+
+[worker.js](https://github.com/cmliu/epeius/blob/main/_worker.js)

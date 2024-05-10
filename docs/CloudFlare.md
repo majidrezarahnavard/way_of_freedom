@@ -110,6 +110,6 @@ https://github.com/freedomnet25500/clean-ip-worker
 
 درپوشه cmd باز کنید  فایل .exe داخلش بکشید 
  تنظیمات طبق کادر از n  تا  dt  وارد کنید  سپس enter  بزنید  خروجی ip تمیز پرسرعت میده .خروجی  پینگ هم سرعت دانلود
-#فیلترشکن #فیلترنت 
+ فیلترشکن فیلترنت 
 
 [twitter](https://twitter.com/horizonbehind2/status/1787398902846476467)

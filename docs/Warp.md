@@ -224,3 +224,25 @@ a simple tool that automatically collects 15 WARP+ Keys once every hour.
 https://www.virustotal.com/gui/file/b8074cfce57f6203212b73fd44a30d5ec6e79dc0db41c554e26224dfb42b3b88/behavior
 
 
+# آموزش اتصال به Cloudflare Warp با سرعت بالا در 
+
+آموزش اتصال به Cloudflare Warp با سرعت بالا در لینوکس
+به کمک hiddifycli 
+
+برای اتصال به Cloudflare Warp با سرعت بالا در لینوکس:
+برنامه hiddify رو از اینجا دریافت و اکسترکت کنید
+https://github.com/hiddify/hiddify-core/releases/download/v1.2.1/hiddify-cli-linux-amd64-v3.tar.gz
+
+sudo cp Hiddifycli /usr/local/bin/
+فایل‌های تنظیمات که میذارم دانلود کنید
+
+حالا برای اجرای برنامه این دستور رو بزنید:
+SOCKS mode:  (local SOCKS port 2334)
+$ HiddifyCli run -c wg.conf -h hiddifyAppProxy.json
+
+TUN mode:
+$ sudo HiddifyCli run -c wg.conf -h hiddifyAppTUN.json
+
+@iranetfreedom
+
+[telegram](https://t.me/iranetfreedom/3)

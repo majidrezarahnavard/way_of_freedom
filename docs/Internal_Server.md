@@ -442,3 +442,15 @@ wget -qO- bench.sh | bash
 
 
 [youtube](https://www.youtube.com/watch?v=cnRIqPilNg8)
+
+
+# اسکریپت hiddify-Relay 
+
+سکریپت hiddify-Relay برای نصب و راه‌اندازی راحت‌تر سرور میانی ایجاد شده، که با  استفاده از روش‌های IP-Tables / GOST / Dokodemo-Door / HA-Proxy / Socat سرور رو راه‌اندازی کرده و تانل برقرار میشه ...
+
+
+[https://hiddify.com](https://hiddify.com/fa/manager/domain-worker-cdn-and-tunneling/How-to-setup-relay-server-using-Hiddify-Relay-Builder/)
+
+
+
+[سرور میانی ساز هیدیفای](https://github.com/hiddify/hiddify-relay/blob/main/README_fa.md)

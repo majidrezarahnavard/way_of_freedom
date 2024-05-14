@@ -113,3 +113,10 @@ https://github.com/freedomnet25500/clean-ip-worker
  فیلترشکن فیلترنت 
 
 [twitter](https://twitter.com/horizonbehind2/status/1787398902846476467)
+
+
+# ای پی تمیز
+
+یک سایت ای پی تمیز لحظه ای توش بروز میشه
+https://cf.090227.xyz
+

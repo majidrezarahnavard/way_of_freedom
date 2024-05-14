@@ -144,6 +144,8 @@ https://play.google.com/store/apps/details?id=com.filtershekanha.argovpn&hl=en_U
 
  [config](https://raw.githubusercontent.com/coldwater-10/Vpnclashfa/main/raw/irc)
 
+ [tuic](https://raw.githubusercontent.com/coldwater-10/Vpnclashfa/main/raw/tuic%20%26%20hy2.txt)
+
  ## telegram-configs-collector
 
 The list of domains to bypass, block and proxy based on ir geo-location in the nekoray and nekobox according to the core is set to sing-box . to set these domains just create new routes in the nekobox and nekoray and enter the domains below in the pertained section domains and set it's outbound value based on bypass, proxy or block as below.

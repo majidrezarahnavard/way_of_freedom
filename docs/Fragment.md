@@ -391,3 +391,98 @@ https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Sub9.txt
 
 
 
+# ساخت سرور از اول برای اندروید
+
+
+توی آموزش زیر می تونید از اول یک سرور رو راه اندازی کنید.
+ولی روش فرگمنت نیست و در ادامه روش فرگمنت رو بهش اضافه کنید.
+
+[روش جدید ساخت کانفیگ ویتوری ](https://www.youtube.com/watch?v=HX7WKGLnjMI)
+
+##  سرور تهیه کنید
+
+می تونید از AEZA سرور بگیرید
+
+لیست جاهایی که سرور می فروشند رو توی بخش خرید سرور و دامنه گذاشتم.
+
+
+## کانفیگ اولیه
+تغییر پورت سرور
+
+```
+echo "Port 42547" >> /etc/ssh/sshd_config
+systemctl restart sshd
+service ssh restart
+sudo ufw allow 42547
+```
+
+تغییر پسورد اصلی
+```
+sudo passwd root
+
+```
+
+نصب ابزار مانیتورینگ
+```
+#instal monitoring
+apt-get update
+apt-get install nload
+apt-get install htop
+apt-get install iftop
+apt-get install vnstat
+apt-get install speedtest-cli
+apt-get install net-tools
+apt-get install git
+apt-get install cron
+apt-get install curl tar unzip jq -y
+apt-get install -y jq
+```
+
+
+افزایش سرعت سرور
+```
+echo "net.ipv4.tcp_fastopen = 3" | sudo tee -a /etc/sysctl.conf
+echo "net.core.default_qdisc = fq" | sudo tee -a /etc/sysctl.conf
+echo "net.ipv4.tcp_congestion_control = bbr" | sudo tee -a /etc/sysctl.conf
+
+sysctl -p
+```
+
+میزان نگه داری لاگ ها
+
+```
+journalctl --vacuum-time=10d
+```
+
+تنظیم ساعت سرور
+
+```
+#set timezone
+timedatectl set-timezone UTC
+timedatectl
+echo "UTC" | sudo tee /etc/timezone
+cat /etc/timezone
+
+#set timezone
+timedatectl set-timezone Asia/Tehran
+timedatectl
+echo "Asia/Tehran" | sudo tee /etc/timezone
+cat /etc/timezone
+```
+
+## سرتفیتیکت
+
+طبق آموزش دامنه روی کلود فلیر ست کنید و. سرتیفیکت هم بگیرید.
+
+[روش جدید ساخت کانفیگ ویتوری ](https://www.youtube.com/watch?v=HX7WKGLnjMI)
+
+
+path و مابقی موارد امنیتی رو استفاده کنید
+
+
+
+## کانفیگ
+
+
+ساخت کانفیگ فرگمنت روی پنل 
+[video](https://www.youtube.com/watch?v=qeD1jwOXW4A&t=309s)

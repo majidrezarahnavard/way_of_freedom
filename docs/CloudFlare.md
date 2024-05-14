@@ -119,3 +119,8 @@ https://github.com/freedomnet25500/clean-ip-worker
 یک سایت ای پی تمیز لحظه ای توش بروز میشه
 https://cf.090227.xyz
 
+
+
+# این کانال تلگرام هم proxy ip میده 
+
+[telegram](https://t.me/cf_push)

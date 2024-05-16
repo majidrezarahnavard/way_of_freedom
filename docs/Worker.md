@@ -132,3 +132,14 @@ hash میشه رمز ورکر
 [youtube](https://www.youtube.com/shorts/H33KkfkJoMo)
 
 [worker.js](https://github.com/cmliu/epeius/blob/main/_worker.js)
+
+
+# اختلال کلودفلیر
+
+روی ورکر  اختلال شدید هست
+من یک تستی کردم روی اسیا تک و مخابرات  اختلال تا حد بسیار زیادی کاهش داد تقریبا شده مثل قبل  براتون جواب بده  جواب نده
+قسمت dohurl کدتون داره
+اون قسمت به جای rethink بزارید
+کار نکرد از dns های شکل همه با h3 شروع میشن
+
+[twitter](https://twitter.com/horizonbehind2/status/1791153153091453253)

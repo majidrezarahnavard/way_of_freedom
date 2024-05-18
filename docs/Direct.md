@@ -77,3 +77,13 @@ https://threadreaderapp.com/thread/1757093989616947356.html
 
 #hysteria #udp #سنایی
 تا وقتی v2ray رو داریم نیاز نیست دنبال ابزار دیگه ای مثل TUIC باشیم، چون هم فراگیرتره و کلی امکانات براش هست. در این ویدیو آموزش دادیم که چطور با v2ray پروتکل Quic داشته باشیم که در واقع همون TUIC هست.
+
+
+
+# Cloak
+
+##  Shadowsocks + cloak server - آموزش و کانفیگ شادوساکس 
+
+[ Shadowsocks + cloak server - آموزش و کانفیگ شادوساکس ](https://www.youtube.com/watch?v=wrPP0V32rxc)
+
+

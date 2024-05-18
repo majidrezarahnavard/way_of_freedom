@@ -352,3 +352,10 @@ quic://dns.adguard-dns.com
 
 
 [youtube](https://www.youtube.com/watch?v=khPpQkPUkjE)
+
+
+#  رفع مشکل ایرانسل و همراه اول با CDN fastly آپلود و دانلود V2ray - Fastly 
+
+با سلام در این ویدیو به رفع مشکلات و محدودیت های ایرانسل و همراه اول می پردازیم CDN Fastly یکی از سی دی ان های پر قدرت هست و با کمک این سی دی ان می تونیم محدودید آپلود و دانلود رو برطرف کنیم
+
+[youtube](https://www.youtube.com/watch?v=Fpn6ZIP-8UU)

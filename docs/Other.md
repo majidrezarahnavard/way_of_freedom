@@ -126,6 +126,13 @@ opkg update
 
 [نصب میکروتیک در سرور مجازی aeza](https://telegra.ph/%D9%86%D8%B5%D8%A8-%D9%85%DB%8C%DA%A9%D8%B1%D9%88%D8%AA%DB%8C%DA%A9-%D8%AF%D8%B1-%D8%B3%D8%B1%D9%88%D8%B1-%D9%85%D8%AC%D8%A7%D8%B2%DB%8C-aeza-10-28)
 
+
+###  تبدیل سرور اوبونتو به میکروتیک -SIXTININELEARN 
+
+سلام رفقا توی این ویدیو قراره بهتون یاد بدم چجوری خیلی راحت سرور ابونتوی خودتون رو به میکروتیک تبدیل کنین.
+
+[youtube](https://www.youtube.com/watch?v=pz81NiG2STE)
+
 # Open_VPN
 
 برای این روش یک سرور نیاز دارید.

@@ -473,3 +473,12 @@ wget -qO- bench.sh | bash
 
 
 [youtube](https://www.youtube.com/watch?v=r11m7KRLyn8)
+
+
+# مسدود کردن اینترنت های خاص IR-ISP-Blocker
+
+این‌اسکریپت با استفاده از Iptables رنج آی‌پی‌های همراه‌اول، ایرانسل و مخابرات رو بلاک میکنه، تا اون رنج دیگه نتونه به‌طور مستقیم به سرور شما متصل‌شه.
+
+A simple bash script to block IP ranges of Iranian ISPs to prevent your server from being blocked by GFW.
+
+[IR-ISP-Blocker](https://github.com/Kiya6955/IR-ISP-Blocker)

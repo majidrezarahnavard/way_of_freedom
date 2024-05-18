@@ -47,3 +47,21 @@ http://github.com/bepass-org/oblivion-desktop/issues
 ◽️ http://github.com/bepass-org/oblivion-desktop
 ◽️ http://github.com/bepass-org/oblivion-desktop/blob/main/FAQ.md
 ◽️ http://github.com/bepass-org/oblivion-desktop/blob/main/SECURITY.md
+
+
+# آموزش یافتن اندپوینت برای برنامه oblivion vpn
+
+
+
+سلام دوستان بریم برایم آموزش یافتن endpoint تمیز برای وی پی ان oblivion 
+
+تو قدم اول شما برای دانلود نسخه مدنظر termux باید معماری CPU دستگاه خودتون بدونید چیه آسان ترین راه برای متوجه شدن این موضوع مراجعه به تلگرام هست به این صورت که وارد «تگلرام سپس «تنظیمات سپس « درانتهای صفحه نوع معماری پردازنده شما نوشته شده 
+
+لینک اموزش تلگراف برای پیدا کردن ای پی پورت سالم وارپ  برای oblivion 
+و کانفیگ های وارپ نکوباکس و
+ هیدیفای نکست wow 
+و chain proxy  وارپ 
+میشه استفاده کرد
+
+
+[telegra](https://telegra.ph/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%DB%8C%D8%A7%D9%81%D8%AA%D9%86-%D8%A7%D9%86%D8%AF%D9%BE%D9%88%DB%8C%D9%86%D8%AA-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-oblivion-vpn-02-12)

@@ -257,6 +257,8 @@ opkg update
 [twitter](https://threadreaderapp.com/thread/1781697748875546941.html)
 
 
+[آموزش استفاده از G-CORE (جی‌کور) با استفاده از آی‌پی‌های سالم](https://telegra.ph/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%A7%D8%B2-G-CORE-%D8%AC%DB%8C%E2%80%8C%DA%A9%D9%88%D8%B1-%D8%A8%D8%A7-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%A7%D8%B2-%D8%A2%DB%8C%E2%80%8C%D9%BE%DB%8C%E2%80%8C%D9%87%D8%A7%DB%8C-%D8%B3%D8%A7%D9%84%D9%85-05-11-2)
+
  ## Activating the income generation section through the Telegram channel 
 
  بالاخره مهمترین و بهترین آپدیت تلگرام منتشر شد و هم اکنون میتونید تلگرام رو به آخرین نسخه به روز رسانی کنید و به قابلیت های جدید این شبکه اجتماعی دسترسی داشته باشید. برخی از ویژگی های جدیدی که به تلگرام اضافه شده :

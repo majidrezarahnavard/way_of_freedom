@@ -71,3 +71,9 @@
 # ابزار جهانی رصد اینترنت
 
 https://ioda.inetintel.cc.gatech.edu/country/IR
+
+
+# مصرف گرایی در حکومت کمونیست اسلامی
+
+[مصرف گرایی در حکومت کمونیست اسلامی](https://threadreaderapp.com/thread/1792148621917294840.html)
+

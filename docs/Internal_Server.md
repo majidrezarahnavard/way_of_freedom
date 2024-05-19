@@ -482,3 +482,11 @@ wget -qO- bench.sh | bash
 A simple bash script to block IP ranges of Iranian ISPs to prevent your server from being blocked by GFW.
 
 [IR-ISP-Blocker](https://github.com/Kiya6955/IR-ISP-Blocker)
+
+
+
+#  آموزش لودبالانس IPV6 با تانل Gostدر پنل ثنایی-SIXTININELEARN 
+
+سلام رفقا توی این ویدیو قراره بهتون یاد بدم چجوری خیلی راحت با استفاده تانل GOST و یه اسکریپت کاربردی لودبالانس انجام بدین بینipv6 های سرورهاتون.
+
+[youtube](https://www.youtube.com/watch?v=8VKeBDKJiYo)

@@ -28,3 +28,21 @@
  تو این رشتو می خواهم بخش های مختلف وبسایت #فیلترشکن رو بهتون معرفی کنم هر جا به کارتون اومد استفاده کنید.
 
 [twitter](https://threadreaderapp.com/thread/1787812281075605803.html)
+
+
+# خلاصه روش‌های گذر از فیلتر که الان کار میده:
+
+
+🍏📱💻Hiddify+warp https://app.hiddify.com 
+sub https://raw.githubusercontent.com/amin4139/share_file/main/Hiddify%2B
+TVCsub https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/base64/mix
+
+📱💻Oblivion https://play.google.com/store/apps/details?id=org.bepass.oblivion
+
+🍏📱💻MahsaNG https://play.google.com/store/search?q=mahsang&c=apps
+
+🍏📱💻Psiphon https://psiphon.ca
+
+Tor
+http
+فرگمنت

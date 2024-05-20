@@ -95,3 +95,11 @@ http://zula.ir
 
 
 [twitter](https://threadreaderapp.com/thread/1663420256486924288.html)
+
+
+# کانفیگ
+
+این کانفیگ وایرگارد هنوز روی همراه اول و برنامه hiddify جواب میده برای خودتان شخصی سازی کنید و این ip و port بهترین هستش که هنوز جواب می‌ده 
+162.159.195.133:942
+
+[config](https://github.com/amin4139/share_file/blob/main/Hiddify%2B)

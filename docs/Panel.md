@@ -78,6 +78,12 @@ This script:
     Provides a Telegram bot to manage users from Telegram
 
 
+پروتکل shadowtls رو هم به اسکریپت reality-ezpz اضافه کردم.😂
+کافیه یه بار اسکریپت رو اجرا کنید تا آپدیت بشه و از قسمت transport گزینه shadowtls رو انتخاب کنید.
+لازمه مثل reality یه SNI خوب براش پیدا کنید.
+
+
+[twitter](https://x.com/aleskxyz/status/1792979398263513247)
 
 ## Hiddify-Manager
 

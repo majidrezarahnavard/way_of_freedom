@@ -246,3 +246,21 @@ $ sudo HiddifyCli run -c wg.conf -h hiddifyAppTUN.json
 @iranetfreedom
 
 [telegram](https://t.me/iranetfreedom/3)
+
+
+# این یه اسکریپت ساخت wow برای هیدیفای نکست بکمک ترموکس هست
+
+git clone https://github.com/drunkleen/warp-on-warp-generator
+
+cd warp-on-warp-generator
+
+pip install -r requirements.txt
+
+python http://warp-on-warp-generator.py
+
+/output
+
+config-template.json
+
+
+[github](https://github.com/azavaxhuman/Quick_Warp_on_Warp)

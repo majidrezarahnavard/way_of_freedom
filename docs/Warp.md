@@ -107,13 +107,6 @@ https://threadreaderapp.com/thread/1757319934512910486.html
 
 [yebekhe](https://app.yebekhe.link/)
 
-# Zula
-
-نمی‌دونم پشت این دامنه zula چی هستش اما میتونید از 
-Zula.(ru
-هم به عنوان IP وارپ استفاده کنید 😂
-
-
 # clean-ip-warp-list 
 
 [clean-ip-warp-list ](https://github.com/freedomnet25500/clean-ip-warp-list/blob/main/ip%20list)
@@ -264,3 +257,15 @@ config-template.json
 
 
 [github](https://github.com/azavaxhuman/Quick_Warp_on_Warp)
+
+
+# WOW + DNS
+
+
+وایرگارد همراه اول این تست بدون دامنه شخصی و با IP هستش این کانفیگ 👇
+https://github.com/amin4139/share_file/blob/main/Hiddify%2B
+
+لطفاً دوتا کانیفگ وایرگارد بگیرید توی کد مقادیر private key و reserved را تغییر بدید
+
+
+[twitter](https://x.com/amin_o__o/status/1793763373324341448)

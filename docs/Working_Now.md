@@ -1,4 +1,57 @@
-# الان کار می کنه
+# الان
+
+
+# shadowtls + wireguards
+
+
+
+با اسکریپت @aleskxyz (https://twitter.com/aleskxyz) 
+اول shadowtls رو نصب کنید روی سرور.
+وارپ رو با هدیفای @hiddify_com (https://twitter.com/hiddify_com) بزارید، ای پی سرور فیلتر نشه.
+
+اسکریپت
+https://github.com/aleskxyz/reality-ezpz
+
+آموزش قدیمی
+https://invidious.poast.org/T_p9VqngfY8?si=BKgfJr7P-TD_2tlO
+
+روش های وایرگارد
+filtershekan.sbs/Wireguard/
+
+
+
+کانفیگ IPV6 رو هم تست کنید
+
+
+# Rethink 
+
+با Rethink می تونید مشکل DNS رو حل کنید
+
+RT @Server_5oo (https://twitter.com/Server_5oo): آموزش استفاده از rethink در کنار hiddify برای عبور از مشکل فرگمنت
+
+نکاتی که باید توجه کنین
+
+-ترکیب dns ها با خودتون. روی همراه اگر کار نکرد میتونین تو قسمت dns53 نرم افزار rethink یک dns انتخاب کنین.
+
+-اول rethink روشن کنین بعد هیدیفای
+
+
+https://t.me/Ghost_Resisters/421
+
+# wireguard patched
+
+روش wireguard patched وایگارد -> سرور
+
+پنل ثنایی (سرور) + کانفیگ Vless + هدیفای (کلاینت) + وارپ
+
+این روش یک سرور می خواهد. دامنه یا ای پی کثیف کافیه.
+خوبیش اینکه با روش وایگارد ای پی خودتون می افته و اگر هم فیلتر بشه ای پی وایگارد فیلتر میشه
+
+https://invidious.poast.org/watch?v=TS09YzcTIb4&t=867s
+
+
+
+
 
 #  amnezia
 
@@ -101,6 +154,11 @@ warp-go/۱.sh
 ۳. در پرامپت نمایش داده شده عدد ۱ را وارد کنید
 ۴. مقادیر را مثل تصویر استخراج و در فایل اسکریپت امین جایگزین کنید.
 
+از لینک زیر هم می تونید کانفیگ کنید
+
+https://invidious.poast.org/watch?v=TS09YzcTIb4&t=867s
+
+
 ## مرحله سوم
 
 حالا کافیه کانفیگ رو کپی کنید ببرید توی هیدیفای همون جا 
@@ -108,10 +166,6 @@ paste
 کنید
 
 اینجا دیگه باید وصل شده باشید
-
-## مرحله چهارم
-
-
 
 
 

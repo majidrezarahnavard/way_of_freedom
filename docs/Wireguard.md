@@ -158,3 +158,28 @@ warp-plus.exe -4 --scan --rtt 300ms
 
 
 [twitter](https://threadreaderapp.com/thread/1793527194742149214.html)
+
+
+# wireguard patched
+روش  wireguard patched    وایگارد -> سرور
+
+پنل ثنایی (سرور) + کانفیگ Vless + هدیفای (کلاینت) + وارپ
+
+این روش یک سرور می خواهد. دامنه یا ای پی کثیف کافیه.
+خوبیش اینکه با روش وایگارد ای پی خودتون می افته و اگر هم فیلتر بشه ای پی وایگارد فیلتر میشه
+
+[youtube](https://www.youtube.com/watch?v=K4aFv2OWFbI&t=64s)
+
+
+# روش  shadowtls  + وایرگارد
+
+با اسکریپت @aleskxyz 
+اول shadowtls رو نصب کنید روی سرور.
+وارپ رو با هدیفای @hiddify_com  بزارید که ای پی سرور فیلتر نشه. ( بدون وایرگارد هم کار می کنه)
+
+
+https://github.com/aleskxyz/reality-ezpz
+
+آموزش قدیمی
+https://www.youtube.com/watch?v=T_p9VqngfY8&t=117s
+

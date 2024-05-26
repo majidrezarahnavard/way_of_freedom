@@ -183,6 +183,12 @@ https://bridges.torproject.org/options
 
 [با چند حرکت وی‌پی‌ان دار بین،](https://threadreaderapp.com/thread/1774679400216191420.html)
 
+
+خوب بریم برای یک آموزش کوتاه در شرایط سخت اینترنت. البته قبلاً وقتی اینترنت خیلی خیلی اوضاعش از این هم بدتر بود گذاشته بودم الان روی آسیاتک این روش جواب داد امیدوارم روی اپراتور های دیگه هم جواب بده توقع سرعت نداشته باشید الان فقط هدف اتصال هستش 
+
+
+[twiter](https://x.com/Rtii__/status/1794417918903496753)
+
 ## PowerTunnel for Android
 
 Simple, scalable, cross-platform and effective solution against government censorship for Android 

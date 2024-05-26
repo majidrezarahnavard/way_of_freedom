@@ -391,7 +391,7 @@ https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Sub9.txt
 
 
 
-# ساخت سرور از اول برای اندروید
+# ساخت سرور از اول
 
 
 توی آموزش زیر می تونید از اول یک سرور رو راه اندازی کنید.

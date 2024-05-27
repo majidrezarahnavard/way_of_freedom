@@ -183,3 +183,13 @@ https://github.com/aleskxyz/reality-ezpz
 آموزش قدیمی
 https://www.youtube.com/watch?v=T_p9VqngfY8&t=117s
 
+
+
+# ساخت کانفیگ WireGuard با Reserved برای V2ray.
+
+به زودی ...
+
+کجا قرار بدم به نظرتون؟ کنار اسکنر wrap به عنوان گزینه 4 چطوره؟
+درخواستی بود بعد از چندین ساعت تلاش بالاخره درستش کردم.
+
+[twitter](https://x.com/29peyman/status/1794836515832615329)

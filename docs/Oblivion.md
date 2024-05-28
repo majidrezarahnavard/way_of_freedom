@@ -109,3 +109,16 @@ https://github.com/bepass-org/oblivion-desktop/issues
 #oblivionDesktop 
 #oblivion
 
+# نسخه ۰.۹.۵
+
+
+نسخه ۰.۹.۵ بتا از #OblivionDesktop برای ویندوز و مک در دسترس قرار گرفت.
+
+🚀 http://github.com/bepass-org/oblivion-desktop/releases/tag/v0.9.5-beta
+
+برخی‌از تغییرات:
+- اضافه‌شدن قوانین مسیریابی برای جلوگیری از عبور ترافیک از وارپ
+- رفع مشکل ست‌شدن پروکسی در macOS
+- اضافه‌کردن لیبل‌های اندپوینت پیشنهادی و پیشفرض به اسکنر
+
+https://github.com/bepass-org/oblivion-desktop/releases/tag/v0.9.5-beta

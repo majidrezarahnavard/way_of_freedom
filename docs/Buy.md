@@ -240,3 +240,17 @@ I explained the management of server files and how to transfer files to public_h
 I explained the easy installation of WordPress
 
 [youtube](https://www.youtube.com/watch?v=KmaVLWwwgZE)
+
+
+# سرور
+
+سلام.
+
+لطفا زیر این پست شرکت‌های کمتر شناخته شده که vps های ارزان قیمت جهت ساخت vpn  با امکان پرداخت کریپتو و با ترافیک حداقل  ۵ ترابایت ماهیانه یا نامحدود میدن رو ذکر کنید.
+
+[twitter](https://threadreaderapp.com/thread/1795300495290143231.html)
+
+
+# awesome-freedom
+
+[hiddify](https://github.com/hiddify/awesome-freedom/blob/main/vps-providers.md)

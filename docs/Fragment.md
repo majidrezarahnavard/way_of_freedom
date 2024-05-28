@@ -486,3 +486,13 @@ path و مابقی موارد امنیتی رو استفاده کنید
 
 ساخت کانفیگ فرگمنت روی پنل 
 [video](https://www.youtube.com/watch?v=qeD1jwOXW4A&t=309s)
+
+
+# batch-fragment-scanner 
+
+توسط این‌اسکریپت میتونین با استفاده از کانفیگ فرگمنت‌شده و هسته Xray عملیات اسکن انجام داده و مقادیر مناسب Packets, Length, Interval رو متناسب با اینترنتتون پیدا کنین.
+
+http://github.com/Surfboardv2ray/batch-fragment-scanner
+http://t.ly/qjncc
+
+#فرگمنت

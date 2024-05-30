@@ -514,3 +514,10 @@ A simple bash script to block IP ranges of Iranian ISPs to prevent your server f
 
 
 [github](https://github.com/Azumi67/6TO4-GRE-IPIP-SIT)
+
+
+# tunnel PING
+
+آموزش PINGTUNNEL  بربستر UDP روی پنل 3x-uiثنایی                                    https://youtu.be/XDRz6nALGSc
+Image
+

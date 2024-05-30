@@ -91,6 +91,22 @@ Quote
 
 [راه‌اندازی Home Server با VPN مرکزی – قسمت ۸ – نصب و راه‌اندازی Plex روی سرور خانگی OpenWrt](https://ivpn.pro/openwrt/how-to-install-plex-on-openwrt/)
 
+
+ "راه‌اندازی WARP روی OpenWrt"
+
+کردیت این آموزش تقدیم به مارک پشم‌فروش
+@markpash
+
+
+لینک آموزش:
+https://ivpn.pro/openwrt/cloudflare-warp-on-openwrt/
+
+در ساخت این آموزش از Warp Plus که مارک، #یوسف_قبادی و همکاران‌شان ساخته‌اند؛ استفاده شده است.
+#اینترنت_برای_همه
+
+
+["راه‌اندازی WARP روی OpenWrt"](https://x.com/kevinzakarian/status/1795868295767138396)
+
 ## کنسول بازی
 
 [ اشترک گذاری فیلترشکن رو کنسول با کمک برنامه Hiddify با استتفاده از warp بصورت رایگان ](https://www.youtube.com/watch?v=ZIOuMJGXr-Q)

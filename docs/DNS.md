@@ -427,3 +427,11 @@ https://github.com/celzero/rethink-app/releases
 
 
 [twitter](https://x.com/hiddify_com/status/1795403011013189905)
+
+
+#  DNS سالم
+
+این سه تا DNS هنوز سالم هستند.اگر DNS مشکل داشته باشه ممکنه کلا کانفیگ وصل نشه یا ممکنه وصل بشه پینگ داشته باشه اما هیچی باز نکنه جز تلگرام. من سعی می‌کنم هرروز تست کنم چندتا بهتون برسونم 😔 
+https://dns.nas-server.ru/dns-query
+https://yovbak.com/dns-query
+https://dns.kernel-error.de/dns-query

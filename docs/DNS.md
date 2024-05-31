@@ -435,3 +435,19 @@ https://github.com/celzero/rethink-app/releases
 https://dns.nas-server.ru/dns-query
 https://yovbak.com/dns-query
 https://dns.kernel-error.de/dns-query
+
+
+# ساخت DNS
+
+خوب بریم برای یک آموزش سریع و ساده تمام مراحل را مثل این آموزش انجام بدید
+https://x.com/amin_o__o/stat/amin_o__o/status/1771566490656915457?s=19
+آخر بهتون یک DoH و یک DoT و یک ipv6 و اخیرا یک ipv4 می‌ده.ایندفعه با ipv6 و ipv4 کار داریم البته باید بگم نه تنها این IP ها بلکه هر DNS باipv6 و ipv4 سالم هم میتونید به این روش که در
+
+
+[twitter](https://threadreaderapp.com/thread/1796046660499300689.html)
+
+
+# ست کردن دی ان اس بر روی مودم 
+کاهش نویز و اختلال در اینترنت✌️
+
+[twitter](https://x.com/amirparsapv/status/1796462804352008495)

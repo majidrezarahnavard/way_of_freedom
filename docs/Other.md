@@ -107,6 +107,9 @@ https://ivpn.pro/openwrt/cloudflare-warp-on-openwrt/
 
 ["راه‌اندازی WARP روی OpenWrt"](https://x.com/kevinzakarian/status/1795868295767138396)
 
+
+[این OpenWrt چیه و به چه درد می‌خوره؟](https://threadreaderapp.com/thread/1796471460887965714.html)
+
 ## کنسول بازی
 
 [ اشترک گذاری فیلترشکن رو کنسول با کمک برنامه Hiddify با استتفاده از warp بصورت رایگان ](https://www.youtube.com/watch?v=ZIOuMJGXr-Q)

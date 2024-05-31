@@ -495,4 +495,41 @@ path و مابقی موارد امنیتی رو استفاده کنید
 http://github.com/Surfboardv2ray/batch-fragment-scanner
 http://t.ly/qjncc
 
-#فرگمنت
+
+
+# مبدل فرگمنت
+
+مبدل فرگمنت
+fragment convertor:
+1-
+https://rrouzbeh.github.io/ray2fragment/
+
+2-
+https://ircfspace.github.io/fragment/
+
+3-
+https://misaturo.github.io/Xray-Fragment-Configurator/
+4-
+https://69learn.github.io/Xray-Fragment-converter                                      
+5-
+https://drunkleen.github.io/xray-frag     
+
+اسکریپت پیدا کردن فرگمنت بهینه :
+
+http://github.com/Surfboardv2ray/batch-fragment-scanner
+
+توسط این‌اسکریپت میتونین با استفاده از کانفیگ فرگمنت‌شده و هسته Xray عملیات اسکن انجام داده و مقادیر مناسب Packets, Length, Interval رو متناسب با اینترنتتون پیدا کنین.
+
+👉 http://github.com/Surfboardv2ray/batch-fragment-scanner
+🎥 http://youtube.com/watch?v=WiGgnZLI8cU&t=8s
+💡 http://t.ly/qjncc
+© Surfboardv2ray
+
+
+https://github.com/Surfboardv2ray/batch-fragment-scanner
+
+https://ptechgithub.github.io/abzar/index2.html
+
+
+🔍 http://ircf.space
+@ircfspace

@@ -151,3 +151,10 @@ https://play.google.com/store/apps/details?id=com.filtershekanha.argovpn&hl=en_U
 The list of domains to bypass, block and proxy based on ir geo-location in the nekoray and nekobox according to the core is set to sing-box . to set these domains just create new routes in the nekobox and nekoray and enter the domains below in the pertained section domains and set it's outbound value based on bypass, proxy or block as below.
 
 [github](https://github.com/soroushmirzaei/telegram-configs-collector)
+
+
+# igdux
+
+link subscribe
+
+https://igdux.top/~Nekobox

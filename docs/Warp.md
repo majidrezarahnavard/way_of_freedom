@@ -1,4 +1,14 @@
 # وارپ در وارپ
+
+
+
+#  آموزش کانفیگ shadowtls+ warp برای عبور از فیلترینگ-SIXTININELEARN 
+
+سلام رفقا توی این ویدیو قراره بهتون یاد بدم چجوری خیلی راحت با استفاده از یه اسکریپت کاربردی بتونین برای خودتون وخانوادتون کانفیگ SHADOWTLS بسازین.
+
+[youtube](https://www.youtube.com/watch?v=gT8JGN6SX3k)
+
+
 # Warp on Warp
 
 [ دور زدن رایگان فیلترینگ با ساخت یک کانفیگ شخصی Warp on Warp](https://www.youtube.com/watch?v=SJWf_XsWiA4)

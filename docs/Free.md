@@ -158,3 +158,8 @@ The list of domains to bypass, block and proxy based on ir geo-location in the n
 link subscribe
 
 https://igdux.top/~Nekobox
+
+
+# WireVpnGuard
+
+[https://t.me/WireVpnGuard](https://t.me/WireVpnGuard)

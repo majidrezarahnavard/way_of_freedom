@@ -451,3 +451,11 @@ https://x.com/amin_o__o/stat/amin_o__o/status/1771566490656915457?s=19
 کاهش نویز و اختلال در اینترنت✌️
 
 [twitter](https://x.com/amirparsapv/status/1796462804352008495)
+
+
+# دسترسی به بیشتر سایت های پالایش شده فقط با DNS
+
+http://rethinkdns.com
+
+
+[twitter](https://x.com/kharabam666/status/1798087376784572699)

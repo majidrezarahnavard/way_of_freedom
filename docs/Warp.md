@@ -9,6 +9,13 @@
 [youtube](https://www.youtube.com/watch?v=gT8JGN6SX3k)
 
 
+
+#  آموزش ISEGARO WARP وارپ به وارپ به روش جدید-SIXTININELEARN 
+
+سلام رفقا توی این ویدیو قراره بهتون یاد بدم چجوری خیلی راحت با استفاده از روش ISEGARO WARP  کانفیگ رایگان وارپ به وارپ برای خودتون درست کنین.
+
+[youtube](https://www.youtube.com/watch?v=KxzMXxmW4Uk)
+
 # Warp on Warp
 
 [ دور زدن رایگان فیلترینگ با ساخت یک کانفیگ شخصی Warp on Warp](https://www.youtube.com/watch?v=SJWf_XsWiA4)

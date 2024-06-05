@@ -521,3 +521,8 @@ A simple bash script to block IP ranges of Iranian ISPs to prevent your server f
 آموزش PINGTUNNEL  بربستر UDP روی پنل 3x-uiثنایی                                    https://youtu.be/XDRz6nALGSc
 Image
 
+#  آموزش ISEGARO WARP وارپ به وارپ به روش جدید-SIXTININELEARN 
+
+سلام رفقا توی این ویدیو قراره بهتون یاد بدم چجوری خیلی راحت با استفاده از روش ISEGARO WARP  کانفیگ رایگان وارپ به وارپ برای خودتون درست کنین.
+
+[youtube](https://www.youtube.com/watch?v=KxzMXxmW4Uk)

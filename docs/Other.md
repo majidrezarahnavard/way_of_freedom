@@ -409,3 +409,16 @@ https://netbird.io/
 [ChatGuard](https://github.com/PrivacyForge/ChatGuard)
 
 [video](https://twitter.com/MKheibary/status/1783224621300355220)
+
+
+# file tunnel
+
+دور زدن فیلترینگ فایروال:
+با یک فایل Tunnel TCP connectionsبسازید😎
+می خواهید از سیستم خودتان به نرم افزار یا سایت X متصل شوید، اما اتصال فیلتر شده. 
+هر دو سیستم شما و مقصد به یک پوشه مشترک دسترسی دارند.😬 حله تمام
+https://github.com/fiddyschmitt/File-Tunnel
+ایده را دوست داشتم🥰، موقعیت تست نداشتم
+
+
+https://github.com/fiddyschmitt/File-Tunnel

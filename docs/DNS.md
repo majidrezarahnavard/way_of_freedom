@@ -459,3 +459,12 @@ http://rethinkdns.com
 
 
 [twitter](https://x.com/kharabam666/status/1798087376784572699)
+
+
+#  آموزش جدید وایرگارد با آی پی اسکنر 
+
+اگر هنوز بلد نیستید DNS روی اندروید تنظیم کنید این ویدیو رو ببینید
+
+Rethink + wireguard
+
+https://youtu.be/DRLVA9ZHKw4?si=nmCZKGbAUFZgY1sa

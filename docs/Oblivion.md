@@ -122,3 +122,8 @@ https://github.com/bepass-org/oblivion-desktop/issues
 - اضافه‌کردن لیبل‌های اندپوینت پیشنهادی و پیشفرض به اسکنر
 
 https://github.com/bepass-org/oblivion-desktop/releases/tag/v0.9.5-beta
+
+
+# اموزش گرفتن ایپی ۶ همراه اول تست کردم 
+
+[twitter](https://x.com/Behzad59520554/status/1798716590365741370/video/1)

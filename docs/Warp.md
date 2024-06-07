@@ -286,3 +286,10 @@ https://github.com/amin4139/share_file/blob/main/Hiddify%2B
 
 
 [twitter](https://x.com/amin_o__o/status/1793763373324341448)
+
+
+# 1.4 hiddify
+
+توی نسخه ۱.۴.۰ از اپ #هیدیفای که اخیرا منتشر شده می‌تونین به‌سادگی از #وارپ استفاده کنید.
+
+[twitter](https://x.com/ircfspace/status/1798780393190986049)

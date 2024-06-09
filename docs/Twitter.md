@@ -60,3 +60,12 @@ in this video you will learn how to delete all of your twittes and likes
 
 
 [github](https://github.com/alirezakargar1380/delete_tweetes_scripts)
+
+
+# توییت امنیتی و آموزشی
+
+
+در موارد زیادی قبلا گفتم که باز کردن لینک های ناشناس خیلی میتونه خطرناک باشه حتی برای پیدا کردن IP شما هم ممکنه لینک به شما بدن تا شما فقط بازش کنید تا IP شما رکورد بشه. بسیاری از لینک ها قابل shorten شدن هستن که قابل بررسی نخواهند بود. وبسایتی که معرفی⬇️ 
+
+
+[twitter](https://threadreaderapp.com/thread/1694442551472795867.html)

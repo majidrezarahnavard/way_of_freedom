@@ -140,6 +140,14 @@ https://t.me/Tehrannetwork021/399
 
  https://www.youtube.com/watch?v=QpZEM2Th2Nk
 
+install pannel chini
+
+bash <(curl -Ls https://raw.githubusercontent.com/yonggekkk/x-ui-yg/main/install.sh)
+
+
+https://VMess.fxxk.dedyn.io/sub?host=SubDomain&uuid=idConfig&path=/
+
+
  
 
  # vless + wireguard

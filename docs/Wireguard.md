@@ -193,3 +193,20 @@ https://www.youtube.com/watch?v=T_p9VqngfY8&t=117s
 درخواستی بود بعد از چندین ساعت تلاش بالاخره درستش کردم.
 
 [twitter](https://x.com/29peyman/status/1794836515832615329)
+
+
+# استفاده از وایرگارد
+
+می دونستید کانفیگ های وایرگارد رو می تونید مستقیم توی نرم افزار مهسا استفاده کنید؟
+
+آموزش وایگارد
+https://filtershekan.sbs/Wireguard/
+
+کانفیگ ها وایگارد برای تست
+https://t.me/freewireguard
+
+
+نرم افزار مهسا
+
+https://play.google.com/store/apps/details?id=com.MahsaNet.MahsaNG&hl=en
+

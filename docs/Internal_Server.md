@@ -541,3 +541,102 @@ Image
 [ماتریکس](https://github.com/Musixal/matrix-network)
 
 [haproxy-tunnel](https://github.com/Musixal/haproxy-tunnel)
+
+
+# روش تونل با IPv6
+
+https://github.com/Azumi67/6TO4-GRE-IPIP-SIT
+
+
+```
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/Azumi67/6TO4-GRE-IPIP-SIT/main/ubuntu24.sh)"
+```
+
+```
+sudo apt-get install python-pip -y  &&  apt-get install python3 -y && alias python=python3 && python -m pip install colorama && python -m pip install netifaces
+```
+
+اجرای شماره ۶ روی سرور ایران و خارج
+
+
+اموزش نصب IPv6
+
+https://www.youtube.com/watch?v=zNqOXJUAlhc
+
+
+تانل دکودمودور
+
+https://www.youtube.com/watch?v=0DIkqC8hkpM
+
+دستورات https://t.me/asrnovin_ir/3952
+
+دستورات سرور ایران :
+
+
+1. apt update
+
+2.nano /etc/netplan/pdtun.yaml
+
+network:
+  version: 2
+  tunnels:
+    tunel01:
+      mode: sit
+      local: ip.iran
+      remote: ip.kharej
+      addresses:
+        - fc18:3678:4550:abcd::2/64
+      mtu: 1500
+
+3. sudo netplan apply
+
+برای اجرایی شدن
+
+4. nano /etc/systemd/network/tun0.network
+
+[Network]
+Address=fc18:3678:4550:abcd::2/64
+Gateway=fc18:3678:4550:abcd::1
+
+5. sudo systemctl restart systemd-networkd
+
+**************
+
+دستورات سرور خارج : 
+
+1. apt update
+
+2. nano /etc/netplan/pdtun.yaml
+
+network:
+  version: 2
+  tunnels:
+    tunel01:
+      mode: sit
+      local: ip.kharej
+      remote: ip.iran
+      addresses:
+        - fc18:3678:4550:abcd::1/64
+      mtu: 1500
+
+3. sudo netplan apply
+
+برای اجرایی شدن
+
+4. nano /etc/systemd/network/tun0.network
+
+[Network]
+Address=fc18:3678:4550:abcd::1/64
+Gateway=fc18:3678:4550:abcd::2
+
+5. sudo systemctl restart systemd-networkd
+
+
+
+-----------------------------------------------------------
+
+
+دستور نصب ریورس تانل
+
+bash <(curl -fsSL https://raw.githubusercontent.com/Ptechgithub/ReverseTlsTunnel/main/RtTunnel.sh)
+

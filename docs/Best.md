@@ -46,3 +46,8 @@ TVCsub https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub
 Tor
 http
 فرگمنت
+
+
+# ✅ راهنمای سریعِ "عبور از فیلترینگ"
+
+[twitter](https://threadreaderapp.com/thread/1799805467490988400.html)

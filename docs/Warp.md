@@ -293,3 +293,12 @@ https://github.com/amin4139/share_file/blob/main/Hiddify%2B
 توی نسخه ۱.۴.۰ از اپ #هیدیفای که اخیرا منتشر شده می‌تونین به‌سادگی از #وارپ استفاده کنید.
 
 [twitter](https://x.com/ircfspace/status/1798780393190986049)
+
+
+# free-wow-conf-generator
+
+بچه‌ها این رو هم یه دوستی زحمت کشیده فیلمش رو درست کرده، خیلی راحته و یه کانفیگ وارپ‌تووارپ میده با پینگ خیلی خوب
+https://github.com/sina-moradbakhti/free-wow-conf-generator
+فیلم:
+https://youtu.be/2urdTZ64RYg
+‌

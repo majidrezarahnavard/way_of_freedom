@@ -129,6 +129,19 @@ https://fixedfloat.com/
 https://www.thorswap.finance/
 ```
 
+### اگریگیتور
+
+دوتا از بهترین اگریگیتورهایی که من می‌شناسم و دکس‌ها و توکن‌های زیادی رو روی شبکه‌های مختلف ساپورت می‌کنن:
+
+
+https://app.firebird.finance
+
+https://app.openocean.finance
+
+برای خرید و‌ فروش توکن‌های شبکه فانتوم از‌ جمله WIGO می‌تونید از‌ این دو سرویس استفاده کنید و FTM رو به WIGO یا برعکس تبدیل کنید.
+
+
+
 ## Buy VPS and Domain just with 10$ for One Year! with iSegaro
 [Buy VPS and Domain just with 10$ for One Year! with iSegaro](https://telegra.ph/Buy-VPS-and-Domain-just-with-10-for-One-Year-with-iSegaro-03-29)
 

@@ -302,3 +302,10 @@ https://github.com/sina-moradbakhti/free-wow-conf-generator
 فیلم:
 https://youtu.be/2urdTZ64RYg
 ‌
+
+
+# warp maker
+
+یه کد پایتون نوشم که ای پی های وارپ رو اسکن میکنه و با اون ای پی ها صد تا کانفیگ میسازه واسه هیدیفای نکست لینک ساب رو میذارم تست کنید ✌️
+https://raw.githubusercontent.com/Final-Verdict/sharefile/main/config.json
+

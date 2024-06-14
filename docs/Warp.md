@@ -324,3 +324,13 @@ https://raw.githubusercontent.com/Final-Verdict/sharefile/main/config.json
 
 share>>>configuration>>>export to clipboard
 حالا تبدیل به فرمت سینگ باکس می شود که قابل اد کردن توی هیدیفای نکست هست
+
+
+# scanner
+
+راهنمای پیدا کردن #اندپوینت مناسب با استفاده از EP-Scanner
+
+https://twtr.to/yKWuw
+http://github.com/hossein-mohseni/EP-Scanner
+
+[twitter](https://x.com/ircfspace/status/1801337230750876125)

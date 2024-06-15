@@ -170,3 +170,10 @@ V2Hub is a script that can be used to aggregate and merge multiple subscription 
  رفقا توی این ویدیو قابلیت ترنزمیشن HTTP UPGRADE در آپدیت جدید X-UI بررسی کردم و چندتا کانفیگ براش ست کردم سرعت و پایداری خوبی داره امیدوارم مورد استفادتون قرار بگیره 
 
 [HTTP UPGRADE](https://www.youtube.com/watch?v=52fKKXEwcJQ)
+
+
+# XPanel-SSH-User-Management
+
+ایکس پنل یک نرم افزار تحت وب جهت مدیریت اکانت SSH می باشد. با کمک پنل تحت وب ایکس پنل می توانید کاربران را مدیریت کرده و محدودیت اعمال کنید.
+
+[github](https://github.com/xpanel-cp/XPanel-SSH-User-Management)

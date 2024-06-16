@@ -468,3 +468,14 @@ http://rethinkdns.com
 Rethink + wireguard
 
 https://youtu.be/DRLVA9ZHKw4?si=nmCZKGbAUFZgY1sa
+
+
+
+# nextdns
+
+استفاده از nextdns
+به عنوان dns کارامد در بهبود اتصال وی پی ان افزایش امنیت و حذف تبلیغات
+
+
+[twitter](https://threadreaderapp.com/thread/1802054041729487253.html)
+

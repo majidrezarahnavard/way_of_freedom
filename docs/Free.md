@@ -175,3 +175,18 @@ https://t.me/v2ray_configs_pool
 he script systematically collects Vmess, Vless, ShadowSocks, Trojan, Reality, Hysteria, Tuic, and Juicity configurations from publicly accessible Telegram channels. It categorizes these configurations based on open and closed ports, eliminates any duplicate entries, resolves configuration addresses using IP addresses, and revises configuration titles to reflect server and protocol-type properties. These properties include network and security type, IP address and port, and the respective country associated with the configuration.
 
 [telegram](https://github.com/soroushmirzaei/telegram-configs-collector)
+
+
+
+# ysmoradi
+
+سری جدید کانفیگ‌ها رسید
+
+این ساب رو در تمامی برنامه‌ها
+http://raw.githubusercontent.com/ysmoradi/sub/main/clean.txt
+
+و این ساب رو فقط در نسخه‌های آپدیت و بروز
+http://raw.githubusercontent.com/ysmoradi/sub/main/customs.json
+
+استفاده کنید
+

@@ -210,3 +210,11 @@ https://t.me/freewireguard
 
 https://play.google.com/store/apps/details?id=com.MahsaNet.MahsaNG&hl=en
 
+
+
+# معرفی برنامه D-Tools
+
+ساخت کانفیگ وایرگارد وارپ
+و پیدا کردن ای پی تمیز برای ورکر
+
+[twitter](https://x.com/horizonbehind2/status/1802752957391294571)

@@ -651,3 +651,24 @@ bash <(curl -fsSL https://raw.githubusercontent.com/Ptechgithub/ReverseTlsTunnel
 
 
 https://www.youtube.com/watch?v=8T-hRC_6Whw
+
+
+
+#  دریافت IPV6 رایگان برای سرور خارج و ایران (ساده و بدون اسکریپت) 
+
+
+آموزشی که امروز براتون آماده کردیم به اسم دریافت IPV6 رایگان برای سرور خارج و ایران (ساده و بدون اسکریپت) میتونه خیلی کارآمد باشه براتون.
+
+دریافت IPV6 رایگان / ipv6 رایگان / آموزش استفاده از ipv6 در کانفیگ / استفاده از ipv6 در xui / چندی از کلمات کلیدی این ویدیو هستن :)
+
+
+https://www.youtube.com/watch?v=jmOBvCO9p-M
+
+
+#  آموزش تانل RATIFY روی پنل HIDDIFY با سرعت بالا و پینگ پایین-SIXTININELEARN 
+
+
+
+سلام رفقا توی این ویدیو قراره بهتون یاد بدم چجوری خیلی راحت با استفاده  تانل RATIFY روی پنل هیدیفای تانل بزنین با سرعت بالا
+
+https://www.youtube.com/watch?v=P45zX_eBH3M

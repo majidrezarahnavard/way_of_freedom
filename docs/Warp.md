@@ -343,3 +343,40 @@ http://github.com/hossein-mohseni/EP-Scanner
 مراحل رو براتون اینجا میزارم و توصیه میکنم خودتون انجام بدین هم اطلاعتتون بشتر میشه هم اینکه خیالتون راحته از فایلهایی که دانلود و اجرا میکنید !!
 
 t.me/myuploadch/184
+
+
+# کلید وارپ پلاس جنرتور ترموکس:
+
+
+این اسکریپت کلید وارپ پلاس سالم هر ۱۵ ثانیه می تونه بسازه 
+
+پیش نیاز ها :
+apt update && apt upgrade
+pkg install apt curl wget python git nano nmap dnsutils
+
+ روش اول عادی:
+git clone https://github.com/NiREvil/WLG.git
+
+cd WLG
+
+chmod +x http://requirement.sh
+
+./requirement.sh
+
+python3 http://main.py
+
+cd WLG && python3 http://main.py
+
+cd WLG && git pull
+
+روش دوم !::
+
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/NiREvil/WLG/main/install.sh)"
+
+اگر به خطا خورد اول پیش نیاز ها نصب بشه 
+میشه این اسکریپت رو علوه بر ترموکس روی userland اپ اندرویدی که سگارو معرفی کرده هم نصب کرد 
+در ضمن روی ترمینال های wsl based توی ویندوز مثل ابونتو یا کالی لینوکس هم نصب کرد
+
+
+https://github.com/NiREvil/WLG
+

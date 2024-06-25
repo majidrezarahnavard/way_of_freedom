@@ -22,3 +22,20 @@
 ## sing-box
 
 [sing-box](https://sing-box.sagernet.org/) 
+
+
+
+#  مقایسه هسته ی جدید v2ray pro با v2ray 
+
+
+در این ویدیو مقایسه ای داریم بین هسته ی جدید V2ray pro و V2ray که توسط دوستان عزیز ایرانیمون تغییر پیدا کرده و بحق می تونم بگم که این هسته جدید بی نظیر هستش و به راحتی محدودیت هارو دور میزنه
+گیتهاب ویتوری پرو V2ray pro
+https://github.com/lowercase78/V2RayN-PRO/releases/tag/V2RayN-PROV1.0
+گیتهاب مهسا ان جی mahsa ng
+https://github.com/GFW-knocker/MahsaNG/releases
+
+کانال تلگرام
+https://t.me/v2rayiranioriginal
+
+
+https://www.youtube.com/watch?v=WV_Bs6mvh1E

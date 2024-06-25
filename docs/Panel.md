@@ -15,6 +15,9 @@
 
 ## پنل علیرضا
 
+An Advanced Web Panel • Built on SagerNet/Sing-Box
+
+
 [An Advanced Web Panel • Built on SagerNet/Sing-Box](https://github.com/alireza0/s-ui)
 
 پورت ۲۰۹۵ و admin برای یوزر/پسورد

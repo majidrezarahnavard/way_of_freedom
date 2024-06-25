@@ -22,6 +22,11 @@ filtershekan.sbs/Wireguard/
 
 کانفیگ IPV6 رو هم تست کنید
 
+bash <(curl -sL https://bit.ly/realityez) -m
+configuration -> transport -> shadowtls
+configuration -> security -> self sign
+3 view user -> Qrcode
+
 
 # Rethink 
 

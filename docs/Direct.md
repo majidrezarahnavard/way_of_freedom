@@ -82,6 +82,19 @@ https://threadreaderapp.com/thread/1757093989616947356.html
 [ترکیب hysteria2 با فرگمنت یا وایرگارد برای عبور از فیلترینگ!](https://telegra.ph/%D8%AA%D8%B1%DA%A9%DB%8C%D8%A8-hysteria2-%D8%A8%D8%A7-fragment-%D9%88-%D9%88%D8%A7%DB%8C%D8%B1%DA%AF%D8%A7%D8%B1%D8%AF-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B9%D8%A8%D9%88%D8%B1-%D8%A7%D8%B2-%D9%81%DB%8C%D9%84%D8%AA%D8%B1%DB%8C%D9%86%DA%AF-03-13)
 
 
+
+# H-UI
+
+
+معرفی پنل H-UI؛ یک رابط گرافیکی برای ایجاد کانفیگ Hysteria2 و مدیریت کاربران
+
+http://github.com/jonssonyan/h-ui
+
+نحوه استفاده:
+http://shorturl.at/BZV4T
+
+
+
 ## QUIC
 [ دور زدن فیلترینگ تمام اپراتورها با QUIC توسط V2ray و پنل سنایی. سریع و راحت ](https://www.youtube.com/watch?v=K4aFv2OWFbI)
 

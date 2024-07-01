@@ -442,3 +442,9 @@ https://v2rayse.com/en/node-convert/
 https://app.yebekhe.link/
 
 https://github.com/Ptechgithub/configs/blob/main/256_IPs.json
+
+
+# convertor bulk-address-changer
+
+https://dailydigitalskills.online/bulk-address-changer/
+

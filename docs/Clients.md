@@ -98,3 +98,17 @@ https://apps.apple.com/us/app/streisand/id6450534064
 🤍 NPV Tunnel:
 https://apps.apple.com/tr/app/npv-tunnel/id1629465476
 ```
+
+
+# V2RayN-PROV1.3.1-Pre
+
+Updated :
+
+    Uptade To v2rayN 6.49 Pre
+    adding geoip-ir.srs and fix some tun error
+
+برای تغییر مقادیر فرگمنت مجبور به تغییر در سورس نرم افزار شدم که میتونید تغییرات از لینک زیر مشاهده نمایید :
+
+
+https://github.com/lowercase78/V2RayN-PRO/releases/tag/V2RayN-PROV1.3.1-Pre
+

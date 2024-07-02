@@ -23,10 +23,47 @@ filtershekan.sbs/Wireguard/
 کانفیگ IPV6 رو هم تست کنید
 
 bash <(curl -sL https://bit.ly/realityez) -m
+
+bash <(curl -sl https://raw.githubusercontent.com/aleskxyz/reality-ezpz/master/reality-ezpz.sh) -m 
 configuration -> transport -> shadowtls
 configuration -> security -> self sign
 3 view user -> Qrcode
 
+
+# روش مستقیم کلود فلیر
+
+ آموزش ساخت کانفیگ ویتوری | v2ray | مستقیم با ipv6 جدیدترین روش 
+
+ در این ویدیو با استفاده از ipv6 سرور مجازی که تهیه کردیم و با کمک کلودفلر به یک لینک سابسکریپشن ایجاد و از این لینک سابسکریپشن به تعدادی کانفیگ ویتوری که روی همه اپراتور ها جواب میده متصل میشیم.
+
+ https://www.youtube.com/watch?v=QpZEM2Th2Nk
+
+install pannel chini
+
+bash <(curl -Ls https://raw.githubusercontent.com/yonggekkk/x-ui-yg/main/install.sh)
+
+
+https://VMess.fxxk.dedyn.io/sub?host=SubDomain&uuid=idConfig&path=/
+
+
+
+https://www.cloudflare.com/ips-v6/#
+
+https://drunkleen.github.io/ip-scanner/
+
+هر سطر بردار  
+وارد سایت اسکنر شو
+تو‌اون قسمت مشخص شده بزار
+start بزن
+
+
+
+چون ip6
+باید داخل  
+[   ]
+باشه
+ 
+ 
 
 # Rethink 
 

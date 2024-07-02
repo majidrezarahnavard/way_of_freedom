@@ -112,3 +112,13 @@ Updated :
 
 https://github.com/lowercase78/V2RayN-PRO/releases/tag/V2RayN-PROV1.3.1-Pre
 
+# netmod
+
+برای وارد کردن کانفیگها خیلی اوقات v2ray
+اذیت میکنه یک مدت netmod
+تست کردم این کانفیگ درست کردم توی v2ray
+نتونستم وارد کنم توی netmod راحت وارد شد قسمت setting
+داره علاوه بر کلاینت ssh عالی کلاینت جایگزین v2ray هست
+
+
+[twitter](https://x.com/horizonbehind2/status/1808199038979739941)

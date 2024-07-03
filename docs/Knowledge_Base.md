@@ -34,3 +34,6 @@
 
 
 [کانال تلگرام  اتومات محتوای توییتر بچه های ساید IT](https://t.me/Ghost_Resisters)
+
+
+[گروه پرنده های آزاد](https://t.me/freeebirdss/)

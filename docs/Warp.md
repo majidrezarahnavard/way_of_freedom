@@ -18,9 +18,8 @@
 
 # Warp on Warp
 
-[ دور زدن رایگان فیلترینگ با ساخت یک کانفیگ شخصی Warp on Warp](https://www.youtube.com/watch?v=SJWf_XsWiA4)
+[AminiYT](https://www.youtube.com/watch?v=w4dtN22YCi8)
 
-[warp-on-warp](https://www.youtube.com/watch?si=bJq3Wn6bxD9wNruP&v=VnsjxHl41mU&feature=youtu.be)
 
 [github.com Elfiinaa](https://github.com/Elfiinaa/ConfigFiles/blob/main/WoW/WarpOnWarp-HiddifyNext.json)
 
@@ -37,9 +36,7 @@ ifp=5-10
 warp://auto/?ifp=5-10
 ```
 
-[Warp-on-Warp](https://www.youtube.com/watch?v=tlxeXvBdZ84)
 
-[AminiYT](https://www.youtube.com/watch?v=w4dtN22YCi8)
 
 # warp
 

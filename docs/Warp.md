@@ -377,3 +377,13 @@ bash -c "$(curl -fsSL https://raw.githubusercontent.com/NiREvil/WLG/main/install
 
 https://github.com/NiREvil/WLG
 
+
+
+# warp plus
+
+به تعداد نامحدود key برای وارپ پلاس بگیرید و نیاز به کانال تلگرام ندارید.
+
+
+
+https://replit.com/@misaka-blog/warp-plus-keygen?v=1#main.sh
+

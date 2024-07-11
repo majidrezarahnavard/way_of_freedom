@@ -727,3 +727,16 @@ https://github.com/radkesvat/WaterWall
 
 # VXLAN
 آموزش تانل VXLANروی پنل3X-UI ثنایی                                                                              https://youtu.be/61TXJpKKENo
+
+
+
+# آموزش تانل MUX با هسته ی واتروال-SIXTININELEARN 
+
+https://www.youtube.com/watch?v=sn0-ABfIcx4&feature=youtu.be
+
+
+#  آموزش تانل FDB به روش VXLAN با سرعت بالا و پینگ پایین-SIXTININELEARN 
+
+سلام رفقا توی این ویدیو قراره بهتون یاد بدم چجوری خیلی راحت با استفاده  تانل FDB به روش VXLAN  بین سرور ایران و خارجمون تانل برقرار کنیم.
+
+https://www.youtube.com/watch?v=plLaMeenEMI

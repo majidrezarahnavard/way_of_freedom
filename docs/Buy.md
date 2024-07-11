@@ -278,3 +278,6 @@ I explained the easy installation of WordPress
 https://ivpn.pro/server/what-you-should-know-before-buying-a-vps-for-vpn/
 
 
+#  آموزش خرید سرور و دامنه و ساخت فیلترشکن برای افراد مبتدی 
+
+https://www.youtube.com/watch?v=B0CteWgIEus

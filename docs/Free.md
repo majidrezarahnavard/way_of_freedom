@@ -190,3 +190,16 @@ http://raw.githubusercontent.com/ysmoradi/sub/main/customs.json
 
 استفاده کنید
 
+# free-sub-link
+https://github.com/coldwater-10/free-sub-link
+
+لینکای اشتراک:
+
+(آپدیت دستی)
+
+همراه اول
+
+ایرانسل
+
+هیستریا2
+

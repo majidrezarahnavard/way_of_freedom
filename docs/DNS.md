@@ -479,3 +479,13 @@ https://youtu.be/DRLVA9ZHKw4?si=nmCZKGbAUFZgY1sa
 
 [twitter](https://threadreaderapp.com/thread/1802054041729487253.html)
 
+# DNS for hiddify
+
+quic://dns.adguard-dns.com
+quic://family.adguard-dns.com 
+quic://unfiltered.adguard-dns.com 
+quic://dns.futuredns.me 
+quic://doh.tiar.app 
+quic://dandelionsprout.asuscomm.com:48582
+
+tls://8.8.4.4

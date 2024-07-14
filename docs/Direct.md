@@ -218,3 +218,26 @@ https://ivpn.pro/how-to/how-to-make-vpn-by-cloudflare-tunnel/
 
 [youtube](https://www.youtube.com/watch?v=4DEHm77F-mo)
 
+
+
+# آموزش ساخت VPN با Hysteria2 در پنل S-UI، بدون نیاز به دامنه!
+
+https://t.me/ircfspace/656
+
+https://ivpn.pro/how-to/how-to-use-hysteria2-on-s-ui-panel/
+
+kevinzakarian
+
+🔍 ircf.space/linkbox.php
+@ircfspace
+
+در این مقاله ابتدا پنل S-UI که بر مبنای هسته‌ی Sing-Box است را نصب می‌کنیم سپس یک کانفیگ با Hysteria 2 می‌سازیم و در نهایت کانفیگ را در اپلیکیشن‌های Sing-box و Hiddify و Karing تست خواهیم کرد.
+
+مواد لازم:
+
+    سرور مجازی شخصی (VPS) با IP تمیز.
+    دامنه: نیاز ندارد
+
+
+
+

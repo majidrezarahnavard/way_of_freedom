@@ -489,3 +489,12 @@ quic://doh.tiar.app
 quic://dandelionsprout.asuscomm.com:48582
 
 tls://8.8.4.4
+
+
+
+# DNS finder
+
+وقت تو با ارزشه ، دور زدن تحریم رو بسپار به ابزارها
+
+https://403unlocker.netlify.app
+

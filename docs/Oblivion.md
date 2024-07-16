@@ -150,3 +150,16 @@ https://github.com/bepass-org/oblivion-desktop/releases/tag/v0.9.5-beta
 http://github.com/bepass-org/oblivion-desktop
 http://github.com/bepass-org/oblivion-desktop/issues
 
+# endpoint
+
+
+دوستانی که همراه اول دارن با فعال کردن IPv6 میتونید از اندپوینت‌های v6 برای اتصال به اوبلیویون استفاده کنید..
+
+به عنوان مثال‌ اندپوینت زیر رو همین الان تست کردم و وصله
+
+[2606:4700:d0:0:799c:392:47ed:bf4e]:955
+
+https://t.me/myuploadch/244
+
+https://threadreaderapp.com/thread/1812863559505735749.html
+

@@ -747,4 +747,13 @@ https://www.youtube.com/watch?v=plLaMeenEMI
 
 https://www.youtube.com/watch?v=xAMd9DFZpQw
 
+
+
+#  آموزش تانل ترکیبی MIX با سرعت بالا -SIXTININELEARN 
+
+
+ سلام رفقا توی این ویدیو قراره بهتون یاد بدم چجوری خیلی راحت با استفاده از یکی دیگه از روش های تانل که MIX اسمشو گذاشتم تانل ترکیبی بین سرور ایران و خارجتون ایجاد کنین با سرعت بالا.
+
+ https://www.youtube.com/watch?v=5WqzMEzvgrU
+
  

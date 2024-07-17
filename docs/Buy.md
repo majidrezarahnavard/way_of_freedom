@@ -281,3 +281,13 @@ https://ivpn.pro/server/what-you-should-know-before-buying-a-vps-for-vpn/
 #  آموزش خرید سرور و دامنه و ساخت فیلترشکن برای افراد مبتدی 
 
 https://www.youtube.com/watch?v=B0CteWgIEus
+
+
+
+# جدیدترین روش ساخت اکانت هتزنر والتر لینود و دیجیتال اوشن(تضمینی)-SIXTININELEARN
+
+https://youtu.be/gfJtt33zlKs
+
+
+سلام رفقا توی این ویدیو قراره بهتون یاد بدم چجوری خیلی راحت با پرداخت کریپتو اکانت های هتزنر والتر لینود و دیجیتال اوشن خودتونو داشته باشین.
+

@@ -244,3 +244,13 @@ https://www.youtube.com/watch?v=Rm7P1cEkyIM
 ⭐️ https://github.com/GFWFuckers/MarzGosha/releases/tag/v1.1.0
 
 @MarzGosha
+
+
+#  دستیار همه کاره سرور با امکانات فوق العاده 
+
+دستیار سرور / دستیار همه کاره سرور / حذف پینگ سرور / نصب پنل فیلترشکن / آموزش سرور / چندی از کلمات کلیدی این ویدیو هستن 
+
+
+https://www.youtube.com/watch?v=3ZqsUNuhgvY
+
+

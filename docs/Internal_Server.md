@@ -757,3 +757,11 @@ https://www.youtube.com/watch?v=xAMd9DFZpQw
  https://www.youtube.com/watch?v=5WqzMEzvgrU
 
  
+
+ #  سرعت نور با تانل GENEV UDP به روش آزومی-SIXTININELEARN 
+
+ سلام رفقا توی این ویدیو قراره بهتون یاد بدم چجوری خیلی راحت با استفاده از تانل GENEV UDP بین سرور ایران و خارجتون تانل برقرار کنید. 
+
+ https://www.youtube.com/watch?v=HqC2hYuh2_o
+
+ 

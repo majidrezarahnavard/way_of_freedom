@@ -411,3 +411,12 @@ https://x.com/Eagle_1157/status/1813082144971059316
 https://www.youtube.com/watch?v=rUeDUbXE334&t=214s
 
 
+# آموزش کوتاه ساخت کانفیگ هیدی فای
+
+آموزش کوتاه ساخت کانفیگ هیدی فای به یاد یوسف_قبادی و سگارو💙🫶
+(نام برنامه termux است برای وارد کردن لینک)
+
+bash <(curl -fsSL https://raw.githubusercontent.com/Ptechgithub/warp/main/endip/install.sh)
+
+
+https://x.com/amirparsaxs/status/1814603051451183500

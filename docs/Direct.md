@@ -35,6 +35,14 @@
 
 [ آموزش ساخت brook vpn با ایپی فیلتر شده و کلودفلر ](https://www.youtube.com/watch?v=1AVXSNQdJtg)
 
+
+طبق روال سابق خودم و با توجه به آموزش لینکی که قرار دادم یه اسکریپت نصب راحت و بی دردسر برای Brook نوشتم روی سرور شخصی به همراه سرویس فایل و Uninstaller و ...
+https://github.com/deathline94/brook-installer
+در حال حاضر فقط پروتوکل ساده بروک رو نوشتم و ws , wss رو اضافه نکردم (شاید اضافه هم نکنم)
+
+
+https://x.com/NamelesGhoul/status/1814992046928642074
+
 ## Amnezia VPN
 
 [ آموزش نصب و کانفیگ Amnezia VPN روی سرور (نصب ساده با پینگ مناسب - مناسب ترید) ](https://www.youtube.com/watch?v=JIgMNK_oQYk)

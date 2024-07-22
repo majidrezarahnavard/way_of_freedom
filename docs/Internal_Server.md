@@ -765,3 +765,12 @@ https://www.youtube.com/watch?v=xAMd9DFZpQw
  https://www.youtube.com/watch?v=HqC2hYuh2_o
 
  
+
+
+ #  آموزش تانل BGP4 با هسته ی واتروال-SIXTININELEARN 
+
+ سلام رفقا توی این ویدیو قراره بهتون یاد بدم چجوری خیلی راحت با استفاده یک اسکریپت کاربردی تانل BGP4  با هسته ی WATERWALL بین سرور ایران و خارجتون برقرار کنید.
+
+https://www.youtube.com/watch?v=iXs3Vo5vu2w
+
+

@@ -774,3 +774,9 @@ https://www.youtube.com/watch?v=xAMd9DFZpQw
 https://www.youtube.com/watch?v=iXs3Vo5vu2w
 
 
+
+# آموزش تانل DIRECT REALITY با هسته ی واتروال     
+
+سلام رفقا توی این ویدیو قراره بهتون یاد بدم چجوری خیلی راحت با استفاده یک اسکریپت کاربردی تانل DIRECT REALITY  با هسته ی WATERWALL بین سرور ایران و خارجتون برقرار کنید.
+
+https://youtu.be/pQZWbNs7RIc

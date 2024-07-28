@@ -467,3 +467,15 @@ https://dailydigitalskills.online/bulk-address-changer/
 
 
 https://www.youtube.com/watch?v=wdgTL0i_JsY
+
+
+# ISP-Blocker
+
+ آموزش کامل ISP-Blocker و قطع دسترسی برخی اپراتور ها به سرور و کانفیگ ویتوری 
+
+
+ در این ویدیو نحوه استفاده از IR-ISP-Blocker به شما اموزش میدیم تا بتوانید به راحتی دسترسی اپراتور مد نظرتون رو به سرورتون ببندید و امنیت سرورتون رو افزایش بدید.
+
+ https://www.youtube.com/watch?v=N_XQ8Eq-cCA
+
+ 

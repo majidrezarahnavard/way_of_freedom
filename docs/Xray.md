@@ -38,4 +38,18 @@ https://github.com/GFW-knocker/MahsaNG/releases
 https://t.me/v2rayiranioriginal
 
 
+ مقایسه هسته ی جدید v2ray pro با v2ray 
+
 https://www.youtube.com/watch?v=WV_Bs6mvh1E
+
+V2RayN-PROV1.4
+
+اینم نسخه جدید ..
+
+به روزرسانی هسته ایکس ری (ناکر) 👌
+به روزرسانی اپلیکیشن v2rayN به آخرین نسخه
+
+این نسخه با پنل BPB هم تست شده و عالی جواب میده ، حتی اگه دامنه فیلتر شده باشه..
+
+https://github.com/lowercase78/V2RayN-PRO/releases
+

@@ -538,3 +538,13 @@ paskoocheh-android@paskoocheh.com
 
 https://x.com/PasKoocheh/status/1818570780113830311
 
+
+# softhervpn
+
+
+موزش استفاده از فیلترشکن softhervpn برای عبور یلترینگ در ویندوز و کانفیگهای جدا سایت سازنده قابل استفاده در اندروید , ios
+در شرایط سخت 1401 خوب کار میکرد.یک پروژه دانشگاهی درژاپن بوده.سرعت خوبی داره
+
+
+https://threadreaderapp.com/thread/1818646418439217155.html
+

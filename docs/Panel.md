@@ -34,6 +34,15 @@ An Advanced Web Panel • Built on SagerNet/Sing-Box
 https://youtu.be/-wOtg_JFHrM
 
 
+
+ ساخت کانفیگ Hysteria2 بدون دامنه پرسرعت روی پنل S-UI 
+
+
+پنل S-UI علیرضا که به تازگی ساخته شده قابلیت های زیادی داره از جمله ساخت کانفیگ هیستریا (Hysteria2) که بدون استفاده از دامنه این اجازه رو به ما میده تا بتونیم کانفیگ بسازیم
+
+https://www.youtube.com/watch?v=UmdJAg8Zmh4
+
+
 ## BPB + Worker Serverless + Fragment
 
 

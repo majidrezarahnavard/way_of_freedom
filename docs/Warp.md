@@ -194,6 +194,17 @@ a simple tool that automatically collects 15 WARP+ Keys once every hour.
 [sub](https://raw.githubusercontent.com/ircfspace/warpkey/main/list)
 
 
+# warp +
+
+اینم یه api برای دریافت کلید warp+ ✌️
+
+https://warp.meower1.dev
+GET https://warp.meower1.dev/api
+
+از کانال تلگرامی قفندر
+
+
+
 #  WARP دسترسی به اینترنت آزاد بدون سرور و دامین به صورت رایگان 
   
 توی این ویدیو، به شما نحوه دسترسی به اینترنت بدون محدودیت و به صورت رایگان رو با استفاده از اپلیکیشن Hiddify و یک کانفیگ کاستوم برای WARP از سرویس Cloudflare رو توضیح میدم.

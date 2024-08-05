@@ -456,3 +456,10 @@ https://www.youtube.com/watch?v=yVEp2jA00eQ
 
  
 https://telegra.ph/%D8%B3%D8%A7%D8%AE%D8%AA-%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF-WARP--WARP-ON-WARP-08-02
+
+
+# warp on server
+
+اگه کانفیگ vless دارین و سرورتون فیلتره یا حتی اگه فیلتر نیست میتونید با وارپ بهش وصل بشین ، اینطوری با وارپ وصلین ولی ip سرور خودتون رو دارین
+
+https://t.me/myuploadch/168

@@ -468,3 +468,23 @@ https://t.me/myuploadch/168
 
 vless://........ & & detour warp://auto
 
+
+
+# وارپ اسکنر
+
+پیدا کردن آیپی تمیز با ترموکس
+
+• اسکنر misaturo
+bash <(curl -Ls https://raw.githubusercontent.com/MiSaturo/WarpScanner/main/point/endip.sh)
+• اسکنر پیمان
+bash <(curl -fsSL https://raw.githubusercontent.com/Ptechgithub/warp/main/endip/install.sh)
+• اسکنر misaka
+bash <(curl -fsSL https://raw.githubusercontent.com/TheyCallMeSecond/WARP-Endpoint-IP/main/ip.sh)
+• اسکنر عرشیا
+bash <(curl -fsSL https://raw.githubusercontent.com/arshiacomplus/WarpScanner/main/install.sh
+)
+
+همه موارد بالا رو تو توی ترموکس باید وارد بشن
+
+
+

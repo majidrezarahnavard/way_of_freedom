@@ -71,20 +71,6 @@ RT @Server_5oo (https://twitter.com/Server_5oo): آموزش استفاده از 
 
 https://t.me/Ghost_Resisters/421
 
-# wireguard patched
-
-روش wireguard patched وایگارد -> سرور
-
-پنل ثنایی (سرور) + کانفیگ Vless + هدیفای (کلاینت) + وارپ
-
-این روش یک سرور می خواهد. دامنه یا ای پی کثیف کافیه.
-خوبیش اینکه با روش وایگارد ای پی خودتون می افته و اگر هم فیلتر بشه ای پی وایگارد فیلتر میشه
-
-https://invidious.poast.org/watch?v=TS09YzcTIb4&t=867s
-
-
-
-
 
 #  amnezia
 
@@ -211,33 +197,3 @@ paste
 برای دانلود از این لینک استفاده کنید
 
 [github](https://github.com/celzero/rethink-app/releases)
-
-
-
-# shadowtls + wireguards
-
-
-
-با اسکریپت @aleskxyz (https://twitter.com/aleskxyz) 
-اول shadowtls رو نصب کنید روی سرور.
-وارپ رو با هدیفای @hiddify_com (https://twitter.com/hiddify_com) بزارید، ای پی سرور فیلتر نشه.
-
-اسکریپت
-https://github.com/aleskxyz/reality-ezpz
-
-آموزش قدیمی
-https://invidious.poast.org/T_p9VqngfY8?si=BKgfJr7P-TD_2tlO
-
-روش های وایرگارد
-filtershekan.sbs/Wireguard/
-
-
-
-کانفیگ IPV6 رو هم تست کنید
-
-bash <(curl -sL https://bit.ly/realityez) -m
-
-bash <(curl -sl https://raw.githubusercontent.com/aleskxyz/reality-ezpz/master/reality-ezpz.sh) -m 
-configuration -> transport -> shadowtls
-configuration -> security -> self sign
-3 view user -> Qrcode

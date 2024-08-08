@@ -788,3 +788,15 @@ https://youtu.be/pQZWbNs7RIc
 
 https://www.youtube.com/watch?v=B9zhpvHXA-Q
 
+
+
+ # آموزش تانل سرور در پنل S-UI به روش های مختلف
+
+🔸ویدیو آموزش تانل سرور در پنل S-UI به روش های مختلف آماده شده که در این ویدیو هم از قابلیت های خود پنل استفاده شده هم اسکریپت ثانویه.
+
+🔗 تماشا ویدیو در یوتیوب 👇👇
+https://youtu.be/k9r3YXaw6rg
+✨
+✨
+#تانل #tunnel #sui
+Image

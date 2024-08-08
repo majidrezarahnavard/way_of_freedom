@@ -1,33 +1,24 @@
 # الان
 
+#  آپدیت حفن هیدیفای منیجر و هیدیفای نکست به همراه اموزش ایپی تمیز روی CDN 
 
-# shadowtls + wireguards
-
-
-
-با اسکریپت @aleskxyz (https://twitter.com/aleskxyz) 
-اول shadowtls رو نصب کنید روی سرور.
-وارپ رو با هدیفای @hiddify_com (https://twitter.com/hiddify_com) بزارید، ای پی سرور فیلتر نشه.
-
-اسکریپت
-https://github.com/aleskxyz/reality-ezpz
-
-آموزش قدیمی
-https://invidious.poast.org/T_p9VqngfY8?si=BKgfJr7P-TD_2tlO
-
-روش های وایرگارد
-filtershekan.sbs/Wireguard/
+سرور و دامنه لازم داره، تمام کانفیگ ها رو با یوزر منیجیمت می سازه و به طور اتوماتیک با هیدیفای نکست می تونید بهترین رو انتخاب کنید. در نهایت هم می تونید یک کانفیگ وایرگاد رو لایه آخر بزارید.
 
 
 
-کانفیگ IPV6 رو هم تست کنید
+سلام رفقا امیدوارم حال دلتون عالی باشه تو این ویدیو اپدیت هیدیفای رو براتون بررسی کردم که خدایی پنل درجه یکیه امیدوارم که ازش استفاده کنید
 
-bash <(curl -sL https://bit.ly/realityez) -m
+https://www.youtube.com/watch?v=5ci368REwxg
 
-bash <(curl -sl https://raw.githubusercontent.com/aleskxyz/reality-ezpz/master/reality-ezpz.sh) -m 
-configuration -> transport -> shadowtls
-configuration -> security -> self sign
-3 view user -> Qrcode
+
+
+
+
+# ترکیب هیستوریا با وایرگاد
+
+خیلی خفن میشه هم ابتدا هم انتها میشه قرار داد. آموزش خاصی نداره توی تنظیمات hiddify وایرگارد را روشن کن 😂 کوتاه مختصر و مفید 
+
+https://x.com/amin_o__o/status/1819295120585339175
 
 
 # روش مستقیم کلود فلیر
@@ -220,3 +211,33 @@ paste
 برای دانلود از این لینک استفاده کنید
 
 [github](https://github.com/celzero/rethink-app/releases)
+
+
+
+# shadowtls + wireguards
+
+
+
+با اسکریپت @aleskxyz (https://twitter.com/aleskxyz) 
+اول shadowtls رو نصب کنید روی سرور.
+وارپ رو با هدیفای @hiddify_com (https://twitter.com/hiddify_com) بزارید، ای پی سرور فیلتر نشه.
+
+اسکریپت
+https://github.com/aleskxyz/reality-ezpz
+
+آموزش قدیمی
+https://invidious.poast.org/T_p9VqngfY8?si=BKgfJr7P-TD_2tlO
+
+روش های وایرگارد
+filtershekan.sbs/Wireguard/
+
+
+
+کانفیگ IPV6 رو هم تست کنید
+
+bash <(curl -sL https://bit.ly/realityez) -m
+
+bash <(curl -sl https://raw.githubusercontent.com/aleskxyz/reality-ezpz/master/reality-ezpz.sh) -m 
+configuration -> transport -> shadowtls
+configuration -> security -> self sign
+3 view user -> Qrcode

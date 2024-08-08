@@ -227,3 +227,9 @@ https://play.google.com/store/apps/details?id=com.MahsaNet.MahsaNG&hl=en
 
 
 https://t.me/myuploadch/204
+
+
+# singbox
+
+https://www.youtube.com/watch?si=AfSxdVK3PJUnXe2i&v=-ZBvxI32mro&feature=youtu.be
+

@@ -174,3 +174,40 @@ hash میشه رمز ورکر
 
 https://threadreaderapp.com/thread/1821626840911401031.html
 
+
+
+# ساخت کانفیگ توسط ورکر bepass uoosef 
+
+ساخت کانفیگ توسط ورکر bepass uoosef 
+
+
+۱.‌ از یکی از لینک های زیر پلاگین bepass رو دانلود کنید
+
+•  https://github.com/bepass-org/nekobepass/releases
+
+•  https://fdroid.noql.net/
+
+۲. پلاگین رو داخل برنامه نکوباکس (https://github.com/MatsuriDayo/NekoBoxForAndroid/releases) فعال کنید 
+
+۳. وارد لینک زیر بشید و فایل worker (https://github.com/bepass-org/bepass-worker/blob/main/dist/worker.js) رو دانلود کنید
+
+• https://github.com/bepass-org/bepass-worker
+
+۴. به کلودفلر (https://dash.cloudflare.com/) برید و یک ورکر بسازید وفایل رو داخلش اپلود کنید
+
+۵. ورکر خودتون رو در فرمت زیر قرار دهید 
+
+https://name.workers.dev/dns-query
+
+• /dns-query 
+
+۶. فایل خامی که باید در اخر ادرس worker خودتونو داخلش قرار بدید  داخل لینک زیر هستش 
+
+
+• https://rentry.co/bepass
+چنتا کانفیگ آماده هم برای استفاده هست 
+
+آموزشای بیشتر.... (https://t.me/darkness_427)
+
+https://t.me/darkness_427/223
+

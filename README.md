@@ -36,6 +36,7 @@
 
 [ترکیب های امین](https://threadreaderapp.com/user/amin_o__o)
 
+[آموزش های استارلینک](https://www.starlink4iran.com/)
 
 # فهرست مطالب
 

@@ -122,3 +122,18 @@ https://github.com/lowercase78/V2RayN-PRO/releases/tag/V2RayN-PROV1.3.1-Pre
 
 
 [twitter](https://x.com/horizonbehind2/status/1808199038979739941)
+
+
+# sing-box-batch 
+
+این فایل bat برای راحتی استفاده از Sing-box در ویندوز طراحی شده است.
+
+    کافی است آخرین ورژن برنامه را از بخش Release دانلود کرده
+    از حالت زیپ و فشرده خارج کرده
+    بر روی Sing-box.bat کلیک کنید تا اجرا شود.
+
+توسط Sing-box Batch File می‌تونین به‌سادگی از هسته سینگ‌باکس در سیستم‌عامل ویندوز استفاده کنین. 
+
+
+https://github.com/HajPasha/sing-box-batch
+

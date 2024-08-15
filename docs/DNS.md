@@ -547,3 +547,16 @@ udp://4.2.2.1
 
 
 https://x.com/amirparsaxs/status/1822374145142775927
+
+
+# DNS
+
+دی ان اس خوب این چند وقت:
+tls://4.4.4.4
+udp://208.67.222.222
+tcp://1.0.0.1
+udp://64.6.64.6
+
+https://x.com/amirparsaxs/status/1823781039954854173
+
+

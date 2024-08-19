@@ -211,3 +211,10 @@ https://github.com/coldwater-10/free-sub-link
 فرض مگیریم سیستم تازه  خریداری کردید و هیچ  وی پی انی روی اون نصب نیست فقط کافیه  یه سرور از vpngate.net  قسمت  ms sstp  در vpn seting  ویندوز  تایپ کنید و نوع وی پی ان رو sstp بزارید   یوزر نیم و پسورد هم که vpn هستش
 
 https://t.me/wbnet/94106
+
+
+# https://t.me/F_NiREvil
+
+برای آزادی ...
+
+کانال

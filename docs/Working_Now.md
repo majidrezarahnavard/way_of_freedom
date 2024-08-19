@@ -72,7 +72,9 @@ start بزن
 [   ]
 باشه
  
- 
+ https://cloudflare-scanner.vercel.app/
+
+ای پی سفید کلود فلیر رو جایگزین کنید متصل میشود
 
 # Rethink 
 

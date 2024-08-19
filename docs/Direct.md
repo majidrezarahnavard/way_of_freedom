@@ -293,3 +293,8 @@ https://threadreaderapp.com/thread/1822538968539250771.html
 آی پی فیلتر / استفاده از آی پی فیلتر / ای پی فیلتر در کانفیگ / روش جدید اسکن آی پی سالم / آی پی سالم کلودفلر / چندی از کلمات کلیدی این ویدیو هستن :)
 
 https://www.youtube.com/watch?v=tGZ8gX45uyw
+
+https://github.com/hossein-mohseni/CF-Web/blob/main/domains.json
+
+https://check-host.net/check-ping?host=www.vinatech.ir
+

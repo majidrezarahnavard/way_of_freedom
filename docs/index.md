@@ -144,6 +144,23 @@
     </a>
 
 
+    <a href="Knowledge_Base">
+
+        <article class="hentry">
+        <header class="entry-header">
+        <div class="entry-thumbnail">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Persian-encyclopedia.jpg/300px-Persian-encyclopedia.jpg" alt="Knowledge Base"/>
+        </div>
+        <h2 class="my_title">دانشنامه</h2>
+        <p class="my_text">
+            سایر دانشنامه های اتصال به اینترنت آزاد
+        </p>
+        </header>
+        </article>
+
+    </a>
+
+
     <a href="Wireguard">
         <article class="hentry">
         <header class="entry-header">

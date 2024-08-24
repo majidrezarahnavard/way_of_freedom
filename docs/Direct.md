@@ -90,6 +90,12 @@ https://threadreaderapp.com/thread/1757093989616947356.html
 [ترکیب hysteria2 با فرگمنت یا وایرگارد برای عبور از فیلترینگ!](https://telegra.ph/%D8%AA%D8%B1%DA%A9%DB%8C%D8%A8-hysteria2-%D8%A8%D8%A7-fragment-%D9%88-%D9%88%D8%A7%DB%8C%D8%B1%DA%AF%D8%A7%D8%B1%D8%AF-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B9%D8%A8%D9%88%D8%B1-%D8%A7%D8%B2-%D9%81%DB%8C%D9%84%D8%AA%D8%B1%DB%8C%D9%86%DA%AF-03-13)
 
 
+نصب hysteria2 از نوع ECH بر روی سرور مجازی بدون نیاز به نصب هیچ گونه پنلی بر پایه sing-box فقط با یک اسکریپت
+
+https://threadreaderapp.com/thread/1827368756596895887.html
+
+
+
 
 # H-UI
 

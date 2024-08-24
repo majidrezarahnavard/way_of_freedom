@@ -20,6 +20,8 @@
 * [مجیدرضا رهنورد](https://www.youtube.com/watch?v=N3Yo009a7Uc)
 
 
+# دسته بندی ها
+
 <div class="grid">
 
 
@@ -55,7 +57,37 @@
     </a>
 
 
-    
+    <a href="Best">
+        <article class="hentry">
+        <header class="entry-header">
+        <div class="entry-thumbnail">
+            <img src="https://serialtrainer7.com/wp-content/uploads/2018/08/best-of-the-best-image.png" alt="Best"/>
+        </div>
+        <h2 class="my_title">Best</h2>
+        <p class="my_text">
+            بهترین روش های اتصال به اینترنت آزاد
+        </p>
+        </header>
+        </article>
+    </a>
+
+
+    <a href="Direct">
+
+        <article class="hentry">
+        <header class="entry-header">
+        <div class="entry-thumbnail">
+            <img src="https://www.technipages." alt="Direct"/>
+        </div>
+        <h2 class="my_title">Direct</h2>
+        <p class="my_text">
+            روش هایی که با یک سرور به طور مستقیم وصل می شوند.
+        </p>
+        </header>
+        </article>
+
+    </a>
+
 
 
 

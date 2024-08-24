@@ -1,7 +1,6 @@
 # سایت جامع فیلترشکن
 
-##   روش‌های اتصال به اینترنت آزاد 
-
+##   روش‌های اتصال به اینترنت آزاد
 
 
 در این مستندات سعی بر این که تمام روش های موثر برای اتصال به اینترنت آزاد جمع آوری گردد.
@@ -26,9 +25,21 @@
 [مجیدرضا رهنورد](https://www.youtube.com/watch?v=N3Yo009a7Uc)
 
 
-# دسته بندی ها روش ها
-
 <div class="grid">
+
+    <a href="Fragment">	
+        <article class="hentry">
+        <header class="entry-header">
+        <div class="entry-thumbnail">
+            <img src="https://f4.bcbits.com/img/a0959131344_16.jpg" alt="Fragment"/>
+        </div>
+        <h2 class="my_title">Fragment</h2>
+        <p class="my_text">
+            در این روش پکیت ها تکه تکه می شوند و نیاز به دامنه و سرور کثیف هست 
+        </p>
+        </header>
+        </article>
+    </a>	
 
 
     <a href="DNS">	
@@ -39,22 +50,7 @@
         </div>
         <h2 class="my_title">DNS</h2>
         <p class="my_text">
-        یکی از شایع ترین مشکلات DNS هست . در اینجا آموزش کامل داده شده است.	
-        </p>
-        </header>
-        </article>
-    </a>
-
-
-    <a href="Gcore>
-        <article class="hentry">
-        <header class="entry-header">
-        <div class="entry-thumbnail">
-            <img src="https://mma.prnewswire.com/media/1992970/Gcore_Logo.jpg?w=200" alt="Gcore"/>
-        </div>
-        <h2 class="my_title">Gcore</h2>
-        <p class="my_text">
-            می توانید Gcore , fastly , cloudflare رو با هم ترکیب کنید و از اینترنت آزاد استفاده کنید
+            رد کردن فیلترینگ با DNS و اینکه چجوری DNS شخصی خودمان را بسازیم	
         </p>
         </header>
         </article>
@@ -66,27 +62,12 @@
         <article class="hentry">
         <header class="entry-header">
         <div class="entry-thumbnail">
-                <img src="https://cdn.technadu.com/wp-content/uploads/2018/04/Cloudflare-1.1.1.1-A-Fast-And-Private-Consumer-DNS-Service-775xx.png" alt="CloudFlare"/>
+                <img src="https://cdn.technadu.com/wp-content/uploads/2018/04/Cloudflare-1.1.1.1-A-Fast-And-Private-Consumer-DNS-Service-775xx.png" alt="CloudFlare White IP"/>
         </div>
             <h2 class="my_title">CloudFlare White IP</h2>
             <p class="my_text">
                 روش هایی برای یافتن آی پی سفید کلودفلیر یا دامنه های کلودفلیر
             </p>
-        </header>
-        </article>
-    </a>
-
-
-    <a href="Best">
-        <article class="hentry">
-        <header class="entry-header">
-        <div class="entry-thumbnail">
-            <img src="https://serialtrainer7.com/wp-content/uploads/2018/08/best-of-the-best-image.png" alt="Best"/>
-        </div>
-        <h2 class="my_title">Best</h2>
-        <p class="my_text">
-        بهترین روش های موجود برای ساخت فیلترشکن
-        </p>
         </header>
         </article>
     </a>
@@ -487,21 +468,8 @@
         </p>
         </header>
         </article>
-    </a>
 
-    <a href="Fragment">	
-        <article class="hentry">
-        <header class="entry-header">
-        <div class="entry-thumbnail">
-            <img src="https://f4.bcbits.com/img/a0959131344_16.jpg" alt="Fragment"/>
-        </div>
-        <h2 class="my_title">Fragment</h2>
-        <p class="my_text">
-            در این روش پکیت ها تکه تکه می شوند و نیاز به دامنه و سرور کثیف هست 
-        </p>
-        </header>
-        </article>
-    </a>	
+    </a>
 
 </div>
 <!-- .grid -->
@@ -542,3 +510,11 @@
 | [Free config](Free) | کانفیگ های رایگان |
 
 
+#  گرم یاد آوری یا نه من از یادت نمی کاهم
+
+* به یاد یوسف قبادی
+* به یاد سگارو
+
+[صحبت های سارینا اسماعیل زاده](https://www.youtube.com/watch?v=gpRnvFZ3vTU&t=52s)
+
+[مجیدرضا رهنورد](https://www.youtube.com/watch?v=N3Yo009a7Uc)

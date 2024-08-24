@@ -25,3 +25,11 @@ https://www.youtube.com/watch?v=hgVqXI_TsVo
 نصب vpnhood بر روی سرور. پروتکل تقریبا سخت شناسایی میشه و موقع دو سال پیش یکی از وی پی ان هایی بود که با سرورهای خودش خوب کار می کرد.اموزش ویدیویی هست سعی کردم خلاصه کردم.اصلا نیازی به وارد شدن به ترمینال لینوکس نیست.از طریق کنسول خودش انجام میشه
 
 https://threadreaderapp.com/thread/1827218348540883236.html
+
+
+# VPNHood
+
+[Github](https://github.com/vpnhood/VpnHood)
+
+[آموزش دور زدن فیلترینگ با VpnHood](https://telegra.ph/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%AF%D9%88%D8%B1-%D8%B2%D8%AF%D9%86-%D9%81%DB%8C%D9%84%D8%AA%D8%B1%DB%8C%D9%86%DA%AF-%D8%A8%D8%A7-VpnHood-03-31)
+

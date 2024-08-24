@@ -204,6 +204,21 @@
         </article>
     </a>
 
+    <a href="Free">
+        <article class="hentry">
+        <header class="entry-header">
+        <div class="entry-thumbnail">
+            <img src="https://pandavpnpro.com/blog/wp-content/uploads/2022/05/free-vpn.jpg" alt="Free"/>
+        </div>
+        <h2 class="my_title">Free Configs</h2>
+        <p class="my_text">
+            کانفیگ های رایگان 
+        </p>
+        </header>
+        </article>
+
+    </a>
+
 
     <a href="Clients">
         <article class="hentry">
@@ -309,7 +324,7 @@
         </article>
     </a>
 
-    <a href="Other#Yebekhe">
+    <a href="Yebekhe">
         <article class="hentry">
         <header class="entry-header">
         <div class="entry-thumbnail">
@@ -324,7 +339,7 @@
     </a>
 
 
-    <a href="Other#Home_Server">
+    <a href="Home_Server">
         <article class="hentry">
         <header class="entry-header">
         <div class="entry-thumbnail">
@@ -339,7 +354,7 @@
     </a>
 
 
-    <a href="Other#Open_VPN">
+    <a href="OpenVPN">
         <article class="hentry">
         <header class="entry-header">
         <div class="entry-thumbnail">
@@ -353,7 +368,7 @@
         </article>
     </a>
 
-    <a href="Other#Brook">
+    <a href="Brook">
         <article class="hentry">
         <header class="entry-header">
         <div class="entry-thumbnail">
@@ -367,7 +382,7 @@
         </article>
     </a>
 
-    <a href="Other#UDP">
+    <a href="UDP">
         <article class="hentry">
         <header class="entry-header">
         <div class="entry-thumbnail">
@@ -484,7 +499,7 @@
     </a>
 
 
-    <a href="Other#Cloak">
+    <a href="Cloak">
         <article class="hentry">
         <header class="entry-header">
         <div class="entry-thumbnail">
@@ -528,36 +543,24 @@
         </article>
     </a>
 
+    <a href="VPNhood">
 
-    <a href="Other#Gcore">
         <article class="hentry">
         <header class="entry-header">
         <div class="entry-thumbnail">
-            <img src="https://www.cdnplanet.com/static/img/gcore-logo-svgomg.svg" alt="Gcore"/>
+            <img src="https://play-lh.googleusercontent.com/uaI3dD2oXRVNECCXbTjcVe05tP-jTGOSUB2VAoR3JEEkHqrdpyNqHW6grKge5elSk2I" alt="VPNhood"/>
         </div>
-        <h2 class="my_title">Gcore</h2>
+        <h2 class="my_title">VPNHOOD</h2>
         <p class="my_text">
-            CDN GCore
+                آموزش کامل فیلترشکن VPNHOOD
         </p>
         </header>
         </article>
     </a>
 
 
-    <a href="Free">
-        <article class="hentry">
-        <header class="entry-header">
-        <div class="entry-thumbnail">
-            <img src="https://pandavpnpro.com/blog/wp-content/uploads/2022/05/free-vpn.jpg" alt="Free"/>
-        </div>
-        <h2 class="my_title">Free Configs</h2>
-        <p class="my_text">
-            کانفیگ های رایگان 
-        </p>
-        </header>
-        </article>
 
-    </a>
+
 
 </div>
 <!-- .grid -->
@@ -579,20 +582,10 @@
 | [مقدماتی](Primary) | اگر هیچ دانشی ندارید و برنامه نویسی و شبکه نمی دانید از این بخش شروع کنید |
 | [اپلیکیشن](Application) | این اپلیکشن ها به صورت مستقیم روی گوشی نصب می شوند و قابل استفاده هستند |
 | [Wireguard](Wireguard) | استفاده از روش وایرگارد برای اتصال به اینترنت |
-| [Bepass](Other#Bepass) | روش های یوسف قبادی برای اتصال به اینترنت آزاد |
 | [پنل ها](Panel) | آموزش پنل مشهور علیرضا و ثنایی و مرزبان و غیره |
-| [Yebekhe](Other#Yebekhe) | جمع آوری کانفیگ ها از کانال ها تلگرام و رتبه بندی آنها |
-| [Home Server](Other#Home_Server) | وقتی داخل یک شرکت یا سازمان هستید به جای اینکه هر کسی یک فیلترشکن اجرا کند یک سیستم مرکزی ایجاد می شه کرد |
-| [Open VPN](Other#Open_VPN) | این روش نیاز به سرور و کلاینت مخصوص خود را دارد|
-| [Brook](Other#Brook) | روش های جدید دورزدن فیلترینگ با استفاده از Brook |
-| [Hysteria 2  and TUIC](Other#UDP) | روش ها بر اساس یو دی پی |
 | [R&D](Research) |  تحقیقات در مورد گریت فایروال و آینده فیلترینگ و تاثیرات فیلترینگ |
 | [Network](Network) | آموزش های پایه درمورد شبکه |
 | [Twitter](Twitter) | نکات امنیتی در توییتر |
 | [Other Learning resouce](Learning) | سایر منابع آموزشی اینترنت آزاد |
 | [Xray](Xray) | آموزش هسته xray |
-| [Cloack](Other#Cloak) | روش کلاک |
-| [NordVPN](Other#NordVPN) | نورد وی پی ان که در لایه آخر امکان استفاده دارد |
-| [Tips](Other#Tips) | تکنیک های موقت برای فریب گریت فایر وال |
-| [Gcore](Other#Gcore) | Gcore CDN |
 | [Free config](Free) | کانفیگ های رایگان |

@@ -196,7 +196,7 @@
         <div class="entry-thumbnail">
             <img src="https://bytegate.io/wp-content/uploads/How-VPN-works.jpg" alt="Internal Server"/>
         </div>
-        <h2 class="my_title">Tunnel</h2>
+        <h2 class="my_title">سرور داخلی</h2>
         <p class="my_text">
             وقتی یک سرور داخلی و یک سرور خارجی دارید از این روش ها استفاده کنید
         </p>
@@ -226,7 +226,7 @@
         <div class="entry-thumbnail">
             <img src="https://www.geekshosted.com/img/altcoins.png" alt="Buy"/>
         </div>
-        <h2 class="my_title">‌Buy server and domain</h2>
+        <h2 class="my_title">خرید سرور و دامنه</h2>
         <p class="my_text">
             خرید سرور و دامنه با رمز ارز
         </p>
@@ -240,7 +240,7 @@
         <article class="hentry">
         <header class="entry-header">
         <div class="entry-thumbnail">
-            <img src="https://www.technadu.com/wp-content/uploads/2022/10/Proxy-Chain-What-Is-It-and-How-Does-It-Work.jpg" alt="Proxy Chain"/>
+            <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*fz_PH-H1xZWUtcl1" alt="Proxy Chain"/>
         </div>
         <h2 class="my_title">Proxy Chain</h2>
         <p class="my_text">
@@ -257,7 +257,7 @@
         <div class="entry-thumbnail">
             <img src="https://teskaco.com/wp-content/uploads/2022/03/%D8%B4%D8%A8%DA%A9%D9%87-1-1.jpg" alt="Server Security"/>
         </div>
-        <h2 class="my_title">Server Security</h2>
+        <h2 class="my_title">امنیت سرور</h2>
         <p class="my_text">
             با این روش ها سرور خود را امن نگه دارید
         </p>
@@ -379,6 +379,22 @@
         </p>
         </header>
         </article>
+    </a>
+
+    <a href="Telegram">
+
+        <article class="hentry">
+        <header class="entry-header">
+        <div class="entry-thumbnail">
+            <img src="https://static1.anpoimages.com/wordpress/wp-content/uploads/2022/03/Telegram-featured.jpg?q=50&fit=crop&w=1100&h=618&dpr=1.5" alt="Telegram"/>
+        </div>
+        <h2 class="my_title">Telegram</h2>
+        <p class="my_text">
+            آموزش های مرتبط با تلگرام
+        </p>
+        </header>
+        </article>
+
     </a>
 
     <a href="Research">

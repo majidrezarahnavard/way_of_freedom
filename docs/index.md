@@ -40,23 +40,6 @@
         </article>
     </a>
 
-
-    
-    <a href="CloudFlare">
-        <article class="hentry">
-        <header class="entry-header">
-        <div class="entry-thumbnail">
-                <img src="https://cdn.technadu.com/wp-content/uploads/2018/04/Cloudflare-1.1.1.1-A-Fast-And-Private-Consumer-DNS-Service-775xx.png" alt="CloudFlare White IP"/>
-        </div>
-            <h2 class="my_title">CloudFlare</h2>
-            <p class="my_text">
-                روش هایی برای یافتن آی پی سفید کلودفلیر یا دامنه های کلودفلیر
-            </p>
-        </header>
-        </article>
-    </a>
-
-
     <a href="Best">
         <article class="hentry">
         <header class="entry-header">
@@ -72,35 +55,60 @@
     </a>
 
 
-    <a href="Direct">
-
+    <a href="Working_Now">
         <article class="hentry">
         <header class="entry-header">
         <div class="entry-thumbnail">
-            <img src="https://www.technipages." alt="Direct"/>
+            <img src="https://allthingsd.com/files/2012/01/Facebook-Like-Button-big.png" alt="Working Now"/>
         </div>
-        <h2 class="my_title">Direct</h2>
+        <h2 class="my_title">Working Now</h2>
+        <p class="my_text">
+            روش هایی که در حال حاضر کار می کنند
+        </p>
+        </header>
+        </article>
+    </a>
+
+    <a href="Direct">
+        <article class="hentry">
+        <header class="entry-header">
+        <div class="entry-thumbnail">
+            <img src="https://www.loadbalancer.org/blog/content/images/size/w1000/2020/05/concept-dsr.gif" alt="Direct"/>
+        </div>
+        <h2 class="my_title">سرور مستقیم</h2>
         <p class="my_text">
             روش هایی که با یک سرور به طور مستقیم وصل می شوند.
         </p>
         </header>
         </article>
-
     </a>
 
 
-
-
-    <a href="Security">
+    <a href="Gcore">
         <article class="hentry">
         <header class="entry-header">
         <div class="entry-thumbnail">
-            <img src="https://teskaco.com/wp-content/uploads/2022/03/%D8%B4%D8%A8%DA%A9%D9%87-1-1.jpg" alt="Server Security"/>
+            <img src="https://mma.prnewswire.com/media/1992970/Gcore_Logo.jpg?w=200" alt="Gcore"/>
         </div>
-        <h2 class="my_title">Server Security</h2>
+        <h2 class="my_title">Gcore</h2>
         <p class="my_text">
-            با این روش ها سرور خود را امن نگه دارید
+            می توانید Gcore , fastly , cloudflare رو با هم ترکیب کنید و از اینترنت آزاد استفاده کنید
         </p>
+        </header>
+        </article>
+    </a>
+
+
+    <a href="CloudFlare">
+        <article class="hentry">
+        <header class="entry-header">
+        <div class="entry-thumbnail">
+                <img src="https://cdn.technadu.com/wp-content/uploads/2018/04/Cloudflare-1.1.1.1-A-Fast-And-Private-Consumer-DNS-Service-775xx.png" alt="CloudFlare White IP"/>
+        </div>
+            <h2 class="my_title">CloudFlare</h2>
+            <p class="my_text">
+                روش هایی برای یافتن آی پی سفید کلودفلیر یا دامنه های کلودفلیر
+            </p>
         </header>
         </article>
     </a>
@@ -120,6 +128,35 @@
         </article>
     </a>
 
+
+    <a href="Application">
+        <article class="hentry">
+        <header class="entry-header">
+        <div class="entry-thumbnail">
+            <img src="https://jahansanatnews.ir/wp-content/uploads/2023/01/%D9%81%DB%8C%D9%84%D8%AA%D8%B1%D8%B4%DA%A9%D9%86.jpeg" alt="Application"/>
+        </div>
+        <h2 class="my_title">اپلیکیشین</h2>
+        <p class="my_text">
+                اپلیکیشن های مختلف برای اندروید و اپل و دسکتاپ
+        </p>
+        </header>
+        </article>
+    </a>
+
+
+    <a href="Wireguard">
+        <article class="hentry">
+        <header class="entry-header">
+        <div class="entry-thumbnail">
+            <img src="https://play-lh.googleusercontent.com/tixGgVipnsaKeGQzykJfgSEhUc_YYMSsr3gwBuPTpXb2F1BKPVzv5OxfCrpS8OAXXh8" alt="Wireguard"/>
+        </div>
+        <h2 class="my_title">Wireguard</h2>
+        <p class="my_text">
+            نصب و راه اندازی وایرگارد
+        </p>
+        </header>
+        </article>
+    </a>
 
     <a href="Warp">
         <article class="hentry">
@@ -149,6 +186,8 @@
         </header>
         </article>
     </a>
+
+
 
 
     <a href="Internal_Server">
@@ -195,6 +234,37 @@
         </article>
     </a>
 
+
+    <a href="Proxy_Chain">
+
+        <article class="hentry">
+        <header class="entry-header">
+        <div class="entry-thumbnail">
+            <img src="https://www.technadu.com/wp-content/uploads/2022/10/Proxy-Chain-What-Is-It-and-How-Does-It-Work.jpg" alt="Proxy Chain"/>
+        </div>
+        <h2 class="my_title">Proxy Chain</h2>
+        <p class="my_text">
+            متصل کردن چندین روش به همدیگر
+        </p>
+        </header>
+        </article>
+
+    </a>
+
+    <a href="Security">
+        <article class="hentry">
+        <header class="entry-header">
+        <div class="entry-thumbnail">
+            <img src="https://teskaco.com/wp-content/uploads/2022/03/%D8%B4%D8%A8%DA%A9%D9%87-1-1.jpg" alt="Server Security"/>
+        </div>
+        <h2 class="my_title">Server Security</h2>
+        <p class="my_text">
+            با این روش ها سرور خود را امن نگه دارید
+        </p>
+        </header>
+        </article>
+    </a>
+
     <a href="Primary">
         <article class="hentry">
         <header class="entry-header">
@@ -209,34 +279,7 @@
         </article>
     </a>
 
-    <a href="Application">
-        <article class="hentry">
-        <header class="entry-header">
-        <div class="entry-thumbnail">
-            <img src="https://jahansanatnews.ir/wp-content/uploads/2023/01/%D9%81%DB%8C%D9%84%D8%AA%D8%B1%D8%B4%DA%A9%D9%86.jpeg" alt="Application"/>
-        </div>
-        <h2 class="my_title">اپلیکیشین</h2>
-        <p class="my_text">
-                اپلیکیشن های مختلف برای اندروید و اپل و دسکتاپ
-        </p>
-        </header>
-        </article>
-    </a>
 
-
-    <a href="Wireguard">
-        <article class="hentry">
-        <header class="entry-header">
-        <div class="entry-thumbnail">
-            <img src="https://play-lh.googleusercontent.com/tixGgVipnsaKeGQzykJfgSEhUc_YYMSsr3gwBuPTpXb2F1BKPVzv5OxfCrpS8OAXXh8" alt="Wireguard"/>
-        </div>
-        <h2 class="my_title">Wireguard</h2>
-        <p class="my_text">
-            نصب و راه اندازی وایرگارد
-        </p>
-        </header>
-        </article>
-    </a>
 
     <a href="Other#Bepass">
         <article class="hentry">
@@ -537,13 +580,3 @@
 | [Tips](Other#Tips) | تکنیک های موقت برای فریب گریت فایر وال |
 | [Gcore](Other#Gcore) | Gcore CDN |
 | [Free config](Free) | کانفیگ های رایگان |
-
-
-#  گرم یاد آوری یا نه من از یادت نمی کاهم
-
-* به یاد یوسف قبادی
-* به یاد سگارو
-
-[صحبت های سارینا اسماعیل زاده](https://www.youtube.com/watch?v=gpRnvFZ3vTU&t=52s)
-
-[مجیدرضا رهنورد](https://www.youtube.com/watch?v=N3Yo009a7Uc)

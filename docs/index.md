@@ -8,8 +8,9 @@
 
 <b>
 مشکلی دارم، زِ دانشمندِ مجلس بازپرس
-</b>
+<br>
 توبه‌فرمایان، چرا خود توبه کم‌تر می‌کنند؟
+</b>
 
 ###  گرم یاد آوری یا نه من از یادت نمی کاهم
 
@@ -21,19 +22,6 @@
 
 <div class="grid">
 
-    <a href="Fragment">	
-        <article class="hentry">
-        <header class="entry-header">
-        <div class="entry-thumbnail">
-            <img src="https://f4.bcbits.com/img/a0959131344_16.jpg" alt="Fragment"/>
-        </div>
-        <h2 class="my_title">Fragment</h2>
-        <p class="my_text">
-            در این روش پکیت ها تکه تکه می شوند و نیاز به دامنه و سرور کثیف هست 
-        </p>
-        </header>
-        </article>
-    </a>	
 
 
     <a href="DNS">	
@@ -44,7 +32,7 @@
         </div>
         <h2 class="my_title">DNS</h2>
         <p class="my_text">
-            رد کردن فیلترینگ با DNS و اینکه چجوری DNS شخصی خودمان را بسازیم	
+            مشکل DNS خود را با این روش ها حل کنید یا DNS شخصی خودتان را بسازید
         </p>
         </header>
         </article>
@@ -58,13 +46,16 @@
         <div class="entry-thumbnail">
                 <img src="https://cdn.technadu.com/wp-content/uploads/2018/04/Cloudflare-1.1.1.1-A-Fast-And-Private-Consumer-DNS-Service-775xx.png" alt="CloudFlare White IP"/>
         </div>
-            <h2 class="my_title">CloudFlare White IP</h2>
+            <h2 class="my_title">CloudFlare</h2>
             <p class="my_text">
                 روش هایی برای یافتن آی پی سفید کلودفلیر یا دامنه های کلودفلیر
             </p>
         </header>
         </article>
     </a>
+
+
+    
 
 
 
@@ -358,7 +349,19 @@
         </article>
     </a>
     
-
+    <a href="Fragment">	
+        <article class="hentry">
+        <header class="entry-header">
+        <div class="entry-thumbnail">
+            <img src="https://f4.bcbits.com/img/a0959131344_16.jpg" alt="Fragment"/>
+        </div>
+        <h2 class="my_title">Fragment</h2>
+        <p class="my_text">
+            در این روش پکیت ها تکه تکه می شوند و نیاز به دامنه و سرور کثیف هست 
+        </p>
+        </header>
+        </article>
+    </a>
 
     <a href="Learning">
         <article class="hentry">

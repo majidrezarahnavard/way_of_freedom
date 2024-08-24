@@ -69,3 +69,10 @@ https://t.me/biteasypro/676
 
 
 https://www.youtube.com/watch?v=wlUxvIcnSXg
+
+
+
+#  CREAR V2 RAY FASTLY HTTP CUSTOM 
+
+https://www.youtube.com/watch?v=sEvfn97wNCU
+

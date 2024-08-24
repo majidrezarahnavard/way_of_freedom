@@ -814,3 +814,7 @@ Image
 
 https://www.youtube.com/watch?v=kUYlWEG2zUA
 
+
+# آموزش تانل وایرگارد به روش پنل به پنل روی پنل 3X-UI ثنایی     
+
+https://youtu.be/tXYi5PGW1cY

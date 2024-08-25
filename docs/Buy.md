@@ -67,6 +67,7 @@ https://www.namesilo.com/
 https://www.hostinger.com/payments
 https://bluevps.com/
 https://www.hosttest.de/vergleich/vserver.html
+https://www.ethernetservers.com/
 ```
 
 

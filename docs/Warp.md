@@ -493,3 +493,10 @@ bash <(curl -fsSL https://raw.githubusercontent.com/arshiacomplus/WarpScanner/ma
 آموزش تصویری وارپ برای مهسانت🫶🤍
 
 https://t.me/xs_filternet/395
+
+آموزش اد وارپ @mahsanet
+ روی همه نتا🤍🫶
+
+ https://x.com/amirparsaxs/status/1827659720292815079
+
+ 

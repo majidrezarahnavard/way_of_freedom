@@ -567,3 +567,20 @@ https://threadreaderapp.com/thread/1818646418439217155.html
 🔴دلتا چت به صورت خودکار و در هنگام آغاز مکالمه، رمزنگاری سرتاسری را برقرار می‌کند.
 همین حالا، به فکر ابزارهای امن ارتباطی و ابزارهایی برای زمان اختلال و قطعی اینترنت باشیم:
 https://filter.watch/irandarkhamooshi/
+
+
+# NikaNG
+
+
+NikaNG is a v2rayNG build upon Mahsa-Core (xray-core optimized for iran)
+
+
+features
+
+    focused on iran firewall compare to v2rayNG
+    ability to use WARP , Wireguard Noise and Fragment utilizing Mahsa-Core
+    fully open source and build by github action (both client and core)
+
+
+
+https://github.com/mahsanet/NikaNG

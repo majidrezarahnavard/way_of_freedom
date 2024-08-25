@@ -146,3 +146,20 @@ https://github.com/lowercase78/V2RayN-PRO/releases/tag/V2RayN-PROV1.3.1-Pre
 
 https://github.com/HajPasha/sing-box-batch
 
+
+
+# NikaNG
+
+
+NikaNG is a v2rayNG build upon Mahsa-Core (xray-core optimized for iran)
+
+
+features
+
+    focused on iran firewall compare to v2rayNG
+    ability to use WARP , Wireguard Noise and Fragment utilizing Mahsa-Core
+    fully open source and build by github action (both client and core)
+
+
+
+https://github.com/mahsanet/NikaNG

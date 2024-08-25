@@ -166,42 +166,6 @@ https://github.com/fiddyschmitt/File-Tunnel
 https://github.com/fiddyschmitt/File-Tunnel
 
 
-# convertor
-
-https://v2rayse.com/en/node-convert/
-
-
-دوستانی که کانفیگ Warp از NekoBox می‌گیرند و قصد دارند در v2rayNG استفاده کنند با این ابزار می‌توانند بخش Reserved را تبدیل کنند.
-
-1. براین کار وارد سایت زیر شوید.
-http://gchq.github.io/CyberChef/
-
-2. . از قسمت Operation باید From Base64 و To Decimal را در بخش Recepie بکشید.
-
-۳. در بخش Input مقدار Reserved تولید شده در کانفیگ NekoBox را کپی کنید و از Output مقداری که باید در v2rayNG قرار دهید را یادداشت کنید.
-
-این ابزار قابلیت انجام تبدیل‌هاب دیگری را هم دارد.
-
-
-
-# fake DNS
-
-اگر trojan جواب نداد از تنظیمات fake dns را روشن کنید مشکل حل میشه 🤷 دیگه خیلی ساده گفتم 😑 پیچیده ترش این هست fake dns را روشن کنید fragment هم روشن کنید کانفیگ را تبدیل کنید به sing-box قسمت fake dns را مثل عکس تغییر بدید نتیجه بهتری می‌ده 🤷
-
-[twitter](https://x.com/amin_o__o/status/1800892631960129896)
-
-
-# convertor yeBeKhe مبدل
-
-https://app.yebekhe.link/
-
-https://github.com/Ptechgithub/configs/blob/main/256_IPs.json
-
-
-# convertor bulk-address-changer
-
-https://dailydigitalskills.online/bulk-address-changer/
-
 
 
 #  تعویض لوکیشن فیلترشکن به کشور های مختلف به صورت رایگان 

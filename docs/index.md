@@ -144,20 +144,18 @@
     </a>
 
 
-    <a href="Knowledge_Base">
-
+    <a href="Tahrimshecan">
         <article class="hentry">
         <header class="entry-header">
         <div class="entry-thumbnail">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Persian-encyclopedia.jpg/300px-Persian-encyclopedia.jpg" alt="Knowledge Base"/>
+            <img src="https://shecan.ir/wp-content/uploads/2018/11/logo_title.png" alt="Tahrimshecan"/>
         </div>
-        <h2 class="my_title">دانشنامه</h2>
+        <h2 class="my_title">تحریم شکن</h2>
         <p class="my_text">
-            سایر دانشنامه های اتصال به اینترنت آزاد
+           از DNS های قانونی برای رفع تحریم ها می توانید استفاده کنید
         </p>
         </header>
         </article>
-
     </a>
 
 
@@ -233,7 +231,21 @@
         </p>
         </header>
         </article>
+    </a>
 
+
+    <a href="Knowledge_Base">
+        <article class="hentry">
+        <header class="entry-header">
+        <div class="entry-thumbnail">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Persian-encyclopedia.jpg/300px-Persian-encyclopedia.jpg" alt="Knowledge Base"/>
+        </div>
+        <h2 class="my_title">دانشنامه</h2>
+        <p class="my_text">
+            سایر دانشنامه های اتصال به اینترنت آزاد
+        </p>
+        </header>
+        </article>
     </a>
 
 
@@ -261,6 +273,21 @@
         <h2 class="my_title">خرید سرور و دامنه</h2>
         <p class="my_text">
             خرید سرور و دامنه با رمز ارز
+        </p>
+        </header>
+        </article>
+    </a>
+
+
+    <a href="Panel">
+        <article class="hentry">
+        <header class="entry-header">
+        <div class="entry-thumbnail">
+            <img src="https://user-images.githubusercontent.com/118040490/201552920-ed6eca0d-b89c-47ee-a4b3-c65a0b36b90a.png" alt="Panel"/>
+        </div>
+        <h2 class="my_title">پنل های x-ui</h2>
+        <p class="my_text">
+            نصب و راه اندازی پنل های مختلف
         </p>
         </header>
         </article>
@@ -297,6 +324,22 @@
         </article>
     </a>
 
+    <a href="Converter">
+
+        <article class="hentry">
+        <header class="entry-header">
+        <div class="entry-thumbnail">
+            <img src="https://hocotech.com/wp-content/uploads/2020/11/hoco-hb21-type-c-hdmi-converter.jpg" alt="Convertor"/>
+        </div>
+        <h2 class="my_title">مبدل</h2>
+        <p class="my_text">
+            مبدل های مختلف برای تبدیل کانفیگ ها
+        </p>
+        </header>
+        </article>
+
+    </a>
+
     <a href="Primary">
         <article class="hentry">
         <header class="entry-header">
@@ -313,33 +356,9 @@
 
 
 
-    <a href="Other#Bepass">
-        <article class="hentry">
-        <header class="entry-header">
-        <div class="entry-thumbnail">
-            <img src="https://avatars.githubusercontent.com/u/146542574?s=200&v=4" alt="Bepass"/>
-        </div>
-        <h2 class="my_title">Bepass</h2>
-        <p class="my_text">
-            اپلیکیشن بپس برای اندروید
-        </p>
-        </header>
-        </article>
-    </a>
 
-    <a href="Panel">
-        <article class="hentry">
-        <header class="entry-header">
-        <div class="entry-thumbnail">
-            <img src="https://user-images.githubusercontent.com/118040490/201552920-ed6eca0d-b89c-47ee-a4b3-c65a0b36b90a.png" alt="Panel"/>
-        </div>
-        <h2 class="my_title">پنل های x-ui</h2>
-        <p class="my_text">
-            نصب و راه اندازی پنل های مختلف
-        </p>
-        </header>
-        </article>
-    </a>
+
+
 
     <a href="Yebekhe">
         <article class="hentry">
@@ -413,6 +432,22 @@
         </article>
     </a>
 
+
+    <a href="VPNhood">
+
+        <article class="hentry">
+        <header class="entry-header">
+        <div class="entry-thumbnail">
+            <img src="https://play-lh.googleusercontent.com/uaI3dD2oXRVNECCXbTjcVe05tP-jTGOSUB2VAoR3JEEkHqrdpyNqHW6grKge5elSk2I" alt="VPNhood"/>
+        </div>
+        <h2 class="my_title">VPNHOOD</h2>
+        <p class="my_text">
+                آموزش کامل فیلترشکن VPNHOOD
+        </p>
+        </header>
+        </article>
+    </a>
+
     <a href="Telegram">
 
         <article class="hentry">
@@ -427,6 +462,20 @@
         </header>
         </article>
 
+    </a>
+
+    <a href="Other#Bepass">
+        <article class="hentry">
+        <header class="entry-header">
+        <div class="entry-thumbnail">
+            <img src="https://avatars.githubusercontent.com/u/146542574?s=200&v=4" alt="Bepass"/>
+        </div>
+        <h2 class="my_title">Bepass</h2>
+        <p class="my_text">
+            اپلیکیشن بپس برای اندروید
+        </p>
+        </header>
+        </article>
     </a>
 
     <a href="Research">
@@ -560,20 +609,23 @@
         </article>
     </a>
 
-    <a href="VPNhood">
+
+    <a href="Other">
 
         <article class="hentry">
         <header class="entry-header">
         <div class="entry-thumbnail">
-            <img src="https://play-lh.googleusercontent.com/uaI3dD2oXRVNECCXbTjcVe05tP-jTGOSUB2VAoR3JEEkHqrdpyNqHW6grKge5elSk2I" alt="VPNhood"/>
+            <img src="https://cdn.dribbble.com/users/472/screenshots/191949/other_icon.png" alt="Other"/>
         </div>
-        <h2 class="my_title">VPNHOOD</h2>
+        <h2 class="my_title">سایر</h2>
         <p class="my_text">
-                آموزش کامل فیلترشکن VPNHOOD
+            سایر موارد مرتبط
         </p>
         </header>
         </article>
+
     </a>
+
 
 
 

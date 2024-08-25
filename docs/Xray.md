@@ -53,3 +53,9 @@ V2RayN-PROV1.4
 
 https://github.com/lowercase78/V2RayN-PRO/releases
 
+
+# Iranian Xray-core 
+
+Mahsa-Core (xray-core optimized for iran)
+
+https://github.com/GFW-knocker/Xray-core

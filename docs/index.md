@@ -234,14 +234,14 @@
     </a>
 
 
-    <a href="Stralink">
+    <a href="Starlink">
 
         <article class="hentry">
         <header class="entry-header">
         <div class="entry-thumbnail">
             <img src="https://api2.zoomit.ir/media/2021-7-starlink-antena-starter-kit-on-carpet-638bb19a8f0b9a6b86bbff64?w=1920&q=80" alt="Stralink"/>
         </div>
-        <h2 class="my_title">Stralink</h2>
+        <h2 class="my_title">Starlink</h2>
         <p class="my_text">
             نصب و راه اندازی استارلینک
         </p>

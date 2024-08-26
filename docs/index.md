@@ -106,7 +106,7 @@
         <div class="entry-thumbnail">
             <img src="https://avatars.githubusercontent.com/u/141410815?s=200&v=4"/>
         </div>
-        <h2 class="my_title">جدیدترین مستندات اضافه شده</h2>
+        <h2 class="my_title">جدیدترین مستندات</h2>
         <p class="my_text">
             جدیدترین روش ها در لینک زیر به روز رسانی میشوند
         </p>
@@ -497,19 +497,7 @@
 
     </a>
 
-    <a href="Other#Bepass">
-        <article class="hentry">
-        <header class="entry-header">
-        <div class="entry-thumbnail">
-            <img src="https://avatars.githubusercontent.com/u/146542574?s=200&v=4" alt="Bepass"/>
-        </div>
-        <h2 class="my_title">Bepass</h2>
-        <p class="my_text">
-            اپلیکیشن بپس برای اندروید
-        </p>
-        </header>
-        </article>
-    </a>
+
 
     <a href="Research">
         <article class="hentry">
@@ -546,7 +534,7 @@
         <div class="entry-thumbnail">
             <img src="https://www.zilliondesigns.com/blog/wp-content/uploads/Twitter-New-Logo-X-2023-.jpg" alt="Twitter"/>
         </div>
-        <h2 class="my_title">Twitter</h2>
+        <h2 class="my_title">اختفا در توییتر</h2>
         <p class="my_text">
                 نکات امنیتی در توییتر و دیتالیک
         </p>
@@ -613,6 +601,21 @@
     </a>
 
 
+    <a href="Bepass">
+        <article class="hentry">
+        <header class="entry-header">
+        <div class="entry-thumbnail">
+            <img src="https://avatars.githubusercontent.com/u/146542574?s=200&v=4" alt="Bepass"/>
+        </div>
+        <h2 class="my_title">Bepass</h2>
+        <p class="my_text">
+            اپلیکیشن بپس برای اندروید
+        </p>
+        </header>
+        </article>
+    </a>
+
+
     <a href="Other#NordVPN">
         <article class="hentry">
         <header class="entry-header">
@@ -644,7 +647,6 @@
 
 
     <a href="Other">
-
         <article class="hentry">
         <header class="entry-header">
         <div class="entry-thumbnail">
@@ -656,7 +658,6 @@
         </p>
         </header>
         </article>
-
     </a>
 
 

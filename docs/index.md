@@ -97,7 +97,23 @@
         </header>
         </article>
     </a>
+    
 
+    <a href="https://github.com/majidrezarahnavard/way_of_freedom/commits/main/">
+
+        <article class="hentry">
+        <header class="entry-header">
+        <div class="entry-thumbnail">
+            <img src="https://avatars.githubusercontent.com/u/141410815?s=200&v=4"/>
+        </div>
+        <h2 class="my_title">جدیدترین مستندات اضافه شده</h2>
+        <p class="my_text">
+            جدیدترین روش ها در لینک زیر به روز رسانی میشوند
+        </p>
+        </header>
+        </article>
+
+    </a>
 
     <a href="CloudFlare">
         <article class="hentry">

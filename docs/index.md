@@ -556,20 +556,6 @@
         </article>
     </a>
 
-    <a href="Learning">
-        <article class="hentry">
-        <header class="entry-header">
-        <div class="entry-thumbnail">
-            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlOwyrK1ymwYgxUET_wy9J3GSXxNA0ms7s7Q&usqp=CAU" alt="Learning"/>
-        </div>
-        <h2 class="my_title">منابع دیگر</h2>
-        <p class="my_text">
-            سایر منابع آموزش اینترنت آزاد
-        </p>
-        </header>
-        </article>
-    </a>
-
 
     <a href="Xray">
         <article class="hentry">

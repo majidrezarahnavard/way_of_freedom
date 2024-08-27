@@ -8,7 +8,7 @@
 
 [<b>مشکلی دارم، زِ دانشمندِ مجلس بازپرس<br>توبه‌فرمایان، چرا خود توبه کم‌تر می‌کنند؟</b>](https://www.youtube.com/watch?v=mj1DBlVtJjU)
 
-###   [گرم یاد آوری یا نه، من از یادت نمی کاهم، تو را من چشم در راهم](https://soundcloud.com/echolalia-ir/nuf6qjxfyeaf)
+###   [من از یادت نمی کاهم، تو را من چشم در راهم](https://soundcloud.com/echolalia-ir/nuf6qjxfyeaf)
 
 * به یاد یوسف قبادی
 * به یاد سگارو

@@ -138,7 +138,7 @@
         </div>
         <h2 class="my_title">Oblivion</h2>
         <p class="my_text">
-            اپلیکیشین با تکنولوژی وارپ بدون سرور و دامنه.
+            اپلیکیشن با تکنولوژی وارپ بدون سرور و دامنه.
         </p>
         </header>
         </article>
@@ -151,7 +151,7 @@
         <div class="entry-thumbnail">
             <img src="https://jahansanatnews.ir/wp-content/uploads/2023/01/%D9%81%DB%8C%D9%84%D8%AA%D8%B1%D8%B4%DA%A9%D9%86.jpeg" alt="Application"/>
         </div>
-        <h2 class="my_title">اپلیکیشین</h2>
+        <h2 class="my_title">اپلیکیشن</h2>
         <p class="my_text">
                 اپلیکیشن های مختلف برای اندروید و اپل و دسکتاپ
         </p>
@@ -617,20 +617,6 @@
     </a>
 
 
-    <a href="Other#Tips">
-        <article class="hentry">
-        <header class="entry-header">
-        <div class="entry-thumbnail">
-            <img src="https://t3.ftcdn.net/jpg/04/23/40/72/360_F_423407215_1Sl4bEotsyrBJ1v1F2c4x5ejQo9P4uCv.jpg" alt="Tips"/>
-        </div>
-        <h2 class="my_title">نکات</h2>
-        <p class="my_text">
-            تکنیک های موقت برای فریب گریت فایر وال 
-        </p>
-        </header>
-        </article>
-    </a>
-
 
     <a href="Other">
         <article class="hentry">
@@ -662,14 +648,14 @@
 | [DNS](DNS) | این کار زمانی مناسب است که می خواهید خودتان مسیر یاب داشته باشید |
 | [CloudFlare White IP](CloudFlare) | روش هایی برای یافتن ای پی های مناسب کلودفلیر |
 | [Server Security](Security) | روش های رعایت امنیت در سرور |
-| [Oblivion](Oblivion) | اپلیکیشین با تکنولوژی وارپ بدون سرور و دامنه |
+| [Oblivion](Oblivion) | اپلیکیشن با تکنولوژی وارپ بدون سرور و دامنه |
 | [Warp on Warp](Warp)|روش های که با آنها وارپ را به کار می اندازید|
 | [Worker](Worker) | به صورت رایگان کانفیگ ورکر بسازید در صورت نیاز دامنه تهیه کنید |
 | [Internal Server](Internal_Server) | روش برای افرادی که یک سرور داخلی دارند و یک سرور خارجی |
 | [Clients](Clients) | برای اتصال اندروید و اپل و کامپیوتر که به سرور متصل می شوند |
 | [‌Buy server and domain](Buy) | خرید دامنه و سرور با رمز ارز |
 | [مقدماتی](Primary) | اگر هیچ دانشی ندارید و برنامه نویسی و شبکه نمی دانید از این بخش شروع کنید |
-| [اپلیکیشن](Application) | این اپلیکشن ها به صورت مستقیم روی گوشی نصب می شوند و قابل استفاده هستند |
+| [اپلیکیشن](Application) | این اپلیکیشن ها به صورت مستقیم روی گوشی نصب می شوند و قابل استفاده هستند |
 | [Wireguard](Wireguard) | استفاده از روش وایرگارد برای اتصال به اینترنت |
 | [پنل ها](Panel) | آموزش پنل مشهور علیرضا و ثنایی و مرزبان و غیره |
 | [R&D](Research) |  تحقیقات در مورد گریت فایروال و آینده فیلترینگ و تاثیرات فیلترینگ |

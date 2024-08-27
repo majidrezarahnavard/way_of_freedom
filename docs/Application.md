@@ -584,3 +584,11 @@ features
 
 
 https://github.com/mahsanet/NikaNG
+
+# ابزارهایی برای دور زدن سانسور و فیلترینگ و ایجاد ارتباط امن و رمزگذاری‌شده:
+
+🔴http://Irandarkhamooshi.net
+🔴https://paskoocheh.com/?platform=macos&category=circumvention
+
+https://x.com/filterbaan/status/1828319710166818995
+

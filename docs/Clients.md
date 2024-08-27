@@ -109,7 +109,25 @@ https://apps.apple.com/tr/app/npv-tunnel/id1629465476
 ```
 
 
+
+# V2RayN-PROV1.5
+
+  دوستان میتونید نسخه جدید v2rayN-Pro رو از لینک زیر دریافت کنید:
+
+👈 تغییرات نسبت به نسخه قبل، 
+
+-Update to v2RayN 6.55
+-Now 32 bit Windows is fully Supported
+   (tested with windows 7 - 32 bit)
+-Udate Xray-Core to v1.8.23-mahsa-r3
+
+ https://github.com/lowercase78/V2RayN-PRO/releases/tag/V2RayN-PROV1.5
+
+‌
+
 # V2RayN-PROV1.3.1-Pre
+
+
 
 Updated :
 
@@ -120,6 +138,16 @@ Updated :
 
 
 https://github.com/lowercase78/V2RayN-PRO/releases/tag/V2RayN-PROV1.3.1-Pre
+
+
+اگه از V2rayN-Pro استفاده میکنید از منوی چک آپدیت و انتخاب هسته ایکس ری، آخرین نسخه هسته ایکس ری ویرایش ناکر رو دریافت کنید 👌
+
+تغیرات در بخش user agent و فیکس باگ برای وارپ،
+
+با تشکر از عزیزانی که گمنام برای دسترسی عموم به اینترنت آزاد تلاش میکنن 
+
+
+https://x.com/Eagle_1157/status/1828380674971099524
 
 # netmod
 

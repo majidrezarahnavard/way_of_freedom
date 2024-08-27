@@ -1,5 +1,12 @@
 # کانفیگ رایگان
 
+
+## freeebirdss
+
+جمع آوری کننده کانفیگ های رایگان
+
+https://t.me/freeebirdss/1064
+
 ## Free V2ray Config 
 
 This repository contains a collection of free V2ray configuration files that you can use with your V2ray client to access the internet securely and anonymously.
@@ -216,5 +223,3 @@ https://t.me/wbnet/94106
 # https://t.me/F_NiREvil
 
 برای آزادی ...
-
-کانال

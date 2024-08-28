@@ -68,6 +68,9 @@ https://www.hostinger.com/payments
 https://bluevps.com/
 https://www.hosttest.de/vergleich/vserver.html
 https://buyvm.net/kvm-dedicated-server-slices/
+https://my.cloudfanatic.net/index.php/store/chicago-ssd-kvm-vps
+https://contabo.com/en/vps/cloud-vps-1/?image=ubuntu.267&qty=1&contract=1&storage-type=vps-1-400-gb
+https://www.surfercloud.com/products/ulighthost
 ```
 
 

@@ -119,7 +119,7 @@
         <div class="entry-thumbnail">
                 <img src="https://cdn.technadu.com/wp-content/uploads/2018/04/Cloudflare-1.1.1.1-A-Fast-And-Private-Consumer-DNS-Service-775xx.png" alt="CloudFlare White IP"/>
         </div>
-            <h2 class="my_title">CloudFlare</h2>
+            <h2 class="my_title">CloudFlare اسکنر</h2>
             <p class="my_text">
                 روش هایی برای یافتن آی پی سفید کلودفلیر یا دامنه های کلودفلیر
             </p>

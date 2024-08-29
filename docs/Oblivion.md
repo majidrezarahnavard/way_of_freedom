@@ -163,3 +163,12 @@ https://t.me/myuploadch/244
 
 https://threadreaderapp.com/thread/1812863559505735749.html
 
+
+
+# آموزش تصویری
+
+یه خط همراه اول فعال کردم برای تست با اپ oblivion تونستم کارو دربیارم اونم با ipv6 دیفالت وارپ
+
+endpoint = [2606:4700:d0::a29f:c001]:2408
+
+https://x.com/kharabam666/status/1828889844258345419

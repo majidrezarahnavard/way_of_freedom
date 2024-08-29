@@ -73,8 +73,17 @@ https://contabo.com/en/vps/cloud-vps-1/?image=ubuntu.267&qty=1&contract=1&storag
 https://www.surfercloud.com/products/ulighthost
 ```
 
-
 [آموزش خرید سرور از سایت Aeza با پرفکت مانی](https://telegra.ph/Kharide-server-az-Aeza-ba-perfect-mony-04-05)
+
+
+
+### توضیح
+
+خوبی hostvds اینه که سرور فیلتر بشه
+سرور حذف می تونی بکنی سرور جدید از هر مشور دیگه یا همون کشور  دوباره بسازی
+توی رکنورد باید ۳دلار پول ای پی بدی
+
+
 
 ### با کریپتو دامنه بخریم؟
 

@@ -29,6 +29,13 @@ https://github.com/Ptechgithub/configs/blob/main/256_IPs.json
 
 https://dailydigitalskills.online/bulk-address-changer/
 
+
+#  راحت‌ترین روش که یک کانفیگ vless بهش بدم و یک رنج IP اون کانفیگ را برای تمام IP ها ایجاد کنه
+
+https://seramo.github.io/vless-config-modifier/
+
+
+
 # مبدل فرگمنت
 
 مبدل فرگمنت

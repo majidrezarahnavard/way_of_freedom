@@ -106,3 +106,14 @@ https://www.youtube.com/watch?v=MtrkKb4ojtY
 برای این منظور روش های مختلفی وجود داره که یکی از اون روش ها استفاده از یک اپ سبک کوچک ولی کاربردی و قدرتمند برای ویندوز به نام Mypublicwifi هست.
 
 https://telegra.ph/Vpn-sharing-via-Mypublicwifi-app-08-30-2
+
+
+
+# whatsapp
+
+به کارگیری پروکسی در واتس‌اپ یکی از راهکارها برای امنیت بیشتر در استفاده از این پیام‌رسان است.
+در «ایران در خاموشی«، با نکات مهم #امنیت_دیجیتال آشنا شوید:
+https://filter.watch/irandarkhamooshi/
+
+https://x.com/filterbaan/status/1830888972442312862
+

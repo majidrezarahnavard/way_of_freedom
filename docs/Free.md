@@ -223,3 +223,15 @@ https://t.me/wbnet/94106
 # https://t.me/F_NiREvil
 
 برای آزادی ...
+
+
+
+#  HiN-VPN
+
+
+بعد از مدت‌ها فرصت‌شد تا ابزار دریافت کانفیگ رایگان رو بروزرسانی کنم. کانفیگ‌های ارائه شده به تفکیک لوکیشن و پروتکل، از یه‌سری کانال تلگرامی توسط پروژه HiN-VPN جمع‌آوری میشن و به‌صورت لینک ساب در اختیارتون قرار می‌گیرن.
+
+ircfspace.github.io/tconfig (http://ircfspace.github.io/tconfig)
+ircfspace.github.io/location (http://ircfspace.github.io/location)
+
+https://twitter.com/ircfspace/status/1830649607233171731

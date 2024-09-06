@@ -641,6 +641,21 @@
     </a>
 
 
+    <a href="IPV6">
+        <article class="hentry">
+        <header class="entry-header">
+        <div class="entry-thumbnail">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUC88sSQmi7CmilrxpfE9ObF30KHDbb8JQnQ&s" alt="IPV6"/>
+        </div>
+        <h2 class="my_title">IPV6</h2>
+        <p class="my_text">
+            آی پی های ورژن 6 (IPV6)
+        </p>
+        </header>
+        </article>
+    </a>
+
+
     <a href="Other#NordVPN">
         <article class="hentry">
         <header class="entry-header">

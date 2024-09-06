@@ -75,7 +75,7 @@ https://www.surfercloud.com/products/ulighthost
 
 [آموزش خرید سرور از سایت Aeza با پرفکت مانی](https://telegra.ph/Kharide-server-az-Aeza-ba-perfect-mony-04-05)
 
-
+[ آموزش کامل کار با سایت aeza و نحوه خرید سرور مجازی با ارز دیجیتال ](https://www.youtube.com/watch?v=tBV0trq9ao8&t=0s)
 
 ### توضیح
 

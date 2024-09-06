@@ -157,6 +157,23 @@
         </article>
     </a>
 
+    
+
+
+    <a href="Donate">
+        <article class="hentry">
+        <header class="entry-header">
+        <div class="entry-thumbnail">
+            <img src="https://www.mahsaserver.com/assets/logo-02779409.png" alt="Donate"/>
+        </div>
+        <h2 class="my_title">Donate</h2>
+        <p class="my_text">
+            حمایت از اینترنت آزاد
+        </p>
+        </header>
+        </article>
+    </a>
+
 
     <a href="Tahrimshecan">
         <article class="hentry">
@@ -196,6 +213,21 @@
         <h2 class="my_title">Warp on Warp</h2>
         <p class="my_text">
                 چجوری وارپ را بر روی وارپ نصب کنیم
+        </p>
+        </header>
+        </article>
+    </a>
+
+
+    <a href="BPB">
+        <article class="hentry">
+        <header class="entry-header">
+        <div class="entry-thumbnail">
+            <img src="https://pbs.twimg.com/profile_images/1579925992855986187/N-y1q0cE_400x400.jpg" alt="BPB"/>
+        </div>
+        <h2 class="my_title">پنل BPB</h2>
+        <p class="my_text">
+            نصب و راه اندازی BPB
         </p>
         </header>
         </article>
@@ -386,11 +418,6 @@
     </a>
 
 
-
-
-
-
-
     <a href="Yebekhe">
         <article class="hentry">
         <header class="entry-header">
@@ -495,6 +522,20 @@
 
     </a>
 
+
+    <a href="Tips">
+        <article class="hentry">
+        <header class="entry-header">
+        <div class="entry-thumbnail">
+            <img src="https://media.springernature.com/w580h326/nature-cms/uploads/collections/BDJ_Team_Top_Tips_Hero_Image-3f7a305d00baa5d40ac3d84ad0de44c4.jpg" alt="Tips"/>
+        </div>
+        <h2 class="my_title">Tips</h2>
+        <p class="my_text">
+            نکات و ترفندهای مرتبط
+        </p>
+        </header>
+        </article>
+    </a>
 
 
     <a href="Research">

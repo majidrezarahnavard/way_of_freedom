@@ -1,6 +1,56 @@
 # Oblivion
 
 
+
+# v6
+
+نسخه جدید Oblivion در گوگل پلی و گیت‌هاب منتشر شد! 🎉
+
+توی نسخه جدید (v6) مشکل سِت کردن endpoint و چنتا مشکل جزیی دیگه حل شده.
+
+لینک گوگل پلی:
+https://play.google.com/store/apps/details?id=org.bepass.oblivion
+
+https://x.com/markpash/status/1831836411005452440
+
+
+
+# endpoints
+
+اگر از #Oblivion (https://twitter.com/hashtag/Oblivion) استفاده می‌کنین، می‌تونین اندپوینت‌های پیشنهادی رو به تفکیک IPv4/IPv6 از طریق این‌ابزار دریافت کنین:
+
+http://ircfspace.github.io/endpoint/?type=ipv4
+http://ircfspace.github.io/endpoint/?type=ipv6
+
+ توی ورژن‌های اخیر #OblivionDesktop (https://twitter.com/hashtag/OblivionDesktop) امکان دریافت همین اندپوینت‌ها از داخل برنامه فراهم شده و فراموش نکنین که برای فعال‌کردن اسکنر داخلی باید از اندپوینت پیشفرض استفاده کنید.
+
+http://engage.cloudflareclient.com:2408
+
+http://github.com/ircfspace/endpoint
+
+https://twitter.com/ircfspace/status/1830376873232040234
+
+
+
+# endpoints
+
+162.159.195.1:3854
+188.114.98.199:2408
+188.114.99.62:955
+162.159.195.150:903
+162.159.192.135:1074
+188.114.96.194:1843
+162.159.195.52:939
+188.114.99.173:3476
+162.159.195.165:864
+188.114.98.64:987
+188.114.99.63:500
+
+Oblivion🤍
+
+https://x.com/amirparsaxs/status/1829969175873536243#m
+
+
 ## google play
 
 [bepass.oblivion](https://play.google.com/store/apps/details?id=org.bepass.oblivion)
@@ -172,3 +222,15 @@ https://threadreaderapp.com/thread/1812863559505735749.html
 endpoint = [2606:4700:d0::a29f:c001]:2408
 
 https://x.com/kharabam666/status/1828889844258345419
+
+
+
+# چند روزی هست که جناب @Nima__Nikjoo ابهاماتی رو درباره اپ Oblivion مطرح کردن.
+
+چند روزی هست که جناب @Nima__Nikjoo ابهاماتی رو درباره اپ Oblivion مطرح کردن. آیا نسخه گیت هاب Oblivion با نسخه گوگل پلی فرق داره؟ آیا نسخه گیت هاب آلوده است؟
+سند و مدرکی ارائه نشده، پس تصمیم گرفتم خودم موضوع رو به صورت فنی بررسی کنم:
+(خلاصه اش: نه، فرقی بین دو نسخه نیست)
+
+هشدار دادن Google Play Protect مسئله ای هست که جای فکر داره و باید بررسی شه، اما اینکه نسخه گیت هاب با گوگل فرق داره و هشدار امنیتی رندوم نداریم و...، حرف های جالبی هستن. پس در اینجا میخوایم بررسی کنیم که آیا واقعا نسخه گیت هاب Oblivion با نسخه گوگل پلی فرق داره؟
+
+https://threadreaderapp.com/thread/1830316455725814013.html

@@ -223,7 +223,7 @@
         <article class="hentry">
         <header class="entry-header">
         <div class="entry-thumbnail">
-            <img src="https://pbs.twimg.com/profile_images/1579925992855986187/N-y1q0cE_400x400.jpg" alt="BPB"/>
+            <img src="https://pbs.twimg.com/media/GWzuX_iXMAA1M6K?format=jpg&name=large" alt="BPB"/>
         </div>
         <h2 class="my_title">پنل BPB</h2>
         <p class="my_text">

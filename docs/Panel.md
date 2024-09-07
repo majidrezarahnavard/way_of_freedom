@@ -210,8 +210,15 @@ V2Hub is a script that can be used to aggregate and merge multiple subscription 
 
 [httpupgrade](https://www.youtube.com/watch?v=HX7WKGLnjMI)
 
+## آموزش کامل HTTPUPGRADE روی پنل 3X-UI ثنایی-SIXTININELEARN 
 
-#  آموزش قابلیت HTTP UPGRADE + ساخت کانفیگ مرتبط با ان 
+https://www.youtube.com/watch?v=3dBw1Ci8kAU
+
+سلام رفقا توی این ویدیو قراره بهتون یاد بدم چجوری خیلی راحت با استفاده ترنسپورت
+HTTPUPGRADE  روی پنل ثنایی بتونین یه ارتباط مسقیم با آپلود بالا داشته باشین.
+
+
+##  آموزش قابلیت HTTP UPGRADE + ساخت کانفیگ مرتبط با ان 
 
  رفقا توی این ویدیو قابلیت ترنزمیشن HTTP UPGRADE در آپدیت جدید X-UI بررسی کردم و چندتا کانفیگ براش ست کردم سرعت و پایداری خوبی داره امیدوارم مورد استفادتون قرار بگیره 
 

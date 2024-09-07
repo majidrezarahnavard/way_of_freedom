@@ -119,7 +119,7 @@
         <div class="entry-thumbnail">
                 <img src="https://cdn.technadu.com/wp-content/uploads/2018/04/Cloudflare-1.1.1.1-A-Fast-And-Private-Consumer-DNS-Service-775xx.png" alt="CloudFlare White IP"/>
         </div>
-            <h2 class="my_title">CloudFlare اسکنر</h2>
+            <h2 class="my_title"> اسکنر کلودفلیر</h2>
             <p class="my_text">
                 روش هایی برای یافتن آی پی سفید کلودفلیر یا دامنه های کلودفلیر
             </p>
@@ -257,9 +257,9 @@
         <div class="entry-thumbnail">
             <img src="https://bytegate.io/wp-content/uploads/How-VPN-works.jpg" alt="Internal Server"/>
         </div>
-        <h2 class="my_title">سرور داخلی</h2>
+        <h2 class="my_title">روش تانل </h2>
         <p class="my_text">
-            وقتی یک سرور داخلی و یک سرور خارجی دارید از این روش ها استفاده کنید
+            یک سرور داخل کشور و یک سرور خارج از کشور
         </p>
         </header>
         </article>
@@ -466,7 +466,7 @@
         <article class="hentry">
         <header class="entry-header">
         <div class="entry-thumbnail">
-            <img src="https://i.ytimg.com/vi/rV_uWCu_8QU/hqdefault.jpg" alt="Brook"/>
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgq2W3PG_HVMDRPdWGm7c0DUsnSdUR_fuxsg&s" alt="Brook"/>
         </div>
         <h2 class="my_title">Brook</h2>
         <p class="my_text">

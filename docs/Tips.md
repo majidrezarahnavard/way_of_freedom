@@ -120,6 +120,10 @@ https://www.s-sols.com/products/windows/wi-fi-hotspot
 اینو منظورم بود، میتونید بدون نیاز به اپلیکیشن خاصی از امکانات خود ویندوز استفاده کنید
 
 
+virtual Router Manager v0.9 
+
+
+https://x.com/GhobadiniaM/status/1832472321178603882
 
 # whatsapp
 

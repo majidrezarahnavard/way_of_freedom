@@ -49,6 +49,11 @@ WebRTC in Chrome
 [dnsleaktest](https://www.dnsleaktest.com)
 
 
+اگه از proxifire استفاده میکنید این تیک رو بزنید برای جلوگیری از DNS Leak
+
+https://x.com/kharabam666/status/1832486181063336147
+
+
 #  ترفند حذف کردن همه توییت ها و لایک ها | delete all twittes & likes 
 
 

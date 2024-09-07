@@ -46,6 +46,16 @@ https://github.com/seramo/v2ray-config-modifier/blob/main/index.html
 قبلن سر کپی کردن 1.5میلیون رکورد کرش میکرد
 الان راحت 14 میلیون رکوردو انجام میده کپی میکنه
 
+
+این‌ابزار کاربردی امکان اصلاح کانفیگ‌های Vless/Vmess پشت CDN رو با استفاده از رنج آی‌پی‌ها یا لیست آی‌پی‌های موردنظر فراهم میکنه.
+
+http://seramo.github.io/v2ray-config-modifier
+
+http://github.com/seramo/v2ray-config-modifier
+
+
+https://x.com/ircfspace/status/1832502394585841982
+
 # مبدل فرگمنت
 
 مبدل فرگمنت

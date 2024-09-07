@@ -107,7 +107,12 @@ https://www.youtube.com/watch?v=MtrkKb4ojtY
 
 https://telegra.ph/Vpn-sharing-via-Mypublicwifi-app-08-30-2
 
+این برنامه خیلی باگ داره اگه روش اتصالتون دیال آپ باشه درست روت نمیکنه
+استیبل ترین و کم دردسرترین برنامه ای که دیدم
 
+Seraphinite Wifi hotspot for windows
+
+https://www.s-sols.com/products/windows/wi-fi-hotspot
 
 # whatsapp
 

@@ -268,7 +268,7 @@ I explained the easy installation of WordPress
 [youtube](https://www.youtube.com/watch?v=KmaVLWwwgZE)
 
 
-# سرور
+## سرور
 
 سلام.
 
@@ -277,12 +277,12 @@ I explained the easy installation of WordPress
 [twitter](https://threadreaderapp.com/thread/1795300495290143231.html)
 
 
-# awesome-freedom
+## awesome-freedom
 
 [hiddify](https://github.com/hiddify/awesome-freedom/blob/main/vps-providers.md)
 
 
-# خرید VPS و آنچه باید از قبل بدانید؛ نکات مهم در خرید سرور برای VPN شخصی!
+## خرید VPS و آنچه باید از قبل بدانید؛ نکات مهم در خرید سرور برای VPN شخصی!
 
 مقدمه:
 
@@ -291,16 +291,24 @@ I explained the easy installation of WordPress
 https://ivpn.pro/server/what-you-should-know-before-buying-a-vps-for-vpn/
 
 
-#  آموزش خرید سرور و دامنه و ساخت فیلترشکن برای افراد مبتدی 
+##  آموزش خرید سرور و دامنه و ساخت فیلترشکن برای افراد مبتدی 
 
 https://www.youtube.com/watch?v=B0CteWgIEus
 
 
 
-# جدیدترین روش ساخت اکانت هتزنر والتر لینود و دیجیتال اوشن(تضمینی)-SIXTININELEARN
+## جدیدترین روش ساخت اکانت هتزنر والتر لینود و دیجیتال اوشن(تضمینی)-SIXTININELEARN
 
 https://youtu.be/gfJtt33zlKs
 
 
 سلام رفقا توی این ویدیو قراره بهتون یاد بدم چجوری خیلی راحت با پرداخت کریپتو اکانت های هتزنر والتر لینود و دیجیتال اوشن خودتونو داشته باشین.
 
+
+## خرید VPS با کریپتو
+
+لیست فروشندگان سرور با کریپتو را آپدیت کردم.
+از بیش از ۳۰ لوکیشن می‌توانید سرور تهیه کنید.
+
+
+https://ivpn.pro/server/buy-vps-by-crypto/

@@ -654,3 +654,13 @@ tls://9.9.9.9
 
 #tips_and_tricks (https://twitter.com/hashtag/tips_and_tricks)
 
+
+
+## dns4all
+
+https://doh.dns4all.eu/dns-query
+با ست کردن dns doh بالا هم میتونی کلی سایت مثل یوتیوب ، توییتر و ... به راحتی باز کنید
+
+http://dns4all.eu
+
+https://x.com/kharabam666/status/1832838170704060455

@@ -103,7 +103,8 @@ https://api.fastly.com/public-ip-list
 
 #  Cloudflare Pages to easily deploy v2ray proxy, no server required & extremely fast
 
-[EDtunnel](https://github.com/3Kmfi6HP/EDtunnel)
+https://github.com/seramo/ed-tunnel
+
 
 [ Cloudflare Pages to easily deploy v2ray proxy, no server required & extremely fast! Step-by-step! ](https://www.youtube.com/watch?v=8I-yTNHB0aw)
 

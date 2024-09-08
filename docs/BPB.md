@@ -146,3 +146,30 @@ https://threadreaderapp.com/thread/1819372193052037612.html
 [لیست آموزش ها](https://twitter.com/bia_pain_bache/status/1782421122245369859)
 
 
+## آموزش ساخت پنل bpb به روش pages توسط elfina
+
+پیج سازنده
+
+داخل یوتیوب هم سرچ کنید آموزش تا دلت بخواد هست 
+
+پیج و اموزش خود سازنده و فورک زدنش
+https://github.com/bia-pain-bache/BPB-Worker-Panel
+
+https://github.com/bia-pain-bache/BPB-Worker-Panel/blob/main/docs/pages_installation_fa.md
+
+از اینم میتونید فورک بگیرید
+با روش worker
+با روش pages
+
+https://github.com/NiREvil/bia-pain-bache/
+
+آموزش ساخت به روش Pages (پیشنهادی):
+https://github.com/bia-pain-bache/BPB-Worker-Panel/blob/main/docs/pages_installation_fa.md
+آموزش ساخت به روش Workers:
+https://github.com/bia-pain-bache/BPB-Worker-Panel/blob/main/docs/worker_installation_fa.md
+نحوه‌ی انجام تنظیمات و استفاده:
+https://github.com/bia-pain-bache/BPB-Worker-Panel/blob/main/docs/configuration_fa.md
+سوالات متداول (خیلی مهم):
+https://github.com/bia-pain-bache/BPB-Worker-Panel/blob/main/docs/faq.md
+
+https://t.me/freeebirdss/11/8678

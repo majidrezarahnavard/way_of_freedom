@@ -387,6 +387,20 @@
         </article>
     </a>
 
+    <a href="Experience">
+        <article class="hentry">
+        <header class="entry-header">
+        <div class="entry-thumbnail">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR93XWyY5POGBF3YaoFthb0QdRwNVJO6KOa7A&s" alt="Experience"/>
+        </div>
+        <h2 class="my_title">تجربه ها</h2>
+        <p class="my_text">
+            تجربه های افرادی که از این روش ها استفاده کرده اند
+        </p>
+        </header>
+        </article>
+    </a>
+
     <a href="Converter">
 
         <article class="hentry">

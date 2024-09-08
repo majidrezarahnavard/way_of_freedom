@@ -35,6 +35,31 @@ https://trends.builtwith.com/cdn/Cloudflare/China
 [امروز میخوام یه داستان بگم درباره‌ی #CDN. اینکه کلا چی هست، ذات کارش چیه و ما تو این شرایط چطور ازش استفاده می‌کنیم.](https://threadreaderapp.com/thread/1624835448248971265.html)
 
 
+
+##  پیدا کردن آی پی تمیز CDN های مختلف بدون نیاز به اسکنر 
+
+
+
+لینک ابزار:
+
+github.com/seramo/v2ray-config-modifier
+
+https://www.youtube.com/watch?v=J9g1kbdW8Oc
+
+
+لیست آی پی های کلودفلیر
+
+https://www.cloudflare.com/ips/
+
+
+fastly ip range
+
+https://www.fastly.com/documentation/reference/api/utils/public-ip-list/
+
+
+https://api.fastly.com/public-ip-list
+
+
 ## دو روش پیدا کردن آی پی تمیز برای کلودفلر ورکر
 دو روش پیدا کردن آی پی تمیز برای کلودفلر ورکر
 وارد سایت زیر می شویم 

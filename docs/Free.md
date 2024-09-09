@@ -160,24 +160,24 @@ The list of domains to bypass, block and proxy based on ir geo-location in the n
 [github](https://github.com/soroushmirzaei/telegram-configs-collector)
 
 
-# igdux
+## igdux
 
 link subscribe
 
 https://igdux.top/~Nekobox
 
 
-# WireVpnGuard
+## WireVpnGuard
 
 [https://t.me/WireVpnGuard](https://t.me/WireVpnGuard)
 
 
-# v2ray_configs_pool
+## v2ray_configs_pool
 
 https://t.me/v2ray_configs_pool
 
 
-#  telegram-configs-collector
+##  telegram-configs-collector
 
 he script systematically collects Vmess, Vless, ShadowSocks, Trojan, Reality, Hysteria, Tuic, and Juicity configurations from publicly accessible Telegram channels. It categorizes these configurations based on open and closed ports, eliminates any duplicate entries, resolves configuration addresses using IP addresses, and revises configuration titles to reflect server and protocol-type properties. These properties include network and security type, IP address and port, and the respective country associated with the configuration.
 
@@ -185,7 +185,7 @@ he script systematically collects Vmess, Vless, ShadowSocks, Trojan, Reality, Hy
 
 
 
-# ysmoradi
+## ysmoradi
 
 سری جدید کانفیگ‌ها رسید
 
@@ -197,7 +197,7 @@ http://raw.githubusercontent.com/ysmoradi/sub/main/customs.json
 
 استفاده کنید
 
-# free-sub-link
+## free-sub-link
 https://github.com/coldwater-10/free-sub-link
 
 لینکای اشتراک:
@@ -210,7 +210,7 @@ https://github.com/coldwater-10/free-sub-link
 
 هیستریا2
 
-# vpngate.net
+## vpngate.net
 
 اما کابران ویندوز ...
 
@@ -220,13 +220,13 @@ https://github.com/coldwater-10/free-sub-link
 https://t.me/wbnet/94106
 
 
-# https://t.me/F_NiREvil
+## https://t.me/F_NiREvil
 
 برای آزادی ...
 
 
 
-#  HiN-VPN
+##  HiN-VPN
 
 
 بعد از مدت‌ها فرصت‌شد تا ابزار دریافت کانفیگ رایگان رو بروزرسانی کنم. کانفیگ‌های ارائه شده به تفکیک لوکیشن و پروتکل، از یه‌سری کانال تلگرامی توسط پروژه HiN-VPN جمع‌آوری میشن و به‌صورت لینک ساب در اختیارتون قرار می‌گیرن.
@@ -235,3 +235,14 @@ ircfspace.github.io/tconfig (http://ircfspace.github.io/tconfig)
 ircfspace.github.io/location (http://ircfspace.github.io/location)
 
 https://twitter.com/ircfspace/status/1830649607233171731
+
+
+
+
+## ساب هیدی فای🫶
+
+
+
+https://x.com/amirparsaxs/status/1832506423181197577
+
+https://raw.githubusercontent.com/xsamirparsa/Hi/main/Sub.text

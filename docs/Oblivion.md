@@ -64,6 +64,14 @@ Oblivion🤍
 
 https://x.com/amirparsaxs/status/1829969175873536243#m
 
+188.114.98.239:939
+188.114.98.163:939
+188.114.98.1:1010
+188.114.98.104:939
+
+اندپوینت oblivion🫶🥰
+
+https://x.com/amirparsaxs/status/1833584599471165593
 
 ## google play
 

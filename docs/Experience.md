@@ -42,3 +42,11 @@ https://filtershekan.sbs/Gcore/
 
 https://x.com/amin_o__o/status/1829141991579627785
 
+این اعداد روی ایرانسل هم بخوبی جواب میده 
+
+دوستان برای وایرگارد و استفاده از ipv4 روی همراه اول این اعداد برای من خوب جواب داد.امیدوارم برای شما هم جواب بده 
+
+![pic](https://pbs.twimg.com/media/GWsUNN9XgAAr97h?format=png&name=360x360)
+
+https://x.com/amin_o__o/status/1831579894196617727
+

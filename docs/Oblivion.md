@@ -2,7 +2,7 @@
 
 
 
-# v6
+## v6
 
 نسخه جدید Oblivion در گوگل پلی و گیت‌هاب منتشر شد! 🎉
 
@@ -15,7 +15,7 @@ https://x.com/markpash/status/1831836411005452440
 
 
 
-# endpoints
+## endpoints
 
 اگر از #Oblivion (https://twitter.com/hashtag/Oblivion) استفاده می‌کنین، می‌تونین اندپوینت‌های پیشنهادی رو به تفکیک IPv4/IPv6 از طریق این‌ابزار دریافت کنین:
 
@@ -31,8 +31,20 @@ http://github.com/ircfspace/endpoint
 https://twitter.com/ircfspace/status/1830376873232040234
 
 
+## آموزش oblivion با اندپوینت
 
-# endpoints
+دوستان اندرویدی و ویندوزی که هیچ دانشی از #فیلترشکن ندارید، ولی می خواهید خودتان به صورت رایگان به #اینترنت_آزاد  وصل بشید ویدیو رو ببنید:
+
+روش تنظیم اندپوینت روی Oblivion
+
+https://play.google.com/store/apps/details?id=org.bepass.oblivion&hl=en_US
+
+https://ircfspace.github.io/endpoint/index.html
+
+https://www.youtube.com/watch?v=tC1Meh4QSso
+
+
+## endpoints
 
 162.159.195.1:3854
 188.114.98.199:2408

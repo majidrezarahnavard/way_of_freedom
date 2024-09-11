@@ -46,6 +46,17 @@ https://www.youtube.com/watch?v=zF8cpEetuRY
 https://www.youtube.com/watch?v=tC1Meh4QSso
 
 
+## آموزش اندپیونت ها
+
+اگر مبتدی هستید و می خواهید سریع با اندروید و ویندوز به طور رایگان وصل بشید این آموزش رو دنبال کنید.
+
+با من همراه باشید با یک آموزش در مورد #oblivion :
+
+![pic](https://pbs.twimg.com/media/GXL28xxWMAAriqp.png)
+
+
+https://threadreaderapp.com/thread/1833805417022906504.html
+
 ## endpoints
 
 162.159.195.1:3854

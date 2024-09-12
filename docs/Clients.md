@@ -188,6 +188,15 @@ https://github.com/HajPasha/sing-box-batch
 
 
 
+# آپدیت جدید هسته سینگ‌باکس پلاس
+
+https://github.com/kyochikuto/sing-box-plus
+
+با توجه به استفاده V2RayN-PRO از این هسته میتونید با زدن کلید آپدیت داخل نرم‌افزار از آخرین نسخه این هسته استفاده کنید.
+
+https://x.com/Eagle_1157/status/1834140309518782849
+
+
 # NikaNG
 
 

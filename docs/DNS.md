@@ -382,6 +382,11 @@ Sign up for a free Cloudflare Workers account, create a new worker, replace the 
 [ روش جدید دریافت DNSشخصی-SIXTININELEARN ](https://www.youtube.com/watch?v=ju8b8IepAvk)
 
 
+https://controld.com/
+
+Stop thinking about DNS  
+Control D is a modern and customizable DNS service that blocks threats, unwanted content and ads - on all devices. Onboard in minutes, and forget about it.
+
 #  آموزش ساخت dns شخصی و کاهش پینگ بازی ها | عبور از تحریم مانند سایت شکن 
 
 

@@ -843,3 +843,22 @@ https://t.me/d69learn
 https://github.com/69learn
 
 https://www.youtube.com/watch?v=V4hvT1XRfP0
+
+
+##  آموزش تانل NOISE-TLS روی پنل مرزبان-SIXTININELEARN 
+
+سلام رفقا توی این ویدیو قراره بهتون یاد بدم چجوری خیلی راحت با استفاده تانلNOISE-TLS  بین سرور ایران و خارجتون تانل برقرار کنین حتی  با آیپی فیلتر با سرعت بالا.
+
+لینک دستورات:
+https://t.me/sixtininelearn/465
+
+گیتهاب پروژه رتهول:
+https://github.com/Azumi67/Rathole_re...
+
+گیتهاب پروژه ipv6 local:
+https://github.com/Azumi67/6TO4-GRE-I...
+
+کانال تلگرام:
+https://t.me/sixtininelearn
+
+https://www.youtube.com/watch?v=EmI-AZB-lhc

@@ -74,6 +74,17 @@ https://github.com/bia-pain-bache/BPB-Worker-Panel/blob/main/docs/worker_install
 https://github.com/bia-pain-bache/BPB-Worker-Panel/blob/main/docs/configuration_fa.md
 
 
+
+# v2.5.5
+
+ نسخه‌ی ۲.۵.۵ BPB Panel منتشر شد.
+
+اگر اولین باره با این پنل آشنا میشید لطفا یه راست برید انتهای رشتو و آموزشا رو بخونید و برای خودتون بسازید.
+اما تغییرات جدید:
+۱- پروتکل Trojan اضافه شده، پسوردشو با توجه به آموزش عوض کنید و نکاتشو بخونید.
+
+https://threadreaderapp.com/thread/1834568669814260180.html
+
 # v2.5
 
  نسخه‌ی ۲.۵ BPB Panel منتشر شد.

@@ -100,3 +100,34 @@ opkg update
 سلام رفقا توی این ویدیو قراره بهتون یاد بدم چجوری خیلی راحت سرور ابونتوی خودتون رو به میکروتیک تبدیل کنین.
 
 [youtube](https://www.youtube.com/watch?v=pz81NiG2STE)
+
+
+
+# sing-box-plus
+
+داداش اگه بدونی چه‌ها کردی با میکروتیک 🤩✌️
+
+اجرای سینگ‌باکس پلاس با کانتاینر میکروتیک 🫶
+
+اگه توی لاگها دقت کنی می‌بینی که اسکن کرده و ip تمیز پیدا کرده، دمت گرم 🙏
+
+Cloudflare IP Scanner
+TLS Fragmentation
+
+
+https://github.com/kyochikuto/sing-box-plus
+
+یک ریپوزیتوری جدید دارم در مورد سینگ باکس
+
+https://github.com/kyochikuto/sing-box-plus
+
+  @0xKyochikuto
+  ,  @Eagle_1157
+ 
+دارند بر همین اساس توسعه می دهند.
+
+Cloudflare IP Scanner
+Cloudflare WARP blocking bypass
+TLS Fragmentation
+
+به سینگ باکس این موارد رو اضافه کردند که حالا از همین روش میشه توی میکروتک هم استفاده کرد.

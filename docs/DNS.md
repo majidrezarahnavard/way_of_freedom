@@ -698,3 +698,24 @@ https://x.com/i/status/1833448790642090370
 76.76.10.5
 این دی ان اس ها خیلی خوبن
 
+
+
+## DNS Changer windows
+ برنامه تغییر DNS
+
+
+دانلود ورژن آخر:
+DNS Changer V1.6.2 (https://github.com/ALIILAPRO/dns-changer/releases/tag/v1.6.2)
+
+لینک گیتهاب پروژه :
+GITHUB (https://github.com/ALIILAPRO/dns-changer)
+
+
+https://t.me/P_tech2024/592
+
+
+## DNS 
+
+به به عجب dns روی همه نتا کار میکنه🔥
+4.2.2.4
+4.2.2.5

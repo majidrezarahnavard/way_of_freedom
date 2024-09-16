@@ -319,3 +319,51 @@ https://youtu.be/gfJtt33zlKs
 
 
 https://ivpn.pro/server/buy-vps-by-crypto/
+
+
+
+## ✅ یه آفر فوری و خوب واسه VPS اومده.
+
+لوکیشن:
+آلمان 🇩🇪، هلند 🇳🇱، رومانی 🇷🇴، آمریکا 🇺🇲
+
+دو نکته‌ی مهم داره:
+۱- تازه پرداخت با کریپتو رو گذاشته. قبلاً فقط با کردیت کارت و پی‌پل امکان خرید بود.
+نتیجه‌ای که میشه گرفت اینه که ایرانی‌ها هنوز IP هاش رو خراب نکردن و احتمال خیلی زیاد IP هاش کاملاً تمیزه.
+
+۲- تخفیف‌ش هنوز پابلیک نیست، برام ایمیل شده. البته هر کسی می‌تونه از کدهای تخفیف استفاده کنه.
+
+قیمت سالیانه ۹.۷۵ دلار و ۱۴.۷۵ دلار
+قیمت ماهیانه ۳ دلار
+
+برای مورد سالیانه، گزینه‌ی ۱۴.۷۵ دلاری بهتره چون رم ۱ گیگ داره. مخصوص خانواده‌س.
+راحت تا ۱۰ نفر هر کدام ۳ دیوایس می‌تونن پروتکل‌های Hysteria2 و Brook مستقیم و AmneziaVPN رو در کنار هم روی یک سرور داشته باشین.
+
+خودم هم دیروز یه سرور از لوکیشن آمستردام هلند و یکی هم از دوسلدورف آلمان خریدم و همه چیز نرمال و خوبه. پورت 1Gbps هم واقعاً یک گیگابیته.
+
+کد ۴۰٪ تخفیف برای سرور ماهیانه:
+MO40OFF
+
+کد ۵۰٪ تخفیف برای سرور سالیانه:
+YR50OFF
+
+(ثبت نام فقط با آدرس و تلفن فیک و ترجیحاً آمریکایی. مهم نیست چی میزنین، چک نمی‌کنن)
+
+سرورهای پیشنهادی:
+
+Locations: Germany 🇩🇪, Netherlands 🇳🇱, Romainia 🇷🇴, USA 🇺🇸 (Silicon Valley, Phoenix)
+
+Intel E5v4/AMD Ryzen 1vCPU, 1GB RAM DDR4, 20GB SSD, 1Gbps Port, 4TB BW, 1 IPv4/112 IPv6, KVM
+Price: $3 / Month (with code MO40OFF)
+Product Link (https://ivpn.pro/vpsforvpn-monthly)
+
+Intel E5v4/AMD Ryzen 1vCPU, 512MB RAM DDR4, 7GB SSD, 1Gbps Port, 1TB BW, 1 IPv4/112 IPv6, KVM
+Price: $9.75 / Year (with code YR50OFF)
+Product Link (https://ivpn.pro/vpsforvpn-yearly1)
+
+Intel E5v4/AMD Ryzen 1vCPU, 1GB RAM DDR4, 15GB SSD, 1Gbps Port, 3TB BW, 1 IPv4/112 IPv6, KVM
+Price: $14.75 / Year (with code YR50OFF)
+Product Link (https://ivpn.pro/vpsforvpn-yearly2)
+
+https://t.me/KevinZakarian/217
+

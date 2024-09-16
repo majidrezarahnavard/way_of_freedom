@@ -552,6 +552,23 @@
     </a>
 
 
+    <a href="People">
+
+        <article class="hentry">
+        <header class="entry-header">
+        <div class="entry-thumbnail">
+            <img src="https://upload.wikimedia.org/wikipedia/fa/thumb/e/e2/National_intranet_of_Iran.svg/300px-National_intranet_of_Iran.svg.png" alt="People"/>
+        </div>
+        <h2 class="my_title">People</h2>
+        <p class="my_text">
+            افرادی که در زمینه فیلترینگ فعالیت دارند
+        </p>
+        </header>
+        </article>
+
+    </a>
+
+
     <a href="Research">
         <article class="hentry">
         <header class="entry-header">

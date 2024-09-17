@@ -367,3 +367,11 @@ Product Link (https://ivpn.pro/vpsforvpn-yearly2)
 
 https://t.me/KevinZakarian/217
 
+
+
+##  خرید سرور مجازی با کریپتو -SIXTININELEARN 
+
+سلام رفقا توی این ویدیو قراره 7 تا از بهترین سایت ها برای خرید سرور مجازی خارج با کریپتو کارنسی رو براتون معرفی کنم.
+
+https://www.youtube.com/watch?v=-qH01HG0kxM
+

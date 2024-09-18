@@ -68,6 +68,15 @@ https://x.com/amin_o__o/status/1831579894196617727
 
 ![picture](https://pbs.twimg.com/media/GXm3o_cW4AEBIZv?format=jpg&name=medium)
 
+
+چه بسیار زیبا ۴۸ ساعت ۱۴ میلیون request 💪
+
+![picture](https://pbs.twimg.com/media/GXsT2OnXgAErSBo?format=jpg&name=small)
+
+
+https://x.com/amin_o__o/status/1835300570606768492?s=19
+
+
 ## Rasoul
 
 این روش به نظرم همچنان عالیه

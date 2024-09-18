@@ -149,3 +149,21 @@ https://t.me/joinNASNET
 
 
 https://x.com/joinNASNET/status/1833455316996132958
+
+
+## قیمت
+
+یه نفر سایت ساخته و تعرفه استارلینک‌رو تو کل کشورها با هم مقایسه کرده، مثلا نیجریه با ۲۳.۹ دلار ارزون‌ترین اشتراک ماهانه هست.
+توضیح بدم که استارلینک هر کشوری باشه تو ایران هم کار میکنه، البته میگن اشتراک‌های آفریقا فقط تو آفریقا فعال میشن.
+
+https://starlink-prices.com
+
+برای دیدن تعرفه‌ها به صورت زنده هم میتونید به نقشه رسمی خود استارلینک مراجعه کنید.
+
+https://www.starlink.com/map
+
+https://t.me/geekalerts/2588
+
+https://x.com/MrSoroushAhmadi/status/1836319552570904849
+
+![picture](https://pbs.twimg.com/media/GXvnCgoXgAAFfbW?format=png&name=large)

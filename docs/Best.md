@@ -37,7 +37,10 @@
 خیلیا همیشه سوال دارن که این همه روش رایگان و غیر رایگان و کلی کانفیگ مختلف برای v2ray و پنل ها وجود داره، بالاخره کدوم بهتره و مدت بیشتری میتونن ازش استفاده کنن و دردسر کمتری داره؟ در انتها هم جدولی برای مقایسه روش ها ارائه شده، البته دیدن ویدیو الزامیه و توضیحات اصلی در ویدیو داده شده.
 
 
-[picture](https://twitter.com/GhostOfSarina/status/1779051591544271299)
+https://twitter.com/GhostOfSarina/status/1779051591544271299
+
+![picture](https://pbs.twimg.com/media/GLB0kMsWIAA0xmh?format=jpg&name=medium)
+
 
 
 #  تمام روش های رایگان دسترسی به اینترنت آزاد برای تمام دیوایس ها (2024) 
@@ -62,7 +65,9 @@
 
 
 🍏📱💻Hiddify+warp https://app.hiddify.com 
+
 sub https://raw.githubusercontent.com/amin4139/share_file/main/Hiddify%2B
+
 TVCsub https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/base64/mix
 
 📱💻Oblivion https://play.google.com/store/apps/details?id=org.bepass.oblivion

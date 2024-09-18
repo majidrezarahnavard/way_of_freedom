@@ -687,6 +687,21 @@
     </a>
 
 
+    <a href="Film">
+        <article class="hentry">
+        <header class="entry-header">
+        <div class="entry-thumbnail">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR95OK7zt2kxPXmPUQfuxLDehEgi9xT-b3k8A&s" alt="Film"/>
+        </div>
+        <h2 class="my_title">فیلم</h2>
+        <p class="my_text">
+            سایت های پخش فیلم و سریال
+        </p>
+        </header>
+        </article>
+    </a>
+
+
     <a href="Other#NordVPN">
         <article class="hentry">
         <header class="entry-header">

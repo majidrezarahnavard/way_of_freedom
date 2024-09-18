@@ -719,3 +719,18 @@ https://t.me/P_tech2024/592
 به به عجب dns روی همه نتا کار میکنه🔥
 4.2.2.4
 4.2.2.5
+
+
+# پنل DNS آزادی
+
+میتونید با استفاده از ورکر کلادفلر محدودهای DoH DNS رو در ایران از بین ببرید و به راحتی استفاده کنید
+
+دیفالت رو کلادفلره ولی میتونید هر آدرسی ست کنید
+
+https://github.com/AzadiAzadiAzadi/AzadiDNSPanel/blob/main/worker.js
+
+توجه: باید KV بسازید و  قسمت Namespace Bindings حتما Variable name رو SETTINGS بذارید
+
+https://x.com/kharabam666/status/1835967624015970495
+
+![picture](https://pbs.twimg.com/media/GXqn5jzWsAARyDf?format=png&name=900x900)

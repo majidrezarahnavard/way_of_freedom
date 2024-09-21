@@ -327,3 +327,29 @@ https://check-host.net/check-ping?host=www.vinatech.ir
 https://threadreaderapp.com/thread/1827051349508513989.html
 
 https://api.fastly.com/public-ip-list
+
+
+#  ترنسمیش جدید httpupgrade 
+
+
+سلام تو این ویدیو با استفاده از ترنسمیش جدید httpupgrade بدون احتیاج به ایپی تمیز اختلال اینترنت تمام اپراتورها ازجمله همراه اول و ایرانسل رو برطرف میکنیم 
+روش کانفیگ جدید
+فایل راهنما
+https://t.me/v2rayiranioriginal/397
+و..............
+کانال تلگرام
+https://t.me/v2rayiranioriginal
+
+https://www.youtube.com/watch?v=VI7KSKxCjgI
+
+https://subdomainfinder.c99.nl/
+
+
+
+# بهترین روش جدید ngnx و http upgrade 
+
+بهترین روش جدید ngnx و http upgrade برای اتصال با پهنای باند بسیار بالا مناسب تمام اپراتور ها با بهترین کیفیت ممکنو حتی آی پی فیلتر که این روش برای تمام اپراتور های همراه اول و ایرانسل و کل اپراتور ها مناسب هستش و عالی کار میده و میتونین خیلی راحت و با کیفیت از این روش cdn مستقیم پرسرعت با آپلود بالا استفاده کنید
+
+https://www.youtube.com/watch?v=slLaLB4Ns8w&t
+
+

@@ -28,6 +28,17 @@
 
 https://threadreaderapp.com/thread/1837887724763693499.html?utm_campaign=topunroll
 
+
+نسخه Beta وارپ رو میتونید با پروتکل MASQUE تست کنید
+روی نت همراه اول وصل شد
+آی پی آلمان میده
+
+https://play.google.com/store/apps/details?id=com.cloudflare.onedotonedotonedotone
+
+![warp](https://pbs.twimg.com/media/GYF52fiWgAAeuIS?format=jpg&name=large)
+
+https://x.com/seramo_ir/status/1837884108623454317
+
 ##  آموزش کانفیگ shadowtls+ warp برای عبور از فیلترینگ-SIXTININELEARN 
 
 سلام رفقا توی این ویدیو قراره بهتون یاد بدم چجوری خیلی راحت با استفاده از یه اسکریپت کاربردی بتونین برای خودتون وخانوادتون کانفیگ SHADOWTLS بسازین.

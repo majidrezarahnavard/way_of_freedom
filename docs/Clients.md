@@ -51,6 +51,10 @@ cp.cloudflare.com (http://cp.cloudflare.com/)
 
 https://twitter.com/ircfspace/status/1824718183019729143
 
+
+![hiddify](https://pbs.twimg.com/media/GYGOCZhWkAAgews?format=jpg&name=small)
+
+
 ## Streisand IOS
 برنامهٔ #Streisand یکی‌از پایدارترین گزینه‌ها برای #آیفون هست که متاسفانه در رابطه با واردکردن پیگربندی JSON از URL با مشکل مواجه بود؛ این زمانی اهمیت بیشتری پیدا می‌کرد که درحال‌حاضر #فرگمنت در ایران به‌عنوان یکی‌از روش‌های کاربردی برای دسترسی آزاد به اینترنت به‌شمار میره /تب
 

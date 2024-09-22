@@ -687,6 +687,21 @@
     </a>
 
 
+    <a href="Money">
+        <article class="hentry">
+        <header class="entry-header">
+        <div class="entry-thumbnail">
+            <img src="https://cdn.tejaratnews.com/thumbnail/YzA4MmYx5lu8/7Dh7We5xtX_grx3YA_caqlC9saO3iinF0RllhbjeLBNebgzwxwmFC93BZ-jZGkD7dTs5BGWsh4srsnW_9-DdiYcwX8T4_E84I-lU8Hs75TRTxb-f-eSt-w,,/YzA4MmYx5lu8.jpg" alt="Money"/>
+        </div>
+        <h2 class="my_title">اقتصاد فیلترشکن</h2>
+        <p class="my_text">
+            روش های کسب درآمد از فیلترشکن
+        </p>
+        </header>
+        </article>
+    </a>
+
+
     <a href="Film">
         <article class="hentry">
         <header class="entry-header">

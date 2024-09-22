@@ -172,3 +172,10 @@ https://raw.githubusercontent.com/amin4139/share_file/main/Fastly_ConfigTestV2ra
 https://raw.githubusercontent.com/amin4139/share_file/main/Fastly_ConfigTestHiddifyXray
 
 
+## توی هیدیفای با کانفیگ fastly
+
+ با این تنظیمات اتصال بهتری داشته باشید🫶
+
+https://x.com/amirparsaxs/status/1837538606984188344
+
+![picture](https://pbs.twimg.com/media/GYA_nVxXEAABPD0?format=jpg&name=medium)

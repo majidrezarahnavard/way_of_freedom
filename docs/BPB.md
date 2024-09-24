@@ -1,10 +1,7 @@
 # BPB
 
 
-# Install
-
-
-## youtube
+## ضد فیلتر همراه با فرگمنت
 
 دور زدن فیلترینگ با پنل BPB کاملا رایگان (ضد فیلتر همراه با فرگمنت) 
 
@@ -27,7 +24,7 @@ https://github.com/bia-pain-bache/BPB-Worker-Panel
    • تمام روش های رایگان دسترسی به اینترنت...  
 
 
-# آموزش ها
+## آموزش ها
 
 آموزش ساخت به روش Pages (پیشنهادی):
 https://github.com/bia-pain-bache/BPB-Worker-Panel/blob/main/docs/pages_installation_fa.md
@@ -38,7 +35,7 @@ https://github.com/bia-pain-bache/BPB-Worker-Panel/blob/main/docs/configuration_
 سوالات متداول (خیلی مهم):
 https://github.com/bia-pain-bache/BPB-Worker-Panel/blob/main/docs/faq.md
 
-# github
+## github
 
 https://github.com/bia-pain-bache/BPB-Worker-Panel/tree/main
 
@@ -75,7 +72,7 @@ https://github.com/bia-pain-bache/BPB-Worker-Panel/blob/main/docs/configuration_
 
 
 
-# v2.5.5
+## v2.5.5
 
  نسخه‌ی ۲.۵.۵ BPB Panel منتشر شد.
 
@@ -85,7 +82,7 @@ https://github.com/bia-pain-bache/BPB-Worker-Panel/blob/main/docs/configuration_
 
 https://threadreaderapp.com/thread/1834568669814260180.html
 
-# v2.5
+## v2.5
 
  نسخه‌ی ۲.۵ BPB Panel منتشر شد.
 
@@ -98,11 +95,13 @@ https://threadreaderapp.com/thread/1824435454336208968.html
 
 
 
-# quick install
+## quick install
 
 
 برای آپدیت پنل bpb لازمه که به آدرس 
+
 http://github.com/apps/pull
+
 برید و install رو بزنید 
 بعد دسترسی به repository که میخواهید sync بشه بدید (برای آپدیتbpb)
 و تمام !

@@ -1,5 +1,59 @@
 # کانفیگ رایگان
 
+Based on the information provided, here's a summary of the various methods for obtaining free VPN configurations and internet access:
+
+1. Telegram channels and bots:
+   - freeebirdss
+   - FORWARDV2RAY
+   - azadi_az_inja_migzare
+   - TheTVCbots
+   - ProxyMTProto
+   - MTPrototech
+   - ArgoVPN_falcon
+   - JavidnamanIran
+   - WireVpnGuard
+   - v2ray_configs_pool
+
+2. GitHub repositories:
+   - barry-far/V2ray-Configs
+   - freev2rayconfig/V2RAY_SUBSCRIPTION_LINK
+   - xc0000e9/deatnote
+   - sarinaesmailzadeh/V2Hub
+   - XrayIran/free-configs
+   - yebekhe/TelegramV2rayCollector
+   - soroushmirzaei/telegram-configs-collector
+   - ysmoradi/sub
+   - coldwater-10/free-sub-link
+
+3. Web-based tools:
+   - ircfspace.github.io/location
+   - yebekhe.github.io/MTProtoCollector
+   - vpngate.net (for Windows users)
+   - ircfspace.github.io/tconfig
+
+4. Mobile apps:
+   - ArgoVPN (Google Play Store)
+
+5. Subscription links:
+   - Various subscription links provided by different sources (e.g., ysmoradi, coldwater-10)
+
+6. Custom configurations:
+   - GFW-KNOCKER: A fragmentation tool for accessing specific websites without a VPN
+   - Creating personal configs using a private panel (as explained in a YouTube video)
+
+7. Specific protocols and technologies:
+   - V2ray
+   - MTProto
+   - Clash
+   - Sing-box
+   - Hiddify
+
+8. Other methods:
+   - Using SSTP VPN settings in Windows with servers from vpngate.net
+   - Email-based subscriptions (mentioned by Kevin Zakarian)
+
+These methods offer various options for users to access free VPN configurations and bypass internet restrictions. It's important to note that while these services are free, users should exercise caution and be aware of potential security risks when using public or unknown VPN configurations.
+
 
 ## freeebirdss
 
@@ -153,7 +207,7 @@ https://play.google.com/store/apps/details?id=com.filtershekanha.argovpn&hl=en_U
 
  [tuic](https://raw.githubusercontent.com/coldwater-10/Vpnclashfa/main/raw/tuic%20%26%20hy2.txt)
 
- ## telegram-configs-collector
+## telegram-configs-collector
 
 The list of domains to bypass, block and proxy based on ir geo-location in the nekoray and nekobox according to the core is set to sing-box . to set these domains just create new routes in the nekobox and nekoray and enter the domains below in the pertained section domains and set it's outbound value based on bypass, proxy or block as below.
 

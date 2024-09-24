@@ -39,6 +39,25 @@ https://play.google.com/store/apps/details?id=com.cloudflare.onedotonedotonedoto
 
 https://x.com/seramo_ir/status/1837884108623454317
 
+نصب Warp Beta
+
+تغییر پروتکل WireGuard به MASQUE
+ظاهرا با این روش لوکیشن شما دیگه ایران نیست.
+
+https://x.com/29peyman/status/1837979966728032517
+
+
+نسخه ویندوزی وارپ رو میتونید از لینک زیر دریافت کنید ..
+
+https://install.appcenter.ms/orgs/cloudflare/apps/1.1.1.1-windows/distribution_groups/beta
+
+
+بعد از نصب برای سوییچ کردن پروتکل از دستور زیر استفاده کنید:
+
+warp-cli tunnel protocol set MASQUE
+
+
+
 ##  آموزش کانفیگ shadowtls+ warp برای عبور از فیلترینگ-SIXTININELEARN 
 
 سلام رفقا توی این ویدیو قراره بهتون یاد بدم چجوری خیلی راحت با استفاده از یه اسکریپت کاربردی بتونین برای خودتون وخانوادتون کانفیگ SHADOWTLS بسازین.

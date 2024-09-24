@@ -4,7 +4,7 @@
 اگر #فیلترشکن کار می کند ولی بعضی از سایت های باز نمیشود یا عکس های توییتر یا جاهای دیگر باز نمیشود از این روش استفاده کنید.
 
 
-# مقدمه
+## مقدمه
 
 این متن حاوی اطلاعات متنوعی درباره DNS و استفاده از آن برای عبور از فیلترینگ است. نکات کلیدی عبارتند از:
 
@@ -28,7 +28,7 @@
 هدف اصلی این اطلاعات، کمک به کاربران برای بهبود دسترسی به اینترنت و عبور از محدودیت های دسترسی با استفاده از تکنیک های مرتبط با DNS است.
 
 
-# توضیح فنی DNS
+## توضیح فنی DNS
 
 آموزش DNS از پایه رو توی این ویدیو توضیح دادند.
 متاسفانه ج.ا دشمنی خاصی با DNS دارد و شما مجبور هستید که این اطلاعات رو به عنوان یک کاربر عادی ! داشته باشید.
@@ -43,7 +43,7 @@ Wireshark
 https://www.youtube.com/watch?v=Flo5VoesxRY
 
 
-# Rethink 
+## Rethink 
 
 
 این هم آموزش اتصال v2ray ng=mahsang به rethink. برای برطرف کردن مشکل کانفیگ هایی که فرگمنت نیاز دارن.
@@ -73,7 +73,7 @@ https://www.youtube.com/watch?v=Flo5VoesxRY
 
 [twitter](https://threadreaderapp.com/thread/1795056178134737149.html)
 
-# DNS client V2RayNG
+## DNS client V2RayNG
 
 توی اغلب پنل‌هایی که بر پایه x-ui هستن یه بخش تنظیمات پشرفته داره که میتونید کدهای جیسون پنل رو ببینید
 
@@ -107,7 +107,7 @@ https://www.youtube.com/watch?v=Flo5VoesxRY
 [ بهترین DNS برای اینترنت خودتو پیدا کن + مخصوص PC ](https://www.youtube.com/watch?v=201mrGCHKsY)
 
 
-# DNS چیه داستانش
+## DNS چیه داستانش
 
 ه روش آقا وحید استاد عزیز میخوام براتون یه قصه بگم البته نه با اون کیفیت..
 
@@ -116,7 +116,7 @@ https://www.youtube.com/watch?v=Flo5VoesxRY
 [twitter](https://threadreaderapp.com/thread/1790015865401798738.html)
 
 
-# DNS چه تاثیری دارد
+## DNS چه تاثیری دارد
 
 این ویدیو کاملاً تاثیر DNS را بهتون نشون می‌ده 🤷 کانفیگ وصل هستش یوتیوب و تلگرام باز میشه اما توییتر باز نمیشه فقط DNS را تغییر می دم همه‌چیز درست میشه
 
@@ -241,7 +241,7 @@ https://www.youtube.com/watch?v=Flo5VoesxRY
 
 
 
-# نرم افزار secure dnsعبور از فیلتر سایتهای بر پایه sni/dns فیلتر شدند مثل یوتیوب،توییتر و.در ویندوز 
+## نرم افزار secure dnsعبور از فیلتر سایتهای بر پایه sni/dns فیلتر شدند مثل یوتیوب،توییتر و.در ویندوز 
 
 نرم افزار secure dnsعبور از فیلتر سایتهای بر پایه sni/dns فیلتر شدند مثل یوتیوب،توییتر و.در ویندوز 
 افرادی  بدون نیاز به تغییر ای پی می خواهند از این سایتها استفاده کنند
@@ -249,13 +249,13 @@ https://www.youtube.com/watch?v=Flo5VoesxRY
 https://threadreaderapp.com/thread/1757688129648013538.html
 
 
-# سرویس DNS چیه و چرا باید تغییرش داد؟
+## سرویس DNS چیه و چرا باید تغییرش داد؟
 
 
 [سرویس DNS چیه و چرا باید تغییرش داد؟](https://twitter.com/ShahrSakhtAfzar/status/1769059543298838724)
 
 
-# وارپ زیروتراست
+## وارپ زیروتراست
 
 [بریم یک آموزش کوچک بزنیم و DNS بسازیم](https://threadreaderapp.com/thread/1771566490656915457.html)
 
@@ -271,7 +271,7 @@ https://threadreaderapp.com/thread/1757688129648013538.html
 
 [twitter](https://twitter.com/amin_o__o/status/1788333932649304152)
 
-# ساخت DNS رایگان با کلادفلر و گیتهاب
+## ساخت DNS رایگان با کلادفلر و گیتهاب
 
 ساخت DNS رایگان با کلادفلر و گیتهاب
 *سلام رفقا! *
@@ -283,12 +283,12 @@ https://threadreaderapp.com/thread/1757688129648013538.html
 [twitter](https://twitter.com/mahiciyah/status/1772843083765514480)
 
 
-# آموزش ساخت DNS شخصی به 3 روش
+## آموزش ساخت DNS شخصی به 3 روش
 
 [آموزش ساخت DNS شخصی به 3 روش](https://www.youtube.com/watch?v=rduDbydGUQk)
 
 
-#  آموزش ساخت DNS شخصی 
+##  آموزش ساخت DNS شخصی 
 
 🔸تو این ویدیو نحوه ی ساخت دی ان اس شخصی رو با استفاده از کلودفلر توضیح دادم که امیدوارم به کارتون بیاد.
 
@@ -296,7 +296,7 @@ https://threadreaderapp.com/thread/1757688129648013538.html
 [ آموزش ساخت DNS شخصی ](https://www.youtube.com/watch?v=kFfw4FuQd34)
 
 
-# blocky
+## blocky
 
 اگر مثل من در وضعیتی هستید که نیاز دارید DNS-Server اختصاصی خودتان را داشته باشید و شبیه شکن نیز عمل کند (Custom DNS resolution/Conditional forwarding) و از DoH پشتیبانی کند، به نظرم باید Blocky را تست کنیم.
 
@@ -304,20 +304,20 @@ https://threadreaderapp.com/thread/1757688129648013538.html
 [blocky](https://github.com/0xERR0R/blocky)
 
 
-#  The ULTIMATE Guide to Mastering NextDNS! 
+##  The ULTIMATE Guide to Mastering NextDNS! 
 
 NextDNS is an insanely powerful privacy and security tool allowing you to reclaim control across various devices via DNS. In this guide/tutorial, I will be explaining what NextDNS is and how it differs from most other DNS providers, all the settings offered, some of my suggested use-cases, blocklist recommendations, set-up, and many other things so you can feel confident using NextDNS. Enjoy!
 
 [ The ULTIMATE Guide to Mastering NextDNS! ](https://www.youtube.com/watch?v=WUG57ynLb8I)
 
 
-# dnscrypt-proxy
+## dnscrypt-proxy
 
 یکی از DNSسرورهای خوب موجود dnscrypt است که از انواع encryptionها مثل Blocky که قبلا معرفی کردم پشتیبانی می‌کند و چند ویژگی جالب مثل Time-based filtering و Cloaking همراه با Load balancing دارد که بر اساس سرعت بهترین DNS resolver را خودکار انتخاب می‌کند.
 
 [dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy)
 
-# dnscrypt
+## dnscrypt
 
 اگر به جز dns های معروف دنبال گزینه دیگه ای هستین این منبع خوبی هست
 
@@ -326,7 +326,7 @@ NextDNS is an insanely powerful privacy and security tool allowing you to reclai
 
 
 
-# serverless-dns
+## serverless-dns
 
 It's a bird, it's a plane, it's... a self-hosted, pi-hole esque, DNS resolver
 serverless-dns is a Pi-Hole esque content-blocking, serverless, stub DNS-over-HTTPS (DoH) and DNS-over-TLS (DoT) resolver. Runs out-of-the-box on Cloudflare Workers, Deno Deploy, Fastly Compute@Edge, and Fly.io. Free tiers of all these services should be enough to cover 10 to 20 devices worth of DNS traffic per month.
@@ -334,7 +334,7 @@ serverless-dns is a Pi-Hole esque content-blocking, serverless, stub DNS-over-HT
 [serverless-dns](https://github.com/serverless-dns/serverless-dns)
 
 
-# cf-workers-dns-over-https
+## cf-workers-dns-over-https
 
 A very minimalist DNS-over-HTTPS proxy on Cloudflare Workers.
 
@@ -344,12 +344,12 @@ Sign up for a free Cloudflare Workers account, create a new worker, replace the 
 [cf-workers-dns-over-https](https://github.com/msasanmh/cf-workers-dns-over-https)
 
 
-# آموزش تنظیم DNS
+## آموزش تنظیم DNS
 
 [twitter](https://threadreaderapp.com/thread/1784432781793103978.html)
 
 
-# YogaDNS
+## YogaDNS
 
 
 آموزش استفاده از برنامه YogaDNS برای خلاص شدن از شر DNS Hijacking
@@ -359,7 +359,7 @@ Sign up for a free Cloudflare Workers account, create a new worker, replace the 
 [twitter](https://threadreaderapp.com/thread/1785092535527850292.html)
 
 
-# این برنامه هم خیلی خوبه مخصوصا قسمت تست DNS
+## این برنامه هم خیلی خوبه مخصوصا قسمت تست DNS
 
  Karing - Simple & Powerful proxy utility 
 
@@ -374,7 +374,7 @@ Sign up for a free Cloudflare Workers account, create a new worker, replace the 
 [github](https://github.com/KaringX/karing)
 
 
-#  روش جدید دریافت DNSشخصی-SIXTININELEARN 
+##  روش جدید دریافت DNSشخصی-SIXTININELEARN 
 
 
 سلام رفقا توی این ویدیو قراره بهتون یاد بدم چجوری خیلی راحت با استفاده از سایت controld  برای خودتون dns شخصی بگیرین و بتونین روی سرورتون با سرعت بالا استفاده کنین.
@@ -387,7 +387,7 @@ https://controld.com/
 Stop thinking about DNS  
 Control D is a modern and customizable DNS service that blocks threats, unwanted content and ads - on all devices. Onboard in minutes, and forget about it.
 
-#  آموزش ساخت dns شخصی و کاهش پینگ بازی ها | عبور از تحریم مانند سایت شکن 
+##  آموزش ساخت dns شخصی و کاهش پینگ بازی ها | عبور از تحریم مانند سایت شکن 
 
 
 در این ویدیو با استفاده از یک سرور مجازی و یک دامنه به راحتی یک dns شخصی برای خودمون میسازیم که میتوانیم برای عبور از تحریم ها و کاهش پینگ بازی ها از این سرویس استفاده کنیم. از انجایی که این سرویس کاهش پینگ شخصی هست سرعت بسیار بالایی دار
@@ -395,7 +395,7 @@ Control D is a modern and customizable DNS service that blocks threats, unwanted
 [ آموزش ساخت dns شخصی و کاهش پینگ بازی ها | عبور از تحریم مانند سایت شکن ](https://www.youtube.com/watch?v=VBtLNR1Dqyo)
 
 
-# یه موردی رو درباره dns لوکال براتون گفته بودم،
+## یه موردی رو درباره dns لوکال براتون گفته بودم،
 
 یه موردی رو درباره dns لوکال براتون گفته بودم،
 
@@ -407,7 +407,7 @@ quic://dns.adguard-dns.com
 [twitter](https://twitter.com/Eagle_1157/status/1787326418386305173)
 
 
-# کلیات قضیه اینه که ما دو جا dns رو نیاز داریم،
+## کلیات قضیه اینه که ما دو جا dns رو نیاز داریم،
 
 کلیات قضیه اینه که ما دو جا dns رو نیاز داریم،
 
@@ -421,7 +421,7 @@ quic://dns.adguard-dns.com
 [twitter](https://threadreaderapp.com/thread/1787495310643618178.html)
 
 
-# one.dash.cloudflare.com
+## one.dash.cloudflare.com
 
 از لینک زیر وارد پنل کلودفلر بشین ، بخش زیروتراست و DNS اختصاصی خودتون رو دریافت کنید و تمام ..
 
@@ -432,7 +432,7 @@ quic://dns.adguard-dns.com
 
 
 
-#  آموزش کامل DNS وBALANCER در پنل ثنایی و علیرضا-SIXTININELEARN 
+##  آموزش کامل DNS وBALANCER در پنل ثنایی و علیرضا-SIXTININELEARN 
 
 
 سلام رفقا توی این ویدیو قراره بهتون یاد بدم چجوری خیلی راحت دو قسمت مهم پنل ثنایی و علیرضا DNS و BALANCER  رو تنظیم کنین ویه سرعت فوق العاده داشته باشین .
@@ -441,23 +441,23 @@ quic://dns.adguard-dns.com
 [youtube](https://www.youtube.com/watch?v=khPpQkPUkjE)
 
 
-#  رفع مشکل ایرانسل و همراه اول با CDN fastly آپلود و دانلود V2ray - Fastly 
+##  رفع مشکل ایرانسل و همراه اول با CDN fastly آپلود و دانلود V2ray - Fastly 
 
 با سلام در این ویدیو به رفع مشکلات و محدودیت های ایرانسل و همراه اول می پردازیم CDN Fastly یکی از سی دی ان های پر قدرت هست و با کمک این سی دی ان می تونیم محدودید آپلود و دانلود رو برطرف کنیم
 
 [youtube](https://www.youtube.com/watch?v=Fpn6ZIP-8UU)
 
 
-# DNS all platforms
+## DNS all platforms
 
 https://dnscrypt.info/implementations/
 
 
-# Rethink DNS
+## Rethink DNS
 
 https://github.com/celzero/rethink-app/releases
 
-# چه جوری   DNS over HTTPS یا DoH  اختصاصی رایگان و فقط با دو کلیک بسازیم
+## چه جوری   DNS over HTTPS یا DoH  اختصاصی رایگان و فقط با دو کلیک بسازیم
 
 کافیه تو کلودفلر وارد بشید 
 و مشابه تصویر زیر مقادیر را وارد کنید
@@ -472,7 +472,7 @@ https://github.com/celzero/rethink-app/releases
 [twitter](https://x.com/hiddify_com/status/1795403011013189905)
 
 
-#  DNS سالم
+##  DNS سالم
 
 این سه تا DNS هنوز سالم هستند.اگر DNS مشکل داشته باشه ممکنه کلا کانفیگ وصل نشه یا ممکنه وصل بشه پینگ داشته باشه اما هیچی باز نکنه جز تلگرام. من سعی می‌کنم هرروز تست کنم چندتا بهتون برسونم 😔 
 https://dns.nas-server.ru/dns-query
@@ -480,7 +480,7 @@ https://yovbak.com/dns-query
 https://dns.kernel-error.de/dns-query
 
 
-# ساخت DNS
+## ساخت DNS
 
 خوب بریم برای یک آموزش سریع و ساده تمام مراحل را مثل این آموزش انجام بدید
 https://x.com/amin_o__o/stat/amin_o__o/status/1771566490656915457?s=19
@@ -490,13 +490,13 @@ https://x.com/amin_o__o/stat/amin_o__o/status/1771566490656915457?s=19
 [twitter](https://threadreaderapp.com/thread/1796046660499300689.html)
 
 
-# ست کردن دی ان اس بر روی مودم 
+## ست کردن دی ان اس بر روی مودم 
 کاهش نویز و اختلال در اینترنت✌️
 
 [twitter](https://x.com/amirparsapv/status/1796462804352008495)
 
 
-# دسترسی به بیشتر سایت های پالایش شده فقط با DNS
+## دسترسی به بیشتر سایت های پالایش شده فقط با DNS
 
 http://rethinkdns.com
 
@@ -504,7 +504,7 @@ http://rethinkdns.com
 [twitter](https://x.com/kharabam666/status/1798087376784572699)
 
 
-#  آموزش جدید وایرگارد با آی پی اسکنر 
+##  آموزش جدید وایرگارد با آی پی اسکنر 
 
 اگر هنوز بلد نیستید DNS روی اندروید تنظیم کنید این ویدیو رو ببینید
 
@@ -514,7 +514,7 @@ https://youtu.be/DRLVA9ZHKw4?si=nmCZKGbAUFZgY1sa
 
 
 
-# nextdns
+## nextdns
 
 استفاده از nextdns
 به عنوان dns کارامد در بهبود اتصال وی پی ان افزایش امنیت و حذف تبلیغات
@@ -522,7 +522,7 @@ https://youtu.be/DRLVA9ZHKw4?si=nmCZKGbAUFZgY1sa
 
 [twitter](https://threadreaderapp.com/thread/1802054041729487253.html)
 
-# DNS for hiddify
+## DNS for hiddify
 
 quic://dns.adguard-dns.com
 quic://family.adguard-dns.com 
@@ -535,7 +535,7 @@ tls://8.8.4.4
 
 
 
-# DNS IPhone
+## DNS IPhone
 
 
 توی این ویدیو برنامه دی ان اس برای آیفون رو که چند مدت پیش ویدیو شو ساخته بودم به همراه دوتا کد IPV4 و یه کد IPV6 معرفی کردم که امیدوارم حسابی به کارتون بیاد و پینگ پایینیو باهاش تجربه کنین💥
@@ -554,7 +554,7 @@ https://www.youtube.com/watch?v=lMjCk9H4QvA
 
 
 
-# تنظیم دستی و تغییر دی ان اس آیفون
+## تنظیم دستی و تغییر دی ان اس آیفون
 
 
 در این ویدئو درباره تنظیم دی ان اس DNS آیفون صحبت میکنیم
@@ -562,14 +562,14 @@ https://www.youtube.com/watch?v=lMjCk9H4QvA
 https://www.youtube.com/watch?v=HthAOQGtBMw
 
 
-# DNS finder
+## DNS finder
 
 وقت تو با ارزشه ، دور زدن تحریم رو بسپار به ابزارها
 
 https://403unlocker.netlify.app
 
 
-# DNS Hiddify
+## DNS Hiddify
 
 دوستان هیدی فای با دی ان اس های زیر بسیار خوب عمل میکنه🤍
 tcp://185.228.168.9
@@ -595,7 +595,7 @@ udp://8.8.4.4
 udp://4.2.2.1
 
 
-#  آموزش ست کردن کانفیگ و دی ان اس 
+##  آموزش ست کردن کانفیگ و دی ان اس 
 
 آموزش ست کردن کانفیگ و دی ان اس  @hiddify_com
  به طور خلاصه🤍
@@ -605,7 +605,7 @@ udp://4.2.2.1
 https://x.com/amirparsaxs/status/1822374145142775927
 
 
-# DNS
+## DNS
 
 دی ان اس خوب این چند وقت:
 tls://4.4.4.4
@@ -616,14 +616,14 @@ udp://64.6.64.6
 https://x.com/amirparsaxs/status/1823781039954854173
 
 
-# fake DNS
+## fake DNS
 
 اگر trojan جواب نداد از تنظیمات fake dns را روشن کنید مشکل حل میشه 🤷 دیگه خیلی ساده گفتم 😑 پیچیده ترش این هست fake dns را روشن کنید fragment هم روشن کنید کانفیگ را تبدیل کنید به sing-box قسمت fake dns را مثل عکس تغییر بدید نتیجه بهتری می‌ده 🤷
 
 [twitter](https://x.com/amin_o__o/status/1800892631960129896)
 
 
-# DNS
+## DNS
 
 DNS Server: udp://205.171.3.65
 
@@ -631,14 +631,14 @@ DNS Server: udp://205.171.3.65
 روی همه اپراتورها
 
 
-# DNS
+## DNS
 
 VPN DNS = 8.20.247.20
 Remote DNS 8.20.247.20
 Domestic DNS 223.5.5.5
 
 
-# DNS hiddify
+## DNS hiddify
 
 دوستان توی هیدی فای دی ان اس زیر رو اعمال کنید ببینید خوبه با حالت tls🤍
 tls://8.8.4.4
@@ -647,7 +647,7 @@ tls://9.9.9.9
 
 
 
-# تفاوت DNS سیسکو با DNS مخابرات؛
+## تفاوت DNS سیسکو با DNS مخابرات؛
 
 
 تفاوت DNS سیسکو با DNS مخابرات؛
@@ -734,3 +734,13 @@ https://github.com/AzadiAzadiAzadi/AzadiDNSPanel/blob/main/worker.js
 https://x.com/kharabam666/status/1835967624015970495
 
 ![picture](https://pbs.twimg.com/media/GXqn5jzWsAARyDf?format=png&name=900x900)
+
+
+## راه اندازی DNS مثل شکن  - DNS Forwarder
+
+ خودت شکن بساز!!! 
+
+دی ان اس فورواردینگ فرایندی است که طی آن یک سرور DNS درخواست‌های نام دامنه را به یک سرور DNS دیگر ارسال می‌کند تا به آن‌ها پاسخ دهد. این روش معمولاً زمانی استفاده می‌شود که سرور DNS محلی نتواند یک دامنه را به آدرس IP آن تبدیل کند یا پیکربندی شده تا همیشه درخواست‌ها را به یک سرور خاص ارسال کند.
+
+https://www.youtube.com/watch?v=dDpFUX9WzvA
+

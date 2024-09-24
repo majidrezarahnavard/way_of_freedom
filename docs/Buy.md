@@ -375,3 +375,11 @@ https://t.me/KevinZakarian/217
 
 https://www.youtube.com/watch?v=-qH01HG0kxM
 
+
+## دامنه رایگان
+
+بعد از درخواست های مکرر شما برای دامنه رایگان در خدمت شما هستم با معرفی وبسایت جدید که به هر نفر یک دامنه رایگان یکساله میده امیدوارم به دردتون بخوره
+
+https://customer.l53.net/
+
+https://www.youtube.com/watch?v=BijM1jpt_94

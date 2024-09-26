@@ -85,6 +85,12 @@ https://x.com/amin_o__o/status/1835300570606768492?s=19
 
 ![pic](https://pbs.twimg.com/media/GX_d5_xWIAECB82?format=jpg&name=medium)
 
+حدود 13TB توی یک هفته 💪
+205 میلیون request 💪
+
+
+![pic](https://pbs.twimg.com/media/GYVblr7XYAAGM0P?format=jpg&name=medium)
+
 ## Rasoul
 
 این روش به نظرم همچنان عالیه
@@ -150,3 +156,23 @@ https://rand-ed-sub-public.fesire6727.workers.dev
 https://x.com/kevinzakarian/status/1838618421673812466
 
 ![picture](https://pbs.twimg.com/media/GYQVtXpWgAcZ_TL?format=jpg&name=large)
+
+## Kevin Zakarian
+
+لیدی‌ز & جنتلمِن
+اگه VPS دارین فعلاً یه مدت از
+پنل x-ui و Xray بکشین بیرون!
+برین سراغ پنل s-ui و Sing-box.
+
+واسه مخابرات و ایرانسل Hysteria2 نصب کنین؛ واسه همراه اول هم یه Brook مستقیم بذارین کنارش.
+
+اینا واسه کاربریِ خانوادگی ریسک فیلتر ندارن.
+
+اینا نه دامنه می‌خوان، نه CDN، نه مشکل آپلود دارن.
+اینقدر خودتون رو عذاب ندین.
+
+این یه آموزش تمیز واسه Hysteria 2:
+https://ivpn.pro/how-to/how-to-use-hysteria2-on-s-ui-panel/
+
+اینم واسه Brook دل‌رُبا:
+https://ivpn.pro/how-to/brook-vpn-direct/

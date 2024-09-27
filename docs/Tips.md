@@ -125,6 +125,35 @@ virtual Router Manager v0.9
 
 https://x.com/GhobadiniaM/status/1832472321178603882
 
+
+hotspot vpn:
+windows:
+1-mypublicwifi:
+
+https://mypublicwifi.com/publicwifi/en/index.html
+
+2-seraphinite wifi hotspot
+https://s-sols.com/products/windows/wi-fi-hotspot
+
+3-virtual router:
+https://github.com/crpietschmann/VirtualRouter
+
+4-pdanet
+
+android:
+1-every proxy
+https://play.google.com/store/apps/details?id=com.gorillasoftware.everyproxy
+
+2-android  proxy server
+
+https://play.google.com/store/apps/details?id=cn.adonet.proxyevery
+
+browser pluggin:
+1- swichy omega ( for chrome)
+2-foxyproxy (for firefox)
+
+
+
 # whatsapp
 
 به کارگیری پروکسی در واتس‌اپ یکی از راهکارها برای امنیت بیشتر در استفاده از این پیام‌رسان است.

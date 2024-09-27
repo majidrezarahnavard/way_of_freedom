@@ -453,7 +453,7 @@
         <div class="entry-thumbnail">
             <img src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2015/11/media-server-home.jpg?q=50&fit=contain&w=1140&h=&dpr=1.5" alt="Home Server"/>
         </div>
-        <h2 class="my_title">Home Server</h2>
+        <h2 class="my_title">سرور خانگی</h2>
         <p class="my_text">
         اجرای فیلترشکن روی شبکه داخلی خانه یا شرکت
         </p>

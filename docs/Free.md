@@ -333,3 +333,12 @@ https://serverv.net/mci-test.json
 خوش بگذره 🌺
 
 https://t.me/KevinZakarian/220
+
+
+
+## amirparsaxs
+
+اگر توی این چند روز اختلالی انداختن این ساب warp+proton رو داشته باشید ترکیب جوابیه این ساب به یاد یوسف_قبادی و سگارو درست شده🫶
+https://raw.githubusercontent.com/darknessm427/Sub/main/Warp/wp
+
+https://x.com/amirparsaxs/status/1839997762663841862

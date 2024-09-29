@@ -27,7 +27,8 @@ VPN سایفرپانک‌های ایرانی: گروهی با هدف ارائه 
 
 ## Synapse 
 
-Synapse is now actively maintained at element-hq/synapse =================================================================================================
+Synapse is now actively maintained at element-hq/synapse 
+
 
 Synapse is an open-source Matrix homeserver developed from 2019 through 2023 as part of the Matrix.org Foundation. The Matrix.org Foundation is not able to resource maintenance of Synapse and it continues to be developed by Element; additionally you have the choice of other Matrix homeservers.
 

@@ -280,6 +280,21 @@
     </a>
 
 
+    <a href="Hiddify">
+        <article class="hentry">
+        <header class="entry-header">
+        <div class="entry-thumbnail">
+            <img src="https://hiddify.com/assets/hiddify-manager-logo.svg" alt="Hiddify"/>
+        </div>
+        <h2 class="my_title">Hiddify</h2>
+        <p class="my_text">
+            اپلیکیشن هیدیفای
+        </p>
+        </header>
+        </article>
+    </a>
+
+
     <a href="Starlink">
 
         <article class="hentry">

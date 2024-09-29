@@ -56,7 +56,20 @@ https://install.appcenter.ms/orgs/cloudflare/apps/1.1.1.1-windows/distribution_g
 
 warp-cli tunnel protocol set MASQUE
 
+## warp iphone
 
+میخواستم از پروتکل MASQUE برنامه WARP 1.1.1.1 روی مک استفاده بکنم ولی خب نداشتش.
+یه آموزش دیدم تو این لینک:
+https://vercel.blog.cmliussss.com/p/WARP-MASQUE/
+
+کلیت کار این بود, همون ورژن اصلی رو نصب کنید و بعد quit کنید, بعد باید از این لینک https://warp-masque.cmliussss.com پروفایل مخصوص ویندوز یا مک رو نصب کنید. البته که حتما چک بکنیدش من تخصصشو ندارم.
+بعد از اون میتونید به این پروتکل جدید و پر سرعت وصل شید.
+سرعتش خداس
+برا من آیپی آلمان میده. روی هر اینترنتی هم که داشتم جواب بود.
+لیک اینا هم نداشت
+
+
+https://x.com/Nikolaona/status/1840314600694149494
 
 ##  آموزش کانفیگ shadowtls+ warp برای عبور از فیلترینگ-SIXTININELEARN 
 
@@ -566,3 +579,9 @@ bash <(curl -fsSL https://raw.githubusercontent.com/Kolandone/Selector/main/Sel.
 )
 
 
+## توی بخش dns وارپ
+این حالت بهترین کیفیت رو میده با اختلال کم
+
+![pic](https://pbs.twimg.com/media/GYqOibRWYAA-eIX?format=jpg&name=large)
+
+https://x.com/amirparsaxs/status/1840440123517014373

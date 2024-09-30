@@ -9,6 +9,7 @@
 برای حل این مشکل از راهنمایی ها در لینک زیر استفاده کنید.
 
 https://filtershekan.sbs/DNS/
+
 https://filtershekan.sbs/Tahrimshecan/
 
 ## اتصال با سرور مستقیم
@@ -17,14 +18,23 @@ https://filtershekan.sbs/Tahrimshecan/
 
 
 https://filtershekan.sbs/Direct/
+
 https://filtershekan.sbs/Oblivion/
+
 https://filtershekan.sbs/Gcore/
+
 https://filtershekan.sbs/Application/
+
 https://filtershekan.sbs/Warp/
+
 https://filtershekan.sbs/BPB/
+
 https://filtershekan.sbs/Worker/
+
 https://filtershekan.sbs/Working_Now/
+
 https://filtershekan.sbs/Best/
+
 https://filtershekan.sbs/Wireguard/
 
 
@@ -59,5 +69,6 @@ https://filtershekan.sbs/Other/
 در صورت باز هم افرادی همیشه در حال ساخت روش های جدید هستند که می توانید در مورد آنها در تلگرام مطالب جدید را دنبال کنید.
 
 https://t.me/Ghost_Resisters
+
 https://t.me/freeebirdss/739
 

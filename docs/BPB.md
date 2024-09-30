@@ -29,6 +29,20 @@ https://threadreaderapp.com/thread/1839325980097483248.html
 https://www.youtube.com/watch?v=O3cl5MifBZo
 https://www.youtube.com/watch?v=SSGt303DzVg
 
+
+##  آموزش کامل و کاربردی ترکیب PBP پنل با جیکور و فستلی 
+
+
+در این آموزش کامل و کاربردی نحوه ترکیب pbp پنل با دو سی دی ان فستلی و جیکور رو داریم 
+تا جایی که امکان داشت به سوالات شما پاسخ داده شده امیدوارم به دردتون بخوره
+گیت هاب و لینک کدها
+https://t.me/v2rayiranioriginal/414
+
+کانال تلگرام
+https://t.me/v2rayiranioriginal
+
+https://www.youtube.com/watch?v=CsG_ErAutvY
+
 ## ضد فیلتر همراه با فرگمنت
 
 دور زدن فیلترینگ با پنل BPB کاملا رایگان (ضد فیلتر همراه با فرگمنت) 

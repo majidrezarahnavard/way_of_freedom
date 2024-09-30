@@ -520,6 +520,21 @@
     </a>
 
 
+    <a href="Critical_Situation">
+        <article class="hentry">
+        <header class="entry-header">
+        <div class="entry-thumbnail">
+            <img src="https://cdn.ilna.ir/thumbnail/HLsp0cOLuZZY/XWHCw76VBsxziNocTLLHoesUW68OoqO1axxWWNC-1_29u4R4x8JTWBcfKP1V5I-igoZIVAt_tMM,/%D9%85%D8%AF%DB%8C%D8%B1%DB%8C%D8%AA+%D8%A8%D8%AD%D8%B1%D8%A7%D9%86.jpg" alt="Critical Situation"/>
+        </div>
+        <h2 class="my_title">وضعیت بحرانی</h2>
+        <p class="my_text">
+            روش هایی برای وضعیت های بحرانی
+        </p>
+        </header>
+        </article>
+    </a>
+
+
     <a href="VPNhood">
 
         <article class="hentry">

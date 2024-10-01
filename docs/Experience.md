@@ -96,6 +96,13 @@ https://x.com/amin_o__o/status/1835300570606768492?s=19
 
 ![pic](https://pbs.twimg.com/media/GYnhqbBXoAAxMek?format=png&name=small)
 
+من به کانفیگ‌ هام یکم نظم دادم تعدادی Ipv4 فوق‌العاده بهشون اضافه کردم چندتا ipv6 خیلی خوب هم بهش اضافه کردم.خوشبختانه کانفیگ‌ خیلی خوب داره جواب می‌ده و حدوداً به روزی 10 ترابایت دیتا رسیده
+https://raw.githubusercontent.com/amin4139/share_file/refs/heads/main/Fastly_ConfigTestV2rayNG
+
+
+![pic](https://pbs.twimg.com/media/GY0OgmqW0AQOVpa?format=png&name=small)
+
+
 ## Rasoul
 
 این روش به نظرم همچنان عالیه

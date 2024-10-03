@@ -15,6 +15,18 @@ https://youtu.be/n72V5ioufyM
 
 
 
+## نتیجه استفاده از این روش
+
+ ۸ میلیون request در ساعت و ۱۲ ترابایت استفاده در روز
+
+آموزش استفاده از کانفیگ‌ ها آدرس لینک زیر را کپی کنید 
+
+https://raw.githubusercontent.com/amin4139/share_file/refs/heads/main/Fastly_ConfigTestV2rayNG
+
+وارد برنامه mahsang یا NikaNG بشید از منوی کناری subscription را بزنید
+
+https://x.com/amin_o__o/status/1841146780219543690
+
 ## GCore + worker
 
 

@@ -383,3 +383,10 @@ https://www.youtube.com/watch?v=-qH01HG0kxM
 https://customer.l53.net/
 
 https://www.youtube.com/watch?v=BijM1jpt_94
+
+## آموزش خرید از HostVDS
+
+برای اینکه خب مطمئنن بتونید vpn بسازید به یک سرور مجازی خارج از کشور نیاز دارید
+
+https://threadreaderapp.com/thread/1841081451934085251.html
+

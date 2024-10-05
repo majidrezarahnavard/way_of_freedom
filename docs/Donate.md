@@ -12,3 +12,11 @@ https://x.com/GhostOfSarina/status/1832437922139926894
 
 
 ![september](https://pbs.twimg.com/media/GWzW5QlWEAAqKD8?format=png&name=900x900)
+
+## October
+
+لیست دونیشن به پروژه مهسا
+
+اول هر ماه میلادی لیست رو منتشر می کنم
+
+![October](https://pbs.twimg.com/media/GY2FL6eXkAA4YOQ?format=jpg&name=small)

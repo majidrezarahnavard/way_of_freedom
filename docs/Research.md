@@ -258,3 +258,16 @@ https://x.com/nima/status/1749423764134084688
 
 https://peivast.com/p/209561
 
+
+
+##  the END of VPNs?! 
+
+Ditch your VPN and start using Twingate (it’s FREE): https://ntck.co/twingate
+
+Want to try the teams and business plan? Use my coupon codes to get 3 months FREE:
+🚀Monthly Plan: NETWORKCHUCK-MONTHLY
+🚀Annual Plan: NETWORKCHUCK-YEARLY
+
+Say goodbye to VPNs for remote access! I've ditched my VPN because they're slow, complicated, and insecure - not to mention outdated! I needed a better solution - one that's lightning-fast and gives me granular control over user access. Enter Twingate, the zero-trust remote access solution that will revolutionize your remote connectivity experience. In this video, I'll guide you through setting up Twingate on your home or business network FOR FREE in just 5 minutes. Don't miss out on this game-changing technology!
+
+https://www.youtube.com/watch?v=IYmXPF3XUwo

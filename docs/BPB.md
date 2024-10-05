@@ -1,6 +1,33 @@
 # BPB
 
 
+
+##  نسخه‌ی ۲.۶.۳ BPB Panel منتشر شد.
+
+اگر اولین باره با این پنل آشنا میشید لطفا یه راست برید انتهای رشتو و آموزشا رو بخونید و برای خودتون بسازید. اما تغییرات اصلی:
+
+۱- مشکل کانفیگای وارپ که تو آپدیت اخیر بوجود اومده بود برطرف شد.
+
+
+آموزش ساخت به روش Pages (پیشنهادی):
+
+https://github.com/bia-pain-bache/BPB-Worker-Panel/blob/main/docs/pages_installation_fa.md
+
+آموزش ساخت به روش Workers:
+
+https://github.com/bia-pain-bache/BPB-Worker-Panel/blob/main/docs/worker_installation_fa.md
+
+نحوه‌ی انجام تنظیمات و استفاده:
+
+https://github.com/bia-pain-bache/BPB-Worker-Panel/blob/main/docs/configuration_fa.md
+
+سوالات متداول (خیلی مهم):
+
+https://github.com/bia-pain-bache/BPB-Worker-Panel/blob/main/docs/faq.md
+
+
+https://threadreaderapp.com/thread/1841791681382715527.html
+
 ##  نسخه‌ی ۲.۵.۹ BPB Panel منتشر شد.
 
 اگر اولین باره با این پنل آشنا میشید لطفا یه راست برید انتهای رشتو و آموزشا رو بخونید و برای خودتون بسازید.

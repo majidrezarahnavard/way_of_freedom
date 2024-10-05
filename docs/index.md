@@ -731,6 +731,20 @@
         </article>
     </a>
 
+    <a href="Record">
+        <article class="hentry">
+        <header class="entry-header">
+        <div class="entry-thumbnail">
+            <img src="https://news-cdn.varzesh3.com/pictures/2024/08/11/A/jmsfwzrk.png?w=800" alt="Record"/>
+        </div>
+        <h2 class="my_title">رکورد</h2>
+        <p class="my_text">
+            بیشترین مقدار انتقال داده ها در سرور
+        </p>
+        </header>
+        </article>
+    </a>
+
 
     <a href="Film">
         <article class="hentry">

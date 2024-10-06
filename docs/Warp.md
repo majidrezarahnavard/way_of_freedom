@@ -619,3 +619,11 @@ bash <(curl -fsSL https://raw.githubusercontent.com/Kolandone/Selector/main/Sel.
 ![pic](https://pbs.twimg.com/media/GYqOibRWYAA-eIX?format=jpg&name=large)
 
 https://x.com/amirparsaxs/status/1840440123517014373
+
+
+## config warp
+
+warp://162.159.192.76:2408/?ifp=30-60&ifps=50-100&ifpd=3-6&ifpm=m6#xs¹
+
+https://x.com/amirparsaxs/status/1842631060259316210
+

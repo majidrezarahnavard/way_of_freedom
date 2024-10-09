@@ -752,3 +752,7 @@ https://dnschanger.github.io/
 
 https://github.com/DnsChanger/dnsChanger-desktop
 
+
+##  How to create your own #DNS-over-HTTPS? (complete training) 
+
+https://www.youtube.com/watch?v=MqUvzWkY8JU

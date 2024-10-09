@@ -350,3 +350,18 @@ https://raw.githubusercontent.com/xsamirparsa/Xs/main/Sub.text
 #یوسف_قبادی (https://twitter.com/hashtag/%DB%8C%D9%88%D8%B3%D9%81_%D9%82%D8%A8%D8%A7%D8%AF%DB%8C)
 #سگارو (https://twitter.com/hashtag/%D8%B3%DA%AF%D8%A7%D8%B1%D9%88) https://twitter.com/amirparsaxs/status/1839997762663841862#m
 
+
+##  ساخت کانفیگ رایگان وارپ به صورت حرفه‌ای 
+
+
+توی این ویدیو توضیح میدیم که چطور کانفیگ رایگاه بسازیم و با اپ رایگان هیدیفای به صورت امن و راحت به اینترنت آزاد وصل بشیم.
+
+لینک رفرنس و راهنما:
+https://hiddify.com/fa/app/How-to-use-WARP-on-Hiddify-App/
+
+نمونه
+https://github.com/hiddify/hiddify-next/blob/main/test.configs/warp
+
+
+https://www.youtube.com/watch?v=Br3lIHIaUVc
+

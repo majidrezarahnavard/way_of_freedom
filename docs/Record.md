@@ -3,6 +3,8 @@
 
 ## panel BPB + fake domain 
 
+قبل بسته شدن به ۲۷ ترابایت توی روز رسیده بود 😂
+
 
 آموزش پنل BPB و بردن دامنه پشت CDN سایت Fastly (ضد فیلترش کن) 
 
@@ -24,3 +26,4 @@ https://www.youtube.com/watch?v=SSGt303DzVg
 
 https://t.me/Ghost_Resisters/2432
 
+https://x.com/amin_o__o/status/1844054945479422038

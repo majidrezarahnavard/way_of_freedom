@@ -756,3 +756,18 @@ https://github.com/DnsChanger/dnsChanger-desktop
 ##  How to create your own #DNS-over-HTTPS? (complete training) 
 
 https://www.youtube.com/watch?v=MqUvzWkY8JU
+
+
+
+## DNS set for linux
+
+#nameserver 51.91.204.69
+#nameserver 146.59.189.113
+#nameserver 178.22.122.100
+#nameserver 185.51.200.2
+nameserver 10.202.10.202
+nameserver 10.202.10.102
+#nameserver 10.202.10.10
+#nameserver 10.202.10.11
+#nameserver 9.9.9.13
+#nameserver 8.8.4.4

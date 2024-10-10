@@ -252,3 +252,8 @@ https://github.com/bia-pain-bache/BPB-Worker-Panel/blob/main/docs/configuration_
 https://github.com/bia-pain-bache/BPB-Worker-Panel/blob/main/docs/faq.md
 
 https://t.me/freeebirdss/11/8678
+
+
+##  Building a free vpn with Workers is simple and fast bpb
+
+https://www.youtube.com/watch?v=KEGwz49Q-DY

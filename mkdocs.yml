@@ -1,9 +1,9 @@
 site_name: سایت فیلترشکن
-site_author: filtershekan.sbs
+site_author: sarina esmailzadeh
 site_url: 'https://filtershekan.sbs/'
 repo_url: https://github.com/majidrezarahnavard/way_of_freedom
 repo_name: majidrezarahnavard/way_of_freedom
-copyright: Copyleft &copy; 2024 Filtershekan
+copyright: Copyleft &copy; 2024 فیلترشکن
 site_description: دانشنامه آزاد غیر متمرکز دسترسی به اینترنت آزاد
 remote_branch: docs
 edit_uri: https://github.com/majidrezarahnavard/way_of_freedom/edit/main/docs/
@@ -15,6 +15,9 @@ theme:
   favicon: assets/logo.png
   font:
     text: Vazirmatn
+  meta:
+    - name: keywords
+      content: فیلترشکن, VPN, DNS, filtershekan, اینترنت
 
   palette:
     - media: "(prefers-color-scheme: light)"
@@ -106,9 +109,6 @@ markdown_extensions:
 extra:
   homepage: https://filtershekan.sbs/
   generator: false
-  meta:
-    - name: keywords
-      content: فیلترشکن, VPN, DNS, filtershekan, اینترنت
 
 
   alternate:
@@ -126,7 +126,6 @@ plugins:
   - rss
   - tags
   - git-authors
-  
 
   # - privacy
   - search:

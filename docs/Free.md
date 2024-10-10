@@ -365,3 +365,12 @@ https://github.com/hiddify/hiddify-next/blob/main/test.configs/warp
 
 https://www.youtube.com/watch?v=Br3lIHIaUVc
 
+
+
+## لینک ساب پشت سایت Gcore 
+لینک دوره ای آپدیت میشه 
+
+https://raw.githubusercontent.com/iPsycho1/Subscription/refs/heads/main/gcore
+
+https://x.com/iPsycho01/status/1844340024915247525
+

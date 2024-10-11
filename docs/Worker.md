@@ -251,3 +251,8 @@ https://github.com/mostafa1950/workervpn/blob/main/worker
 
 
 https://threadreaderapp.com/thread/1828093180816081314.html
+
+
+##  نحوه ایجاد لینک ساب VPN با ورکر و IP تمیز 
+
+https://www.youtube.com/watch?v=B22IDxlpNHk

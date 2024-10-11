@@ -105,6 +105,20 @@ https://vercel.blog.cmliussss.com/p/WARP-MASQUE/
 
 https://x.com/Nikolaona/status/1840314600694149494
 
+
+## Warp Generator
+
+توسط ابزار Warp Generator می‌تونین برای کلاینت‌های مختلف کانفیگ وارپ تولید کنید
+
+http://4n0nymou3.github.io/WARP/Generator
+
+http://github.com/4n0nymou3/WARP
+
+
+![pic](https://pbs.twimg.com/media/GZj1RtxX0Ac8kgO?format=png&name=small)
+
+https://x.com/amirparsaxs/status/1844777396337095000
+
 ##  آموزش کانفیگ shadowtls+ warp برای عبور از فیلترینگ-SIXTININELEARN 
 
 سلام رفقا توی این ویدیو قراره بهتون یاد بدم چجوری خیلی راحت با استفاده از یه اسکریپت کاربردی بتونین برای خودتون وخانوادتون کانفیگ SHADOWTLS بسازین.
@@ -627,3 +641,8 @@ warp://162.159.192.76:2408/?ifp=30-60&ifps=50-100&ifpd=3-6&ifpm=m6#xs¹
 
 https://x.com/amirparsaxs/status/1842631060259316210
 
+
+## آموزش کوتاه تغییر تنظیمات وارپ هیدیفای به صورت دستی🥰🫶
+
+
+https://x.com/amirparsaxs/status/1844464736659984755

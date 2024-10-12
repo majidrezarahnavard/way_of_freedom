@@ -303,3 +303,18 @@ https://threadreaderapp.com/thread/1830316455725814013.html
 162.159.192.139:1010
 
 https://x.com/amirparsaxs/status/1836491593273974868
+
+
+## endpoint
+
+162.159.195.80:1010
+
+188.114.98.160:8854
+
+162.159.192.143:8854
+
+188.114.99.88:8854
+
+Oblivion🥰🫶
+
+https://x.com/amirparsaxs/status/1845060545080156527

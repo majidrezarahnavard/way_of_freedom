@@ -256,3 +256,9 @@ https://threadreaderapp.com/thread/1828093180816081314.html
 ##  نحوه ایجاد لینک ساب VPN با ورکر و IP تمیز 
 
 https://www.youtube.com/watch?v=B22IDxlpNHk
+
+##  آموزش کامل آیپی تمیز و ساخت کانفیگ v2ray رایگان_SIXTININELEARN 
+
+سلام رفقا توی این ویدیو قراره بهتون یاد بدم چجوری خیلی راحت با استفاده تانلGRE6TAP بین سرور ایران و خارجتون یه تانل پایدار برقرار کنین.
+
+https://www.youtube.com/watch?v=vgJSvbR0GXQ

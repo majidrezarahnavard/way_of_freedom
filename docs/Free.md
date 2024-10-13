@@ -374,3 +374,11 @@ https://raw.githubusercontent.com/iPsycho1/Subscription/refs/heads/main/gcore
 
 https://x.com/iPsycho01/status/1844340024915247525
 
+
+## لینک ساب جدید پروتکل تروجان
+
+لینک ساب جدید پروتکل تروجان
+https://raw.githubusercontent.com/iPsycho1/Subscription/refs/heads/main/fastly-trojan
+
+https://x.com/iPsycho01/status/1845182569777606660
+

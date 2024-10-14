@@ -382,3 +382,20 @@ https://raw.githubusercontent.com/iPsycho1/Subscription/refs/heads/main/fastly-t
 
 https://x.com/iPsycho01/status/1845182569777606660
 
+
+
+## xsamirparsa
+
+https://raw.githubusercontent.com/xsamirparsa/Xs/main/Sub.text#Sub.text
+
+
+## amin
+
+من کانفیگ‌ ها را بروز کردم الان ۹۰ تا کانفیگ‌ شده ۷۵ تا از سریعترین ipv4 ها و 15 تا ipv6 عالی که این تعداد احتمالا روی همه اپراتورها جواب میده 🤞
+برای hiddify از لینک استفاده کنید 
+https://raw.githubusercontent.com/amin4139/share_file/refs/heads/main/Fastly_ConfigTestHiddifyXray
+و برای v2ray از این لینک استفاده کنید 
+https://raw.githubusercontent.com/amin4139/share_file/refs/heads/main/Fastly_ConfigTestV2rayNG
+Image
+
+https://x.com/amin_o__o/status/1845801727456338020

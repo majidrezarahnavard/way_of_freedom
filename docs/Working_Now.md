@@ -28,6 +28,26 @@
 متن شامل لینک‌های متعددی به ویدیوهای آموزشی، کانال‌های تلگرام و مخازن GitHub برای دانلود نرم‌افزارها و دریافت اطلاعات بیشتر است.
 
 
+## ترکیب BPB با دامنه فیک
+
+ین ویدیو یکی از مهمترین ویدیو های امسال هست.
+
+بهترین روش های  فیلترشکن
+
+https://filtershekan.sbs/Best/
+
+روش BPB
+
+https://filtershekan.sbs/BPB/
+
+روش GCore
+
+https://filtershekan.sbs/Gcore/
+
+
+https://www.youtube.com/watch?v=O3cl5MifBZo
+
+
 ##  آموزش پنل BPB و بردن دامنه پشت CDN سایت Fastly (ضد فیلترش کن) 
 
 

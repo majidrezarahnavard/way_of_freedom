@@ -937,3 +937,19 @@ https://www.youtube.com/watch?v=AdCht9nBAs0
 
 
 https://github.com/FDX100/Auto_Tor_IP_changer
+
+
+##  آموزش تانل GRE6TAPروی پنل 3X-UIثنایی-SIXTININELEARN 
+
+سلام رفقا توی این ویدیو قراره بهتون یاد بدم چجوری خیلی راحت با استفاده تانلGRE6TAP بین سرور ایران و خارجتون یه تانل پایدار برقرار کنین.
+
+
+https://www.youtube.com/watch?v=Hh_W6LH5t3k
+
+گیتهاب پروژه 6TO4:
+https://github.com/Azumi67/6TO4-GRE-IPIP-SIT
+
+گیتهاب پروژه 3X-UI:
+https://github.com/MHSanaei/3x-ui
+
+

@@ -793,3 +793,9 @@ nameserver 10.202.10.102
 
 https://mobo.news/best-dns-for-game/
 
+
+## یه dns پیدا کردم سرعت عشق میکنید
+
+2.56.220.2
+
+https://x.com/amirparsaxs/status/1846292945613606925

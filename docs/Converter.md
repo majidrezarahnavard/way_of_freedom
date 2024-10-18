@@ -110,3 +110,10 @@ http://github.com/seramo/v2ray-config-modifier
 
 https://x.com/seramo_ir/status/1844408847227814293
 
+## Singbox
+
+https://4n0nymou3.github.io/Singbox/Json
+
+شاید بعدا اگه وقت کنم کامل‌تر کنم این ابزار جدید رو
+فعلا همین رو داشته باشید
+

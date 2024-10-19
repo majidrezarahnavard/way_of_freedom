@@ -15,7 +15,7 @@
 * به یاد یوسف قبادی
 * به یاد سگارو
 * [صحبت های سارینا اسماعیل زاده](https://www.youtube.com/watch?v=gpRnvFZ3vTU&t=52s)
-* [مجیدرضا رهنورد](https://www.youtube.com/watch?v=N3Yo009a7Uc)
+* [مجیدرضا رهنورد](https://x.com/agha_rashti2/status/1847598558263800272)
 * [داستان روح سارینا](https://threadreaderapp.com/thread/1844356326648148124.html)
 
 

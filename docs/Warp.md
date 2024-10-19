@@ -126,7 +126,9 @@ https://play.google.com/store/apps/details?id=com.cloudflare.cloudflareoneagent
 
 https://x.com/Eagle_1157/status/1847263108449915387
 
+از این ساده‌تر نمیشه توضیح داد 🫶
 
+https://x.com/Eagle_1157/status/1847539963782402456
 
 
 ## Warp Generator

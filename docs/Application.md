@@ -714,3 +714,19 @@ https://x.com/PsrkGermz/status/1847236034745995684
 
 
 ![pic](https://pbs.twimg.com/media/GaLIJlGXsAAN9Eb?format=jpg&name=small)
+
+
+## Freedom-Guard
+
+https://github.com/Freedom-Guard/Freedom-Guard
+
+Freedom Guard | گارد آزادی
+
+Warp + Psiphon + Gool + Scan + Freedom Vibe + Freedom Browser
+
+    Freedom Guard is tool for bypass censorship of internet.
+    Woman Life Freedom
+
+
+وارپ + سایفون + گول + اسکن + مرورگر آزادی + F
+

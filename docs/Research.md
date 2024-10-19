@@ -313,3 +313,10 @@ https://www.youtube.com/watch?v=IYmXPF3XUwo
 
 https://filter.watch/2024/10/07/irans-hijab-application-nazer-aims-to-state-expand-surveillance-and-control/
 
+
+
+## scamminder.com
+
+Explore the web with confidence. ScamMinder harnesses cutting-edge AI to scrutinize websites in real-time, providing you with a clear safety score and detailed insights. Our comprehensive analysis detects potential red flags and risks, allowing you to steer clear of deceptive traps and protect your digital presence. Simply enter a URL above to start the evaluation and join our community of vigilant netizens. 
+
+https://scamminder.com/

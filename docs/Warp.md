@@ -106,6 +106,29 @@ https://vercel.blog.cmliussss.com/p/WARP-MASQUE/
 https://x.com/Nikolaona/status/1840314600694149494
 
 
+## Zero Trust
+
+اپ Zero Trust کلودفلر در بروزرسانی اخیرش از پروتکل Masque پشتیبانی کرده ...
+
+👉 play.google.com/store/apps/details?id=com.cloudflare.cloudflareoneagent
+
+© Eagle_1157
+
+🔍 ircf.space/software
+@ircfspace
+
+
+https://play.google.com/store/apps/details?id=com.cloudflare.cloudflareoneagent
+
+
+![pic](https://pbs.twimg.com/media/GaLL50xX0AAbjH4?format=jpg&name=small)
+![pic](https://pbs.twimg.com/media/GaLL52wXsAIxHRi?format=jpg&name=small)
+
+https://x.com/Eagle_1157/status/1847263108449915387
+
+
+
+
 ## Warp Generator
 
 توسط ابزار Warp Generator می‌تونین برای کلاینت‌های مختلف کانفیگ وارپ تولید کنید

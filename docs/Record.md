@@ -32,3 +32,12 @@ https://www.youtube.com/watch?v=SSGt303DzVg
 https://t.me/Ghost_Resisters/2432
 
 https://x.com/amin_o__o/status/1844054945479422038
+
+
+## direct
+
+میزان انتقال دیتا با یک سرور مستقیم. حدود ۱۰۰ نفر. با حدود ۵ دلار در ماه.
+
+![pic](https://pbs.twimg.com/media/GZyeqRWWUAAj2Dj?format=jpg&name=small)
+
+https://filtershekan.sbs/Direct/

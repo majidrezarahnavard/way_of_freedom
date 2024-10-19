@@ -974,3 +974,13 @@ https://www.youtube.com/watch?v=cC3SWeW0Cm0
 
 https://www.youtube.com/watch?v=hyjEb917ngQ
 
+
+
+##  ساخت کانفیگ v2ray با یک سرور-SIXTININELEARN 
+
+سلام رفقا توی این ویدیو قراره بهتون یاد بدم چجوری خیلی راحت با استفاده از تنها یک سرور به اینترنت آزاد دسترسی داشته باشین با سرعت بالا.
+
+https://www.youtube.com/watch?v=xc7T2sDVwas
+
+https://github.com/FDX100/Auto_Tor_IP_changer
+

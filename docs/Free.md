@@ -399,3 +399,35 @@ https://raw.githubusercontent.com/amin4139/share_file/refs/heads/main/Fastly_Con
 Image
 
 https://x.com/amin_o__o/status/1845801727456338020
+
+
+## VPNfail
+
+ابزار VPNfail Config collector این‌امکان رو فراهم آورده تا کانفیگ‌های رایگان v2ray منتشر شده در وب‌سایت VPNfail (که در بازه زمانی ۳۰ دقیقه گذشته فعال‌بودن) رو جمع‌آوری کرده و در قالب لینک ساب ارائه کنه.
+
+💡 برای اسکن کافیه از hiddify, v2rayN, v2rayNg, NikaNG, Streisand یا سایر برنامه‌های مشابه استفاده کنین
+
+👉 github.com/itsyebekhe/vpnfail
+© yebekhe
+
+🔍 ircf.space/software
+@ircfspace
+
+
+https://t.me/ircfspace/764
+
+https://github.com/itsyebekhe/vpnfail/blob/main/subscription/base64
+
+https://raw.githubusercontent.com/itsyebekhe/vpnfail/refs/heads/main/subscription/base64
+
+https://x.com/yebekhe/status/1847373164684464304
+
+## amirparsa
+
+کی از دوستان لطف کرد برای بنده از کانفیگ های پنل bpb رو فرستاده به صورت رایگان و با سرعت وصل بشید به یاد 
+
+
+👇
+https://bpb-worker-panel-1s0.pages.dev/sub/89b3cbba-e6ac-485a-9481-976a0415eab9?app=xray#BPB-Full-Normal
+
+https://x.com/amirparsaxs/status/1847336427593330970

@@ -439,3 +439,7 @@ https://raw.githubusercontent.com/itsyebekhe/vpnfail/main/subscription/base64
 
 https://x.com/seramo_ir/status/1847618429576007734
 
+## Mykel
+
+vless://6fce5411-cfad-479e-b964-79197524af10@wolfshop.tixoshop.com:45764?security=none&encryption=none&host=nobitex.ir&headerType=http&type=tcp#%D8%AD%D9%85%DB%8C%D8%AF%D8%B1%D8%B6%D8%A7-%D8%B1%D9%88%D8%AD%DB%8C
+

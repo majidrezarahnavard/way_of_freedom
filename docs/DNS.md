@@ -799,3 +799,10 @@ https://mobo.news/best-dns-for-game/
 2.56.220.2
 
 https://x.com/amirparsaxs/status/1846292945613606925
+
+## ورژن dns 
+
+ورژن dns 
+Ipv6 
+سرعتش عالیه تست کنید🔥
+2a03:90c0:999d::1

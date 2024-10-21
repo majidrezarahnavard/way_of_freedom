@@ -47,3 +47,14 @@ Link :
 https://lucida.to
 
 https://x.com/freeprogrammers/status/1844823310023963040
+
+
+## دانلود فیلم و سریال بدون سانسور بدون خرید اشتراک هیچ سایتی
+
+تو این رشته توییت 1 روش برای تماشای آنلاین و یا دانلود فیلم و سریال های روز دنیا رو براتون به اشتراک میزارم که غیرقابل بلاک هستن چون از تورنت استفاده میکنن
+
+![pic](https://pbs.twimg.com/media/GaVI1BRWsAATDLA?format=jpg&name=small)
+
+https://x.com/AmirrezaKN/status/1847968186299257108
+
+https://threadreaderapp.com/thread/1847968186299257108.html?utm_campaign=topunroll

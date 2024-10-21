@@ -214,3 +214,15 @@ https://pastebin.com/raw/um24xSxW
 
 https://x.com/horizonbehind2/status/1828284948194685206
 
+
+
+## Securely Access Remote Servers with Cloudflare Tunnel: A How-To Guide
+
+https://readmedium.com/securely-access-remote-servers-with-cloudflare-tunnel-a-how-to-guide-e7795228af0a
+
+اینو میزارم اینجا اونایی که میدونن چیه بردارن 😅
+
+میتونید با تانل کلودفلر ssh بزنید به سرور ( فیلتر یا حتی بدون ip ولید )
+
+همون آرگو تانله ولی ssh ..
+

@@ -43,6 +43,23 @@ Wireshark
 https://www.youtube.com/watch?v=Flo5VoesxRY
 
 
+## نحوه ست کردن دائمی DNS در سرور لینوکسی
+
+```
+#nameserver 51.91.204.69
+#nameserver 146.59.189.113
+#nameserver 178.22.122.100
+#nameserver 185.51.200.2
+nameserver 10.202.10.202
+nameserver 10.202.10.102
+#nameserver 10.202.10.10
+#nameserver 10.202.10.11
+#nameserver 9.9.9.13
+#nameserver 8.8.4.4
+```
+
+https://www.tecmint.com/set-permanent-dns-nameservers-in-ubuntu-debian/
+
 ## Rethink 
 
 

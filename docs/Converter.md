@@ -117,3 +117,7 @@ https://4n0nymou3.github.io/Singbox/Json
 شاید بعدا اگه وقت کنم کامل‌تر کنم این ابزار جدید رو
 فعلا همین رو داشته باشید
 
+##  چطور با ورکر کلودفلر لینک سابسکریپشن بسازیم؟ 
+
+https://www.youtube.com/watch?v=oOeIlWadoic
+

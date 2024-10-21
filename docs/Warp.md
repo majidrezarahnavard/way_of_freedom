@@ -131,6 +131,15 @@ https://x.com/Eagle_1157/status/1847263108449915387
 https://x.com/Eagle_1157/status/1847539963782402456
 
 
+## از این لینک میتونید Zero Trust یا 1.1.1.1 وارپ رو برای سیستم عامل های مختلف دریافت و تست کنید
+
+https://developers.cloudflare.com/cloudflare-one/connections/connect-devices/warp/download-warp/
+
+
+https://x.com/seramo_ir/status/1848369541950169547
+
+
+
 ## Warp Generator
 
 توسط ابزار Warp Generator می‌تونین برای کلاینت‌های مختلف کانفیگ وارپ تولید کنید

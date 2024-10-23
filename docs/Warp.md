@@ -680,3 +680,17 @@ https://x.com/amirparsaxs/status/1842631060259316210
 
 
 https://x.com/amirparsaxs/status/1844464736659984755
+
+
+## دریافت  کانفیگ  وارپ و کلید وارپ
+هر سه یک ابزار سه جا گذاشتمش فقط 
+
+https://msn-warp.vercel.app
+
+https://msn-warp.pages.dev
+
+https://dsfdsfdfsdf.github.io/msn-warp/
+
+کانفیگ وارپ تو هدیفایی اد کنید  و استفاده کنید
+
+https://x.com/mehdisedighinas/status/1848477814225265036

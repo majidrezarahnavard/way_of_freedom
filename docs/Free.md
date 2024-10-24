@@ -346,9 +346,9 @@ https://x.com/amirparsaxs/status/1839997762663841862
 
 https://raw.githubusercontent.com/xsamirparsa/Xs/main/Sub.text
 
-ساب برای اختلال #اینترنت (https://twitter.com/hashtag/%D8%A7%DB%8C%D9%86%D8%AA%D8%B1%D9%86%D8%AA) آماده شد🫶🔥
-#یوسف_قبادی (https://twitter.com/hashtag/%DB%8C%D9%88%D8%B3%D9%81_%D9%82%D8%A8%D8%A7%D8%AF%DB%8C)
-#سگارو (https://twitter.com/hashtag/%D8%B3%DA%AF%D8%A7%D8%B1%D9%88) https://twitter.com/amirparsaxs/status/1839997762663841862#m
+ساب برای اختلال اینترنت (https://twitter.com/hashtag/%D8%A7%DB%8C%D9%86%D8%AA%D8%B1%D9%86%D8%AA) آماده شد🫶🔥
+یوسف_قبادی (https://twitter.com/hashtag/%DB%8C%D9%88%D8%B3%D9%81_%D9%82%D8%A8%D8%A7%D8%AF%DB%8C)
+سگارو (https://twitter.com/hashtag/%D8%B3%DA%AF%D8%A7%D8%B1%D9%88) https://twitter.com/amirparsaxs/status/1839997762663841862#m
 
 
 ##  ساخت کانفیگ رایگان وارپ به صورت حرفه‌ای 

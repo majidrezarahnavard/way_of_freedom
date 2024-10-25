@@ -24,6 +24,7 @@
 
 
 https://www.youtube.com/watch?v=O3cl5MifBZo
+
 https://www.youtube.com/watch?v=SSGt303DzVg
 
 
@@ -41,3 +42,13 @@ https://x.com/amin_o__o/status/1844054945479422038
 ![pic](https://pbs.twimg.com/media/GZyeqRWWUAAj2Dj?format=jpg&name=small)
 
 https://filtershekan.sbs/Direct/
+
+
+## psrkGermz
+
+هه، فقط BPB .
+bpb like: Say My name!
+- what?
++ say my name!!!
+
+![pic](https://pbs.twimg.com/media/GarVaNqWsAAeol-?format=jpg&name=small)

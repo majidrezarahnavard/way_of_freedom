@@ -52,3 +52,11 @@ https://www.youtube.com/watch?v=AUC1tBis8XE
 
 https://www.youtube.com/watch?v=p1PxDhpd-8M
 
+## Windscribe
+
+من از افزونهٔ Windscribe برای فایرفاکس استفاده می‌کنم.
+اول به یه VPN دیگه وصل میشم (چون خودِ Windscribe برام به تنهایی وصل نمیشه)
+بعد این افزونه رو فعال میکنم و این گزینه‌ها رو تیک میزنم.
+الان حدودا ۲ ساله از PayPal و کردیت کارد استفاده میکنم مشکلی نداشتم.
+
+![pic](https://pbs.twimg.com/media/Gas15CeXEAAkU_o?format=png&name=small)

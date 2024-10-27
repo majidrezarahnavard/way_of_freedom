@@ -133,3 +133,7 @@ https://www.youtube.com/watch?v=zKWhi6CEcGE
 ![pic](https://pbs.twimg.com/media/GZyN76sXQAUE-wf?format=jpg&name=small)
 
 https://x.com/amirhoossein78/status/1845506016844161317
+
+## بودجه پیشنهادی ۱۴۰۳ دولت برای نهاد های فرهنگی مذهبی
+
+![pic](https://pbs.twimg.com/media/GaorNVoXMAAbZ86?format=jpg&name=small)

@@ -161,3 +161,10 @@ https://x.com/kevinzakarian/status/1839695617913765960
 
 
 https://www.youtube.com/watch?v=ZwA4ve8q-wI
+
+
+##  نصب میکروتیک روی سرور مجازی Aeza - Mikrotik Chr Aeza vps 
+
+در تکمیل ویدیوهای  آموزشی مربوط به میکرویتک با تبدیل سرور centos 7  از سایت Aeza در خدمتتون هستم
+
+https://www.youtube.com/watch?v=JySeoXiCt60

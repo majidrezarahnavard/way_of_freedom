@@ -453,3 +453,14 @@ https://msn-opnvpn-free.vercel.app
 https://msn-opnvpn-free.pages.dev
 
 https://x.com/mehdisedighinas/status/1850042066291577166
+
+## Amin
+
+من کانفیگ‌ ها را بروز کردم الان ۹۰ تا کانفیگ‌ شده ۷۵ تا از سریعترین ipv4 ها و 15 تا ipv6 عالی که این تعداد احتمالا روی همه اپراتورها جواب میده 🤞
+برای hiddify از لینک استفاده کنید 
+
+https://raw.githubusercontent.com/amin4139/share_file/refs/heads/main/Fastly_ConfigTestHiddifyXray
+
+و برای v2ray از این لینک استفاده کنید 
+
+https://raw.githubusercontent.com/amin4139/share

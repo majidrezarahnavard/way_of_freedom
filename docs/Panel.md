@@ -43,6 +43,10 @@
 
 ## پنل علیرضا
 
+
+بعد از تاخیر خیلی زیاد، پنل s-ui نسخه ۱.۱.۰ با امکانات و اصلاحات جدید منتشر شد
+
+
 An Advanced Web Panel • Built on SagerNet/Sing-Box
 
 

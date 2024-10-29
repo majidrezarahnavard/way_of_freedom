@@ -464,3 +464,23 @@ https://raw.githubusercontent.com/amin4139/share_file/refs/heads/main/Fastly_Con
 و برای v2ray از این لینک استفاده کنید 
 
 https://raw.githubusercontent.com/amin4139/share
+
+
+## IRCF
+
+بزار دریافت کانفیگ رایگان به تفکیک پروتکل/لوکیشن بروزرسانی شده و علاوه‌بر اضافه‌شدن یه‌سری پروتکل جدید، میتونین کانفیگ‌هارو بر اساس IPv4/IPv6 دریافت کنین. این‌ابزار درحال‌حاضر به یک ریپازیتوری جدید متصل شده که اگر از استفاده‌کنندگان قدیمی هستین، لازمه مجدد لینک ساب رو اسکن کنید.
+
+
+https://ircfspace.github.io/tconfig/
+
+https://ircfspace.github.io/location/
+
+
+## kamaji
+
+در تلگرام کانال هایی هستند که کانفیگ های vpn قرار میدن، کانفیگ هایی از جمله shadow socks, vmess, vless و trojan. وظیفه این پروژه جمع کردن این کانفیگ ها از کانال ها و قرار دادن آنها در چند فایل بخصوص است. هر پروتکل فایل مشخص خودش رو دارد و در نهایت همه پروتکل ها باهم ترکیب میشوند و یک فایل را میسازند. شما میتوانید به راحتی لینک فایل را داخل کلاینت vpn خود قرار بدین و آخرین اپدیت کانال را در هر ساعت داشته باشید.
+
+https://github.com/shabane/kamaji
+
+https://raw.githubusercontent.com/shabane/kamaji/master/hub/tested/merged.txt
+

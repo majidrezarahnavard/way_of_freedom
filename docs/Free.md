@@ -441,7 +441,7 @@ https://x.com/seramo_ir/status/1847618429576007734
 
 ## Mykel
 
-vless://6fce5411-cfad-479e-b964-79197524af10@wolfshop.tixoshop.com:45764?security=none&encryption=none&host=nobitex.ir&headerType=http&type=tcp#%D8%AD%D9%85%DB%8C%D8%AF%D8%B1%D8%B6%D8%A7-%D8%B1%D9%88%D8%AD%DB%8C
+[config](vless://6fce5411-cfad-479e-b964-79197524af10@wolfshop.tixoshop.com:45764?security=none&encryption=none&host=nobitex.ir&headerType=http&type=tcp#%D8%AD%D9%85%DB%8C%D8%AF%D8%B1%D8%B6%D8%A7-%D8%B1%D9%88%D8%AD%DB%8C)
 
 ## کانفیگ opnvpn رایگان   🙃🙃
 
@@ -463,7 +463,7 @@ https://raw.githubusercontent.com/amin4139/share_file/refs/heads/main/Fastly_Con
 
 و برای v2ray از این لینک استفاده کنید 
 
-https://raw.githubusercontent.com/amin4139/share
+https://raw.githubusercontent.com/amin4139/share_file/refs/heads/main/Fastly_ConfigTestV2rayNG
 
 
 ## IRCF

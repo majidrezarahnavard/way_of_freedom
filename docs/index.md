@@ -591,7 +591,6 @@
 
 
     <a href="People">
-
         <article class="hentry">
         <header class="entry-header">
         <div class="entry-thumbnail">
@@ -603,7 +602,6 @@
         </p>
         </header>
         </article>
-
     </a>
 
 
@@ -635,7 +633,6 @@
         </article>
     </a>
 
-
     <a href="Twitter">
         <article class="hentry">
         <header class="entry-header">
@@ -644,12 +641,27 @@
         </div>
         <h2 class="my_title">اختفا در توییتر</h2>
         <p class="my_text">
-                نکات امنیتی در توییتر و دیتالیک
+                نکات امنیتی در توییتر 
         </p>
         </header>
         </article>
     </a>
-    
+
+
+    <a href="Protection">
+        <article class="hentry">
+        <header class="entry-header">
+        <div class="entry-thumbnail">
+            <img src="https://learn.microsoft.com/en-us/training/achievements/information-protection-governance.svg" alt="Protection"/>
+        </div>
+        <h2 class="my_title">حفاظت اطلاعات</h2>
+        <p class="my_text">
+            روش های حفاظت از خود در اینترنت
+        </p>
+        </header>
+        </article>
+    </a>
+
     <a href="Fragment">	
         <article class="hentry">
         <header class="entry-header">

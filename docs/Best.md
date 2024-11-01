@@ -27,6 +27,12 @@
 متن شامل لینک‌هایی به ویدیوها و منابع بیشتر برای اطلاعات تکمیلی است.
 
 
+## پادکست دانشنامه به زبان انگیلیسی
+
+https://github.com/majidrezarahnavard/way_of_freedom/releases/tag/padcast.v1
+
+https://github.com/majidrezarahnavard/way_of_freedom/releases/download/padcast.v1/voice.mp3
+
 
 ##  آموزش پنل BPB و بردن دامنه پشت CDN سایت Fastly (ضد فیلترش کن) 
 

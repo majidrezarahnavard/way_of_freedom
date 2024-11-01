@@ -168,3 +168,10 @@ https://www.youtube.com/watch?v=ZwA4ve8q-wI
 در تکمیل ویدیوهای  آموزشی مربوط به میکرویتک با تبدیل سرور centos 7  از سایت Aeza در خدمتتون هستم
 
 https://www.youtube.com/watch?v=JySeoXiCt60
+
+
+##  نصب Pihole در میکروتیک -استفاده ازلینک اصلی سنایی - ثنایی ورژن جدید نصب کامل -Mikrotik Chr 
+
+این سری سنایی رو از لینک اصلی نصب مردم و سرتیفیکیت هم از داخل پنل گرفتم که امکانات خوبی رو جدیدا اضافه کردن
+
+https://www.youtube.com/watch?v=xtm6FwYChV0

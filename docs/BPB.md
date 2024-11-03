@@ -269,3 +269,17 @@ https://t.me/freeebirdss/11/8678
 ##  Building a free vpn with Workers is simple and fast bpb
 
 https://www.youtube.com/watch?v=KEGwz49Q-DY
+
+
+##  آموزش پیدا کردن ریموت DNS برای استفاده در پنل BPB 
+
+نسخه 64 بیتی
+دانلود Runtime پیشنیاز اول برنامه
+https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-6.0.35-windows-x64-installer
+
+دانلود Runtime پیشنیاز دوم برنامه
+https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-aspnetcore-6.0.35-windows-x64-installer
+
+
+دانلود خود برنامه
+https://github.com/msasanmh/DNSveil/r...

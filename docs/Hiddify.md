@@ -37,6 +37,19 @@ start=contribute_Y2lkPS0xMDAyMTYyMTUzNzMxJm1pZD01NDUmbGFuZz1mYQ
 💵 حمایت مالی https://t.me/hiddify_board/12501/16710
 
 
+## راه افزودن وارپ را ساده کردیم
+
+کافیه بعد از نصب برنامه برای گوشی یا کامپیوترتون (توییت کوت شده)
+
+روی لینک زیر کلیک کنید:
+https://app.hiddify.com/warp
+
+یا لینک زیر را مشاهده کنید
+https://github.com/hiddify/hiddify-app/blob/main/test.configs/README.md
+
+مشاهده فیلم آموزش مرحله مرحله 
+https://youtube.com/watch?v=Xv_7TDo80k4
+
 
 ## آپدیت ورژن 0.0.2 اسکریپت میانی سازی هیدیفای
 

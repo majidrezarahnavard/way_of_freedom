@@ -45,6 +45,18 @@ https://x.com/amin_o__o/status/1844054945479422038
 
 ![pic](https://pbs.twimg.com/media/Ga1mXA_XMAAd7qu?format=jpg&name=small)
 
+
+## pooria
+
+روزانه 15000هزار نفر فقط به یکی از اکانت های کلودفلر من دارن از bpb پنل استفاده میکنن 
+
+![pic](https://pbs.twimg.com/media/Gb5AMrMXkAApNs9?format=jpg&name=medium)
+
+
+https://x.com/Pooria_Red/status/1854990691820003391
+
+
+
 ## direct
 
 میزان انتقال دیتا با یک سرور مستقیم. حدود ۱۰۰ نفر. با حدود ۵ دلار در ماه.

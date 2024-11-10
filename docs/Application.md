@@ -36,6 +36,13 @@
     امنیت و سرعت: تعادل بین امنیت و سرعت را در نظر بگیرید.
     به‌روزرسانی: همیشه از آخرین نسخه‌ی فیلترشکن استفاده کنید.
 
+
+
+### توماج صالحی
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1307140042&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/toomajsalehi" title="Toomaj" target="_blank" style="color: #cccccc; text-decoration: none;">Toomaj</a> · <a href="https://soundcloud.com/toomajsalehi/bebakhshid" title="Bebakhshid" target="_blank" style="color: #cccccc; text-decoration: none;">Bebakhshid</a></div>
+
+
 ##  هشدار
 
 به هیچ عنوان نرم افزار اندروید رو از کانال تلگرام دانلود و نصب نکنید.
@@ -822,3 +829,14 @@ https://x.com/PasKoocheh/status/1853138863637532715
 
 
 https://www.youtube.com/watch?v=vcdBvEWzfvw
+
+
+## اپلیکیشن «شناسایی بازدیدکنندگان عکس پروفایل واتس‌اپ» وجود ندارد
+
+هشدار!
+اپلیکیشن «شناسایی بازدیدکنندگان عکس پروفایل واتس‌اپ» وجود ندارد
+تبلیغاتی که ادعا می‌کنند اپ‌هایی پولی وجود دارند که قادر به شناسایی بازدیدکنندگان عکس پروفایل واتس‌اپ شما هستند، کذب محض و نوعی کلاهبرداری است.
+اغلب این اپ‌ها بدافزار هستند.
+
+https://x.com/TavaanaTech/status/1855328955735191836
+

@@ -28,6 +28,10 @@ DNS :
 https://filtershekan.sbs/DNS/
 
 
+## توماج صالحی
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1095635860&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/toomajsalehi" title="Toomaj" target="_blank" style="color: #cccccc; text-decoration: none;">Toomaj</a> · <a href="https://soundcloud.com/toomajsalehi/soorakh-moosh" title="Soorakh Moosh" target="_blank" style="color: #cccccc; text-decoration: none;">Soorakh Moosh</a></div>
+
 ## Amin
 
 این روش های domain fronting خیلی عالی روی ایرانسل جواب می‌ده 🤷 من روی آسیاتک و همراه اول و ایرانسل تست کردم روی همه عالی جواب می‌ده 😉
@@ -197,3 +201,20 @@ https://ivpn.pro/how-to/brook-vpn-direct/
 
 ![picture](https://pbs.twimg.com/media/GYqY8aJWcAAYW_7?format=jpg&name=large)
 
+
+## AmirParsa
+
+معرفی فیلتر شکن های فعال به یاد 🩵🫶
+اندروید👇
+Oblivion 
+Hiddify
+Mahsang
+Begzar
+Neko box
+Geph
+..
+ios👇
+Hiddify 
+Warp(zero trust)
+
+https://x.com/amirparsaxs/status/1855988972784124152

@@ -25,6 +25,12 @@
 
 این روش‌ها به شما امکان می‌دهند یک سرور VPN قدرتمند و انعطاف‌پذیر در خانه یا روی سرور مجازی راه‌اندازی کنید، با قابلیت‌های مختلف برای افزایش امنیت و دور زدن فیلترینگ.
 
+
+## توماج صالحی
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1095635860&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/toomajsalehi" title="Toomaj" target="_blank" style="color: #cccccc; text-decoration: none;">Toomaj</a> · <a href="https://soundcloud.com/toomajsalehi/soorakh-moosh" title="Soorakh Moosh" target="_blank" style="color: #cccccc; text-decoration: none;">Soorakh Moosh</a></div>
+
+
 ## آموزش راه‌اندازی Home Server با VPN مرکزی
 شما در پایان این آموزش توانایی راه‌اندازی یک Home Server با امکانات زیر را خواهید داشت:
 -VPN Server (Xray, Sing-Box, OpenVPN, WireGuard)
@@ -125,3 +131,29 @@ In this video, discover 4 easy and quick methods to set up OpenVPN files on Wind
 
 https://www.youtube.com/watch?v=YxPsQNaUvnE
 
+
+##  تبدیل سرور هتزنر به میکروتیک+فعال کردن کانتینر 
+
+ضمن اینکه لینک کانال تلگرام تو بیو پیج هست
+
+کانتینر فقط روی روتر های دارای سی پی یو ARM -ARM64 -X86-64  نصب میشه و از روتر او اس ورژن ۷ به بالا اضافه شده .
+امکانات خوبی رو میتونید از داکر ریجستری داخلش داشته باشید .
+
+
+میکروتیک: انقلاب در مدیریت شبکه
+
+میکروتیک یک شرکت معتبر در زمینه تولید تجهیزات شبکه و نرم‌افزارهای مرتبط است که در سال ۱۹۹۶ در لتونی تأسیس شد. این شرکت به واسطه محصولات با کیفیت و مقرون به صرفه‌اش، به ویژه روتر‌بورد‌ها (RouterBoard) و سیستم‌عامل پیشرفته RouterOS شناخته شده است.
+
+کاربردهای میکروتیک:
+
+مدیریت شبکه‌های تجاری و خانگی: روترهای میکروتیک با امکاناتی مانند کنترل ترافیک، فایروال، و مدیریت پهنای باند به کاربران امکان مدیریت و نظارت بر شبکه‌های خود را می‌دهند.
+
+شبکه‌های وایرلس: میکروتیک راه‌حل‌های کامل برای ایجاد و مدیریت شبکه‌های بی‌سیم ارائه می‌دهد که شامل روترهای وایرلس، آنتن‌ها، و تجهیزات مرتبط می‌شود.
+
+VPN و امنیت شبکه: با استفاده از قابلیت‌های پیشرفته RouterOS، می‌توان تونل‌های VPN امن ایجاد کرد و از امنیت اطلاعات شبکه اطمینان حاصل کرد.
+
+برپایی سرورهای مختلف: RouterOS امکان نصب و مدیریت سرورهای مختلف مانند DHCP، DNS، و Hotspot را فراهم می‌کند که برای کسب‌و‌کارها و ارائه‌دهندگان خدمات اینترنت بسیار مفید است.
+
+میکروتیک با ارائه راه‌حل‌های پیشرفته و انعطاف‌پذیر، نیازهای مختلف کاربران در سطوح گوناگون را پوشش می‌دهد. از کسب‌و‌کارهای کوچک تا شبکه‌های بزرگ سازمانی، همه می‌توانند از محصولات و خدمات میکروتیک بهره‌مند شوند.
+
+https://www.youtube.com/watch?v=0nb4tLwg7zg

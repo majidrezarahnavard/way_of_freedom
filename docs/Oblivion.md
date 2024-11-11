@@ -30,6 +30,11 @@
 
 این روش‌ها به کاربران امکان می‌دهد تا از Oblivion به عنوان یک VPN رایگان و امن استفاده کنند، با قابلیت دور زدن فیلترینگ و دسترسی به اینترنت آزاد.
 
+
+## توماج صالحی
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1095635860&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/toomajsalehi" title="Toomaj" target="_blank" style="color: #cccccc; text-decoration: none;">Toomaj</a> · <a href="https://soundcloud.com/toomajsalehi/soorakh-moosh" title="Soorakh Moosh" target="_blank" style="color: #cccccc; text-decoration: none;">Soorakh Moosh</a></div>
+
 ## v6
 
 نسخه جدید Oblivion در گوگل پلی و گیت‌هاب منتشر شد! 🎉
@@ -326,3 +331,15 @@ https://x.com/amirparsaxs/status/1845060545080156527
 2-از bepass استفاده کنید داخل برنامه نکو باکس از قبل آموزش رو گذاشتیم
 
 https://x.com/amirparsaxs/status/1847021633489297493
+
+
+## oblivion🫶🩵
+
+اندپوینت oblivion🫶🩵
+188.114.99.119:968
+
+188.114.98.186:500
+
+188.114.96.56:500
+
+https://x.com/amirparsaxs/status/1855990727089553421

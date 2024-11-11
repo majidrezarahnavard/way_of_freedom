@@ -840,3 +840,12 @@ https://www.youtube.com/watch?v=vcdBvEWzfvw
 
 https://x.com/TavaanaTech/status/1855328955735191836
 
+## بگذر
+
+نسخه ۵.۵ از فیلترشکن رایگان بگذر با پشتیبانی از Android Tv و بهبود کارایی و رابط کاربری برنامه منتشر شد.
+
+http://github.com/Begzar/BegzarApp/releases/latest
+
+
+https://x.com/BegzarProject/status/1855699558547775900
+

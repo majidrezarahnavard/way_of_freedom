@@ -487,3 +487,14 @@ https://raw.githubusercontent.com/shabane/kamaji/master/hub/tested/merged.txt
 ## poroxybaz
 
 https://t.me/poroxybaz
+
+## دریافت رایگان پروکسی پرسرعت🔥🥰
+
+
+اسکیریپت استفاده شده👇
+
+bash <(curl -fsSL https://raw.githubusercontent.com/Kolandone/Selector/main/Sel.sh)
+
+داخل برنامه ترموکس وارد کنید 
+(یا از گیتهاب یا از پلی استور دانلود کنید)
+

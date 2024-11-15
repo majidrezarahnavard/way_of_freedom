@@ -283,3 +283,22 @@ https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-aspnetcore-
 
 دانلود خود برنامه
 https://github.com/msasanmh/DNSveil/r...
+
+
+## آموزش مراحل BPB and fastly
+
+آموزش نصب BPB
+
+https://www.youtube.com/watch?v=O3cl5MifBZo
+
+https://github.com/bia-pain-bache/BPB-Worker-Panel/blob/main/README_fa.md
+
+نحوه استفاده 
+
+https://github.com/bia-pain-bache/BPB-Worker-Panel/blob/main/docs/configuration_fa.md
+
+
+### نصب از طریق Cloudflare Pages
+
+https://github.com/bia-pain-bache/BPB-Worker-Panel/blob/main/docs/pages_installation_fa.md
+

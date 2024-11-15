@@ -320,3 +320,12 @@ https://filter.watch/2024/10/07/irans-hijab-application-nazer-aims-to-state-expa
 Explore the web with confidence. ScamMinder harnesses cutting-edge AI to scrutinize websites in real-time, providing you with a clear safety score and detailed insights. Our comprehensive analysis detects potential red flags and risks, allowing you to steer clear of deceptive traps and protect your digital presence. Simply enter a URL above to start the evaluation and join our community of vigilant netizens. 
 
 https://scamminder.com/
+
+
+## خاموشی‌های اینترنت در ایران: از آبان ۹۸ تا مرداد ۱۴۰۰
+
+تجربه‌ی دسترسی به اینترنت در ایران با محدودیت‌های بسیار همراه است که شامل فیلترینگ پلتفرم‌های اینترنتی و محتوای آنها، کاهش‌ سرعت ترافیک داده‌ها، رصد کردن و نظارت بر رفتار کاربران در فضای مجازی می‌شود. با آن‌که این محدودیت‌ها به قصد کنترل و سانسور اطلاعات مدت‌ها است که به طور مستمر اعمال می‌شوند، افزایش فزاینده خاموشی اینترنت توسط مقامات دولتی کاربران اینترنت در ایران را به شدت نگران کرده‌است.
+
+نخستین مورد از خاموشی سراسری اینترنت در آبان ۱۳۹۸ به هنگام اعتراضات مردمی علیه افزایش بهای بنزین رخ داد. دست‌کم به مدت یک‌ هفته مقامات  اینترنت را خاموش کردند تا بتوانند بر سرکوب خشن معترضان سرپوش بگذارند. گرچه از آن تاریخ تاکنون شاهد خاموشی سراسری اینترنت با این وسعت نبوده‌ایم، اما دلیل این امر به هیچ‌وجه کاهش محدودیت‌ها نیست بلکه دولت به تاکتیک‌های جدیدتری روی آورده تا بتواند بر تبادل اطلاعات کنترل داشته باشد.
+
+https://filter.watch/2021/09/24/%d8%ae%d8%a7%d9%85%d9%88%d8%b4%db%8c%d9%87%d8%a7%db%8c-%d8%a7%db%8c%d9%86%d8%aa%d8%b1%d9%86%d8%aa-%d8%af%d8%b1-%d8%a7%db%8c%d8%b1%d8%a7%d9%86-%d8%a7%d8%b2-%d8%a2%d8%a8%d8%a7%d9%86-%db%b9/

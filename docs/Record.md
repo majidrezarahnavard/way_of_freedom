@@ -80,3 +80,17 @@ bpb like: Say My name!
 ![pic](https://pbs.twimg.com/media/GarVaNqWsAAeol-?format=jpg&name=small)
 
 
+راستی رکورد bpb رو به ۱ میلیارد ریکوست رسووندیم 😂😎
+
+اینم میزارم و از سازنده bpb کمال تشکر رو دارم بابتش،
+و همچنین مردم خوب ایران، ۱ میلیارد ریکوست به کلادفلر عدد کمی نیست 
+
+
+![pic](https://pbs.twimg.com/media/GcKDRysWAAABGrz?format=jpg&name=small)
+
+
+## SeysamMafari
+
+اینم تجربه من با این پنل عالی و اشتراک گذاری با خانواده و همکاران. دمت گرم مرد بزرگ. دمه همه دوستانی که واسه اینترنت آزاد زحمت میکشن گرم. 🙏🏼
+
+![pic](https://pbs.twimg.com/media/GcP8RNpWgAAJE1K?format=jpg&name=small)

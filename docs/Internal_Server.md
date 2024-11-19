@@ -1015,3 +1015,19 @@ https://youtu.be/K7rTrHjG0DY
 
 
 https://www.youtube.com/watch?v=JrCDcBSC650
+
+
+##  بهترین روش TUNNELبین سرور ایران و خارج-SIXTININELEARN 
+
+
+سلام رفقا توی این ویدیو قراره بهترین روش تانل بین سرور ایران و خارج رو بهتون آموزش بدم.
+
+گیتهاب پروژه:
+https://github.com/Azumi67/6TO4-GRE-IPIP-SIT
+
+
+کانال تلگرام:
+https://t.me/sixtininelearn
+
+
+https://www.youtube.com/watch?v=TfZIcseK6lM

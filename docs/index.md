@@ -455,21 +455,6 @@
     </a>
 
 
-    <a href="Yebekhe">
-        <article class="hentry">
-        <header class="entry-header">
-        <div class="entry-thumbnail">
-            <img src="https://avatars.githubusercontent.com/u/64287898?v=4" alt="Yebekhe"/>
-        </div>
-        <h2 class="my_title">Yebekhe</h2>
-        <p class="my_text">
-            جمع آوری کانفیگ ها از کانال ها تلگرام و رتبه بندی  
-        </p>
-        </header>
-        </article>
-    </a>
-
-
     <a href="Home_Server">
         <article class="hentry">
         <header class="entry-header">

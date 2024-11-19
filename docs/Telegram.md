@@ -27,7 +27,7 @@
 [telegram ProxyMTProto](https://t.me/ProxyMTProto)
 
 
-# wallet
+## wallet
 
 در مورد والت داخل تلگرام، حتما این هشدارها رو جدی بگیرید:
 ‌
@@ -54,7 +54,7 @@
 
 
 
-# تلگرام ناشناس
+## تلگرام ناشناس
 
 با کمک صفا (@safasafari3 ) روی الگوریتمش فکر کردیم و از دفی‌هیلمن به هیبرید (RSA و AES) تغییرش دادیم. الان تقریبا شبیه TLS کار می‌کنه و سرور نمی‌تونه اتک MitM بزنه. مکانیزمش رو می‌نویسم لطفا اگه مشکلی داره بگید بهترش کنیم. 
 
@@ -62,7 +62,7 @@
 https://threadreaderapp.com/thread/1826638702770356605.html
 
 
-# Activating the income generation section through the Telegram channel 
+## Activating the income generation section through the Telegram channel 
 
  بالاخره مهمترین و بهترین آپدیت تلگرام منتشر شد و هم اکنون میتونید تلگرام رو به آخرین نسخه به روز رسانی کنید و به قابلیت های جدید این شبکه اجتماعی دسترسی داشته باشید. برخی از ویژگی های جدیدی که به تلگرام اضافه شده :
 📊 اشتراک بیزنس
@@ -79,7 +79,7 @@ https://threadreaderapp.com/thread/1826638702770356605.html
 
 
 
-# ساختار تلگرام
+## ساختار تلگرام
 
  الان که داشتم درباره تلگرام می‌خوندم متوجه یه چیز عجیبی شدم. تلگرام یه زیرساخت غیرمتمرکز خیلی جالبی داره، دیتاسنترهاش رو توی کشورهای مختلفی که قوانین قضایی متفاوتی داره پخش کرده. تمام دیتایی که نگه‌داری می‌کنه رمز میشن و کلیدهای رمزنگاری هم به بخش‌های مختلفی تیکه تیکه شده
 #رشتو
@@ -91,10 +91,21 @@ https://threadreaderapp.com/thread/1828869569609625869.html
 
 
 
-# تغییر سیاست تلگرام
+## تغییر سیاست تلگرام
 
 پس از گذشت مدتی از دستگیری #پاول_دورف، #تلگرام صفحه FAQ (سوالات متداول) را به‌روزرسانی کرده و بخش محافظت از چت‌های خصوصی از درخواست‌های تعدیل محتوا را حذف کرده است، همچنین به کاربران امکان می‌دهد چت‌های خصوصی که دارای محتوای غیرقانونی هستند را گزارش کنند.
 اکنون به‌جای بخش مربوط به محافظت از چت‌های خصوصی و گروهی، نوشته شده که تمام اپ‌های تلگرام دکمه Report دارند که به شما اجازه می‌دهد محتوای غیرقانونی را به تعدیل‌کنندگان محتوا گزارش کنید
 
 https://x.com/TavaanaTech/status/1832000401224196338
 
+
+
+## telegram-configs-collector
+
+The script systematically collects Vmess, Vless, ShadowSocks, Trojan, Reality, Hysteria, Tuic, and Juicity configurations from publicly accessible Telegram channels. It categorizes these configurations based on open and closed ports, eliminates any duplicate entries, resolves configuration addresses using IP addresses, and revises configuration titles to reflect server and protocol-type properties. These properties include network and security type, IP address and port, and the respective country associated with the configuration.
+
+https://github.com/soroushmirzaei/telegram-configs-collector
+
+https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/splitted/subscribe
+
+https://ircfspace.github.io/tconfig/

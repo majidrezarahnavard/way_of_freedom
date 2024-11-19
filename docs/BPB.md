@@ -281,15 +281,13 @@ https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-6.0
 https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-aspnetcore-6.0.35-windows-x64-installer
 
 
-دانلود خود برنامه
-https://github.com/msasanmh/DNSveil/r...
 
 
 ## آموزش مراحل BPB and fastly
 
 آموزش نصب BPB
 
-https://www.youtube.com/watch?v=O3cl5MifBZo
+https://www.youtube.com/watch?v=SSGt303DzVg
 
 https://github.com/bia-pain-bache/BPB-Worker-Panel/blob/main/README_fa.md
 
@@ -301,4 +299,14 @@ https://github.com/bia-pain-bache/BPB-Worker-Panel/blob/main/docs/configuration_
 ### نصب از طریق Cloudflare Pages
 
 https://github.com/bia-pain-bache/BPB-Worker-Panel/blob/main/docs/pages_installation_fa.md
+
+
+### fastly
+
+https://www.youtube.com/watch?v=O3cl5MifBZo
+
+
+### email fake
+
+https://temp-mail.org/en/
 

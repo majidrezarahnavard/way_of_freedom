@@ -498,3 +498,12 @@ bash <(curl -fsSL https://raw.githubusercontent.com/Kolandone/Selector/main/Sel.
 داخل برنامه ترموکس وارد کنید 
 (یا از گیتهاب یا از پلی استور دانلود کنید)
 
+
+
+## یه ساب پیدا کردم سرعتش عالیه نامحدود هم هست🫶
+https://raw.githubusercontent.com/xc0000e9/deatnote/main/Hiddify-next.fragment
+
+ادیت:
+مثل این که منبع برای ایشون دمش گرم🔥
+https://t.me/unlocked_worlld
+

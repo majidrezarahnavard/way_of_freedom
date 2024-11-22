@@ -318,3 +318,14 @@ https://www.shahrsakhtafzar.com/fa/articles-guides/internet-operator/48050-faq-s
 
 https://www.shahrsakhtafzar.com/fa/articles-guides/internet-operator/48050-faq-starlink
 
+
+
+## Pay with Moon
+
+با روش
+ Pay with Moon
+  میتونید اشتراک استارلینک رو بدون واسطه و بدون کارمزد خودتون انجام بدید💸
+تو این ویدیو روش گام‌به‌گام پرداخت رو آموزش دادم. فقط حتما باید پرداخت با #بیتکوین و روی شبکه‌ لایتنینگ باشه. 
+
+
+https://x.com/joinNASNET/status/1859251172541956515

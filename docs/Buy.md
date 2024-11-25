@@ -490,3 +490,20 @@ sudo sysctl --system
 wget https://github.com/Heclalava/blockpublictorrent-iptables/raw/main/bt.sh && chmod +x http://bt.sh && bash http://bt.sh
 
 https://x.com/joinNASNET/status/1854454787904799090
+
+
+## تخفیف‌های آخر سال خرید سرور و VPS رو این زیر لیست میکنم.
+
+نکته: قبل خرید شرایط سرور رو بررسی کنید.
+
+۱. از OVH با رم ۲ گیگ که از ۷ دلار شده ۳.۴۵
+OVH: https://ovhcloud.com/en/black-friday/
+
+۲. از vps-mart که سرور ۷ دلاری شده ۳ دلار 
+vps-mart: https://vps-mart.com/linux-vps
+
+۳. یک سال سرور ۵۵ دلاری silicloud شده ۱۱ دلار 
+silicloud: https://silicloud.com/activity/vps#P1R1C1
+
+
+https://x.com/MrSoroushAhmadi/status/1860695519774810541

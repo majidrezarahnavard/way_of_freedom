@@ -1,5 +1,12 @@
 # BPB
 
+
+## Change UUID
+
+دوستان UUID ها را عوض کنید و default نزارید چینی ها راحت این کانفیگ‌ ها را می‌زنند 
+
+
+
 ##  نسخه‌ی ۲.۷.۵ BPB Panel منتشر شد.
 
 اگر اولین باره با این پنل آشنا میشید لطفا یه راست برید انتهای توییت و آموزشا رو بخونید و برای خودتون و اطرافیان پروکسی رایگان بسازید. 
@@ -268,7 +275,6 @@ https://threadreaderapp.com/thread/1819372193052037612.html
 
 [نسخه‌ی ۲.۳ پنل BPB ریلیز شد!](https://threadreaderapp.com/thread/1777729570692628977.html)
 
-[ عبور از فیلترینگ با Edge Tunnel و بررسی پنل BPB و پنل وحید فرید , فیلترشکن رایگان، سریع و ضد تحریم ](https://www.youtube.com/watch?v=jvZkHANYfno&t=297s)
 
 [نحوه‌ی راه‌اندازی BPB Worker Panel به همراه Fragment نسخه‌ی 2.1](https://telegra.ph/%D9%86%D8%AD%D9%88%D9%87%E2%80%8C%DB%8C-%D8%B1%D8%A7%D9%87%E2%80%8C%D8%A7%D9%86%D8%AF%D8%A7%D8%B2%DB%8C-BPB-Worker-Panel-%D8%A8%D9%87%E2%80%8C%D9%87%D9%85%D8%B1%D8%A7%D9%87-Fragment-01-28)
 

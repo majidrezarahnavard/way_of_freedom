@@ -125,7 +125,7 @@
         <article class="hentry">
         <header class="entry-header">
         <div class="entry-thumbnail">
-                <img src="https://cdn.technadu.com/wp-content/uploads/2018/04/Cloudflare-1.1.1.1-A-Fast-And-Private-Consumer-DNS-Service-775xx.png" alt="CloudFlare White IP"/>
+                <img src="https://www.softgozar.com/Image/ckeditor/news/202476135819.jpg" alt="CloudFlare White IP"/>
         </div>
             <h2 class="my_title"> اسکنر کلودفلیر</h2>
             <p class="my_text">
@@ -172,7 +172,7 @@
         <article class="hentry">
         <header class="entry-header">
         <div class="entry-thumbnail">
-            <img src="https://www.mahsaserver.com/assets/logo-02779409.png" alt="Donate"/>
+            <img src="https://2nate.com/wp-content/uploads/2020/07/2nate-Logo-Color-Horizontal-800px-72dpi-300x146.png" alt="Donate"/>
         </div>
         <h2 class="my_title">Donate</h2>
         <p class="my_text">
@@ -216,7 +216,7 @@
         <article class="hentry">
         <header class="entry-header">
         <div class="entry-thumbnail">
-            <img src="https://external-preview.redd.it/BGULNR2UYWXiXeRThecHVXoPsK6nsOHC0EvEeoL_XOE.jpg?width=1080&crop=smart&auto=webp&s=3ebc094838519c05f379832f283cc1410b0653b0" alt="Warp"/>
+            <img src="https://files.virgool.io/upload/users/14703/posts/fm7vetjtyfqk/dnkzgdp0npve.png?width=1024" alt="Warp"/>
         </div>
         <h2 class="my_title">Warp on Warp</h2>
         <p class="my_text">
@@ -231,7 +231,7 @@
         <article class="hentry">
         <header class="entry-header">
         <div class="entry-thumbnail">
-            <img src="https://pbs.twimg.com/profile_images/1579925992855986187/N-y1q0cE_400x400.jpg" alt="BPB"/>
+            <img src="https://avatars.githubusercontent.com/u/155004885?v=4" alt="BPB"/>
         </div>
         <h2 class="my_title">پنل BPB</h2>
         <p class="my_text">
@@ -277,7 +277,7 @@
         <article class="hentry">
         <header class="entry-header">
         <div class="entry-thumbnail">
-            <img src="https://pandavpnpro.com/blog/wp-content/uploads/2022/05/free-vpn.jpg" alt="Free"/>
+            <img src="https://irantender.net/wp/wp-content/uploads/2019/03/free-hosting.jpg" alt="Free"/>
         </div>
         <h2 class="my_title">Free Configs</h2>
         <p class="my_text">
@@ -292,7 +292,7 @@
         <article class="hentry">
         <header class="entry-header">
         <div class="entry-thumbnail">
-            <img src="https://hiddify.com/assets/hiddify-manager-logo.svg" alt="Hiddify"/>
+            <img src="https://user-images.githubusercontent.com/125398461/227777845-a4d0f86b-faa2-4f2b-a410-4aa5f68bfe19.png" alt="Hiddify"/>
         </div>
         <h2 class="my_title">Hiddify</h2>
         <p class="my_text">
@@ -304,7 +304,6 @@
 
 
     <a href="Starlink">
-
         <article class="hentry">
         <header class="entry-header">
         <div class="entry-thumbnail">
@@ -316,7 +315,6 @@
         </p>
         </header>
         </article>
-
     </a>
 
 
@@ -385,7 +383,7 @@
         <article class="hentry">
         <header class="entry-header">
         <div class="entry-thumbnail">
-            <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*fz_PH-H1xZWUtcl1" alt="Proxy Chain"/>
+            <img src="https://tosinso.com/files/get/7eb993f4-24bc-4c45-9b4c-ffac18aa022f" alt="Proxy Chain"/>
         </div>
         <h2 class="my_title">Proxy Chain</h2>
         <p class="my_text">
@@ -548,7 +546,7 @@
         <article class="hentry">
         <header class="entry-header">
         <div class="entry-thumbnail">
-            <img src="https://static1.anpoimages.com/wordpress/wp-content/uploads/2022/03/Telegram-featured.jpg?q=50&fit=crop&w=1100&h=618&dpr=1.5" alt="Telegram"/>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/121px-Telegram_2019_Logo.svg.png" alt="Telegram"/>
         </div>
         <h2 class="my_title">Telegram</h2>
         <p class="my_text">
@@ -594,7 +592,7 @@
         <article class="hentry">
         <header class="entry-header">
         <div class="entry-thumbnail">
-            <img src="https://theleaflet.in/wp-content/uploads/2022/07/image-5.png" alt="Research"/>
+            <img src="https://www.discoverphds.com/wp-content/uploads/elementor/thumbs/What-is-Research-Purpose-of-Research-phul4s3cbwe0xam190dnc4kz3z616ajmfkygodcdqg.png" alt="Research"/>
         </div>
         <h2 class="my_title">Research</h2>
         <p class="my_text">

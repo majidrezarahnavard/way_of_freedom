@@ -442,7 +442,7 @@
         <article class="hentry">
         <header class="entry-header">
         <div class="entry-thumbnail">
-            <img src="https://i.ytimg.com/vi/y2kg3MOk1sY/sddefault.jpg" alt="Primary"/>
+            <img src="https://nexlevelteams.com/wp-content/uploads/2021/10/Back-to-Basics-1024x536.jpg" alt="Primary"/>
         </div>
         <h2 class="my_title">آموزش مقدماتی</h2>
         <p class="my_text">

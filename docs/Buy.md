@@ -71,6 +71,7 @@ https://buyvm.net/kvm-dedicated-server-slices/
 https://my.cloudfanatic.net/index.php/store/chicago-ssd-kvm-vps
 https://contabo.com/en/vps/cloud-vps-1/?image=ubuntu.267&qty=1&contract=1&storage-type=vps-1-400-gb
 https://www.surfercloud.com/products/ulighthost
+https://rarecloud.io/black-friday/
 ```
 
 [آموزش خرید سرور از سایت Aeza با پرفکت مانی](https://telegra.ph/Kharide-server-az-Aeza-ba-perfect-mony-04-05)

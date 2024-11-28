@@ -311,3 +311,36 @@ Part 2: Config as VPN Server on the Networks
 
 https://www.youtube.com/watch?v=UKcl2FjcwuU
 
+
+
+## My OpenWrt Initial Setup
+
+ستاپ روترم که روش OpenWrt و Passwall با رول‌ست جداکردن ترافیک ایران از vpn هست رو اینجا داکیومنت کردم
+لیست دامنه‌های داخلی هم هفتگی آپدیت میشه خودکار تو این ستاپ
+
+
+
+My Router Info
+
+    Model: Linksys EA8100
+    Memory: 256MB
+    Storage: Using 16GB thumb drive as extroot
+    OpenWrt Version: OpenWrt 23.05.3 r23809-234f1a2efa / LuCI openwrt-23.05 branch git-24.073.29889-cd7e519
+
+
+https://gist.github.com/ahbanavi/ef39d70aef6a1778a9c83c5f0fb86dfc
+
+
+
+## دانلود و نصب میکروتیک روتر او اس با لایسنس لول 6 👇
+
+با تشکر از مهندس جوانی که لینک رو ارسال کردن 🙏
+
+MikroTik RouterOS Patch [中文]
+[Discord] [Telegram] [Keygen(Telegram Bot)]
+Download Latest Patched iso file,install it and enjoy.
+CHR image is both support BIOS and UEFI boot mode.
+Support online upgrade,online license,cloud backup,cloud DDNS
+
+https://github.com/elseif/MikroTikPatch/blob/main/README_EN.md
+

@@ -27,6 +27,11 @@
 متن شامل لینک‌هایی به ویدیوها و منابع بیشتر برای اطلاعات تکمیلی است.
 
 
+##  توماج صالحی
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/p6LzsYdU81o?si=GQm24nPac4xi9mZw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 ## پادکست دانشنامه به زبان انگیلیسی
 
 https://github.com/majidrezarahnavard/way_of_freedom/releases/tag/padcast.v1
@@ -138,14 +143,5 @@ http
 ویدیو معرفی تمام روش های تانل و انتخاب بهترین روش با کمترین اختلال آماده شده و امیدواریم بتونه تا حدودی بتونه بهتون کمک کنه.
 
 https://www.youtube.com/watch?v=B9zhpvHXA-Q
-
-
-## Amin Anvary
-
-اموزشی که @joinNASNET
- برای مهسا منتشر کرده رو دیدم و بنظرم کامله. طبق همون ساخته بشه عالیه.
-
- من فقط از سیستم مهسا و یا هیستریای ۲ استفاده کنم. هیستریای ۲ رو هم با همه چیز تست کردم، پنل ezpz متعلق به @aleskxyz
-  بهترین عملکرد رو داشته. نمیدونم دارینش یا نه. ویدیوی گام به گامش رو به زودی میسازم.
 
 

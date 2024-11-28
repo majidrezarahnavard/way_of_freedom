@@ -33,6 +33,10 @@
 
 
 
+## توماج صالحی
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/p6LzsYdU81o?si=oByxt9KguTVpzL6n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## ساخت تانل با nginx و تنها یک پورت و فرگمنت  و DNS
 
 برای آماده سازی سرور این اقدامات رو انجام دهیم:
@@ -1031,3 +1035,14 @@ https://t.me/sixtininelearn
 
 
 https://www.youtube.com/watch?v=TfZIcseK6lM
+
+
+##  آموزش تانل پرسرعت و نیم بها بدون دامنه و آیپی اختصاصی ( روش جدید) 
+
+
+تانلی که هم نیم بها باشه هم نیاز به تهیه و خرید دامنه و ایپی نداشته باشه! این روش برای ایجاد تانل نیم بها تا به حال جایی گفته نشده 
+تازه شما با این روش میتونید از امکانات cdn اروان استفاده کنید!
+
+
+https://www.youtube.com/watch?v=_qPgsphxLOQ
+

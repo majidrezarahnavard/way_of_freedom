@@ -75,3 +75,50 @@ https://www.youtube.com/watch?v=uU-6aU8tGDY
 ## My Favourite Cake 2024
 
 https://t.me/Video_Archives/5522
+
+
+## لیست سایت‌هایی که «بدون سانسور» هستند.
+(۱۴۰۳/۹/۹) آپدیت شده 
+
+رایگان:
+https://f2medi.ir
+
+https://almasmovie.website
+
+https://donyayeserial.com
+
+https://bartarmoviz.com
+
+https://zedmovie9.fun
+
+https://miramovie.top
+
+https://nikimoviez.sbs
+
+https://aiofilm.com
+
+azintv.site
+
+https://moviepovie.com
+
+https://clubmovies4.fun
+
+https://30namachi.com
+
+https://acemovies.bid
+
+https://goldmovieez.sbs
+
+https://bandmoviez.pro
+
+https://mword.cfd
+
+https://mercimovie.info
+
+https://animesp.xyz
+
+https://t.co/8Z6KZui4JI
+
+https://x.com/cinema_T_farsi/status/1862247774575542594
+
+https://threadreaderapp.com/thread/1862247774575542594.html?utm_campaign=topunroll

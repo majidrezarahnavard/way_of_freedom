@@ -849,3 +849,12 @@ http://github.com/Begzar/BegzarApp/releases/latest
 
 https://x.com/BegzarProject/status/1855699558547775900
 
+
+## وی پی ان های قدیمی معروف رو فراموش نکنید
+
+بعضی وقتا دوباره بعد یه مدتی فعال میشن
+نمیگم صرفا Proton VPN یا ...
+هر چی که استفاده می کردید
+الان بگم فلان دوباره روش زوم میکنن
+
+![pic](https://pbs.twimg.com/media/Gde-orxXsAAfrgd?format=jpg&name=large)

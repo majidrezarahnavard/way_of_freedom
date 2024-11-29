@@ -84,6 +84,7 @@ return (upgrade);
 ۲. تغییر UUID
 - تغییر UUID الزامی است
 - [تولید UUID جدید](https://www.uuidgenerator.net/)
+- خط ۴۲۰۲
 - محل تغییر: `userID = env.UUID || "123XXXXXXXXXXXXXXXX"`
 
 ۳. ساخت اکانت Fastly
@@ -103,3 +104,10 @@ https://x.com/GhostOfSarina/status/1862575995556958459
 ## Websites using Fastly
 
 https://trends.builtwith.com/websitelist/Fastly
+
+
+## free config
+
+https://github.com/soroushmirzaei/telegram-configs-collector
+
+فقط کافیه کانفیگ ها رو دستی به فستلی وصل کنید  و تمام

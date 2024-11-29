@@ -89,6 +89,19 @@
         </article>
     </a>
 
+    <a href="Fastly">
+        <article class="hentry">
+        <header class="entry-header">
+        <div class="entry-thumbnail">
+            <img src="https://en.wikipedia.org/wiki/File:Fastly_logo.svg" alt="Fastly"/>
+        </div>
+        <h2 class="my_title">Fastly</h2>
+        <p class="my_text">
+            استفاده از CDN سایت Fastly برای افزایش امنیت و کاهش اختلال
+        </p>
+        </header>
+        </article>
+    </a>
 
     <a href="Gcore">
         <article class="hentry">

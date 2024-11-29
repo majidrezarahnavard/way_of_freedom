@@ -1046,3 +1046,14 @@ https://www.youtube.com/watch?v=TfZIcseK6lM
 
 https://www.youtube.com/watch?v=_qPgsphxLOQ
 
+
+##  بهترین روش TUNNEL قسمت دوم-SIXTININELEARN 
+
+
+سلام رفقا توی این ویدیو قراره بهترین روش تانل بین سرور ایران و خارج رو بهتون آموزش بدم.
+
+گیتهاب پروژه:
+https://github.com/Jrohy/multi-v2ray
+
+
+https://www.youtube.com/watch?v=2QvLk0mijZI

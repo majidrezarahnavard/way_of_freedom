@@ -461,3 +461,12 @@ https://www.youtube.com/watch?v=92g8yadlS6Q
 پنل وایرگارد / بهترین فیلترشکن / پنل wireguard / داشبورد وایرگارد / داشبورد wireguard / تانل وایرگارد / تانل wireguard / چندی از کلمات کلیدی این ویدیو هستن :)
 
 https://www.youtube.com/watch?v=Kc22XH750-w
+
+
+## MarzNode
+
+تیم مرزنشین در جدیدترین بروزرسانی از MarzNode که یه فورک از Marzban-Node بوده و به‌عنوان هسته پنل #مرزنشین شناخته میشه، هسته #سینگ_باکس رو اضافه کرده و در واقع کاربران مرزنشین میتونن از ۳ هسته xray, hysteria, sing-box به‌طور همزمان برخوردار بشن.
+
+http://github.com/marzneshin/marznode/releases/latest
+
+http://github.com/marzneshin/marzneshin

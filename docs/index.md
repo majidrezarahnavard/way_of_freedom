@@ -93,7 +93,7 @@
         <article class="hentry">
         <header class="entry-header">
         <div class="entry-thumbnail">
-            <img src="https://en.wikipedia.org/wiki/File:Fastly_logo.svg" alt="Fastly"/>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Fastly_logo.svg/220px-Fastly_logo.svg.png" alt="Fastly"/>
         </div>
         <h2 class="my_title">Fastly</h2>
         <p class="my_text">

@@ -53,6 +53,8 @@ https://github.com/Saleh-Mumtaz/Proxy-Wars/blob/main/first-order.md
 
 
 
+
+
 ## پنل‌های مدیریتی
 [نقشه راه دسترسی به اینترنت آزاد - از کانال یوتیوب ایمان آقاپور](https://iaghapour.github.io/freehope/)
 
@@ -63,6 +65,16 @@ https://github.com/Saleh-Mumtaz/Proxy-Wars/blob/main/first-order.md
 [ V2ray, Cloudflare, SSL, CDN, Proxy آموزش کامل ](https://www.youtube.com/watch?v=yIkJvmQjVr0)
 
 [ آموزش ساخت سریعترین وی پی ان ایران - فیلترشکن XRay و V2Ray ](https://www.youtube.com/watch?v=MjqZ--zYrdc)
+
+
+##  آموزش پنل Marzneshin با 3 هسته متفاوت (قسمت پایه)
+
+🔹یه پنل دیگه داریم برای معرفی که میتونه خیلی براتون کاربردی باشه پس با این آموزش در کنار ما باشید.
+
+🔗 تماشا ویدیو در یوتیوب 👇👇
+https://youtu.be/5ji39X2zEhw
+🔥
+
 
 
 ## پنل علیرضا

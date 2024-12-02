@@ -64,6 +64,14 @@ return (upgrade);
 
 آموزش ساخت پنل BPB با Fastly
 
+با این روش ممکن است پس از مدتی خطای 
+
+Error 1101 Ray ID:  
+Worker threw exception
+
+دریافت کنید
+
+
 ### مقدمه
 اگر با این پنل آشنایی ندارید، توصیه می‌شود ابتدا ویدیوی معرفی را مشاهده کنید.
 - [مشاهده ویدیوی معرفی BPB](https://www.youtube.com/watch?v=SSGt303DzVg)

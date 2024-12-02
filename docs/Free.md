@@ -541,3 +541,9 @@ https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main
 
 https://raw.githubusercontent.com/amin4139/share_file/refs/heads/main/Fastly_freeConfig
 
+
+
+## iPsycho01
+
+
+https://raw.githubusercontent.com/iPsycho1/Subscription/refs/heads/main/iPsycho-Fastly

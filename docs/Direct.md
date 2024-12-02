@@ -152,7 +152,13 @@ https://x.com/horizonbehind2/status/1834573752526389518
 https://threadreaderapp.com/thread/1827368756596895887.html
 
 
+## اسکریپت مدیریت Hysteria2،
 
+اسکریپت مدیریت Hysteria2، یک رابط کاربری جامع برای مدیریت سرور هست که از ویژگی‌هایی نظیر مدیریت کاربران، نظارت بر ترافیک و ادغام با ابزارهای اضافی مانند وارپ، ساب‌لینک سینگ‌باکس و ربات تلگرام برخورداره ...
+
+http://github.com/ReturnFI/Hysteria2
+
+![pic](https://pbs.twimg.com/media/Gdo1xAGXwAIMhLa?format=png&name=small)
 
 ## H-UI
 

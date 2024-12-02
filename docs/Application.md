@@ -858,3 +858,19 @@ https://x.com/BegzarProject/status/1855699558547775900
 الان بگم فلان دوباره روش زوم میکنن
 
 ![pic](https://pbs.twimg.com/media/Gde-orxXsAAfrgd?format=jpg&name=large)
+
+
+
+##  اپلیکیشن سیگنال
+
+چک‌لیست امنیتی: اپلیکیشن سیگنال
+ـ فعال‌سازی قفل صفحه
+ـ تنظیم و فعال‌سازی PIN
+ـ تایید شماره ایمنی مخاطبین
+ـ فعال‌کردن پیام‌های ناپدیدشونده....
+سیگنال
+وب‌سایت:
+
+https://tech.tavaana.org/digital-security/signal-messenger/
+
+![pic](https://pbs.twimg.com/media/GdlWqZAW0AAmY0f?format=jpg&name=small)

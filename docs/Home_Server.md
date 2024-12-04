@@ -344,3 +344,35 @@ Support online upgrade,online license,cloud backup,cloud DDNS
 
 https://github.com/elseif/MikroTikPatch/blob/main/README_EN.md
 
+
+##  Step-by-Step Guide to Creating OpenVPN with TunnelBear 
+
+Looking to boost your online security with a powerful VPN? In this video, I’ll show you how to easily create your own OpenVPN configuration using the popular TunnelBear service. With this method, you can securely and privately access the internet from anywhere. If you're searching for a simple and effective way to set up a VPN, this tutorial is perfect for you!
+
+🔒 Features:
+
+    Step-by-step guide on creating OpenVPN configuration
+    Using TunnelBear for a secure connection
+    Enhanced privacy and bypassing restrictions
+    Works on all devices
+
+Watch the video and make sure to subscribe for more tutorials and internet security tips!
+
+https://www.youtube.com/watch?v=vdbIVi2ffns
+
+##  4 fast OpenVPN methods on Windows and Android 
+
+In this video, discover 4 easy and quick methods to set up OpenVPN files on Windows and Android devices. If you're looking for secure internet access and freedom online, follow this step-by-step guide using OpenVPN GUI, Windscribe, and HTTP Custom. These methods make it simple to install and run OpenVPN on any device, whether you’re a beginner or an experienced user.
+
+    Introduction to different OpenVPN tools
+    4 straightforward setup methods for Windows and Android
+    Practical tips for enhanced security and unrestricted access
+
+👁️‍🗨️ Want unrestricted internet? Watch this video now!
+
+https://www.youtube.com/watch?v=YxPsQNaUvnE
+
+
+## بچه های wrt باز این پروژه رو هم دریابید ..
+
+https://github.com/peditx/PeDitXrt

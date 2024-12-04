@@ -1,16 +1,16 @@
 # کلاینت ها
-# نکوباکس
+## نکوباکس
 
 [ اموزش کامل برنامهٔ نکو باکس Neko Box (برای دور زدن فیلترینگ) ](https://www.youtube.com/watch?v=JjvSeQwdxT8)
 
-# v2ray windows
+## v2ray windows
 
 [ آموزش استفاده از v2ray در ویندوز , نحوه اتصال کانفیگ v2ray در ویندوز ](https://www.youtube.com/watch?v=Z31wBnYe3co)
 
 
 [ آموزش کار با وی پی ان وی2ری ان | V2rayNG تو کامپیوتر ](https://www.youtube.com/watch?v=GJAC-EkmYLM)
 
-# Hiddify هیدیفای
+## Hiddify هیدیفای
 
 
 [ آموزش کامل تنظیمات پیشرفته هیدیفای نکست Hiddify Next ](https://www.youtube.com/watch?v=NtQ0bQlIRrY)
@@ -43,7 +43,13 @@
 [ کانفیگ رایگان هیدیفای رو خودت بساز ](https://www.youtube.com/watch?v=HxevTFt_2KQ)
 
 
-اگر توی اپ #هیدیفای (https://twitter.com/hashtag/%D9%87%DB%8C%D8%AF%DB%8C%D9%81%D8%A7%DB%8C) کانفیگتون وصل میشه، اما با مشکل نمایش #پینگ (https://twitter.com/hashtag/%D9%BE%DB%8C%D9%86%DA%AF) مواجهه، از منوی برنامه وارد بخش تنظیمات پیکربندی شده و مقدار پیشفرضی که برای لینک بررسی اتصال درنظر گرفته‌شده رو به آدرس زیر تغییر بدید:
+اگر توی اپ هیدیفای 
+
+(https://twitter.com/hashtag/%D9%87%DB%8C%D8%AF%DB%8C%D9%81%D8%A7%DB%8C) 
+کانفیگتون وصل میشه، اما با مشکل نمایش پینگ 
+
+(https://twitter.com/hashtag/%D9%BE%DB%8C%D9%86%DA%AF) 
+مواجهه، از منوی برنامه وارد بخش تنظیمات پیکربندی شده و مقدار پیشفرضی که برای لینک بررسی اتصال درنظر گرفته‌شده رو به آدرس زیر تغییر بدید:
 
 cp.cloudflare.com (http://cp.cloudflare.com/)
 
@@ -56,7 +62,7 @@ https://twitter.com/ircfspace/status/1824718183019729143
 
 
 ## Streisand IOS
-برنامهٔ #Streisand یکی‌از پایدارترین گزینه‌ها برای #آیفون هست که متاسفانه در رابطه با واردکردن پیگربندی JSON از URL با مشکل مواجه بود؛ این زمانی اهمیت بیشتری پیدا می‌کرد که درحال‌حاضر #فرگمنت در ایران به‌عنوان یکی‌از روش‌های کاربردی برای دسترسی آزاد به اینترنت به‌شمار میره /تب
+برنامهٔ Streisand یکی‌از پایدارترین گزینه‌ها برای آیفون هست که متاسفانه در رابطه با واردکردن پیگربندی JSON از URL با مشکل مواجه بود؛ این زمانی اهمیت بیشتری پیدا می‌کرد که درحال‌حاضر فرگمنت در ایران به‌عنوان یکی‌از روش‌های کاربردی برای دسترسی آزاد به اینترنت به‌شمار میره /تب
 
 https://apps.apple.com/us/app/streisand/id6450534064?platform=iphone
 
@@ -66,13 +72,14 @@ https://apps.apple.com/us/app/streisand/id6450534064?platform=iphone
 https://apps.apple.com/us/app/foxray/id6448898396
 
 ## V2rayN
-
-[ آموزش استفاده از کلاینت V2rayN در ویندوز ](https://www.youtube.com/watch?v=hS4_AEszIkk)
-
+آموزش استفاده از کلاینت V2rayN در ویندوز 
+https://www.youtube.com/watch?v=hS4_AEszIkk
 
 ## V2rayNG
 
-[ مهمترین تنظیمات فیلترشکن V2rayNG ](https://www.youtube.com/watch?v=hR3RjIdfhFM)
+ مهمترین تنظیمات فیلترشکن V2rayNG
+
+https://www.youtube.com/watch?v=hR3RjIdfhFM
 
 
 ## shadowshare
@@ -97,6 +104,11 @@ wget -qO- bench.sh | bash
 ```
 
 
+ه ابزار کارآمد جهت تست سرعت، کامند لاین 
+
+https://github.com/showwin/speedtest-go
+
+
 ## Download Clients
 
 ```
@@ -113,7 +125,7 @@ https://apps.apple.com/tr/app/npv-tunnel/id1629465476
 ```
 
 
-# V2RayN-PRO v1.6
+## V2RayN-PRO v1.6
 
 هر چه خوبان همه دارن ، براتون یه جا جمع کردیم 😅
 
@@ -126,7 +138,7 @@ https://apps.apple.com/tr/app/npv-tunnel/id1629465476
 
 https://github.com/lowercase78/V2RayN-PRO/releases/tag/V2RayN-PROV1.6-Pre
 
-# V2RayN-PROV1.5
+## V2RayN-PROV1.5
 
   دوستان میتونید نسخه جدید v2rayN-Pro رو از لینک زیر دریافت کنید:
 
@@ -141,7 +153,7 @@ https://github.com/lowercase78/V2RayN-PRO/releases/tag/V2RayN-PROV1.6-Pre
 
 ‌
 
-# V2RayN-PROV1.3.1-Pre
+## V2RayN-PROV1.3.1-Pre
 
 
 
@@ -165,7 +177,7 @@ https://github.com/lowercase78/V2RayN-PRO/releases/tag/V2RayN-PROV1.3.1-Pre
 
 https://x.com/Eagle_1157/status/1828380674971099524
 
-# netmod
+## netmod
 
 برای وارد کردن کانفیگها خیلی اوقات v2ray
 اذیت میکنه یک مدت netmod
@@ -177,7 +189,7 @@ https://x.com/Eagle_1157/status/1828380674971099524
 [twitter](https://x.com/horizonbehind2/status/1808199038979739941)
 
 
-# sing-box-batch 
+## sing-box-batch 
 
 این فایل bat برای راحتی استفاده از Sing-box در ویندوز طراحی شده است.
 
@@ -192,7 +204,7 @@ https://github.com/HajPasha/sing-box-batch
 
 
 
-# آپدیت جدید هسته سینگ‌باکس پلاس
+## آپدیت جدید هسته سینگ‌باکس پلاس
 
 https://github.com/kyochikuto/sing-box-plus
 
@@ -201,7 +213,7 @@ https://github.com/kyochikuto/sing-box-plus
 https://x.com/Eagle_1157/status/1834140309518782849
 
 
-# NikaNG
+## NikaNG
 
 
 NikaNG is a v2rayNG build upon Mahsa-Core (xray-core optimized for iran)

@@ -548,3 +548,18 @@ https://raw.githubusercontent.com/amin4139/share_file/refs/heads/main/Fastly_Con
 
 
 https://raw.githubusercontent.com/iPsycho1/Subscription/refs/heads/main/iPsycho-Fastly
+
+
+
+## ProjectAinita
+
+I've created a tool to automatically fetch servers from the @ProjectAinita
+ project and convert them into a format compatible with most clients (like @hiddify_com
+, etc.).
+Share link:
+https://raw.githubusercontent.com/4n0nymou3/ss-config-updater/refs/heads/main/configs.txt
+Project link:
+http://github.com/4n0nymou3/ss-config-updater
+
+
+https://x.com/4n0nymou3/status/1864591176860352923

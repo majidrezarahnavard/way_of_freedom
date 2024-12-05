@@ -874,3 +874,20 @@ https://x.com/BegzarProject/status/1855699558547775900
 https://tech.tavaana.org/digital-security/signal-messenger/
 
 ![pic](https://pbs.twimg.com/media/GdlWqZAW0AAmY0f?format=jpg&name=small)
+
+
+
+## Freedom Guard | گارد آزادی
+
+Warp + Psiphon + Gool + Scan + Freedom Vibe + Freedom Browser
+
+نسخه جدید گارد آزادی 1.3.5 با نام یلدا به یاد #یلدا_آقافضلی منتشر شد.
+عملکرد اتصال بهبود یافته است اما سرعت اتصال کمی کند تر شده است.
+یک موزیک پلیر به نام Freedom Player به Freedom Plus اضافه شده است.
+....
+
+لینک release:
+https://github.com/Freedom-Guard/Freedom-Guard/releases/tag/v1.3.5
+
+
+https://x.com/Freedom_Guard_N/status/1864652200904933708

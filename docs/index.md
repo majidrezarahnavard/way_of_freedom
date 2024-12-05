@@ -60,7 +60,6 @@
         </article>
     </a>
 
-
     <a href="Working_Now">
         <article class="hentry">
         <header class="entry-header">
@@ -84,6 +83,77 @@
         <h2 class="my_title">سرور مستقیم</h2>
         <p class="my_text">
             روش هایی که با یک سرور به طور مستقیم وصل می شوند.
+        </p>
+        </header>
+        </article>
+    </a>
+
+    <a href="Internal_Server">
+        <article class="hentry">
+        <header class="entry-header">
+        <div class="entry-thumbnail">
+            <img src="https://bytegate.io/wp-content/uploads/How-VPN-works.jpg" alt="Internal Server"/>
+        </div>
+        <h2 class="my_title">روش تانل </h2>
+        <p class="my_text">
+            یک سرور داخل کشور و یک سرور خارج از کشور
+        </p>
+        </header>
+        </article>
+    </a>
+
+    <a href="Free">
+        <article class="hentry">
+        <header class="entry-header">
+        <div class="entry-thumbnail">
+            <img src="https://irantender.net/wp/wp-content/uploads/2019/03/free-hosting.jpg" alt="Free"/>
+        </div>
+        <h2 class="my_title">Free Configs</h2>
+        <p class="my_text">
+            کانفیگ های رایگان 
+        </p>
+        </header>
+        </article>
+    </a>
+
+    <a href="Oblivion">
+        <article class="hentry">
+        <header class="entry-header">
+        <div class="entry-thumbnail">
+            <img src="https://s3.amazonaws.com/bala.static/links/a40da6d2-3f95-4680-bd39-b6b7996459c7-permlink.jpg" alt="Oblivion"/>
+        </div>
+        <h2 class="my_title">Oblivion</h2>
+        <p class="my_text">
+            اپلیکیشن با تکنولوژی وارپ بدون سرور و دامنه.
+        </p>
+        </header>
+        </article>
+    </a>
+
+
+    <a href="Application">
+        <article class="hentry">
+        <header class="entry-header">
+        <div class="entry-thumbnail">
+            <img src="https://jahansanatnews.ir/wp-content/uploads/2023/01/%D9%81%DB%8C%D9%84%D8%AA%D8%B1%D8%B4%DA%A9%D9%86.jpeg" alt="Application"/>
+        </div>
+        <h2 class="my_title">اپلیکیشن</h2>
+        <p class="my_text">
+                اپلیکیشن های مختلف برای اندروید و اپل و دسکتاپ
+        </p>
+        </header>
+        </article>
+    </a>
+
+    <a href="Starlink">
+        <article class="hentry">
+        <header class="entry-header">
+        <div class="entry-thumbnail">
+            <img src="https://api2.zoomit.ir/media/2021-7-starlink-antena-starter-kit-on-carpet-638bb19a8f0b9a6b86bbff64?w=1920&q=80" alt="Stralink"/>
+        </div>
+        <h2 class="my_title">Starlink</h2>
+        <p class="my_text">
+            نصب و راه اندازی استارلینک
         </p>
         </header>
         </article>
@@ -119,7 +189,6 @@
     
 
     <a href="https://github.com/majidrezarahnavard/way_of_freedom/commits/main/">
-
         <article class="hentry">
         <header class="entry-header">
         <div class="entry-thumbnail">
@@ -131,7 +200,6 @@
         </p>
         </header>
         </article>
-
     </a>
 
     <a href="CloudFlare">
@@ -147,39 +215,6 @@
         </header>
         </article>
     </a>
-
-
-    <a href="Oblivion">
-        <article class="hentry">
-        <header class="entry-header">
-        <div class="entry-thumbnail">
-            <img src="https://s3.amazonaws.com/bala.static/links/a40da6d2-3f95-4680-bd39-b6b7996459c7-permlink.jpg" alt="Oblivion"/>
-        </div>
-        <h2 class="my_title">Oblivion</h2>
-        <p class="my_text">
-            اپلیکیشن با تکنولوژی وارپ بدون سرور و دامنه.
-        </p>
-        </header>
-        </article>
-    </a>
-
-
-    <a href="Application">
-        <article class="hentry">
-        <header class="entry-header">
-        <div class="entry-thumbnail">
-            <img src="https://jahansanatnews.ir/wp-content/uploads/2023/01/%D9%81%DB%8C%D9%84%D8%AA%D8%B1%D8%B4%DA%A9%D9%86.jpeg" alt="Application"/>
-        </div>
-        <h2 class="my_title">اپلیکیشن</h2>
-        <p class="my_text">
-                اپلیکیشن های مختلف برای اندروید و اپل و دسکتاپ
-        </p>
-        </header>
-        </article>
-    </a>
-
-    
-
 
     <a href="Donate">
         <article class="hentry">
@@ -210,7 +245,6 @@
         </article>
     </a>
 
-
     <a href="Wireguard">
         <article class="hentry">
         <header class="entry-header">
@@ -239,6 +273,19 @@
         </article>
     </a>
 
+    <a href="Singbox">
+        <article class="hentry">
+        <header class="entry-header">
+        <div class="entry-thumbnail">
+            <img src="https://sing-box.org/wp-content/uploads/2024/01/1704897422-sing-box-releases-1024x538.jpg.avif" alt="Singbox" />
+        </div>
+        <h2 class="my_title">Singbox</h2>
+        <p class="my_text">
+            سینگ باکس
+        </p>
+        </header>
+        </article>
+    </a>
 
     <a href="BPB">
         <article class="hentry">
@@ -269,38 +316,6 @@
         </article>
     </a>
 
-
-
-
-    <a href="Internal_Server">
-        <article class="hentry">
-        <header class="entry-header">
-        <div class="entry-thumbnail">
-            <img src="https://bytegate.io/wp-content/uploads/How-VPN-works.jpg" alt="Internal Server"/>
-        </div>
-        <h2 class="my_title">روش تانل </h2>
-        <p class="my_text">
-            یک سرور داخل کشور و یک سرور خارج از کشور
-        </p>
-        </header>
-        </article>
-    </a>
-
-    <a href="Free">
-        <article class="hentry">
-        <header class="entry-header">
-        <div class="entry-thumbnail">
-            <img src="https://irantender.net/wp/wp-content/uploads/2019/03/free-hosting.jpg" alt="Free"/>
-        </div>
-        <h2 class="my_title">Free Configs</h2>
-        <p class="my_text">
-            کانفیگ های رایگان 
-        </p>
-        </header>
-        </article>
-    </a>
-
-
     <a href="Hiddify">
         <article class="hentry">
         <header class="entry-header">
@@ -315,22 +330,6 @@
         </article>
     </a>
 
-
-    <a href="Starlink">
-        <article class="hentry">
-        <header class="entry-header">
-        <div class="entry-thumbnail">
-            <img src="https://api2.zoomit.ir/media/2021-7-starlink-antena-starter-kit-on-carpet-638bb19a8f0b9a6b86bbff64?w=1920&q=80" alt="Stralink"/>
-        </div>
-        <h2 class="my_title">Starlink</h2>
-        <p class="my_text">
-            نصب و راه اندازی استارلینک
-        </p>
-        </header>
-        </article>
-    </a>
-
-
     <a href="Knowledge_Base">
         <article class="hentry">
         <header class="entry-header">
@@ -344,7 +343,6 @@
         </header>
         </article>
     </a>
-
 
     <a href="Clients">
         <article class="hentry">
@@ -540,7 +538,6 @@
 
 
     <a href="VPNhood">
-
         <article class="hentry">
         <header class="entry-header">
         <div class="entry-thumbnail">
@@ -555,7 +552,6 @@
     </a>
 
     <a href="Telegram">
-
         <article class="hentry">
         <header class="entry-header">
         <div class="entry-thumbnail">

@@ -39,29 +39,6 @@ https://github.com/majidrezarahnavard/way_of_freedom/releases/tag/padcast.v1
 https://github.com/majidrezarahnavard/way_of_freedom/releases/download/padcast.v1/voice.mp3
 
 
-##  آموزش پنل BPB و بردن دامنه پشت CDN سایت Fastly (ضد فیلترش کن) 
-
-
-یه آموزش فوق العاده کاربردی و محبوب رو آپدیت کردیم و پیشنهاد میکنم آموزش پنل BPB و بردن دامنه پشت CDN سایت Fastly (ضد فیلترش کن) رو از دست ندین.
-
-
-آموزش پنل bpb / آموزش سایت فستلی / آموزش سایت fastly / پنل bpb با fastly / دامنه فیک با fastly / دامنه فیک در پنل fastly / چندی از کلمات کلیدی این ویدیو هستن :)
-
-
-با حمایت کردن من توسط سابسکرایب و لایک و کامنت منو تو ادامه مسیر همراهی کنید :)
-
-
-https://www.youtube.com/watch?v=O3cl5MifBZo
-https://www.youtube.com/watch?v=SSGt303DzVg
-
-
-## رکورد یک میلیارد ریکوست
-
-یک میلیارد request هم رد شد😂حدود 27.5 ترابایت دیتا توی روز ازش رد میشه و ۳۳۰ میلیون request روزانه ☺️ امیدوارم به یک میلیارد request روزانه برسه 🤞
-
-https://t.me/Ghost_Resisters/2432
-
-
 
 ##  آموزش استفاده از آی پی و دامنه فیلتر شده با کمک SplitHTTP 🔥😍 
 

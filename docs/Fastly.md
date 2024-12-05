@@ -56,6 +56,30 @@ return (upgrade);
 امیدوارم این آموزش مفید باشد. به امید روزهای بهتر.
 
 
+##  آموزش پنل BPB و بردن دامنه پشت CDN سایت Fastly (ضد فیلترش کن) 
+
+
+یه آموزش فوق العاده کاربردی و محبوب رو آپدیت کردیم و پیشنهاد میکنم آموزش پنل BPB و بردن دامنه پشت CDN سایت Fastly (ضد فیلترش کن) رو از دست ندین.
+
+
+آموزش پنل bpb / آموزش سایت فستلی / آموزش سایت fastly / پنل bpb با fastly / دامنه فیک با fastly / دامنه فیک در پنل fastly / چندی از کلمات کلیدی این ویدیو هستن :)
+
+
+با حمایت کردن من توسط سابسکرایب و لایک و کامنت منو تو ادامه مسیر همراهی کنید :)
+
+
+https://www.youtube.com/watch?v=O3cl5MifBZo
+https://www.youtube.com/watch?v=SSGt303DzVg
+
+
+## رکورد یک میلیارد ریکوست
+
+یک میلیارد request هم رد شد😂حدود 27.5 ترابایت دیتا توی روز ازش رد میشه و ۳۳۰ میلیون request روزانه ☺️ امیدوارم به یک میلیارد request روزانه برسه 🤞
+
+https://t.me/Ghost_Resisters/2432
+
+
+
 ## توماج صالحی
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1307140042&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/toomajsalehi" title="Toomaj" target="_blank" style="color: #cccccc; text-decoration: none;">Toomaj</a> · <a href="https://soundcloud.com/toomajsalehi/bebakhshid" title="Bebakhshid" target="_blank" style="color: #cccccc; text-decoration: none;">Bebakhshid</a></div>

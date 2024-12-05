@@ -291,11 +291,6 @@ https://threadreaderapp.com/thread/1757319934512910486.html
 
 [اموزش  ترکیب warp و sing box  برای عبور از فیلترینگ در اندروید و ایفون تست شده روی همراه اول،ایرانسل،مخابرات](https://threadreaderapp.com/thread/1770028400909894083.html)
 
-## Warp generate
-
-توسط این‌ابزار کاربردی می‌تونین لینک ساب از کانفیگ‌های رایگان Xray, ClashMeta, SingBox و SurfBoard دریافت کرده یا کانفیگ وارپ بسازید.
-
-[yebekhe](https://app.yebekhe.link/)
 
 ## clean-ip-warp-list 
 

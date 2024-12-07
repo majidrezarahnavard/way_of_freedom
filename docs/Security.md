@@ -233,3 +233,26 @@ dailydigitalskil معرفی کرده
 http://stopncii.org
 
 https://x.com/TavaanaTech/status/1811797735827554675
+
+
+## leak
+
+به این تصویر نگاه کنید، با وجود اینکه من VPN ترکیه دارم ولی تونست تشخیص بده که از ایران هستم و IP اصلی من چیه.
+این در واقع تکنولوژی WebRTC هست که برای ارتباط گرفتن بدون واسطه توی مرورگرها طراحی شده، بدون واسطه یعنی مثلا با دوستتون تماس تصویری مستقیم بگیرید. /
+
+![pic](https://pbs.twimg.com/media/GeLuZHLW8AABnPr?format=png&name=small)
+
+ولی از طرفی باعث نشتی و لو رفتن آی‌پی اصلی هم میشه.
+راه‌های زیادی برای برطرف کردنش هست که یکیشون میتونه نصب این اکستنشن روی مرورگر باشه. /۲
+https://webextension.org/listing/webrtc-protect.html
+
+check: https://browserleaks.com/webrtc
+
+https://threadreaderapp.com/thread/1865321073274740815.html?utm_campaign=topunroll
+
+##  جلوگیری از لو رفتن IP و لوکیشن اینترنت شما هنگام اتصال به وی پی ان 
+
+
+https://www.youtube.com/watch?v=tFecNQMWh_I
+
+

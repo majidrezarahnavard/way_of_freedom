@@ -482,3 +482,12 @@ https://www.youtube.com/watch?v=Kc22XH750-w
 http://github.com/marzneshin/marznode/releases/latest
 
 http://github.com/marzneshin/marzneshin
+
+
+## Xray Load Balancer
+
+توسط ابزار Xray Load Balancer می‌تونین چندین کانفیگ از سرورهای مختلف رو در قالب یک کانفیگ پیاده‌سازی کرده و حالت لودبالانسر رو اعمال کنین. این‌ویژگی در برنامه‌هایی مثل Hiddify وجود داره، اما برای کاربرانی‌که از سایر برنامه‌ها نظیر v2rayN استفاده می‌کنن میتونه مفید باشه.
+
+http://surfboardv2ray.pythonanywhere.com
+
+http://youtu.be/Cj4nmikSSpA?t=132

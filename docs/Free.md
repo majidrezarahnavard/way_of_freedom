@@ -563,3 +563,14 @@ http://github.com/4n0nymou3/ss-config-updater
 
 
 https://x.com/4n0nymou3/status/1864591176860352923
+
+
+
+## ساب جدید وارپ🔥
+همه نتا جواب میده ترکیبی با ipv4/ipv6 درست کردم🥷
+
+https://raw.githubusercontent.com/amirparsaxs/Amirparsaxsss/refs/heads/main/Sub.text88#Sub.text88
+
+اینترنت برای همه یا هیچکس!
+
+https://x.com/amirparsaxs/status/1865679996414554236

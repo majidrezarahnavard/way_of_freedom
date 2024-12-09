@@ -228,3 +228,14 @@ features
 
 
 https://github.com/mahsanet/NikaNG
+
+
+
+## XC
+
+نرم‌افزار XC، یک کلاینت Xray برای سیستم‌عامل‌های مختلف تحت دسکتاپ هست، که از کانفیگ‌های vmess/vless و لینک ساب پشتیبانی میکنه. این‌برنامه متن‌باز از امکان تانل‌کردن کل سیستم برخورداره و به‌صورت خودکار توسط گیت‌هاب اکشنز بیلد گرفته میشه.
+
+https://github.com/wikm360/xray-client/releases
+
+
+https://x.com/ircfspace/status/1866013955455385968

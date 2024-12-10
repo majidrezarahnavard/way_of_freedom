@@ -491,3 +491,13 @@ http://github.com/marzneshin/marzneshin
 http://surfboardv2ray.pythonanywhere.com
 
 http://youtu.be/Cj4nmikSSpA?t=132
+
+
+## Migration
+
+ابزار Migration امکان مهاجرت از پنل مرزبان به پنل مرزنشین رو بدون از کار افتادن کانفیگ‌ها و لینک‌های ساب فراهم میکنه.
+
+
+https://github.com/erfjab/migration
+
+

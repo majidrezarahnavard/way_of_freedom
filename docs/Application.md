@@ -891,3 +891,20 @@ https://github.com/Freedom-Guard/Freedom-Guard/releases/tag/v1.3.5
 
 
 https://x.com/Freedom_Guard_N/status/1864652200904933708
+
+
+## ✅کنترل دسترسی به اینترنت را برای هر اپلیکیشن اندروید با فایروال NetGuard
+
+امکانات
+سادگی
+بدون نیاز به روت
+نرم‌افزار آزاد
+پشتیبانی از IPv4/IPv6 TCP/UDP
+و ...
+قبل از استفاده حتما توضیحات فنی بیشتر کانال تلگرام مطلعه کنید:
+
+https://t.me/MehrdadLinuxchannel/759
+
+https://github.com/M66B/NetGuard
+
+https://x.com/Mehrdadlinux/status/1866411225854468313

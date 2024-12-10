@@ -80,6 +80,14 @@
 [ بدون داشتن سرور و با Edge Tunnel کانفیگ Vless بساز و محدودیت کلودفلر رو دور بزن ](https://www.youtube.com/watch?v=3XoiNd3CNts)
 
 
+## EDtunnel
+
+https://github.com/iPsycho1/EDtunnel
+
+EDtunnel 是一个基于 Cloudflare Workers 和 Pages 的代理工具，支持多种协议和配置选项。
+
+EDtunnel is a proxy tool based on Cloudflare Workers and Pages, supporting multiple protocols and configuration options.
+
 ## CFW-BOT
 
 میتونید این ربات تلگرامی رو بدون نیاز به سرور  برای خودتون نصب و اجرا کنید تا بدون دردسر براتون کانفیگ xray با ورکر کلادفلر بسازه

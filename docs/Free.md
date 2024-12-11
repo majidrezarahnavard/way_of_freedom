@@ -574,3 +574,19 @@ https://raw.githubusercontent.com/amirparsaxs/Amirparsaxsss/refs/heads/main/Sub.
 اینترنت برای همه یا هیچکس!
 
 https://x.com/amirparsaxs/status/1865679996414554236
+
+
+##  تولیدکننده خودکار کانفیگ‌های WARP
+🔘 همیشه دارای دو تا IPv4 و یک IPv6
+🔘 آپدیت هر ساعته
+🔘 کانفیگ‌ها دارای قابلیت WARP-on-WARP
+🔘 قابل استفاده در Hiddify و Karing
+
+سورس:
+
+http://github.com/4n0nymou3/auto-warp-config
+لینک اشتراک:
+
+https://raw.githubusercontent.com/4n0nymou3/auto-warp-config/refs/heads/main/config.txt
+
+https://x.com/4n0nymou3/status/1866790683496857973

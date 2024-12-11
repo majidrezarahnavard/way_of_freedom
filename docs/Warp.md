@@ -729,3 +729,20 @@ https://x.com/mehdisedighinas/status/1848477814225265036
 
 https://x.com/amin_o__o/status/1854448497405132913
 
+
+
+## تولیدکننده خودکار کانفیگ‌های WARP
+
+ تولیدکننده خودکار کانفیگ‌های WARP
+🔘 همیشه دارای دو تا IPv4 و یک IPv6
+🔘 آپدیت هر ساعته
+🔘 کانفیگ‌ها دارای قابلیت WARP-on-WARP
+🔘 قابل استفاده در Hiddify و Karing
+
+سورس:
+http://github.com/4n0nymou3/auto-warp-config
+لینک اشتراک:
+
+https://raw.githubusercontent.com/4n0nymou3/auto-warp-config/refs/heads/main/config.txt
+
+

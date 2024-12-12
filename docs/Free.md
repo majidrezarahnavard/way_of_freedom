@@ -590,3 +590,33 @@ http://github.com/4n0nymou3/auto-warp-config
 https://raw.githubusercontent.com/4n0nymou3/auto-warp-config/refs/heads/main/config.txt
 
 https://x.com/4n0nymou3/status/1866790683496857973
+
+
+## kevin
+
+خب،
+یه آپگرید برای ساب/کانفیگ کانال داشتیم 👍
+
+✅ برای اپ Sing-box از ساب زیر استفاده کنید:
+
+📌 ساب ۱:
+
+https://serverv.net/KevinVPN.json
+
+✅ برای اپ Hiddify هم از ساب بالا می‌تونید استفاده کنید و هم از کانفیگ‌های زیر:
+
+📌 کانفیگ ۱:
+
+hysteria2://KevinZakarian@kevin.serverv.net:443?obfs=salamander&obfs-password=KevinZakarian&insecure=1#KevinVPN
+
+📌 کانفیگ ۲:
+
+hysteria2://KevinZakarian@kevin.serverv.net:8443?obfs=salamander&obfs-password=KevinZakarian&insecure=1#KevinVPN
+
+خودم استفاده از لینک ساب در اپ Sing-box رو توصیه می‌کنم. اپ Hiddify هنوز مشکلات ریزی رو داره.
+
+این ساب/کانفیگ‌ها با روش‌های متفاوت، به یک مجموعه سرور وصل میشن.
+
+شما ببینید در منطقه‌ی شما، روی خط شما، با گوشی شما، با اپ شما، کدام بهتر جواب میده، همون رو استفاده کنید.
+
+گود لاک 🌺

@@ -456,3 +456,10 @@ https://www.youtube.com/watch?v=1d5Cq7wGFG0
 https://ivpn.pro/how-to/hysteria2-new-version
 
 
+##  جدید ترین روش مستقیم کانفیگv2ray (روش اول)-SIXTININELEARN 
+
+سلام رفقا توی این ویدیو قراره جدیدترین روش ساخت کانفیگ v2ray  رو به صورت مستقیم بهتون آموزش بدم .
+
+
+https://www.youtube.com/watch?v=gSCTvm7D5D8
+

@@ -88,3 +88,14 @@ https://x.com/MrSoroushAhmadi/status/1839980879323545969
 
 
 https://www.youtube.com/watch?v=5t11mUFIl_s
+
+
+## بهترین منابع برای آشنایی و یادگیری با مباحث مهندسی امنیت
+
+هنوزم یکی از بهترین منابع برای آشنایی و یادگیری با مباحث مهندسی امنیت، حساب می شود!
+مفاهیم بیان شده، کمک می کند تقریبا هر چیزی را که مد نظر داریم، آن را بتوانیم امن کنیم.
+
+https://x.com/vahidnameni/status/1867608546109796720
+
+https://github.com/veeral-patel/how-to-secure-anything
+

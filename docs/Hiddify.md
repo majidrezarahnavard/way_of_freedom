@@ -129,3 +129,12 @@ https://www.youtube.com/watch?v=CijtuTuTeUQ
 https://darknessm427.github.io/Hiddify-warp/
 
 https://x.com/mansor427/status/1841198474429071862
+
+
+
+## نسخه ۱۰.۸۰ از پنل Hiddify Manager منتشر شد.
+بهبود امنیت پنل، افزودن سینگ‌باکس به لیست اپلیکیشن‌های پنل، جنریت خودکار کانفیگ‌های Xray درصورت تغییر کاربر، افزایش سرعت نصب، اپلای، ریست و استتوس، پشتیبانی از WARP در پروتکل SSH، رفع مشکل اتصال به کلودفلر برای تنظیم دامنه‌ها، افزودن کلاینت سینگ‌باکس به صفحه کاربران، ایجاد سرویس بک‌گراند برای بروزرسانی حجم و بکاپ، پشتیبانی از Xray Full Config Shadowsocks و ...، از جمله امکانات نسخه جدید هیدیفای‌منیجر هستند.
+
+http://github.com/hiddify/Hiddify-Manager/releases/latest
+
+https://x.com/ircfspace/status/1868537952852160878

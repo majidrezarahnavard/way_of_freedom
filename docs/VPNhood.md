@@ -42,3 +42,14 @@ https://github.com/vpnhood/VpnHood
 
 
 https://t.me/xs_filternet/398
+
+
+## اپلیکیشین Vpn Hood دو تا نسخه داره نسخه connect رو دانلود و نصب کنید،
+
+- کلی سرور رایگان داره 👌
+
+https://vpnhood.com
+
+https://x.com/Eagle_1157/status/1868622050912538648
+
+

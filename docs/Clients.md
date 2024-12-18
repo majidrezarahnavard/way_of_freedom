@@ -75,6 +75,14 @@ https://apps.apple.com/us/app/foxray/id6448898396
 آموزش استفاده از کلاینت V2rayN در ویندوز 
 https://www.youtube.com/watch?v=hS4_AEszIkk
 
+## mac os
+
+کلاینت v2rayN در جدیدترین بروزرسانی، نسخه ویژه macOS رو به‌طور آزمایشی ارائه کرده و حالا می‌تونین از این‌برنامه روی سیستم‌عامل ویندوز، لینوکس و مک استفاده کنید.
+
+https://x.com/ircfspace/status/1869374056463843478
+
+https://t.co/qcepHP5C2x
+
 ## V2rayNG
 
  مهمترین تنظیمات فیلترشکن V2rayNG

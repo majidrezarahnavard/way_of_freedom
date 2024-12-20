@@ -219,19 +219,7 @@
         </article>
     </a>
 
-    <a href="CloudFlare">
-        <article class="hentry">
-        <header class="entry-header">
-        <div class="entry-thumbnail">
-                <img src="https://www.softgozar.com/Image/ckeditor/news/202476135819.jpg" alt="CloudFlare White IP"/>
-        </div>
-            <h2 class="my_title"> اسکنر کلودفلیر</h2>
-            <p class="my_text">
-                روش هایی برای یافتن آی پی سفید کلودفلیر یا دامنه های کلودفلیر
-            </p>
-        </header>
-        </article>
-    </a>
+
 
     <a href="Donate">
         <article class="hentry">
@@ -304,34 +292,6 @@
         </article>
     </a>
 
-    <a href="BPB">
-        <article class="hentry">
-        <header class="entry-header">
-        <div class="entry-thumbnail">
-            <img src="https://avatars.githubusercontent.com/u/155004885?v=4" alt="BPB"/>
-        </div>
-        <h2 class="my_title">پنل BPB</h2>
-        <p class="my_text">
-            نصب و راه اندازی BPB
-        </p>
-        </header>
-        </article>
-    </a>
-
-
-    <a href="Worker">
-        <article class="hentry">
-        <header class="entry-header">
-        <div class="entry-thumbnail">
-            <img src="https://blog.cloudflare.com/content/images/2018/02/Screenshot-2018-02-01-09.20.49_preview.png" alt="Worker"/>
-        </div>
-        <h2 class="my_title">Worker</h2>
-        <p class="my_text">
-                کانفیگ ورکر بسازید در صورت نیاز دامنه تهیه کنید . بدون نیاز به سرور.
-        </p>
-        </header>
-        </article>
-    </a>
 
     <a href="Hiddify">
         <article class="hentry">
@@ -695,6 +655,47 @@
         </article>
     </a>
 
+    <a href="Config_Server">
+        <article class="hentry">
+        <header class="entry-header">
+        <div class="entry-thumbnail">
+            <img src="https://business.mahannet.ir/wp-content/uploads/2024/09/What-is-the-server-configuration.jpg" alt="Config_Server"/>
+        </div>
+        <h2 class="my_title">سرور کانفیگ</h2>
+        <p class="my_text">
+            تنظیمات سرور
+        </p>
+        </header>
+        </article>
+    </a>
+
+    <a href="Iran_Ip">
+        <article class="hentry">
+        <header class="entry-header">
+        <div class="entry-thumbnail">
+            <img src="https://iran-ip.com/wp-content/uploads/2022/02/Home-2xx-Welcome-Pic.png" alt="Iran_Ip"/>
+        </div>
+        <h2 class="my_title">آی پی ایرانی</h2>
+        <p class="my_text">
+            کانفیگ سرور برای ای پی ایران
+        </p>
+        </header>
+        </article>
+    </a>
+
+    <a href="Oracle">
+        <article class="hentry">
+        <header class="entry-header">
+        <div class="entry-thumbnail">
+            <img src="https://www.hamyarcrypto.com/mag/wp-content/uploads/2022/01/unnamed-file-4.jpg" alt="Oracle"/>
+        </div>
+        <h2 class="my_title">اوراکل</h2>
+        <p class="my_text">
+            نصب و راه اندازی سرور اوراکل
+        </p>
+        </header>
+        </article>
+    </a>
 
     <a href="Bepass">
         <article class="hentry">
@@ -795,6 +796,49 @@
         <h2 class="my_title">سایر</h2>
         <p class="my_text">
             سایر موارد مرتبط
+        </p>
+        </header>
+        </article>
+    </a>
+
+        <a href="BPB">
+        <article class="hentry">
+        <header class="entry-header">
+        <div class="entry-thumbnail">
+            <img src="https://avatars.githubusercontent.com/u/155004885?v=4" alt="BPB"/>
+        </div>
+        <h2 class="my_title">پنل BPB</h2>
+        <p class="my_text">
+            نصب و راه اندازی BPB
+        </p>
+        </header>
+        </article>
+    </a>
+
+    <a href="CloudFlare">
+        <article class="hentry">
+        <header class="entry-header">
+        <div class="entry-thumbnail">
+                <img src="https://www.softgozar.com/Image/ckeditor/news/202476135819.jpg" alt="CloudFlare White IP"/>
+        </div>
+            <h2 class="my_title"> اسکنر کلودفلیر</h2>
+            <p class="my_text">
+                روش هایی برای یافتن آی پی سفید کلودفلیر یا دامنه های کلودفلیر
+            </p>
+        </header>
+        </article>
+    </a>
+
+
+    <a href="Worker">
+        <article class="hentry">
+        <header class="entry-header">
+        <div class="entry-thumbnail">
+            <img src="https://blog.cloudflare.com/content/images/2018/02/Screenshot-2018-02-01-09.20.49_preview.png" alt="Worker"/>
+        </div>
+        <h2 class="my_title">Worker</h2>
+        <p class="my_text">
+                کانفیگ ورکر بسازید در صورت نیاز دامنه تهیه کنید . بدون نیاز به سرور.
         </p>
         </header>
         </article>

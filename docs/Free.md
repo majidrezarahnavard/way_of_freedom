@@ -630,3 +630,19 @@ hysteria2://KevinZakarian@kevin.serverv.net:8443?obfs=salamander&obfs-password=K
 لینک ساب:
 
 https://rand-ed-sub-public.fesire6727.workers.dev
+
+
+## این پروژه:
+
+https://github.com/4n0nymou3/wg-config-fetcher
+
+به‌طور خودکار 10 کانفیگ WireGuard را هر ساعت از یکی از پروژه‌های ساخت کانفیگ GFW-Knocker واکشی و به‌روزرسانی می‌کند.
+
+لینک اشتراک:
+
+https://raw.githubusercontent.com/4n0nymou3/wg-config-fetcher/refs/heads/main/configs/wireguard_configs.txt#Anon-Wireguard
+
+سازگار با:
+
+MahsaNG، NikaNG، v2rayNG، … Karing، Shadowrocket، Streisand، …
+

@@ -354,3 +354,18 @@ https://x.com/kevinzakarian/status/1829922286905823280
 https://github.com/angristan/wireguard-install
 
 https://threadreaderapp.com/thread/1833382426497700212.html
+
+
+## این پروژه:
+
+https://github.com/4n0nymou3/wg-config-fetcher
+
+به‌طور خودکار 10 کانفیگ WireGuard را هر ساعت از یکی از پروژه‌های ساخت کانفیگ GFW-Knocker واکشی و به‌روزرسانی می‌کند.
+
+لینک اشتراک:
+
+https://raw.githubusercontent.com/4n0nymou3/wg-config-fetcher/refs/heads/main/configs/wireguard_configs.txt#Anon-Wireguard
+
+سازگار با:
+
+MahsaNG، NikaNG، v2rayNG، … Karing، Shadowrocket، Streisand، …

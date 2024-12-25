@@ -651,3 +651,40 @@ MahsaNG، NikaNG، v2rayNG، … Karing، Shadowrocket، Streisand، …
 ## amouzeshmikrotik
 
 https://t.me/amouzeshmikrotik
+
+
+## GFW-Knocker
+
+دولت با کلی شامورتی‌بازی #فیلترینگ واتس‌اپ و گوگل‌پلی رو برداشت، اما جالبه بدونین GFW-knocker هم فیلترینگ یوتیوب و اینستاگرام رو با یک کانفیگ فرگمنت "بدون اینکه واسه بیت‌المال فاکتور بزنه و از جایی رانت بگیره" بی‌اثر کرده!
+
+در توضیح این‌کانفیگ بگم: وزارت قطع‌ارتباطات برای اینکه واتس‌اپ رو در دسترس قرار بده، آی‌پی‌های متارو توی وایت‌لیست قرار داده و این‌مساله مثل نشستن روی "اره"، باعث‌شده که کانفیگ فرگمنت قدیمی مجددا به راه بیفته.
+
+فعلا روی بعضی‌از اینترنت‌ها به خوبی جواب میده و برای استفاده ازش لازمه از نسخه‌های جدید v2rayN, v2rayNG، Hiddify یا Streisand استفاده کنین.
+
+https://raw.githubusercontent.com/GFW-knocker/gfw_resist_HTTPS_proxy/main/ServerLess_TLSFrag_Xray_Config.json
+
+http://github.com/GFW-knocker/gfw_resist_HTTPS_proxy
+
+
+دوستانی که نتونستید با هدیفای این کانفیگ رو اجرا کنند:
+
+۱. به صفحه گیت هاب GFW-knocker برید و بر اساس سیستم خودتان ورژن مناسب را دانلود کنید.
+
+https://github.com/GFW-knocker/Xray-core/releases
+
+۲. کانفیگ زیر رو توی یک فایل دانلود کنید:
+https://raw.githubusercontent.com/GFW-knocker/gfw_resist_HTTPS_proxy/main/ServerLess_TLSFrag_Xray_Config.json
+
+۳. در کنار برنامه xray دستور مثل زیر را اجرا کنید:
+
+./xray -c ServerLess_TLSFrag_Xray_Config.json
+
+اجرا کنید.
+
+۴. روی دو پورت 
+socks 10808
+http 10809
+فیلترشکن قابل استفاده است.
+
+برای کارهای حساس از فیلترشکن عمومی استفاده نکنید.
+

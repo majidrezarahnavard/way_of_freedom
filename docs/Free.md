@@ -646,3 +646,8 @@ https://raw.githubusercontent.com/4n0nymou3/wg-config-fetcher/refs/heads/main/co
 
 MahsaNG، NikaNG، v2rayNG، … Karing، Shadowrocket، Streisand، …
 
+
+
+## amouzeshmikrotik
+
+https://t.me/amouzeshmikrotik

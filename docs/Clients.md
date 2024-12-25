@@ -132,6 +132,12 @@ https://apps.apple.com/us/app/streisand/id6450534064
 https://apps.apple.com/tr/app/npv-tunnel/id1629465476
 ```
 
+## V2RayN-PRO v1.8
+
+
+نسخه های مک و لینوکس تست نشدن ، خوشحال میشم تست کنید و بازخورد بدین (دقت کنید که برای لینوکس و مک یا حتی نسخه جدید arm64 برای ویندوز نیاز هست بعد از اجرا یکبار check update  رو بزنید تا فایلهای مورد نیاز رو دانلود کنه .. )
+
+https://x.com/Eagle_1157/status/1871475315731779844
 
 ## V2RayN-PRO v1.6
 

@@ -407,3 +407,12 @@ https://www.youtube.com/watch?v=m3B0-qUvGHg
 
 
 https://www.youtube.com/watch?v=Nbo5XdL01JQ
+
+
+##  آموزش Vpn سرور وایرگارد در میکروتیک| Mikrotik Wiregurd vpn Server 
+
+امروز با هم یاد میگیریم چطوری یک سرور وایرگارد در میکروتیک راه بندازیم و با یک روتر میکروتیک که پشت cgnat مونده به یک سرور متصل بشیم و ترافیک رو به هر جا دلمون خواست رد کنیم
+لینک کانال تلگرام تو بیو پیج و پایین توضیحات هستش
+
+
+https://www.youtube.com/watch?v=k5mJMMYOyBk

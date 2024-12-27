@@ -13,7 +13,7 @@
 ## [من از یادت نمی کاهم، تو را من چشم در راهم](https://soundcloud.com/echolalia-ir/nuf6qjxfyeaf)
 
 * [به امید آزادی یوسف قبادی](https://x.com/ircfspace/status/1866027521671647614)
-* [به امید آزادی سگارو (سید شهاب الدین حسینی)](https://x.com/ircfspace/status/1866027521671647614)
+* [به امید آزادی سگارو (شهاب الدین حسینی)](https://x.com/ircfspace/status/1866027521671647614)
 * [صحبت های سارینا اسماعیل زاده](https://www.youtube.com/watch?v=gpRnvFZ3vTU&t=52s)
 * [مجیدرضا رهنورد](https://x.com/agha_rashti2/status/1847598558263800272)
 * [از خون جوانان وطن لاله دمیده](https://www.youtube.com/watch?v=oYcaDHEnhbU&t=1443s)
@@ -596,6 +596,20 @@
         </article>
     </a>
 
+
+    <a href="Whatsapp">
+        <article class="hentry">
+        <header class="entry-header">
+        <div class="entry-thumbnail">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="Twitter"/>
+        </div>
+        <h2 class="my_title">واتس اپ</h2>
+        <p class="my_text">
+                نکات امنیتی در واتس اپ
+        </p>
+        </header>
+        </article>
+    </a>
 
     <a href="Protection">
         <article class="hentry">

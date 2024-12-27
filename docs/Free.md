@@ -693,3 +693,10 @@ http 10809
 
 
  https://twitter.com/ircfspace/status/1871927326633513458#m
+
+
+ ## amirparsa
+
+ ساب hiddify و karing پر سرعت و نامحدود🥰
+https://raw.githubusercontent.com/amirparsaxs/Amirparsaxsss/refs/heads/main/Sub.text88#Sub.text88
+

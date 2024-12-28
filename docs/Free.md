@@ -700,3 +700,20 @@ http 10809
  ساب hiddify و karing پر سرعت و نامحدود🥰
 https://raw.githubusercontent.com/amirparsaxs/Amirparsaxsss/refs/heads/main/Sub.text88#Sub.text88
 
+
+## multi-proxy-config-fetcher
+
+این پروژه:
+https://github.com/4n0nymou3/multi-proxy-config-fetcher
+به‌طور خودکار کانفیگ‌های:
+WireGuard
+Hysteria2
+VLESS
+VMess
+Shadowsocks (SS)
+Trojan
+را هر ساعت از کانال‌های دلخواه تلگرام تعریف شده در فایل http://config.py ، واکشی و به‌روزرسانی می‌کند.
+
+لینک اشتراک:
+
+https://raw.githubusercontent.com/4n0nymou3/multi-proxy-config-fetcher/refs/heads/main/configs/proxy_configs.txt#Anonymous-Multi

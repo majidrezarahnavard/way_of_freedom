@@ -416,3 +416,10 @@ https://www.youtube.com/watch?v=Nbo5XdL01JQ
 
 
 https://www.youtube.com/watch?v=k5mJMMYOyBk
+
+
+##  اورکلاک کردن روتر میکروتیک | Mikrotik Router Over Clock 
+
+تو این ویدیو روتر میکروتیک رو اورکلاک میکنیم که بتونیم فعایلتهای روتر رو با سرعت بیشتری به جریان بیاندازیم
+
+https://www.youtube.com/watch?v=pY2G49Ae8Nw

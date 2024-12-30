@@ -40,6 +40,21 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/p6LzsYdU81o?si=N-Ngzl_-SesI9ujz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+
+## تحلیل فنی IRGFW
+
+شناخت فایروال بزرگ ایران
+گزارش یکم - دی‌ماه 1403
+
+ما اولین گزارش خود را با عنوان تحلیل فنی IRGFW: شناخت فایروال بزرگ ایران معرفی می‌کنیم. این گزارش که در دی 1403 منتشر شده است، به بررسی فنی دقیقی از IRGFW، معماری، روش‌های عملیاتی و تأثیرات آن می‌پردازد. موضوعاتی از جمله بازرسی عمیق بسته‌ها (DPI)، فیلترینگ DNS، پروب‌های فعال و رفتار پروتکل‌ها در این گزارش پوشش داده شده است. این گزارش منبعی ارزشمند برای پژوهشگران و متخصصانی است که به دنبال درک زیرساخت فیلترینگ اینترنت رژیم اسلامی ایران هستند.
+
+برای مطالعه جزئیات بیشتر، گزارش کامل را از طریق لینک زیر دریافت کنید.
+
+https://irgfw.report/fa/projects/project1/
+
+https://raw.githubusercontent.com/irgfw/irgfw-website/ad91766f62b8b666eb705a5d90136bba0f72fc42/static/files/project1/IRGFW-Report1-Persian.pdf
+
+
 ## Net4people
 
  [ net4people ](https://github.com/net4people/bbs/issues?q=is%3Aissue+is%3Aopen+label%3AIran) 

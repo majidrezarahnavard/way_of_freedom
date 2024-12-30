@@ -717,3 +717,15 @@ Trojan
 لینک اشتراک:
 
 https://raw.githubusercontent.com/4n0nymou3/multi-proxy-config-fetcher/refs/heads/main/configs/proxy_configs.txt#Anonymous-Multi
+
+
+
+## amin
+
+https://github.com/amin4139/share_file/blob/main/ChainWireguardHiddifyipv6ipv4
+
+https://raw.githubusercontent.com/amin4139/share_file/refs/heads/main/ChainWireguardHiddifyipv6ipv4
+
+ینجوری که من تست کردم بنظرم اگر توی کانفیگ‌ وایرگارد و chain کردن دوتا وایرگارد داخل هر دوتا کانفیگ‌ پارامتر local address مقدار/0 قرار بدید مثل عکس احتمال IPآلمان دادن کانفیگ‌ خیلی بیشتر میشه بعد دقت کنید یکی از علل اصلی وصل نشدن کانفیگ‌ وایرگارد می‌تونه
+
+![pic](https://pbs.twimg.com/media/Gf_l6AsXUAAPm0V?format=jpg&name=small)

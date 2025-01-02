@@ -729,3 +729,19 @@ https://raw.githubusercontent.com/amin4139/share_file/refs/heads/main/ChainWireg
 ینجوری که من تست کردم بنظرم اگر توی کانفیگ‌ وایرگارد و chain کردن دوتا وایرگارد داخل هر دوتا کانفیگ‌ پارامتر local address مقدار/0 قرار بدید مثل عکس احتمال IPآلمان دادن کانفیگ‌ خیلی بیشتر میشه بعد دقت کنید یکی از علل اصلی وصل نشدن کانفیگ‌ وایرگارد می‌تونه
 
 ![pic](https://pbs.twimg.com/media/Gf_l6AsXUAAPm0V?format=jpg&name=small)
+
+
+## valid7996
+
+لینک هارو تو گیتهاب گذاشتم
+
+لینک کانفیگ ها : https://github.com/valid7996/Gozargah/blob/main/Gozargah_Sub
+
+لینک آموزش nikaNg, V2RayNg
+
+https://github.com/valid7996/Gozargah/tree/main/Education/V2RayNg
+
+لینک استفاده در karing vpn
+
+https://github.com/valid7996/Gozargah/tree/main/Education/Karingvpn
+

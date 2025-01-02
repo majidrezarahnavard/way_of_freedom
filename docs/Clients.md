@@ -132,6 +132,15 @@ https://apps.apple.com/us/app/streisand/id6450534064
 https://apps.apple.com/tr/app/npv-tunnel/id1629465476
 ```
 
+
+## V2RayN-PRO
+
+هسته سینگ باکس پلاس بروز شده و از این به بعد میتونید با انجام آپدیت از داخل نرم افزار V2RayN-Pro آخرین نسخه رو دریافت کنید ..
+
+فقط دقت کنید نیاز هست که یکبار بصورت دستی هسته قبلی رو حذف کنید تا نرم افزار نسخه جدید رو دریافت کنه ،
+
+![pic](https://pbs.twimg.com/media/GgG4UGGW8AAg0yE?format=png&name=small)
+
 ## V2RayN-PRO v1.8
 
 

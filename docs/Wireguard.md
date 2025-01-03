@@ -356,7 +356,7 @@ https://github.com/angristan/wireguard-install
 https://threadreaderapp.com/thread/1833382426497700212.html
 
 
-## این پروژه:
+## wg-config-fetcher
 
 https://github.com/4n0nymou3/wg-config-fetcher
 
@@ -369,3 +369,15 @@ https://raw.githubusercontent.com/4n0nymou3/wg-config-fetcher/refs/heads/main/co
 سازگار با:
 
 MahsaNG، NikaNG، v2rayNG، … Karing، Shadowrocket، Streisand، …
+
+
+##  آموزش نصب پنل وایرگارد فارسی همراه با ربات تلگرام 
+
+موزش نصب پنل وایرگارد فارسی همراه با ربات تلگرام برای مدیریت کاربران با قابلیت های متنوع
+
+لینک گیتهاب دستورات مورد نیاز :
+https://github.com/Azumi67/Wireguard-panel
+
+
+
+https://www.youtube.com/watch?v=UeGmuN8xGsg

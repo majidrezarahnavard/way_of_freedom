@@ -121,3 +121,17 @@ https://4n0nymou3.github.io/Singbox/Json
 
 https://www.youtube.com/watch?v=oOeIlWadoic
 
+
+
+## ✅ بازسازی مبدل سینگ باکس
+
+
+امکان تبدیل کانفیگ های 
+VMESS, VLESS, TROJAN, SS, TUIC, HY2
+به بستر سینگ باکس
+دریافت لینک اشتراک دائمی
+امکان ادیت مجدد و تغییر کانفیگ ها
+امکان تغییر مستقیم محتوای لینک اشتراک و تبدیل به لینک اشتراک معمولی
+
+https://yebekhe.site/api/tosingbox
+

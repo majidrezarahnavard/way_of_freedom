@@ -171,3 +171,15 @@ https://x.com/factnameh/status/1686252513689804800
 https://filter.watch/2023/09/19/internet-oppressors-a-look-at-the-office-of-irans-attorney-general-and-its-contractors/
 
 ![pic](https://pbs.twimg.com/media/GgM_6wjWEAAEMZd?format=jpg&name=900x900)
+
+
+## بصیر
+
+ظاهراً «بصیر» اسم محصول DPI شرکت #یافتار است. 
+
+از لیست شرکت‌های دانش‌بنیان توانمند در حوزه صادرات، مربوط به معاونت دیپلماسی اقتصادی وزارت امور خارجه. اینجا 
+
+https://economic.mfa.ir/files/ecodep/Pages/%D9%81%D9%87%D8%B1%D8%B3%D8%AA%20%D8%B4%D8%B1%DA%A9%D8%AA%D9%87%D8%A7%DB%8C%20%D8%AF%D8%A7%D9%86%D8%B4%20%D8%A8%D9%86%DB%8C%D8%A7%D9%86%20%D8%AA%D9%88%D8%A7%D9%86%D9%85%D9%86%D8%AF%20%D8%AF%D8%B1%20%D8%AD%D9%88%D8%B2%D9%87%20%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA.pdf
+
+
+![pic](https://pbs.twimg.com/media/Ggd18BYWsAAVtsm?format=jpg&name=small)

@@ -930,3 +930,11 @@ https://x.com/PasKoocheh/status/1869430637024948669
 
 https://x.com/PasKoocheh/status/1875225309156413542
 
+
+## Proxy SwitchyOmega
+
+
+نسخه قدیمی Proxy SwitchyOmega در دسترس نیست
+دقت کنید که نسخه های دیگه رو نصب نکنید
+
+![pic](https://pbs.twimg.com/media/GgitJBQWsAA8ZqG?format=jpg&name=small)

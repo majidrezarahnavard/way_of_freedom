@@ -400,3 +400,37 @@ https://x.com/filterbaan/status/1861701793962504258
 -ارسالی از همراهان
 
 https://x.com/TavaanaTech/status/1862105451132866624
+
+
+## Geph 
+
+We just observed unprecedented, rapid, blanket blocking of high-entropy traffic on MCI, a popular Iranian ISP. 
+
+We've deployed preliminary countermeasures; more solutions coming tomorrow. 
+
+More details: https://github.com/geph-official/geph5/issues/51
+
+To our users on MCI: let us know if Geph is working for you!
+
+Problem Detection:
+Engineers discovered that certain types of internet traffic in Iran (specifically with MCI, an Iranian internet service provider) were being blocked
+Some connections work while others don't, depending on how they're configured
+
+Investigation Findings:
+They tested different types of data being sent:
+Regular text (like "hello world") worked fine ✔️
+Random or encrypted data was blocked ❌
+Simple repeating patterns worked ✔️
+
+Conclusion:
+Iran's firewall (IRGFW) appears to be blocking "high-entropy" traffic
+"High-entropy" means data that looks random or encrypted
+The firewall seems to check if the data can be compressed easily
+If it can be compressed (like repeated text), it passes
+If it can't be compressed (like encrypted data), it gets blocked
+
+Confirmation:
+This was confirmed by another user who noted that Iran has upgraded their firewall to block this kind of traffic
+Similar issues were observed with other protocols (VMESS and ShadowSocks)
+
+This is essentially describing a sophisticated form of internet censorship where instead of blocking specific services, the firewall tries to detect and block encrypted or obfuscated communications based on how random the data appears.

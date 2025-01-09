@@ -109,3 +109,13 @@ https://github.com/soroushmirzaei/telegram-configs-collector
 https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/splitted/subscribe
 
 https://ircfspace.github.io/tconfig/
+
+
+
+## پراکسی تلگرام (MTProto)
+
+با این پروژه و یه کامند تک خطی میتونید پراکسی تلگرام (MTProto) ران کنید ، نکته جالبش اینه که پراکسی ساکس رو هم ساپورت میکنه یعنی میشه یه ایکس ری یا سینگ باکس هم وصلش کرد و روی سرور خونه (آی پی ثابت لازم داره) یا سرور مجازی ایران اجراش کرد ..
+
+https://github.com/9seconds/mtg/tree/master
+
+https://threadreaderapp.com/thread/1877232246844768735.html

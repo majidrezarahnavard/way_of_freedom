@@ -745,3 +745,17 @@ https://github.com/valid7996/Gozargah/tree/main/Education/V2RayNg
 
 https://github.com/valid7996/Gozargah/tree/main/Education/Karingvpn
 
+
+
+## valid7996
+
+کانفیگ های رایگان بروزرسانی شدن
+کانفینگ بدون fake dns  اضافه شد
+کانفیگ ترو. جان اضافه شد
+لینک ساب : https://raw.githubusercontent.com/valid7996/Gozargah/refs/heads/main/Gozargah_Sub
+
+لینک آموزش ورکر : https://github.com/valid7996/Gozargah/blob/main/Education/workerscomment.md
+
+لینک گیتهاب لطفا stars بدید ممنونم ♥️♥️
+https://github.com/valid7996/Gozargah/tree/main?tab=readme-ov-file
+

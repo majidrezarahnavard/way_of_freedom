@@ -183,3 +183,12 @@ https://economic.mfa.ir/files/ecodep/Pages/%D9%81%D9%87%D8%B1%D8%B3%D8%AA%20%D8%
 
 
 ![pic](https://pbs.twimg.com/media/Ggd18BYWsAAVtsm?format=jpg&name=small)
+
+
+## ایمیل‌های دادستانی
+
+برای یک تحقیقی داشتم توی ایمیل‌های دادستانی چرخ می‌زدم که دیدم آدرس filter@internet.ir که بالای ۴۱۵ هزار ایمیل(عمدتا دستور به فیلترینگ) دارد،‌ حساب لینکدین داشته. سعی کردم پیداش بکنم که این ایمیل رو دیدم. آقای @shayanshalileh
+  چند بار بهش درخواست دوستی دادید، کیه این بابا؟
+
+
+https://x.com/Ammir/status/1876757969859162608

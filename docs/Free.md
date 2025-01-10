@@ -759,3 +759,11 @@ https://github.com/valid7996/Gozargah/tree/main/Education/Karingvpn
 لینک گیتهاب لطفا stars بدید ممنونم ♥️♥️
 https://github.com/valid7996/Gozargah/tree/main?tab=readme-ov-file
 
+
+
+## seramo
+
+چند تا میتونی بسازی و لینک سابش رو اینجا بزاری
+
+https://github.com/seramo/random-sub-worker
+

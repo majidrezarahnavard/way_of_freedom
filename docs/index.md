@@ -176,6 +176,20 @@
         </article>
     </a>
 
+    <a href="BPB">
+        <article class="hentry">
+        <header class="entry-header">
+        <div class="entry-thumbnail">
+            <img src="https://avatars.githubusercontent.com/u/155004885?v=4" alt="BPB"/>
+        </div>
+        <h2 class="my_title">پنل BPB</h2>
+        <p class="my_text">
+            نصب و راه اندازی BPB
+        </p>
+        </header>
+        </article>
+    </a>
+
     <a href="Fastly">
         <article class="hentry">
         <header class="entry-header">
@@ -810,20 +824,6 @@
         <h2 class="my_title">سایر</h2>
         <p class="my_text">
             سایر موارد مرتبط
-        </p>
-        </header>
-        </article>
-    </a>
-
-        <a href="BPB">
-        <article class="hentry">
-        <header class="entry-header">
-        <div class="entry-thumbnail">
-            <img src="https://avatars.githubusercontent.com/u/155004885?v=4" alt="BPB"/>
-        </div>
-        <h2 class="my_title">پنل BPB</h2>
-        <p class="my_text">
-            نصب و راه اندازی BPB
         </p>
         </header>
         </article>

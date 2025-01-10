@@ -149,6 +149,7 @@ https://hostneva.com/
 https://swapspace.co
 https://fixedfloat.com/
 https://www.thorswap.finance/
+https://changenow.io/exchange
 ```
 
 ### اگریگیتور

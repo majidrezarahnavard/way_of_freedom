@@ -135,3 +135,17 @@ VMESS, VLESS, TROJAN, SS, TUIC, HY2
 
 https://yebekhe.site/api/tosingbox
 
+
+
+## مبدل سینگ باکس
+
+درود دوستان 
+امکان استفاده از مبدل #سینگ_باکس به صورت API فراهم شد تا توسعه دهنده های عزیز بتونن از این سرویس تو پلتفرم های خودشون استفاده کنن.
+
+داکیومنت: 
+https://yebekhe.site/api/tosingbox/api_docs.html
+
+در صورت مشاهده هر باگی میتونین همینجا یا در تلگرام اطلاع بدید.
+
+https://x.com/yebekhe/status/1877430962444816886
+

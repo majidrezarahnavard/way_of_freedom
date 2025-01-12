@@ -119,3 +119,16 @@ https://ircfspace.github.io/tconfig/
 https://github.com/9seconds/mtg/tree/master
 
 https://threadreaderapp.com/thread/1877232246844768735.html
+
+
+## Yebekhe
+
+درود دوستان
+
+اومدم با یه پروژه بازسازی شده دیگه:
+✅ Telegram Config Extractor
+یا به عبارتی: 
+✅ استخراجگر کانفیگ تلگرام
+که شما به کمک اون می‌تونید آیدی کانالی که کانفیگ قرار میده رو وارد کنید و لینک اشتراک اون کانال رو دریافت کنید. 
+
+https://yebekhe.site/api/tce

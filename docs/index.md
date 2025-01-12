@@ -233,8 +233,6 @@
         </article>
     </a>
 
-
-
     <a href="Donate">
         <article class="hentry">
         <header class="entry-header">
@@ -547,6 +545,20 @@
         <h2 class="my_title">Tips</h2>
         <p class="my_text">
             نکات و ترفندهای مرتبط
+        </p>
+        </header>
+        </article>
+    </a>
+
+    <a href="Yebekhe">
+        <article class="hentry">
+        <header class="entry-header">
+        <div class="entry-thumbnail">
+            <img src="https://pbs.twimg.com/profile_images/1867109698970775552/GJIkGXNX_400x400.jpg" alt="Yebekhe"/>
+        </div>
+        <h2 class="my_title">Yebekhe</h2>
+        <p class="my_text">
+            روش های Yebekhe
         </p>
         </header>
         </article>

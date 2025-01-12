@@ -1,78 +1,27 @@
 # Yebekhe
 
 
-** این روش کارایی ندارد و منسوخ شده است.  **
 
+## Telegram Config Extractor
+درود دوستان
 
-## TheSparkyXBot
+اومدم با یه پروژه بازسازی شده دیگه:
+✅ Telegram Config Extractor
+یا به عبارتی: 
+✅ استخراجگر کانفیگ تلگرام
+که شما به کمک اون می‌تونید آیدی کانالی که کانفیگ قرار میده رو وارد کنید و لینک اشتراک اون کانال رو دریافت کنید. 
 
-برای اون دسته از دوستان همیشه در صحنه که دنبال خرید فیلترشکنن، باتی طراحی کردم که بتونن خیلی راحت به پلن های متنوع #Outline و لوکیشن های گسترده دسترسی داشته باشید و به راحتی کانفیگ اختصاصی اوتلاین تهیه کنید. 
+https://yebekhe.site/api/tce
 
-![pic](https://pbs.twimg.com/media/Gar7CP0W4AEODqq?format=jpg&name=900x900)
+## مبدل سینگ باکس
 
-https://t.me/TheSparkyXBot
+درود دوستان 
+امکان استفاده از مبدل #سینگ_باکس به صورت API فراهم شد تا توسعه دهنده های عزیز بتونن از این سرویس تو پلتفرم های خودشون استفاده کنن.
 
-## TelegramV2rayCollector
-[TelegramV2rayCollector](https://github.com/yebekhe/TelegramV2rayCollector)
+داکیومنت: 
+https://yebekhe.site/api/tosingbox/api_docs.html
 
-## cf-clean-ip-resolver
-[cf-clean-ip-resolver](https://github.com/yebekhe/cf-clean-ip-resolver)
+در صورت مشاهده هر باگی میتونین همینجا یا در تلگرام اطلاع بدید.
 
+https://x.com/yebekhe/status/1877430962444816886
 
-## Sing box
-
-سینگ باکس بریز، لینک وارپ رو از اینجا بردار و لذتشو ببر ( ایرانسل باشی که چه بهتر)
-لایسنس داری؟ جلو key بنویسش
-```
-https://api.yebekhe.link/warp?key=&device_name=WARP+&singbox=true&ip=188.114.98.224&port=908
-```
-
-## Iphone
-
-[برا ایفونت فیلترشکن میخوای خب بیا این مراحل رو برو و حالشو ببر](https://threadreaderapp.com/thread/1771404783330443591.html)
-
-
-آموزش دریافت آی‌پی پورت تمیز warp در آیفون با کلاینت ish shell:
-
-اول نصب برنامه ish shell:
- https://apps.apple.com/us/app/ish-shell/id1436902243
-
-بعد از نصب دستورات رو بترتیب اجرا کنید:
-
-1: apk update
-
-2: apk upgrade
-
-3: apk add neofetch
-
-4: apk add curl
-
-5: curl -o http://install.sh https://raw.githubusercontent.com/Ptechgithub/warp/main/endip/install.sh
-Quote
-
-6: chmod +x http://install.sh
-
-7: ./install.sh
-
-توجه داشته باشید، یکبار که این مراحل رو اجرا کردید و آیپی تمیز گرفتید برای دفعات بعد فقط کافیه همین دستور رو اجرا کنید:
-
- ./install.sh
-
-با تشکر از تمام عزیزانی که جهت کمک به دیگران برای دسترسی آزاد اینترنت تلاش می‌کنند
-
-
-[نحوه استفاده از Bot TVC](https://telegra.ph/%D9%86%D8%AD%D9%88%D9%87-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%A7%D8%B2-Bot-TVC-04-11)
-
-
-## Bot TVC
-
-https://telegra.ph/%D9%86%D8%AD%D9%88%D9%87-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%A7%D8%B2-Bot-TVC-04-11
-
-
-## warpinator
-
-https://itsyebekhe.github.io/warpinator/
-
-چیزی درباره‌اش نمیگم!
-خودتون ببینید و اگه دوست داشتین این پایین بگید چطور هست :)
-و در آخر ریت و‌ فیو کنین بقیه هم استفاده کنن :)

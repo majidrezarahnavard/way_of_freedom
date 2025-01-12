@@ -416,3 +416,23 @@ oblivion://endpoint@162.159.192.117:908
 oblivion://endpoint@162.159.192.205:908
 
 oblivion://endpoint@162.159.192.126:908
+
+
+## آموزش ترکیب oblivion +پروکسی socks تلگرام🌪
+
+آموزش ترکیب oblivion +پروکسی socks تلگرام🌪
+پورت هر چی دوست داشتید بزارید🩵
+حتما تنظیمات oblivion رو بزارید پروکسی و متصل شید🫶
+(نکته اول oblivion متصل باشه)
+
+![pic](https://pbs.twimg.com/media/GhCEWuCbwAAfn3O?format=jpg&name=small)
+
+![pic](https://pbs.twimg.com/media/GhCFNUzWkAAb58E?format=jpg&name=small)
+
+![pic](https://pbs.twimg.com/media/GhCEkCAaIAA6gLM?format=jpg&name=360x360)
+
+![pic](https://pbs.twimg.com/media/GhCEhDdbEAE31yP?format=jpg&name=360x360)
+
+![pic](https://pbs.twimg.com/media/GhCFYlWWMAEUxwJ?format=jpg&name=900x900)
+
+https://x.com/tkamirparsa/status/1878147514005655946

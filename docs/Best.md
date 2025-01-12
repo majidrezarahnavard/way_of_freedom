@@ -97,8 +97,6 @@ https://twitter.com/GhostOfSarina/status/1779051591544271299
 
 sub https://raw.githubusercontent.com/amin4139/share_file/main/Hiddify%2B
 
-TVCsub https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/base64/mix
-
 📱💻Oblivion https://play.google.com/store/apps/details?id=org.bepass.oblivion
 
 🍏📱💻MahsaNG https://play.google.com/store/search?q=mahsang&c=apps

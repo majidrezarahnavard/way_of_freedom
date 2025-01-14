@@ -113,19 +113,6 @@
         </header>
         </article>
     </a>
-    <a href="Yebekhe">
-        <article class="hentry">
-        <header class="entry-header">
-        <div class="entry-thumbnail">
-            <img src="https://pbs.twimg.com/profile_images/1867109698970775552/GJIkGXNX_400x400.jpg" alt="Yebekhe"/>
-        </div>
-        <h2 class="my_title">Yebekhe</h2>
-        <p class="my_text">
-            روش های Yebekhe
-        </p>
-        </header>
-        </article>
-    </a>
     <!--دسته بندی ساخت کانفیگ-->
     <h3 style='width:100%;'>ساخت کانفیگ</h3>
     <a href="Free">
@@ -693,6 +680,19 @@
         <h2 class="my_title">سرور کانفیگ</h2>
         <p class="my_text">
             تنظیمات سرور
+        </p>
+        </header>
+        </article>
+    </a>
+    <a href="Yebekhe">
+        <article class="hentry">
+        <header class="entry-header">
+        <div class="entry-thumbnail">
+            <img src="https://pbs.twimg.com/profile_images/1867109698970775552/GJIkGXNX_400x400.jpg" alt="Yebekhe"/>
+        </div>
+        <h2 class="my_title">Yebekhe</h2>
+        <p class="my_text">
+            روش های Yebekhe
         </p>
         </header>
         </article>

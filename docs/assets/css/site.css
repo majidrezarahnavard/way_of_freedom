@@ -112,9 +112,3 @@ h2.my_title {
 .grid a {
     margin-bottom: 50px;
 }
-
-@media (min-width:600px) {
-    .grid a {
-        width: 33%;
-    }
-}

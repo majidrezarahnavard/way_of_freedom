@@ -512,3 +512,16 @@ https://github.com/erfjab/migration
 
 https://www.youtube.com/watch?v=9jV6bx5Dris
 
+
+
+## AzadiDNSPanel
+
+آموزش راه اندازی و استفاده از AzadiDNSPanel
+
+(به خاطر محدودیت آپلود سرعت ویدیو 2x شده)
+
+لینک پنل : https://github.com/AzadiAzadiAzadi/AzadiDNSPanel/blob/main/worker.js
+
+https://x.com/kharabam666/status/1836207422538416516
+
+

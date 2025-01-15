@@ -495,7 +495,7 @@
         <article class="hentry">
         <header class="entry-header">
         <div class="entry-thumbnail">
-            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcZNIjvbWAkPS8ihFvjqXbX3lHGdBAjpG5KQ&usqp=CAU" alt="Network"/>
+            <img src="https://0-1.ir/wp-content/uploads/2023/03/%D9%85%D9%86%D8%B8%D9%88%D8%B1-%D8%A7%D8%B2-%D8%B4%D8%A8%DA%A9%D9%87-%DA%A9%D8%A7%D9%85%D9%BE%DB%8C%D9%88%D8%AA%D8%B1%DB%8C-Computer-network-%DA%86%DB%8C%D8%B3%D8%AA%D8%9F.jpg" alt="Network"/>
         </div>
         <h2 class="my_title">Network</h2>
         <p class="my_text">

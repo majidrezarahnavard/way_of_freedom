@@ -434,3 +434,12 @@ This was confirmed by another user who noted that Iran has upgraded their firewa
 Similar issues were observed with other protocols (VMESS and ShadowSocks)
 
 This is essentially describing a sophisticated form of internet censorship where instead of blocking specific services, the firewall tries to detect and block encrypted or obfuscated communications based on how random the data appears.
+
+
+## research
+
+Hi, I did a very small test. I think your point is valid for MTN  irancell. I think it depends on how much traffic they have on their  networks and their technical capabilities to perform the task you  explained. I couldn't get any number on internet traffic share of mci  hamrah-e-avval and mtn irancell in Iran. But I am sure mci has a greater  share of the whole country's internet traffic.
+MTN plays the roll of private sector(MTN group, south Africa) . MCI is the government owned company. MCI is the dominant one.
+These are tests I did with MahsaNG free config donation feature. You put  your config in the site, it will share with people who can connect to  it, analyse it based on their operator and ping they get.
+
+https://github.com/XTLS/Xray-core/discussions/3269#discussioncomment-11567275

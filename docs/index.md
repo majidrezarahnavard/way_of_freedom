@@ -34,7 +34,7 @@
 ## دسته بندی ها
 
 <div class="grid">
-    <h3 style='width:100%;'>روش های دسترسی به اینترنت آزاد</h3>
+    <h3 style='width:100%;'>روش های موثر</h3>
     <a href="DNS">	
         <article class="hentry">
         <header class="entry-header">
@@ -113,21 +113,129 @@
         </header>
         </article>
     </a>
-    <!--دسته بندی ساخت کانفیگ-->
-    <h3 style='width:100%;'>ساخت کانفیگ</h3>
-    <a href="Free">
+    <a href="Starlink">
         <article class="hentry">
         <header class="entry-header">
         <div class="entry-thumbnail">
-            <img src="https://irantender.net/wp/wp-content/uploads/2019/03/free-hosting.jpg" alt="Free"/>
+            <img src="https://api2.zoomit.ir/media/2021-7-starlink-antena-starter-kit-on-carpet-638bb19a8f0b9a6b86bbff64?w=1920&q=80" alt="Stralink"/>
         </div>
-        <h2 class="my_title">Free Configs</h2>
+        <h2 class="my_title">Starlink</h2>
         <p class="my_text">
-            کانفیگ های رایگان 
+            نصب و راه اندازی استارلینک
         </p>
         </header>
         </article>
     </a>
+    <!-- ورکرها -->
+    <h3 style='width:100%;'>ورکرها</h3>
+    <a href="BPB">
+        <article class="hentry">
+        <header class="entry-header">
+        <div class="entry-thumbnail">
+            <img src="https://avatars.githubusercontent.com/u/155004885?v=4" alt="BPB"/>
+        </div>
+        <h2 class="my_title">پنل BPB</h2>
+        <p class="my_text">
+            نصب و راه اندازی BPB
+        </p>
+        </header>
+        </article>
+    </a>
+    <a href="Worker">
+        <article class="hentry">
+        <header class="entry-header">
+        <div class="entry-thumbnail">
+            <img src="https://blog.cloudflare.com/content/images/2018/02/Screenshot-2018-02-01-09.20.49_preview.png" alt="Worker"/>
+        </div>
+        <h2 class="my_title">Worker</h2>
+        <p class="my_text">
+                کانفیگ ورکر بسازید در صورت نیاز دامنه تهیه کنید . بدون نیاز به سرور.
+        </p>
+        </header>
+        </article>
+    </a>
+        <a href="CloudFlare">
+        <article class="hentry">
+        <header class="entry-header">
+        <div class="entry-thumbnail">
+                <img src="https://www.softgozar.com/Image/ckeditor/news/202476135819.jpg" alt="CloudFlare White IP"/>
+        </div>
+            <h2 class="my_title"> اسکنر کلودفلیر</h2>
+            <p class="my_text">
+                روش هایی برای یافتن آی پی سفید کلودفلیر یا دامنه های کلودفلیر
+            </p>
+        </header>
+        </article>
+    </a>
+    <!-- راه اندازی سرور -->
+    <h3 style='width:100%;'>راه اندازی سرور</hjson>
+    <a href="Buy">
+        <article class="hentry">
+        <header class="entry-header">
+        <div class="entry-thumbnail">
+            <img src="https://www.geekshosted.com/img/altcoins.png" alt="Buy"/>
+        </div>
+        <h2 class="my_title">خرید سرور و دامنه</h2>
+        <p class="my_text">
+            خرید سرور و دامنه با رمز ارز
+        </p>
+        </header>
+        </article>
+    </a>
+    <a href="Config_Server">
+        <article class="hentry">
+        <header class="entry-header">
+        <div class="entry-thumbnail">
+            <img src="https://business.mahannet.ir/wp-content/uploads/2024/09/What-is-the-server-configuration.jpg" alt="Config_Server"/>
+        </div>
+        <h2 class="my_title"> کانفیگ سرور</h2>
+        <p class="my_text">
+            تنظیمات سرور
+        </p>
+        </header>
+        </article>
+    </a>
+    <a href="Panel">
+        <article class="hentry">
+        <header class="entry-header">
+        <div class="entry-thumbnail">
+            <img src="https://user-images.githubusercontent.com/118040490/201552920-ed6eca0d-b89c-47ee-a4b3-c65a0b36b90a.png" alt="Panel"/>
+        </div>
+        <h2 class="my_title">پنل های x-ui</h2>
+        <p class="my_text">
+            نصب و راه اندازی پنل های مختلف
+        </p>
+        </header>
+        </article>
+    </a>
+    <a href="Security">
+        <article class="hentry">
+        <header class="entry-header">
+        <div class="entry-thumbnail">
+            <img src="https://teskaco.com/wp-content/uploads/2022/03/%D8%B4%D8%A8%DA%A9%D9%87-1-1.jpg" alt="Server Security"/>
+        </div>
+        <h2 class="my_title">امنیت سرور</h2>
+        <p class="my_text">
+            با این روش ها سرور خود را امن نگه دارید
+        </p>
+        </header>
+        </article>
+    </a>
+    <a href="Home_Server">
+        <article class="hentry">
+        <header class="entry-header">
+        <div class="entry-thumbnail">
+            <img src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2015/11/media-server-home.jpg?q=50&fit=contain&w=1140&h=&dpr=1.5" alt="Home Server"/>
+        </div>
+        <h2 class="my_title">سرور خانگی</h2>
+        <p class="my_text">
+        اجرای فیلترشکن روی شبکه داخلی خانه یا شرکت
+        </p>
+        </header>
+        </article>
+    </a>
+    <!-- CDN -->
+    <h3 style='width:100%;'>CDN</h3>
     <a href="Fastly">
         <article class="hentry">
         <header class="entry-header">
@@ -150,19 +258,6 @@
         <h2 class="my_title">Gcore</h2>
         <p class="my_text">
             می توانید Gcore , fastly , cloudflare رو با هم ترکیب کنید و از اینترنت آزاد استفاده کنید
-        </p>
-        </header>
-        </article>
-    </a>
-    <a href="Worker">
-        <article class="hentry">
-        <header class="entry-header">
-        <div class="entry-thumbnail">
-            <img src="https://blog.cloudflare.com/content/images/2018/02/Screenshot-2018-02-01-09.20.49_preview.png" alt="Worker"/>
-        </div>
-        <h2 class="my_title">Worker</h2>
-        <p class="my_text">
-                کانفیگ ورکر بسازید در صورت نیاز دامنه تهیه کنید . بدون نیاز به سرور.
         </p>
         </header>
         </article>
@@ -191,6 +286,19 @@
         <h2 class="my_title">اپلیکیشن</h2>
         <p class="my_text">
                 اپلیکیشن های مختلف برای اندروید و اپل و دسکتاپ
+        </p>
+        </header>
+        </article>
+    </a>
+    <a href="Free">
+        <article class="hentry">
+        <header class="entry-header">
+        <div class="entry-thumbnail">
+            <img src="https://irantender.net/wp/wp-content/uploads/2019/03/free-hosting.jpg" alt="Free"/>
+        </div>
+        <h2 class="my_title">Free Configs</h2>
+        <p class="my_text">
+            کانفیگ های رایگان 
         </p>
         </header>
         </article>
@@ -236,19 +344,6 @@
     </a>
     <!--دسته بندی نصب و راه اندازی پنل ها، نرم افزار و غیره-->
     <h3 style='width:100%;'>نصب و راه اندازی ها</h3>
-    <a href="Starlink">
-        <article class="hentry">
-        <header class="entry-header">
-        <div class="entry-thumbnail">
-            <img src="https://api2.zoomit.ir/media/2021-7-starlink-antena-starter-kit-on-carpet-638bb19a8f0b9a6b86bbff64?w=1920&q=80" alt="Stralink"/>
-        </div>
-        <h2 class="my_title">Starlink</h2>
-        <p class="my_text">
-            نصب و راه اندازی استارلینک
-        </p>
-        </header>
-        </article>
-    </a>
     <a href="Oracle">
         <article class="hentry">
         <header class="entry-header">
@@ -258,32 +353,6 @@
         <h2 class="my_title">اوراکل</h2>
         <p class="my_text">
             نصب و راه اندازی سرور اوراکل
-        </p>
-        </header>
-        </article>
-    </a>
-    <a href="BPB">
-        <article class="hentry">
-        <header class="entry-header">
-        <div class="entry-thumbnail">
-            <img src="https://avatars.githubusercontent.com/u/155004885?v=4" alt="BPB"/>
-        </div>
-        <h2 class="my_title">پنل BPB</h2>
-        <p class="my_text">
-            نصب و راه اندازی BPB
-        </p>
-        </header>
-        </article>
-    </a>
-    <a href="Panel">
-        <article class="hentry">
-        <header class="entry-header">
-        <div class="entry-thumbnail">
-            <img src="https://user-images.githubusercontent.com/118040490/201552920-ed6eca0d-b89c-47ee-a4b3-c65a0b36b90a.png" alt="Panel"/>
-        </div>
-        <h2 class="my_title">پنل های x-ui</h2>
-        <p class="my_text">
-            نصب و راه اندازی پنل های مختلف
         </p>
         </header>
         </article>
@@ -382,7 +451,7 @@
         </article>
     </a>
     <!--دسته بندی تمامی آموزشات دانشنامه-->
-    <h3 style='width:100%;'>آموزشات</h3>
+    <h3 style='width:100%;'>آموزش ها</h3>
     <a href="Primary">
         <article class="hentry">
         <header class="entry-header">
@@ -541,19 +610,6 @@
         </header>
         </article>
     </a>
-    <a href="Buy">
-        <article class="hentry">
-        <header class="entry-header">
-        <div class="entry-thumbnail">
-            <img src="https://www.geekshosted.com/img/altcoins.png" alt="Buy"/>
-        </div>
-        <h2 class="my_title">خرید سرور و دامنه</h2>
-        <p class="my_text">
-            خرید سرور و دامنه با رمز ارز
-        </p>
-        </header>
-        </article>
-    </a>
     <a href="Proxy_Chain">
         <article class="hentry">
         <header class="entry-header">
@@ -563,19 +619,6 @@
         <h2 class="my_title">Proxy Chain</h2>
         <p class="my_text">
             متصل کردن چندین روش به همدیگر
-        </p>
-        </header>
-        </article>
-    </a>
-    <a href="Security">
-        <article class="hentry">
-        <header class="entry-header">
-        <div class="entry-thumbnail">
-            <img src="https://teskaco.com/wp-content/uploads/2022/03/%D8%B4%D8%A8%DA%A9%D9%87-1-1.jpg" alt="Server Security"/>
-        </div>
-        <h2 class="my_title">امنیت سرور</h2>
-        <p class="my_text">
-            با این روش ها سرور خود را امن نگه دارید
         </p>
         </header>
         </article>
@@ -602,19 +645,6 @@
         <h2 class="my_title">مبدل</h2>
         <p class="my_text">
             مبدل های مختلف برای تبدیل کانفیگ ها
-        </p>
-        </header>
-        </article>
-    </a>
-    <a href="Home_Server">
-        <article class="hentry">
-        <header class="entry-header">
-        <div class="entry-thumbnail">
-            <img src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2015/11/media-server-home.jpg?q=50&fit=contain&w=1140&h=&dpr=1.5" alt="Home Server"/>
-        </div>
-        <h2 class="my_title">سرور خانگی</h2>
-        <p class="my_text">
-        اجرای فیلترشکن روی شبکه داخلی خانه یا شرکت
         </p>
         </header>
         </article>
@@ -667,19 +697,6 @@
         <h2 class="my_title">Research</h2>
         <p class="my_text">
             تحقیقات و مقالات مرتبط
-        </p>
-        </header>
-        </article>
-    </a>
-    <a href="Config_Server">
-        <article class="hentry">
-        <header class="entry-header">
-        <div class="entry-thumbnail">
-            <img src="https://business.mahannet.ir/wp-content/uploads/2024/09/What-is-the-server-configuration.jpg" alt="Config_Server"/>
-        </div>
-        <h2 class="my_title">سرور کانفیگ</h2>
-        <p class="my_text">
-            تنظیمات سرور
         </p>
         </header>
         </article>
@@ -772,19 +789,6 @@
         <p class="my_text">
             سایر موارد مرتبط
         </p>
-        </header>
-        </article>
-    </a>
-    <a href="CloudFlare">
-        <article class="hentry">
-        <header class="entry-header">
-        <div class="entry-thumbnail">
-                <img src="https://www.softgozar.com/Image/ckeditor/news/202476135819.jpg" alt="CloudFlare White IP"/>
-        </div>
-            <h2 class="my_title"> اسکنر کلودفلیر</h2>
-            <p class="my_text">
-                روش هایی برای یافتن آی پی سفید کلودفلیر یا دامنه های کلودفلیر
-            </p>
         </header>
         </article>
     </a>

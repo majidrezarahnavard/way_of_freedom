@@ -157,3 +157,11 @@ https://trends.builtwith.com/websitelist/Fastly
 https://github.com/soroushmirzaei/telegram-configs-collector
 
 فقط کافیه کانفیگ ها رو دستی به فستلی وصل کنید  و تمام
+
+
+## fastly
+
+اگر از قبل اکانت fastly داشتید و CDN قبلاً ساخته بودید و از یک ماه web socket استفاده کردید دوباره وارد همون CDN بشید edit کنید و آدرس ورکر قبلی که بهش وصل کرده بودید را پاک کنید و به یک ورکر جدید وصل کنید دوباره شروع بکار می‌کنه 😉🫣 تا جایی که من تست کردم همچین باگی داره 😶
+
+https://x.com/amin_o__o/status/1879474833442099475
+

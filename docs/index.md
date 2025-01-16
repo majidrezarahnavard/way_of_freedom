@@ -35,19 +35,6 @@
 
 <div class="grid">
     <h3 style='width:100%;'>روش های موثر</h3>
-    <a href="DNS">	
-        <article class="hentry">
-        <header class="entry-header">
-        <div class="entry-thumbnail">
-            <img src="https://blogs.manageengine.com/wp-content/uploads/2022/10/Screenshot-2022-10-17-at-5.27.27-PM-2048x1606.png" alt="DNS"/>
-        </div>
-        <h2 class="my_title">DNS</h2>
-        <p class="my_text">
-            مشکل DNS خود را با این روش ها حل کنید یا DNS شخصی خودتان را بسازید
-        </p>
-        </header>
-        </article>
-    </a>
     <a href="Best">
         <article class="hentry">
         <header class="entry-header">
@@ -122,6 +109,34 @@
         <h2 class="my_title">Starlink</h2>
         <p class="my_text">
             نصب و راه اندازی استارلینک
+        </p>
+        </header>
+        </article>
+    </a>
+    <!-- DNS -->
+    <h3 style='width:100%;'>DNS</h3>
+    <a href="DNS">	
+        <article class="hentry">
+        <header class="entry-header">
+        <div class="entry-thumbnail">
+            <img src="https://blogs.manageengine.com/wp-content/uploads/2022/10/Screenshot-2022-10-17-at-5.27.27-PM-2048x1606.png" alt="DNS"/>
+        </div>
+        <h2 class="my_title">DNS</h2>
+        <p class="my_text">
+            مشکل DNS خود را با این روش ها حل کنید یا DNS شخصی خودتان را بسازید
+        </p>
+        </header>
+        </article>
+    </a>
+    <a href="Tahrimshecan">
+        <article class="hentry">
+        <header class="entry-header">
+        <div class="entry-thumbnail">
+            <img src="https://shecan.ir/wp-content/uploads/2018/11/logo_title.png" alt="Tahrimshecan"/>
+        </div>
+        <h2 class="my_title">تحریم شکن</h2>
+        <p class="my_text">
+           از DNS های قانونی برای رفع تحریم ها می توانید استفاده کنید
         </p>
         </header>
         </article>
@@ -234,6 +249,19 @@
         </header>
         </article>
     </a>
+    <a href="Oracle">
+        <article class="hentry">
+        <header class="entry-header">
+        <div class="entry-thumbnail">
+            <img src="https://www.hamyarcrypto.com/mag/wp-content/uploads/2022/01/unnamed-file-4.jpg" alt="Oracle"/>
+        </div>
+        <h2 class="my_title">اوراکل</h2>
+        <p class="my_text">
+            نصب و راه اندازی سرور اوراکل
+        </p>
+        </header>
+        </article>
+    </a>
     <!-- CDN -->
     <h3 style='width:100%;'>CDN</h3>
     <a href="Fastly">
@@ -316,47 +344,47 @@
         </header>
         </article>
     </a>
-    <a href="Cloak">
+    <a href="Donate">
         <article class="hentry">
         <header class="entry-header">
         <div class="entry-thumbnail">
-            <img src="https://i.ytimg.com/vi/6sCa7OOsyO4/maxresdefault.jpg" alt="Cloak"/>
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-6IDCt7ZwW4BX-kJdfUjYMDiFJmiRtB7QAw&s" alt="Donate"/>
         </div>
-        <h2 class="my_title">Cloak</h2>
+        <h2 class="my_title">MahsaNet</h2>
         <p class="my_text">
-            اپلیکیشن کلاک
+            حمایت از اینترنت آزاد
         </p>
         </header>
         </article>
     </a>
-    <a href="Bepass">
+    <a href="Singbox">
         <article class="hentry">
         <header class="entry-header">
         <div class="entry-thumbnail">
-            <img src="https://avatars.githubusercontent.com/u/146542574?s=200&v=4" alt="Bepass"/>
+            <img src="https://sing-box.org/wp-content/uploads/2024/01/1704897422-sing-box-releases-1024x538.jpg.avif" alt="Singbox" />
         </div>
-        <h2 class="my_title">Bepass</h2>
+        <h2 class="my_title">Singbox</h2>
         <p class="my_text">
-            اپلیکیشن بپس برای اندروید
+            سینگ باکس
         </p>
         </header>
         </article>
     </a>
-    <!--دسته بندی نصب و راه اندازی پنل ها، نرم افزار و غیره-->
-    <h3 style='width:100%;'>نصب و راه اندازی ها</h3>
-    <a href="Oracle">
+    <a href="Clients">
         <article class="hentry">
         <header class="entry-header">
         <div class="entry-thumbnail">
-            <img src="https://www.hamyarcrypto.com/mag/wp-content/uploads/2022/01/unnamed-file-4.jpg" alt="Oracle"/>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Client-server-model.svg/1280px-Client-server-model.svg.png" alt="Clients"/>
         </div>
-        <h2 class="my_title">اوراکل</h2>
+        <h2 class="my_title">Clients</h2>
         <p class="my_text">
-            نصب و راه اندازی سرور اوراکل
+            برای اتصال اندروید و اپل و کامپیوتر که به سرور متصل می شوند 
         </p>
         </header>
         </article>
     </a>
+    <!-- پروتکل های رمزنگاری -->
+    <h3 style='width:100%;'>پروتکل های مختلف</h3>
     <a href="OpenVPN">
         <article class="hentry">
         <header class="entry-header">
@@ -367,6 +395,19 @@
         <p class="my_text">
             نصب و راه اندازی اوپن وی پی ان
         </p>
+        </header>
+        </article>
+    </a>
+    <a href="Telegram">
+        <article class="hentry">
+        <header class="entry-header">
+        <div class="entry-thumbnail">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/121px-Telegram_2019_Logo.svg.png" alt="Telegram"/>
+        </div>
+        <h2 class="my_title">Telegram</h2>
+        <p class="my_text">
+            MTProxy
+            </p>
         </header>
         </article>
     </a>
@@ -405,6 +446,71 @@
         <h2 class="my_title">Warp on Warp</h2>
         <p class="my_text">
                 چجوری وارپ را بر روی وارپ نصب کنیم
+        </p>
+        </header>
+        </article>
+    </a>
+    <a href="IPV6">
+        <article class="hentry">
+        <header class="entry-header">
+        <div class="entry-thumbnail">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUC88sSQmi7CmilrxpfE9ObF30KHDbb8JQnQ&s" alt="IPV6"/>
+        </div>
+        <h2 class="my_title">IPV6</h2>
+        <p class="my_text">
+            آی پی های ورژن 6 (IPV6)
+        </p>
+        </header>
+        </article>
+    </a>
+    <a href="VPNhood">
+        <article class="hentry">
+        <header class="entry-header">
+        <div class="entry-thumbnail">
+            <img src="https://play-lh.googleusercontent.com/uaI3dD2oXRVNECCXbTjcVe05tP-jTGOSUB2VAoR3JEEkHqrdpyNqHW6grKge5elSk2I" alt="VPNhood"/>
+        </div>
+        <h2 class="my_title">VPNHOOD</h2>
+        <p class="my_text">
+                آموزش کامل فیلترشکن VPNHOOD
+        </p>
+        </header>
+        </article>
+    </a>
+    <a href="UDP">
+        <article class="hentry">
+        <header class="entry-header">
+        <div class="entry-thumbnail">
+            <img src="https://i.ytimg.com/vi/Sm-LQFIuCyg/maxresdefault.jpg" alt="UDP"/>
+        </div>
+        <h2 class="my_title">Hysteria 2, TUIC</h2>
+        <p class="my_text">
+            روش های مبتنی بر UDP
+        </p>
+        </header>
+        </article>
+    </a>
+    <a href="Cloak">
+        <article class="hentry">
+        <header class="entry-header">
+        <div class="entry-thumbnail">
+            <img src="https://i.ytimg.com/vi/6sCa7OOsyO4/maxresdefault.jpg" alt="Cloak"/>
+        </div>
+        <h2 class="my_title">Cloak</h2>
+        <p class="my_text">
+            Cloak Server
+        </p>
+        </header>
+        </article>
+    </a>
+    <a href="Bepass">
+        <article class="hentry">
+        <header class="entry-header">
+        <div class="entry-thumbnail">
+            <img src="https://avatars.githubusercontent.com/u/146542574?s=200&v=4" alt="Bepass"/>
+        </div>
+        <h2 class="my_title">Bepass</h2>
+        <p class="my_text">
+            اپلیکیشن بپس برای اندروید
         </p>
         </header>
         </article>
@@ -450,8 +556,21 @@
         </header>
         </article>
     </a>
-    <!--دسته بندی تمامی آموزشات دانشنامه-->
+    <!--دسته بندی تمامی آموزش ها دانشنامه-->
     <h3 style='width:100%;'>آموزش ها</h3>
+    <a href="Knowledge_Base">
+        <article class="hentry">
+        <header class="entry-header">
+        <div class="entry-thumbnail">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Persian-encyclopedia.jpg/300px-Persian-encyclopedia.jpg" alt="Knowledge Base"/>
+        </div>
+        <h2 class="my_title">دانشنامه ها</h2>
+        <p class="my_text">
+            سایر دانشنامه های اتصال به اینترنت آزاد
+        </p>
+        </header>
+        </article>
+    </a>
     <a href="Primary">
         <article class="hentry">
         <header class="entry-header">
@@ -465,32 +584,6 @@
         </header>
         </article>
     </a>
-    <a href="VPNhood">
-        <article class="hentry">
-        <header class="entry-header">
-        <div class="entry-thumbnail">
-            <img src="https://play-lh.googleusercontent.com/uaI3dD2oXRVNECCXbTjcVe05tP-jTGOSUB2VAoR3JEEkHqrdpyNqHW6grKge5elSk2I" alt="VPNhood"/>
-        </div>
-        <h2 class="my_title">VPNHOOD</h2>
-        <p class="my_text">
-                آموزش کامل فیلترشکن VPNHOOD
-        </p>
-        </header>
-        </article>
-    </a>
-    <a href="Telegram">
-        <article class="hentry">
-        <header class="entry-header">
-        <div class="entry-thumbnail">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/121px-Telegram_2019_Logo.svg.png" alt="Telegram"/>
-        </div>
-        <h2 class="my_title">Telegram</h2>
-        <p class="my_text">
-            آموزش های مرتبط با تلگرام
-        </p>
-        </header>
-        </article>
-    </a>
     <a href="Network">
         <article class="hentry">
         <header class="entry-header">
@@ -500,19 +593,6 @@
         <h2 class="my_title">Network</h2>
         <p class="my_text">
             آموزش های پایه درمورد شبکه 
-        </p>
-        </header>
-        </article>
-    </a>
-    <a href="Fragment">	
-        <article class="hentry">
-        <header class="entry-header">
-        <div class="entry-thumbnail">
-            <img src="https://f4.bcbits.com/img/a0959131344_16.jpg" alt="Fragment"/>
-        </div>
-        <h2 class="my_title">Fragment</h2>
-        <p class="my_text">
-            در این روش پکیت ها تکه تکه می شوند و نیاز به دامنه و سرور کثیف هست 
         </p>
         </header>
         </article>
@@ -545,71 +625,6 @@
         </header>
         </article>
     </a>
-    <a href="Donate">
-        <article class="hentry">
-        <header class="entry-header">
-        <div class="entry-thumbnail">
-            <img src="https://2nate.com/wp-content/uploads/2020/07/2nate-Logo-Color-Horizontal-800px-72dpi-300x146.png" alt="Donate"/>
-        </div>
-        <h2 class="my_title">Donate</h2>
-        <p class="my_text">
-            حمایت از اینترنت آزاد
-        </p>
-        </header>
-        </article>
-    </a>
-    <a href="Tahrimshecan">
-        <article class="hentry">
-        <header class="entry-header">
-        <div class="entry-thumbnail">
-            <img src="https://shecan.ir/wp-content/uploads/2018/11/logo_title.png" alt="Tahrimshecan"/>
-        </div>
-        <h2 class="my_title">تحریم شکن</h2>
-        <p class="my_text">
-           از DNS های قانونی برای رفع تحریم ها می توانید استفاده کنید
-        </p>
-        </header>
-        </article>
-    </a>
-    <a href="Singbox">
-        <article class="hentry">
-        <header class="entry-header">
-        <div class="entry-thumbnail">
-            <img src="https://sing-box.org/wp-content/uploads/2024/01/1704897422-sing-box-releases-1024x538.jpg.avif" alt="Singbox" />
-        </div>
-        <h2 class="my_title">Singbox</h2>
-        <p class="my_text">
-            سینگ باکس
-        </p>
-        </header>
-        </article>
-    </a>
-    <a href="Knowledge_Base">
-        <article class="hentry">
-        <header class="entry-header">
-        <div class="entry-thumbnail">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Persian-encyclopedia.jpg/300px-Persian-encyclopedia.jpg" alt="Knowledge Base"/>
-        </div>
-        <h2 class="my_title">دانشنامه ها</h2>
-        <p class="my_text">
-            سایر دانشنامه های اتصال به اینترنت آزاد
-        </p>
-        </header>
-        </article>
-    </a>
-    <a href="Clients">
-        <article class="hentry">
-        <header class="entry-header">
-        <div class="entry-thumbnail">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Client-server-model.svg/1280px-Client-server-model.svg.png" alt="Clients"/>
-        </div>
-        <h2 class="my_title">Clients</h2>
-        <p class="my_text">
-            برای اتصال اندروید و اپل و کامپیوتر که به سرور متصل می شوند 
-        </p>
-        </header>
-        </article>
-    </a>
     <a href="Proxy_Chain">
         <article class="hentry">
         <header class="entry-header">
@@ -636,6 +651,19 @@
         </header>
         </article>
     </a>
+    <a href="Record">
+        <article class="hentry">
+        <header class="entry-header">
+        <div class="entry-thumbnail">
+            <img src="https://news-cdn.varzesh3.com/pictures/2024/08/11/A/jmsfwzrk.png?w=800" alt="Record"/>
+        </div>
+        <h2 class="my_title">رکورد</h2>
+        <p class="my_text">
+            بیشترین مقدار انتقال داده ها در سرور
+        </p>
+        </header>
+        </article>
+    </a>
     <a href="Converter">
         <article class="hentry">
         <header class="entry-header">
@@ -645,19 +673,6 @@
         <h2 class="my_title">مبدل</h2>
         <p class="my_text">
             مبدل های مختلف برای تبدیل کانفیگ ها
-        </p>
-        </header>
-        </article>
-    </a>
-    <a href="UDP">
-        <article class="hentry">
-        <header class="entry-header">
-        <div class="entry-thumbnail">
-            <img src="https://i.ytimg.com/vi/Sm-LQFIuCyg/maxresdefault.jpg" alt="UDP"/>
-        </div>
-        <h2 class="my_title">Hysteria 2, TUIC</h2>
-        <p class="my_text">
-            روش های مبتنی بر UDP
         </p>
         </header>
         </article>
@@ -727,19 +742,6 @@
         </header>
         </article>
     </a>
-    <a href="IPV6">
-        <article class="hentry">
-        <header class="entry-header">
-        <div class="entry-thumbnail">
-            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUC88sSQmi7CmilrxpfE9ObF30KHDbb8JQnQ&s" alt="IPV6"/>
-        </div>
-        <h2 class="my_title">IPV6</h2>
-        <p class="my_text">
-            آی پی های ورژن 6 (IPV6)
-        </p>
-        </header>
-        </article>
-    </a>
     <a href="Money">
         <article class="hentry">
         <header class="entry-header">
@@ -753,15 +755,15 @@
         </header>
         </article>
     </a>
-    <a href="Record">
+    <a href="Fragment">	
         <article class="hentry">
         <header class="entry-header">
         <div class="entry-thumbnail">
-            <img src="https://news-cdn.varzesh3.com/pictures/2024/08/11/A/jmsfwzrk.png?w=800" alt="Record"/>
+            <img src="https://f4.bcbits.com/img/a0959131344_16.jpg" alt="Fragment"/>
         </div>
-        <h2 class="my_title">رکورد</h2>
+        <h2 class="my_title">Fragment</h2>
         <p class="my_text">
-            بیشترین مقدار انتقال داده ها در سرور
+            در این روش پکیت ها تکه تکه می شوند و نیاز به دامنه و سرور کثیف هست 
         </p>
         </header>
         </article>

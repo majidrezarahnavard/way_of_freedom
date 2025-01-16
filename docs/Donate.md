@@ -10,6 +10,30 @@ https://www.mahsaserver.com/donors
 https://x.com/GhostOfSarina/status/1832437922139926894
 
 
+## Application Mahsa NG
+
+[Mahsa NG Application](https://play.google.com/store/apps/details?id=com.MahsaNet.MahsaNG)
+
+
+اپلیکیشن Mahsang را در اندروید نصب کنید.
+در شرایطی که فیلترینگ شدید است به کانکشن‌هایی که «فرگمنت‌»شان فعال است وصل شوید و به «پینگ» و تست توجه نکنید.
+در صورت قطعی کامل نیز از قسمت منوی اپلیکیشن، روی get ems config بزنید تا کانکشن‌های تونل و مخصوص آن شرایط را دریافت کنید.
+
+
+[AminAnvary](https://twitter.com/AminAnvary/status/1779318799906332888)
+
+[donors](https://www.mahsaserver.com/donors)
+
+اپ  (https://twitter.com/hashtag/mahsaNG) در فاصله کوتاهی از انتشار نسخه ۹، مجددا یک بروزرسانی جدید داشته که ضمن بهبود قابل توجه اتصال از طریق Warp و WarpOnWarp، تغییر userAgent، بهبود FakeHost و کانفیگ‌های non-TLS، مشکل پینگ در تعداد بالای کانفیگ و اشکال رابط کاربری در ساخت کانفیگ وارپ و ادیت splitHttp رو برطرف کرده.
+
+http://play.google.com/store/apps/details?id=com.MahsaNet.MahsaNG
+
+http://github.com/GFW-knocker/MahsaNG/releases/latest
+
+https://twitter.com/ircfspace/status/1830517009651474496
+
+
+
 ## روش های بدون دردسر دونیت کانفیگ:
 
 

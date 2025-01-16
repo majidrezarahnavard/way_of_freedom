@@ -402,7 +402,7 @@
         <article class="hentry">
         <header class="entry-header">
         <div class="entry-thumbnail">
-            <img src="https://www.azadnet.ir/wp-content/uploads/2022/12/HTTP-HTTPS-1.jpg" alt="Xhttp"/>
+            <img src="https://i.ytimg.com/vi/vsfbr8L_Qtw/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCDnzQzcctcmMdWcURue05aBDTbdA" alt="Xhttp"/>
         </div>
         <h2 class="my_title">XHTTP</h2>
         <p class="my_text">

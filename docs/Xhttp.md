@@ -30,3 +30,14 @@ https://www.youtube.com/watch?v=4g6fdQUa248
 ## آموزش چینی
 
 https://www.youtube.com/watch?v=GB_SHmqotzQ
+
+
+##  آموزش ساخت کانفیگ V2ray مستقیم از نوع XHTTP روی پنل X-UI 
+
+آموزش ساخت کانفیگ V2ray مستقیم از نوع XHTTP روی پنل X-UI
+
+گیتهاب نصب پنل x-ui :
+https://github.com/MHSanaei/3x-ui
+
+
+https://www.youtube.com/watch?v=vsfbr8L_Qtw

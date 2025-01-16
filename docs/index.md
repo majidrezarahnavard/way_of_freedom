@@ -128,6 +128,19 @@
         </header>
         </article>
     </a>
+    <a href="AzadiDNS">
+        <article class="hentry">
+        <header class="entry-header">
+        <div class="entry-thumbnail">
+            <img src="https://avatars.githubusercontent.com/u/181827567?v=4" alt="AzadiDNS"/>
+        </div>
+        <h2 class="my_title">پنل آزادی DNS</h2>
+        <p class="my_text">
+            نصب و راه اندازی پنل آزادی DNS
+        </p>
+        </header>
+        </article>
+    </a>
     <a href="Tahrimshecan">
         <article class="hentry">
         <header class="entry-header">
@@ -350,9 +363,9 @@
         <div class="entry-thumbnail">
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-6IDCt7ZwW4BX-kJdfUjYMDiFJmiRtB7QAw&s" alt="Donate"/>
         </div>
-        <h2 class="my_title">MahsaNet</h2>
+        <h2 class="my_title">دونیت</h2>
         <p class="my_text">
-            حمایت از اینترنت آزاد
+            MahsaNet
         </p>
         </header>
         </article>
@@ -385,6 +398,19 @@
     </a>
     <!-- پروتکل های رمزنگاری -->
     <h3 style='width:100%;'>پروتکل های مختلف</h3>
+    <a href="Xhttp">
+        <article class="hentry">
+        <header class="entry-header">
+        <div class="entry-thumbnail">
+            <img src="https://www.azadnet.ir/wp-content/uploads/2022/12/HTTP-HTTPS-1.jpg" alt="Xhttp"/>
+        </div>
+        <h2 class="my_title">XHTTP</h2>
+        <p class="my_text">
+            xhttp 
+        </p>
+        </header>
+        </article>
+    </a>
     <a href="OpenVPN">
         <article class="hentry">
         <header class="entry-header">
@@ -696,7 +722,7 @@
         <div class="entry-thumbnail">
             <img src="https://upload.wikimedia.org/wikipedia/fa/thumb/e/e2/National_intranet_of_Iran.svg/300px-National_intranet_of_Iran.svg.png" alt="People"/>
         </div>
-        <h2 class="my_title">People</h2>
+        <h2 class="my_title">افراد موثر در فیلترینگ</h2>
         <p class="my_text">
             افرادی که در زمینه فیلترینگ فعالیت دارند
         </p>

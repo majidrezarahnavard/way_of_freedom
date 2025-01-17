@@ -309,7 +309,7 @@ nameserver 10.202.10.102
 https://403unlocker.netlify.app
 
 
-### چک کردن بهترین تحریم شکن
+## چک کردن بهترین تحریم شکن
 
 ```
 sudo add-apt-repository ppa:pourpasand/403unlocker
@@ -319,3 +319,13 @@ sudo best403unlocker
 ```
 
 
+## استفاده از جیمینی روی گوشی اندرویدی
+
+کافیه این نرم افزار رو نصب کنید
+
+https://play.google.com/store/apps/details?id=app.intra&hl=en
+
+سپس DNS رو داخل ست کنید
+
+
+https://dns.403.online/dns-query

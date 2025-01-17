@@ -51,6 +51,53 @@ https://dns.mullvad.net/dns-query
 
 ## استفاده در فایرفاکس
 
+به تنهایی هم می تونید از doh روی فایرفاکس استفاده کنید:
+
+کافیه توی setting 
+سرچ کنید doh
+بعد روی گزینه max protection
+بزنید
+
+فقط یادتون باشه که ای پی تون ایران باقی می مونه
+
 setting -> doh
 
 max protection
+
+
+##  Secret tutorial on making DNS Over HTTPS panel for free internet 
+
+
+Are you looking for a safe way to bypass internet restrictions? 
+In this special and professional training, you will learn how to create your own DNS Over HTTPS panel and have a free and uncensored experience on the Internet!
+
+
+Benefits of this training:
+
+    
+🌟 Passing all filters and censors
+    
+🔒 Privacy and high security
+    
+⚡ High speed internet connection
+
+
+🎯 The secret of free internet only in this video! 
+Join the group of professionals and take the first step to have a free internet.
+
+
+📌 Simple, fast and completely practical training for all users!
+
+🖱️ Click now and don't miss this golden opportunity! 
+💻
+
+https://www.youtube.com/watch?v=Id0FL4DXLpc
+
+
+## ترکیب با BPB
+
+از ترکیب #BPB با پنل آزادی غافل نشید.
+
+https://filtershekan.sbs/BPB/
+
+https://www.youtube.com/watch?v=Id0FL4DXLpc

@@ -6,7 +6,9 @@
 
 (به خاطر محدودیت آپلود سرعت ویدیو 2x شده)
 
-لینک پنل : https://github.com/AzadiAzadiAzadi/AzadiDNSPanel/blob/main/worker.js
+لینک پنل : 
+
+https://github.com/AzadiAzadiAzadi/AzadiDNSPanel/blob/main/worker.js
 
 https://x.com/kharabam666/status/1836207422538416516
 
@@ -16,13 +18,18 @@ https://x.com/kharabam666/status/1836207422538416516
 آموزش نصب AzadiDNSPanel روی ورکر کلودفلر و استفاده از این پنل
 
 کانال تلگرامی ما :
+
 https://t.me/asrnovin_ir
 
 لینک گیتهاب پروژه :
+
 https://github.com/AzadiAzadiAzadi/AzadiDNSPanel
 
 سایت مورد نیاز برای dns :
+
 https://mullvad.net/fa/help/dns-over-https-and-dns-over-tls
+
+https://www.youtube.com/watch?v=B2hBRB34Puw
 
 
 ## نصب
@@ -41,3 +48,9 @@ https://mullvad.net/fa/help/dns-over-https-and-dns-over-tls
 
 https://dns.mullvad.net/dns-query
 
+
+## استفاده در فایرفاکس
+
+setting -> doh
+
+max protection

@@ -284,3 +284,38 @@ Secondary DNS : 91.92.255.24
 📱@P_Tech2024
 
 https://t.me/P_tech2024/590
+
+
+
+## DNS set for linux
+
+```
+#nameserver 51.91.204.69
+#nameserver 146.59.189.113
+#nameserver 178.22.122.100
+#nameserver 185.51.200.2
+nameserver 10.202.10.202
+nameserver 10.202.10.102
+#nameserver 10.202.10.10
+#nameserver 10.202.10.11
+#nameserver 9.9.9.13
+#nameserver 8.8.4.4
+```
+
+## 403unlocker
+
+این ارگانیزیشن هم به کمک بچه های اپن سورس ایجاد شده که توش ابزارهای یابنده بهترین راه دور زدن تحریم توسعه داده میشه 
+
+https://403unlocker.netlify.app
+
+
+### چک کردن بهترین تحریم شکن
+
+```
+sudo add-apt-repository ppa:pourpasand/403unlocker
+sudo apt update
+sudo apt install best403unlocker
+sudo best403unlocker
+```
+
+

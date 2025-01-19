@@ -638,6 +638,32 @@
     </a>
     <!--دسته بندی بقیه مقالات موجود در صفحه اصلی-->
     <h3 style='width:100%;'>دیگر مقالات</h3>
+    <a href="https://filtershekan.sbs/search/search_index.json">
+        <article class="hentry">
+        <header class="entry-header">
+        <div class="entry-thumbnail">
+            <img src="https://chisellabs.com/glossary/wp-content/uploads/2021/06/What-is-an-API.png" alt="API"/>
+        </div>
+        <h2 class="my_title">API</h2>
+        <p class="my_text">
+            با استفاده از این اندپوینت می تونید تمام اطلاعات سایت رو استخراج کنید و در هرجایی که می خواهید استفاده کنید
+        </p>
+        </header>
+        </article>
+    </a>
+    <a href="https://filtershekan.sbs/sitemap.xml">
+        <article class="hentry">
+        <header class="entry-header">
+        <div class="entry-thumbnail">
+            <img src="https://one-line.ch/wp-content/uploads/2023/10/oneline-sitemap-2093%C3%97627px-2048x614.webp" alt="API"/>
+        </div>
+        <h2 class="my_title">Sitemap</h2>
+        <p class="my_text">
+            تمام عناوین سایت به صورت xml
+        </p>
+        </header>
+        </article>
+    </a>
     <a href="https://github.com/majidrezarahnavard/way_of_freedom/commits/main/">
         <article class="hentry">
         <header class="entry-header">

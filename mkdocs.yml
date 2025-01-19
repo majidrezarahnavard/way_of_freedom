@@ -112,9 +112,9 @@ extra:
     # - name: English
     #   link: /en/ 
     #   lang: en
-    - name: فارسی
-      link: /fa/
-      lang: fa
+    # - name: فارسی
+    #   link: /fa/
+    #   lang: fa
 extra_css:
   - assets/css/site.css
 extra_javascript:

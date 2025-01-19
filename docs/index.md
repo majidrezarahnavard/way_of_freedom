@@ -636,8 +636,8 @@
         </header>
         </article>
     </a>
-    <!--دسته بندی بقیه مقالات موجود در صفحه اصلی-->
-    <h3 style='width:100%;'>دیگر مقالات</h3>
+    <!--دیتا سایت-->
+    <h3 style='width:100%;'>دسترسی به اطلاعات سایت</h3>
     <a href="https://filtershekan.sbs/search/search_index.json">
         <article class="hentry">
         <header class="entry-header">
@@ -677,6 +677,8 @@
         </header>
         </article>
     </a>
+    <!--دسته بندی بقیه مقالات موجود در صفحه اصلی-->
+    <h3 style='width:100%;'>دیگر مقالات</h3>
     <a href="Proxy_Chain">
         <article class="hentry">
         <header class="entry-header">

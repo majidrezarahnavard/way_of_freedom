@@ -141,6 +141,13 @@ https://apps.apple.com/tr/app/npv-tunnel/id1629465476
 
 ![pic](https://pbs.twimg.com/media/GgG4UGGW8AAg0yE?format=png&name=small)
 
+##  چطور می‌شه doh رو توی v2rayN-Pro اضافه کرد؟
+
+بد نیست بدونید که دی‌ان‌اس کلودفلر بصورت پيش‌فرضش ست شده و اگه نیاز به تغییر داشتین از منوی setting بخش DNS رو پیدا کنید و مقادیر مورد نیاز خودتون رو جایگزین کنید 
+
+![pic](https://pbs.twimg.com/media/GhgwYCKXcAAqt2b?format=png&name=small)
+
+
 ## V2RayN-PRO v1.8
 
 

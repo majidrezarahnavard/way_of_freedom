@@ -677,6 +677,32 @@
         </header>
         </article>
     </a>
+    <a href="https://www.google.com/search?q=site:http://filtershekan.sbs">
+        <article class="hentry">
+        <header class="entry-header">
+        <div class="entry-thumbnail">
+            <img src="https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png"/>
+        </div>
+        <h2 class="my_title">سرچ از گوگل</h2>
+        <p class="my_text">
+            می تونید با گوگل محتویات سایت رو جستجو کنید
+        </p>
+        </header>
+        </article>
+    </a>
+    <a href="https://github.com/search?q=repo%3Amajidrezarahnavard%2Fway_of_freedom%20dns&type=code">
+        <article class="hentry">
+        <header class="entry-header">
+        <div class="entry-thumbnail">
+            <img src="https://allvectorlogo.com/img/2021/12/github-logo-vector.png"/>
+        </div>
+        <h2 class="my_title">سرچ از github</h2>
+        <p class="my_text">
+            می تونید با گیت هاب محتویات سایت رو جستجو کنید
+        </p>
+        </header>
+        </article>
+    </a>
     <!--دسته بندی بقیه مقالات موجود در صفحه اصلی-->
     <h3 style='width:100%;'>دیگر مقالات</h3>
     <a href="Proxy_Chain">

@@ -757,6 +757,19 @@
         </header>
         </article>
     </a>
+    <a href="Subscribe">
+        <article class="hentry">
+        <header class="entry-header">
+        <div class="entry-thumbnail">
+            <img src="https://ihitthebutton.com/wp-content/uploads/2020/11/youtube-subscribe-png.png" alt="Subscribe"/>
+        </div>
+        <h2 class="my_title">Subscribe</h2>
+        <p class="my_text">
+            نحوه ساخت لینک سابسکرایب
+        </p>
+        </header>
+        </article>
+    </a>
     <a href="Tips">
         <article class="hentry">
         <header class="entry-header">

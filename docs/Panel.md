@@ -252,12 +252,6 @@ https://www.youtube.com/watch?v=iJPj30yc2ag
 [ لینک ساب پروکسی چیست و چگونه آن را رایگان ضد فیلتر کنیم؟ بخش اول: سایت میانی PHP ](https://www.youtube.com/watch?v=Xn9qwxpWmWQ)
 
 
-##   V2Hub
-
-V2Hub is a script that can be used to aggregate and merge multiple subscription links for V2Ray, Trojan, Shadowsocks, and other protocols. The script can process both plain text and base64-encoded subscription links.
-
-[V2Hub](https://github.com/yebekhe/V2Hub)
-
 
 ##  مشکل امنیت در سنایی؟ | بالا بردن امنیت سرور و پنل x-ui | جلوگیری از هک و فیلتر سرور 
 

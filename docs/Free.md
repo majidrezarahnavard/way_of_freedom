@@ -767,3 +767,24 @@ https://github.com/valid7996/Gozargah/tree/main?tab=readme-ov-file
 
 https://github.com/seramo/random-sub-worker
 
+
+
+## Psycho
+
+لینک ساب - آپدیت منظم میتونید آپدیت اتومات رو تو برنامه فعال کنید 
+
+https://raw.githubusercontent.com/iPsycho1/Subscription/refs/heads/main/iPsycho
+
+لینک ساب وایرگارد- آپدیت هر یک ساعت
+
+https://raw.githubusercontent.com/iPsycho1/wg-config-fetcher/refs/heads/main/configs/wireguard_configs.txt#Suevpnx
+
+لینک ساب هیدیفای 
+
+
+https://raw.githubusercontent.com/iPsycho1/Subscription/refs/heads/main/iPsycho_Multi_Location
+
+برای اتصال بهتر میتونید این تنظیمات رو اعمال کنید
+
+
+https://x.com/iPsycho01/status/1881941446275825741

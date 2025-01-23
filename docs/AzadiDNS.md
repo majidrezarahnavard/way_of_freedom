@@ -101,3 +101,24 @@ https://www.youtube.com/watch?v=Id0FL4DXLpc
 https://filtershekan.sbs/BPB/
 
 https://www.youtube.com/watch?v=Id0FL4DXLpc
+
+
+##  Mozilla's Hidden Secrets: Enabling DNS-over-HTTPS 
+
+Are you looking for a way to experience safer, faster and unlimited internet? 
+🌐 🔒 In this video, we introduce you to the hidden secrets of Mozilla Firefox and enable DNS-over-HTTPS step by step Improve your internet speed
+    
+You want to use the advanced technologies of Firefox.
+    
+Are you looking for a solution for unlimited internet?
+
+
+👀 Watch the video now and transform your level of online security!
+
+
+📢 What are your opinions? 
+Did you find this trick useful? 
+Comment below this video! 
+💬
+
+https://www.youtube.com/watch?v=d0UP-i3FlNU

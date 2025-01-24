@@ -1,4 +1,4 @@
-# Azadi DNS Panle
+# Azadi DNS Panel
 
 ## AzadiDNSPanel
 

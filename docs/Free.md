@@ -788,3 +788,8 @@ https://raw.githubusercontent.com/iPsycho1/Subscription/refs/heads/main/iPsycho_
 
 
 https://x.com/iPsycho01/status/1881941446275825741
+
+
+## VPN FAIL
+
+https://yebekhe.github.io/vpn-fail/

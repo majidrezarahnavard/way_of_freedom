@@ -25,3 +25,7 @@ https://yebekhe.site/api/tosingbox/api_docs.html
 
 https://x.com/yebekhe/status/1877430962444816886
 
+
+## vpn-fail
+
+https://yebekhe.github.io/vpn-fail/

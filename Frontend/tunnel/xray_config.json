@@ -1,0 +1,203 @@
+{
+    "dns": {
+        "tag": "dns",
+        "hosts": {
+            "dns.403.online": [
+                "10.202.10.202",
+                "10.202.10.102"
+            ],
+            "free.shecan.ir": [
+                "178.22.122.100",
+                "185.51.200.2"
+            ]
+        },
+        "servers": [
+            "https://free.shecan.ir/dns-query",
+            "https://dns.403.online/dns-query",
+            "10.202.10.11",
+            "10.202.10.10",
+            "85.15.1.15",
+            "85.15.1.14"
+        ]
+    },
+    "log": {
+        "loglevel": "debug"
+    },
+    "inbounds": [
+        {
+            "port": "8443",
+            "protocol": "trojan",
+            "tag": "trojan-one",
+            "settings": {
+                "clients": [
+                    {
+                        "password": "uuid_بسازید"
+                    }
+                ]
+            },
+            "streamSettings": {
+                "network": "grpc",
+                "security": "none",
+                "grpcSettings": {
+                    "serviceName": "your_custom_path/8443/"
+                }
+            }
+        },
+        {
+            "tag": "socks",
+            "port": 10808,
+            "listen": "127.0.0.1",
+            "protocol": "socks",
+            "sniffing": {
+                "enabled": true,
+                "destOverride": [
+                    "http",
+                    "tls"
+                ],
+                "routeOnly": false
+            },
+            "settings": {
+                "auth": "noauth",
+                "udp": true,
+                "allowTransparent": false
+            }
+        }
+    ],
+    "outbounds": [
+        {
+            "tag": "proxy",
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "domain_cloudflare_پیداکنید",
+                        "port": 443,
+                        "users": [
+                            {
+                                "id": "uuid_بسازید",
+                                "alterId": 0,
+                                "email": "email_بسازید",
+                                "security": "auto",
+                                "encryption": "none",
+                                "flow": ""
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "network": "ws",
+                "sockopt": {
+                    "dialerProxy": "fragment-out"
+                },
+                "security": "tls",
+                "tlsSettings": {
+                    "allowInsecure": false,
+                    "serverName": "domain_دامنه",
+                    "alpn": [
+                        "h2",
+                        "http/1.1"
+                    ],
+                    "fingerprint": "randomized",
+                    "show": false
+                },
+                "wsSettings": {
+                    "path": "/new-path_مسیر",
+                    "headers": {
+                        "Host": "domain_دامنه"
+                    }
+                }
+            },
+            "mux": {
+                "enabled": false,
+                "concurrency": -1
+            }
+        },
+        {
+            "tag": "direct",
+            "protocol": "freedom",
+            "settings": {}
+        },
+        {
+            "protocol": "freedom",
+            "settings": {
+                "domainStrategy": "AsIs",
+                "fragment": {
+                    "packets": "tlshello",
+                    "length": "4",
+                    "interval": "5"
+                }
+            },
+            "tag": "fragment-out"
+        },
+        {
+            "tag": "block",
+            "protocol": "blackhole",
+            "settings": {
+                "response": {
+                    "type": "http"
+                }
+            }
+        }
+    ],
+    "routing": {
+        "domainStrategy": "AsIs",
+        "rules": [
+            {
+                "type": "field",
+                "inboundTag": [
+                    "api"
+                ],
+                "outboundTag": "api",
+                "enabled": true
+            },
+            {
+                "type": "field",
+                "inboundTag": [
+                    "trojan-one"
+                ],
+                "outboundTag": "proxy"
+            },
+            {
+                "type": "field",
+                "inboundTag": [
+                    "socks"
+                ],
+                "outboundTag": "proxy"
+            },
+            {
+                "type": "field",
+                "outboundTag": "direct",
+                "domain": [
+                    "geosite:private",
+                    "geosite:category-ir",
+                    "domain:ir"
+                ],
+                "enabled": true
+            },
+            {
+                "type": "field",
+                "outboundTag": "direct",
+                "ip": [
+                    "geoip:private",
+                    "geoip:ir"
+                ],
+                "enabled": true
+            },
+            {
+                "type": "field",
+                "outboundTag": "block",
+                "domain": [
+                    "geosite:category-ads-all"
+                ],
+                "enabled": true
+            },
+            {
+                "type": "field",
+                "port": "0-65535",
+                "outboundTag": "proxy",
+                "enabled": true
+            }
+        ]
+    }
+}

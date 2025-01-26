@@ -1,0 +1,53 @@
+server {
+        root /var/www/html;
+        grpc_read_timeout 1h;
+		grpc_send_timeout 1h;
+        grpc_set_header X-Real-IP $remote_addr;
+
+        # Add index.php to the list if you are using PHP
+        index index.html index.htm index.nginx-debian.html;
+        
+		
+		server_name your_domain_دامنه;
+
+        # for logs
+		access_log /var/log/nginx/domain.access.log;
+		error_log /var/log/nginx/domain.error.log;
+
+
+        location / {
+                # First attempt to serve request as file, then
+                # as directory, then fall back to displaying a 404.
+                try_files $uri $uri/ =404;
+        }
+        # GRPC configuration
+	    location ~ ^/your_custom_path/(?<port>\d+)/(.*)$ {
+	        if ($content_type !~ "application/grpc") {
+	            return 404;
+	        }
+	        set $grpc_port $port;
+	        client_max_body_size 0;
+	        client_body_buffer_size 512k;
+	        grpc_set_header X-Real-IP $remote_addr;
+	        client_body_timeout 1w;
+	        grpc_read_timeout 1w;
+	        grpc_send_timeout 1w;
+	        grpc_pass grpc://127.0.0.1:$port;
+	    }
+	
+    listen [::]:443 ssl http2 ipv6only=on; # managed by Certbot
+    listen 443 ssl http2; # managed by Certbot
+    ssl_certificate /etc/letsencrypt/live/your_domain_دامنه/fullchain.pem; # managed by Certbot
+    ssl_certificate_key /etc/letsencrypt/live/your_domain_دامنه/privkey.pem; # managed by Certbot
+    include /etc/letsencrypt/options-ssl-nginx.conf; # managed by Certbot
+    ssl_dhparam /etc/letsencrypt/ssl-dhparams.pem; # managed by Certbot
+}
+server {
+    if ($host = your_domain_دامنه) {
+        return 301 https://$host$request_uri;
+    } # managed by Certbot
+        listen 80;
+        listen [::]:80;
+        server_name your_domain_دامنه;
+    return 404; # managed by Certbot
+}

@@ -1,0 +1,156 @@
+site_name: سایت فیلترشکن
+site_author: sarina esmailzadeh
+site_url: 'https://filtershekan.sbs/'
+repo_url: https://github.com/majidrezarahnavard/way_of_freedom
+repo_name: majidrezarahnavard/way_of_freedom
+copyright: Copyleft 2025 چو ایران نباشد، تن من مباد
+site_description: دانشنامه آزاد غیر متمرکز دسترسی به اینترنت آزاد
+remote_branch: docs
+edit_uri: https://github.com/majidrezarahnavard/way_of_freedom/edit/main/docs/
+watch:
+  - includes
+theme:
+  name: material
+  logo: assets/logo.png
+  favicon: assets/logo.png
+  font:
+    text: Vazirmatn
+
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: blue
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    # - navigation.instant
+    # - navigation.instant.prefetch
+    # - navigation.instant.progress
+    # - navigation.instant.preview
+
+
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+
+    # - navigation.indexes #for overview of section page
+    - navigation.expand
+    - navigation.path
+    - navigation.sections
+    - toc.follow
+    # - toc.integrate # maybe disable
+    - navigation.top
+    # - header.autohide
+    - content.code.copy
+    - content.code.select
+    - content.code.annotate
+    - content.action.edit
+    - search.suggest
+    - search.share
+    - search.highlight
+    - announce.dismiss
+    - navigation.footer
+    - content.tooltips
+  icon:
+    admonition:
+      question: material/new-box
+    edit: material/pencil
+    view: material/eye
+
+markdown_extensions:
+  - abbr
+  - pymdownx.snippets:
+      auto_append:
+        - includes/abbreviations.md
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - pymdownx.details
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.magiclink
+  - admonition
+  - attr_list
+  - md_in_html
+  - footnotes
+  - def_list
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:pymdownx.emoji.twemoji
+      emoji_generator: !!python/name:pymdownx.emoji.to_svg
+
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+
+extra:
+  homepage: https://filtershekan.sbs/
+  generator: false
+  alternate:
+    - name: فارسی
+      link: /fa/
+      lang: fa
+
+#  alternate:
+    # - name: English
+    #   link: /en/
+    #   lang: en
+    # - name: فارسی
+    #   link: /fa/
+    #   lang: fa
+extra_css:
+  - assets/css/site.css
+extra_javascript:
+  - assets/js/site.js
+plugins:
+  - rss
+  - tags
+  - git-authors
+
+  # - privacy
+  - search:
+        indexing: 'full' #sections
+        # prebuild_index: true
+  - include-markdown
+
+  - awesome-pages
+  - mkdocs-nav-weight:
+      section_renamed: true
+  - i18n:
+      docs_structure: suffix
+      default_language: fa
+      fallback_to_default: true
+      languages:
+        fa:
+          build: true
+          name: Persian
+          locale: fa
+
+      reconfigure_material: true
+      reconfigure_search: true
+
+  - git-revision-date-localized:
+      type: date
+      fallback_to_build_date: true
+  # - blog:
+  #     post_readtime: true

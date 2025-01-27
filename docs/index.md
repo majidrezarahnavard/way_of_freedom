@@ -651,6 +651,19 @@
         </header>
         </article>
     </a>
+    <a href="LLM">
+        <article class="hentry">
+        <header class="entry-header">
+        <div class="entry-thumbnail">
+            <img src="https://ebsedu.org/wp-content/uploads/elementor/thumbs/AI-Artificial-Intelligence-What-it-is-and-why-it-matters-qb1o8gpaeu2d4z5h27m45d99w1tmlkjwinh4wq1izi.jpg" alt="Robots"/>
+        </div>
+        <h2 class="my_title">هوش مصنوعی دانشنامه</h2>
+        <p class="my_text">
+            مدل های هوش مصنوعی از دانشنامه
+        </p>
+        </header>
+        </article>
+    </a>
     <a href="https://filtershekan.sbs/sitemap.xml">
         <article class="hentry">
         <header class="entry-header">

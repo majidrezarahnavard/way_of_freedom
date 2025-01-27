@@ -1,4 +1,20 @@
 # کلاینت ها
+
+## MahsaNG
+
+آموزش جدید برای @mahsanet
+با ترکیب oblivion +socks برای شرایط ضروری🫶
+
+https://x.com/tkamirparsa/status/1883574199031349310
+
+
+https://play.google.com/store/apps/details?id=com.MahsaNet.MahsaNG&hl=en
+
+https://www.mahsaserver.com/
+
+https://github.com/GFW-knocker/MahsaNG
+
+
 ## نکوباکس
 
 [ اموزش کامل برنامهٔ نکو باکس Neko Box (برای دور زدن فیلترینگ) ](https://www.youtube.com/watch?v=JjvSeQwdxT8)
@@ -61,13 +77,13 @@ https://twitter.com/ircfspace/status/1824718183019729143
 ![hiddify](https://pbs.twimg.com/media/GYGOCZhWkAAgews?format=jpg&name=small)
 
 
-## Streisand IOS
+## Streisand IOS Iphone ایفون
 برنامهٔ Streisand یکی‌از پایدارترین گزینه‌ها برای آیفون هست که متاسفانه در رابطه با واردکردن پیگربندی JSON از URL با مشکل مواجه بود؛ این زمانی اهمیت بیشتری پیدا می‌کرد که درحال‌حاضر فرگمنت در ایران به‌عنوان یکی‌از روش‌های کاربردی برای دسترسی آزاد به اینترنت به‌شمار میره /تب
 
 https://apps.apple.com/us/app/streisand/id6450534064?platform=iphone
 
 
-## FoXray
+## FoXray Iphone IOS ایفون
 
 https://apps.apple.com/us/app/foxray/id6448898396
 

@@ -152,6 +152,24 @@ https://x.com/horizonbehind2/status/1834573752526389518
 https://threadreaderapp.com/thread/1827368756596895887.html
 
 
+
+##  آموزش نصب پنل وایرگارد فارسی همراه با ربات تلگرام 
+
+آموزش نصب پنل وایرگارد فارسی همراه با ربات تلگرام برای مدیریت کاربران با قابلیت های متنوع
+
+لینک گیتهاب دستورات مورد نیاز :
+https://github.com/Azumi67/Wireguard-...
+
+خرید سرور مجازی از aeza :
+https://aeza.net/?ref=389325
+
+کانال تلگرامی ما :
+https://t.me/asrnovin_ir
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UeGmuN8xGsg?si=xrbmrvt-zws_hiYB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 ## اسکریپت مدیریت Hysteria2،
 
 اسکریپت مدیریت Hysteria2، یک رابط کاربری جامع برای مدیریت سرور هست که از ویژگی‌هایی نظیر مدیریت کاربران، نظارت بر ترافیک و ادغام با ابزارهای اضافی مانند وارپ، ساب‌لینک سینگ‌باکس و ربات تلگرام برخورداره ...
@@ -329,6 +347,11 @@ kevinzakarian
 
     سرور مجازی شخصی (VPS) با IP تمیز.
     دامنه: نیاز ندارد
+
+
+## s-ui + hysteria 2
+
+https://ivpn.pro/how-to/sui-hysteria2-new-edition/
 
 
 ##  آپدیت حفن هیدیفای منیجر و هیدیفای نکست به همراه اموزش ایپی تمیز روی CDN 

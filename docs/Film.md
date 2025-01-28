@@ -122,3 +122,14 @@ https://t.co/8Z6KZui4JI
 https://x.com/cinema_T_farsi/status/1862247774575542594
 
 https://threadreaderapp.com/thread/1862247774575542594.html?utm_campaign=topunroll
+
+
+
+## _Cinemagraph_
+
+باتوجه‌به تعدد سایت‌های دانلود فیلم و سریال، این اینفوگرافی مقایسه‌ای و کارآمد به شما دوستداران سینما و تلویزیون کمک خواهد کرد که همزمانی که مهم‌ترین وب‌سایت‌های دانلود بدون سانسور فیلم‌وسریال را می‌شناسید، نهایتا به انتخاب بهینه و موردنظرتان هم برسید.
+
+![pic](https://pbs.twimg.com/media/GiTAHeBWMAE57us?format=jpg&name=900x900)
+
+https://x.com/_Cinemagraph_/status/1883841787124760985
+

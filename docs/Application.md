@@ -960,3 +960,32 @@ https://x.com/PasKoocheh/status/1877399355935584591
 🎥ویدیو را ببینید تا با ابعاد مختلف  وی‌پی‌ان «فیلترشکن پرسرعت Bonbast VPN» بیشتر آشنا شوید.
 
 https://x.com/PasKoocheh/status/1880293805334634709
+
+## Rostam VPN
+
+Rostam VPN uses the most advanced data encryption methods, such as ChaCha20, Poly1305 and BLAKE2 to facilitate the security of users' exchanged information. RostamVPN automatically connects you the best available server based on multiple factors, such as server capacity and its proximity to you. To contact the support team for any feedback, questions, or suggestions, please send an email to feedback@rostam.app. Welcome to the open web!
+
+https://www.rostam.app/en/
+
+
+https://play.google.com/store/apps/details?id=com.rostamvpn.android&hl=en
+
+https://www.opentech.fund/projects-we-support/supported-projects/rostam-vpn/
+
+
+Rostam VPN
+
+Rostam VPN is an established and reliable censorship-circumvention tool that has supported a huge surge of monthly users in Iran over the last few years, responding to an increase in censorship events. The VPN app does not require account creation and relies on the open source WireGuard protocol, which has a lean codebase—allowing for easier security audits and enhanced security. The efficiency of the protocol translates into faster connection times and more responsive performance, even on networks with high latency.
+
+The app is designed to be lightweight, especially in terms of battery usage. This is a significant advantage for mobile users who rely on VPNs throughout the day, as it ensures their device can last longer on a single charge compared to other VPN solutions that might drain the battery more quickly.
+
+Through the Surge and Sustain Fund, OTF is supporting user-carrying costs for non-monetizable users of Rostam VPN to ensure that citizens living in repressive information environments have access to this critical anti-censorship technology. 
+
+Rostam VPN is developed and managed by a US-based nonprofit organization, cyber security experts, and veteran advocates of internet freedom. They have been working for more than a decade to increase digital security, free circulation of information, and uncensored access to digital content for users around the world.
+
+
+
+Funding to date
+$480,000
+2024$480,000 12 months
+(Surge and Sustain Fund)

@@ -987,5 +987,47 @@ Rostam VPN is developed and managed by a US-based nonprofit organization, cyber 
 
 Funding to date
 $480,000
+
 2024$480,000 12 months
 (Surge and Sustain Fund)
+
+
+
+## Lantern
+Lantern is a free peer-to-peer internet censorship circumvention tool that delivers fast, reliable, and secure access to the open internet. It provides a way to bypass state-sanctioned filtration through a network of trusted users.
+
+Through Surge and Sustain, OTF is supporting Lantern’s user-carrying cost for non-monetizable users of its service to ensure that citizens living in repressive environments have access to these critical anti-censorship technologies. As a Technology at Scale project, Lantern helps USAGM audiences discover and access USAGM content through both its own application and by ensuring that USAGM news apps remain uncensored.
+
+Recent development includes improved versions of Lantern’s apps on desktop and mobile platforms. Most notably in a mobile context, this includes Lantern’s peer-to-peer (P2P) functionality, with mobile users in uncensored regions providing access to users in censored regions.
+
+The desktop version of Lantern has been largely successful in offering a open source censorship circumvention tool that is resistant to blocking, financially and technically scalable, and usable by any ordinary persons. The Android version of Lantern will include all of the blocking resistance features of Lantern on desktop.
+
+Most notably in a mobile context, this will include Lantern’s peer-to-peer (P2P) functionality, with mobile users in uncensored regions providing access to users in censored regions. While such a system includes a number of technical challenges on mobile, we feel strongly that we can meet those challenges through only deploying it in specific contexts.
+Latest News
+China tightens grip on the Internet, but it didn't block all the tools to get around censorship: Mashable
+Q. and A.: Adam Fisk on Evading Internet Censorship in China: New York Times
+China’s angry investors leap the Great Firewall—and are shocked by what they learn of Beijing: Quartz
+China cracks down further on VPNs as censorship intensifies: The Register
+How Chinese Internet users are climbing a bigger, badder Great Firewall: Daily Dot
+The Ingenious Way Iranians Are Using Satellite TV to Beam in Banned Internet: Wired
+Internet activists are finding ways around China’s Great Firewall: Washington Post
+A guide to staying online if the internet or social media gets blocked in your country: Quartz
+
+https://www.opentech.fund/projects-we-support/supported-projects/lantern/
+
+
+Funding to date
+
+$13,716,286
+
+2024$3,942,000 12 months
+(Surge and Sustain Fund)
+
+2023$6,840,000 12 months
+(Surge and Sustain Fund)
+
+2022$1,842,780 12 months
+
+2021$300,000 6 months
+
+2015$791,506 18 months

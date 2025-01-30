@@ -94,6 +94,21 @@ http://github.com/GFW-knocker/MahsaNG/releases/latest
 https://twitter.com/ircfspace/status/1830517009651474496
 
 
+### نسخه جدید مهسا
+
+وی نسخه جدید آپ مهسا گزینه‌های جدیدی برای بلاک کردن تبلیغات و سایت‌های نا امن وجود داره که با رفتن به تنظیمات فعال میشه،
+
+خاصیت مهمش اینه که ترافیک کمتری مصرف میشه و به طبع لود شدن صفحات سریع‌تر میشن 👌
+
+ممکنه کمی پینگ بیشتر بشه..
+
+![pic](https://pbs.twimg.com/media/GihMr2-WQAAxK3R?format=jpg&name=medium)
+
+![pic](https://pbs.twimg.com/media/GihMr5yWQAAdx4s?format=jpg&name=small)
+
+
+https://x.com/Eagle_1157/status/1884840769049055554
+
 ##  bepass oblivion
 
 [google play](https://play.google.com/store/apps/details?id=org.bepass.oblivion)

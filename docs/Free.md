@@ -806,3 +806,16 @@ https://yebekhe.github.io/vpn-fail/
 
 ⭐ گیتهاب: https://1da.ir/OM0agyCN
 
+
+
+## 4n0nymou3
+
+- اضافه شدن قابلیت تبدیل کانفیگ‌های استخراج شده به فرمت قابل شناسایی برای هسته و کلاینت Sing-box در یک ساب لینک json جداگانه.
+
+لینک اشتراک Sing-box :
+
+https://raw.githubusercontent.com/4n0nymou3/multi-proxy-config-fetcher/refs/heads/main/configs/singbox_configs.json
+
+- قابلیت تشخیص و حذف URLهای تکراری کاربران از لیست config .py
+- رفع برخی از باگ‌ها…
+

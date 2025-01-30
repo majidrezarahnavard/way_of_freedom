@@ -25,6 +25,64 @@ VPN سایفرپانک‌های ایرانی: گروهی با هدف ارائه 
 [nordvpn](https://nordvpn.com/)
 
 
+## NordWhisper
+
+پروتکل NordWhisper که توسط NordVPN توسعه داده شده بر اساس WebTunnel، به طور خاص برای جلوگیری از فیلترهای پیشرفته که جلوی VPN ها را میگیرد طراحی شده
+
+https://nordvpn.com/blog/nordwhisper-protocol/
+
+داخل app NordVPN app داخل تنظیمات هست
+دنبال راهی برای راه اندازی شخصی هستم
+
+![pic](https://pbs.twimg.com/media/GiiXG0RWEAAUmuk?format=jpg&name=small)
+
+در موردش خوندم و به نظر میاد چیز جالبی باشه. هرچند فکر نکنم خیلی زیاد توی ایران عمر کنه و شاید بیشتر توی کشورهایی که فیلترینگ کمتری دارن بهتر عمل کنه. به هر حال، این شرکت‌ها که وارد این داستان میشن نشونه خوبیه
+
+نوشته برای مبارزه با anti-VPN solutions برای کشورهای 
+China, India, Pakistan, Russia
+و تمرکز روی obfuscation techniques
+
+https://nordvpn.com/blog/nordwhisper-protocol/
+
+
+Introducing the NordWhisper protocol — a step towards a more open internet
+
+At NordVPN, our goal is to ensure everyone has secure and reliable internet access, no matter where they are. Recognizing the challenges our users face when connecting to networks with restrictive policies, we’re introducing NordWhisper — a new protocol coming to the NordVPN app designed to make navigating these environments easier. Here’s everything you need to know about this protocol.
+
+
+What is the NordWhisper protocol, and how does it work?
+
+NordWhisper is a new NordVPN protocol designed specifically to allow users to connect to VPN servers from networks that usually limit traditional VPN traffic. As a solution for navigating around network restrictions, NordWhisper ensures a smoother and more consistent browsing experience, even in restrictive environments. 
+
+So how does it work? NordWhisper is based on web tunnel technology, which operates differently from traditional VPN protocols like OpenVPN or WireGuard. Most VPN protocols have distinct characteristics, like specific traffic signatures and behaviors. These patterns can sometimes be recognized by network administrators, who may block them. While many protocols incorporate obfuscation techniques to counteract them, some network policies can still filter them out.
+
+NordWhisper mimics regular web traffic, making it more difficult for network filters to identify it. Essentially, it blends in with ordinary internet activity, providing users with a reliable way to browse on restricted networks while maintaining the same strong encryption and security as other VPN protocols.
+The background
+
+We saw the need for a solution for users unable to connect to NordVPN in restrictive environments. This problem often results in disrupted work and limited access to essential services. To address these issues, we developed NordWhisper — a VPN protocol specifically designed to avoid advanced network filters.
+
+While some networks may limit what you can access, we believe everyone deserves the ability to browse freely, safely, and without interruptions. This protocol is our latest step toward enabling a more open internet.
+
+Even though NordWhisper makes access easier and more convenient, it upholds the same strong security and privacy standards that NordVPN is known for. You can trust that your internet traffic will remain private and protected, no matter which protocol you choose.
+When does the NordWhisper protocol come into play?
+
+The new NordWhisper protocol is designed specifically for situations where traditional VPN protocols are blocked by advanced network filters. These filters are typically applied to prevent VPN usage and may be found in public Wi-Fi hotspots with security filters, like those at airports, cafes, conferences, or other locations with managed internet access.
+
+While standard protocols using obfuscation techniques are effective on networks that prevent access to essential services or public resources, NordWhisper steps in when VPN-specific blocks make connecting to these networks more challenging. This protocol ensures users can browse securely in restricted networks.
+
+Disclaimer: We do not support or encourage any illegal activities when using NordWhisper or any other protocol with NordVPN. Please ensure that your use of NordVPN complies with all applicable laws, agreements, and network policies.
+
+However, while NordWhisper works great with network filters, it may be slower than other protocols in some circumstances due to the technology it uses. So if you’re connected to a regular network, we recommend sticking to other protocols. That said, the landscape of network filtering is constantly evolving, and we will continue to improve NordWhisper — making it smarter, faster, and more secure to keep up with these changes.
+When will it be released?
+
+We're gradually rolling out the NordWhisper protocol to ensure it performs at the standards our users expect. Initially, it will be available on Windows, Android, and Linux, with support coming to more platforms over time.
+
+Once it’s available, you’ll find the option to manually select it within the VPN connection settings on the NordVPN app. So if you face connection issues due to network filters, try it out and see the difference.
+
+Stay tuned for updates as we expand NordWhisper to more platforms.
+
+https://nordvpn.com/blog/nordwhisper-protocol/
+
 ## Synapse 
 
 Synapse is now actively maintained at element-hq/synapse 

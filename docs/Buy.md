@@ -79,6 +79,16 @@ https://console.clouvider.co.uk/cart/vps
 
 [ آموزش کامل کار با سایت aeza و نحوه خرید سرور مجازی با ارز دیجیتال ](https://www.youtube.com/watch?v=tBV0trq9ao8&t=0s)
 
+
+### One cloud
+
+وان کلاد سرور میده ماهی ۳ دلار، آی‌پی‌هاش تمیزه، ترافیک ۵۰۰ گیگ، وریفای اکانت نداره و اکثر کشورهای اروپایی لوکیشن داره.
+https://panel.op-net. com
+
+![pic](https://pbs.twimg.com/media/GicO8JRWgAAd_jN?format=png&name=small)
+
+https://x.com/MrSoroushAhmadi/status/1884491991322440127
+
 ### توضیح
 
 خوبی hostvds اینه که سرور فیلتر بشه
@@ -581,3 +591,5 @@ https://www.youtube.com/watch?v=ZkLpy6EH6cc
 
 
 https://t.me/KevinZakarian/284
+
+

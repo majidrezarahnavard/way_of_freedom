@@ -793,3 +793,16 @@ https://x.com/iPsycho01/status/1881941446275825741
 ## VPN FAIL
 
 https://yebekhe.github.io/vpn-fail/
+
+## Valid_bv1
+
+🔹 Clash, Sing-box اضافه شد.
+بروزرسانی تاریخ 25/1/30
+بهبود سرعت
+اضافه های جدید :
+ V2RayNG: https://raw.githubusercontent.com/valid7996/Gozargah/refs/heads/main/Gozargah_Sub
+ Clash: https://raw.githubusercontent.com/valid7996/Gozargah/refs/heads/main/Gozargah.yaml
+ Sing-box: https://raw.githubusercontent.com/valid7996/Gozargah/refs/heads/main/Gozargah_sing-box_sub
+
+⭐ گیتهاب: https://1da.ir/OM0agyCN
+

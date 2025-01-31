@@ -13,7 +13,7 @@ https://github.com/4n0nymou3/multi-proxy-config-fetcher
 ```
 https://raw.githubusercontent.com/4n0nymou3/multi-proxy-config-fetcher/refs/heads/main/configs/proxy_configs.txt
 ```
-**لینک اشتراک سینگ‌-باکس**
+**لینک اشتراک سینگ‌-باکس:**
 ```
 https://raw.githubusercontent.com/4n0nymou3/multi-proxy-config-fetcher/refs/heads/main/configs/singbox_configs.json
 ```

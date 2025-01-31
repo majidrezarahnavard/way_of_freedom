@@ -133,3 +133,17 @@ https://threadreaderapp.com/thread/1862247774575542594.html?utm_campaign=topunro
 
 https://x.com/_Cinemagraph_/status/1883841787124760985
 
+
+## لیست سایت‌هایی که «بدون سانسور» هستند.
+
+
+رایگان: 
+https://donyayeserial.com
+http://Rexcima.com
+http://cinema-tika.com
+https://mydima.sbs
+https://almasmovie.website
+https://mobomovies.co
+https://digimoviez.com نیمه اشتراکی 
+
+https://x.com/cinema_T_farsi/status/1884999781358977262

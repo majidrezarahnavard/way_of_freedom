@@ -111,6 +111,24 @@ https://youtu.be/-wOtg_JFHrM
 https://www.youtube.com/watch?v=UmdJAg8Zmh4
 
 
+##  نصب پنل سینگ باکس علیرضا به شیو جدید در سرور اوبونتو sing-box 
+
+با یک آموزش دیگه در خدمتتون هستم نصب پنل سینگ باکس علیرضا به شیوه جدید بدون ترس از فیلتر شدن آی پی سرور روی سرور اوبونتو
+با دانلود چندین ترابایت در روز و چند صد کاربر تست شده
+
+همینجا از علیرضا عزیز و کوین زاکاریان تشکر میکنم دمتون گرم
+
+https://ivpn.pro/
+
+
+https://github.com/alireza0/s-ui
+
+
+https://www.youtube.com/watch?v=FDCEvDxyvds
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FDCEvDxyvds?si=pKBkW0smL3j64f5N" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 ## BPB + Worker Serverless + Fragment
 
 

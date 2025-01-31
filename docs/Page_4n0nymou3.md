@@ -26,6 +26,7 @@ https://raw.githubusercontent.com/4n0nymou3/multi-proxy-config-fetcher/refs/head
 - Shadowsocks
 - Trojan
 - TUIC
+
 با قابلیت تبدیل کانفیگ‌های استخراج شده به فرمت قابل شناسایی برای هسته و کلاینت Sing-box در یک ساب لینک json جداگانه.
 
 ---

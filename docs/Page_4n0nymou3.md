@@ -9,9 +9,13 @@
 **گیت‌هاب پروژه:**
 https://github.com/4n0nymou3/multi-proxy-config-fetcher
 
-**لینک اشتراک:**
+**لینک اشتراک معمولی:**
 ```
 https://raw.githubusercontent.com/4n0nymou3/multi-proxy-config-fetcher/refs/heads/main/configs/proxy_configs.txt
+```
+**لینک اشتراک سینگ‌-باکس**
+```
+https://raw.githubusercontent.com/4n0nymou3/multi-proxy-config-fetcher/refs/heads/main/configs/singbox_configs.json
 ```
 
 دریافت و به‌روزرسانی خودکار کانفیگ‌های پراکسی از کانال‌های تلگرام، لینک‌های اشتراک و منابع مختلف با پشتیبانی از پروتکل‌های متعدد شامل:
@@ -22,6 +26,7 @@ https://raw.githubusercontent.com/4n0nymou3/multi-proxy-config-fetcher/refs/head
 - Shadowsocks
 - Trojan
 - TUIC
+با قابلیت تبدیل کانفیگ‌های استخراج شده به فرمت قابل شناسایی برای هسته و کلاینت Sing-box در یک ساب لینک json جداگانه.
 
 ---
 

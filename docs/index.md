@@ -596,6 +596,19 @@
         </header>
         </article>
     </a>
+    <a href="ISegaro">
+        <article class="hentry">
+        <header class="entry-header">
+        <div class="entry-thumbnail">
+            <img src="https://pbs.twimg.com/profile_images/1884306357232263169/UtDq3fd8_400x400.jpg" alt="ISegaro"/>
+        </div>
+        <h2 class="my_title">سگارو</h2>
+        <p class="my_text">
+           آموزش های سگارو
+        </p>
+        </header>
+        </article>
+    </a>
     <a href="Primary">
         <article class="hentry">
         <header class="entry-header">

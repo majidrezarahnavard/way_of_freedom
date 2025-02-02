@@ -808,6 +808,19 @@
         </header>
         </article>
     </a>
+    <a href="Fund">
+        <article class="hentry">
+        <header class="entry-header">
+        <div class="entry-thumbnail">
+            <img src="https://www.opentech.fund/wp-content/uploads/2023/02/slider-projects-default.png" alt="Fund"/>
+        </div>
+        <h2 class="my_title">فاند های آمریکا</h2>
+        <p class="my_text">
+            لیست فاند هایی که آمریکا اعطا کرده است
+        </p>
+        </header>
+        </article>
+    </a>
     <a href="Research">
         <article class="hentry">
         <header class="entry-header">

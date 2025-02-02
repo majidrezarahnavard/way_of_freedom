@@ -35,6 +35,19 @@
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1095635860&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/toomajsalehi" title="Toomaj" target="_blank" style="color: #cccccc; text-decoration: none;">Toomaj</a> · <a href="https://soundcloud.com/toomajsalehi/soorakh-moosh" title="Soorakh Moosh" target="_blank" style="color: #cccccc; text-decoration: none;">Soorakh Moosh</a></div>
 
+
+## 2.47
+
+نسخه ۲.۴۷ از فیلترشکن #oblivionDesktop برای سیستم‌عامل‌های ویندوز، لینوکس و مک منتشر شد. 
+هسته وارپ‌پلاس در این‌آپدیت به نگارش ۱.۲.۵ آپدیت شده، تا مشکل اتصال کاربران برطرف بشه. 
+
+🚀 http://github.com/bepass-org/oblivion-desktop/releases
+
+💡 نسخه اندروید هم بزودی آپدیت می‌کنن و این بروزرسانی‌ها برای دسترسی آزاد مردم به اینترنت تداوم دارن ...
+
+
+https://x.com/ircfspace/status/1885766465044824517
+
 ## v6
 
 نسخه جدید Oblivion در گوگل پلی و گیت‌هاب منتشر شد! 🎉

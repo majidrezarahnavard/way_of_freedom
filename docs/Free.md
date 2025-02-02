@@ -819,3 +819,12 @@ https://raw.githubusercontent.com/4n0nymou3/multi-proxy-config-fetcher/refs/head
 - قابلیت تشخیص و حذف URLهای تکراری کاربران از لیست config .py
 - رفع برخی از باگ‌ها…
 
+
+
+## لینک چینی
+
+ساب لینک چینی پرسرعت👑🥰
+https://api.xyurl.site/api/v1/client/subscribe?token=fed4ab7c582c2a41a08a858f91644430
+
+
+https://x.com/tkamirparsa/status/1885613907156299791

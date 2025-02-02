@@ -112,3 +112,10 @@ bpb like: Say My name!
 تا الان 16700000 رکوئیست، لطفا تا جاییکه میتونید پخش کنید دوستان دیگه هم استفاده کنن ببینیم چی میشه
 
 ![pic](https://pbs.twimg.com/media/GexcAoyWYAAtYmj?format=jpg&name=900x900)
+
+
+## amin
+
+ترکیب دوتا وایرگارد IP آلمان برنامه hiddify اینترنت 4G همراه اول
+
+![pic](https://pbs.twimg.com/media/GiwJ17QWQAAFnd3?format=jpg&name=small)

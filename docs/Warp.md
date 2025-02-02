@@ -342,6 +342,20 @@ https://threadreaderapp.com/thread/1757319934512910486.html
 [warp-plus](https://github.com/bepass-org/warp-plus/releases/tag/v1.1.2)
 
 
+## نسخه جدید برنامه warp-plus منتشر شد! (v1.2.5)
+
+
+در این آپدیت مشکل عدم اتصال رو حل کردیم.
+برنامه‌های دسکتاپ و اندروید به زودی آپدیت میشن.
+
+با تشکر از تسترها که کمک کردن. 
+
+https://x.com/markpash/status/1885746948608495660
+
+![pic](https://pbs.twimg.com/media/GiuE2zNXIAAbHbr?format=jpg&name=small)
+
+https://github.com/bepass-org/warp-plus/releases/tag/v1.2.5
+
 ## رهنمای نصب IP وارپ روی سرور مجازی
 
 وارپ برای سرور

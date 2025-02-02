@@ -941,3 +941,11 @@ https://www.youtube.com/watch?v=cuzlbt9w_DM
 با این روش میتونید پینگ فیلترشکن خودتون رو تا حد ممکن کاهش بدید ، بهترین روش کاهش پینگ برای گیمر ها و کسانی که زیاد وب گردی می کنند.
 
 https://www.youtube.com/watch?v=7YrRwCJQ-n0
+
+## nekobox DNS
+
+اگر مشکلی دارید توی nekobox توی توییتر dns زیر رو وارد‌ تنظیمات کنید🫶🩵
+
+quic://unfiltered.adguard-dns.com
+
+https://x.com/tkamirparsa/status/1885388485185458332

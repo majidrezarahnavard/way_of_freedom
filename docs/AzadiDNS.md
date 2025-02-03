@@ -122,3 +122,19 @@ Comment below this video!
 💬
 
 https://www.youtube.com/watch?v=d0UP-i3FlNU
+
+
+## doh Seramo
+
+با کد ورکر @seramo_ir
+ میتونید از هر doh که خواستید استفاده کنید
+فقط باید یه ورکر بالا بیارید و آخرش doh مورد نظر رو بزارید مثلا:
+https:// workers .dev/https:// DNS. google/ dns-query
+
+لینک کد ورکر :
+
+https://github.com/seramo/request-proxy-worker/
+
+
+https://github.com/seramo/request-proxy-worker/blob/main/worker.js
+

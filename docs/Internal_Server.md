@@ -1147,3 +1147,18 @@ https://github.com/MrAminiDev/NebulaTunnel?tab=readme-ov-file
 
 
 https://www.youtube.com/watch?v=oVAuAYfYAJo
+
+
+## AZUMI
+
+آموزش جدید ترین تانل AZUMI با قابلیت مانیتورینگ                                   
+
+ https://youtu.be/xvWCDW137aY
+
+ آموزش جدید ترین تانل AZUMI با قابلیت مانیتورینگ و ربات اختصاصی-SIXTININELEARN 
+
+
+سلام رفقا توی این ویدیو قراره که بهتون یاد بدم با استفاده از جدیدترین تانل AZUMI یعنی proxyforwarder بین سرور ایران و خارجتون تانل برقرار کنین با قابلیت مانیتورینگ
+و  ربات اختصاصی.
+
+

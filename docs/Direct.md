@@ -220,6 +220,32 @@ hysteria udp سنایی
 [ Shadowsocks + cloak server - آموزش و کانفیگ شادوساکس ](https://www.youtube.com/watch?v=wrPP0V32rxc)
 
 
+##  Shadowsocks free 30 days!The best speed and security 🚀🔥 
+
+🔸 Shadowsocks free for 30 days! 
+🔥 Experience the Internet without restrictions! 
+🚀
+
+
+💡 Features of this service:
+
+✅ High speed and low ping for gaming and stream 🎮🎥
+
+✅ Secure connectivity and strong encryption for privacy 🔒
+
+✅ Telegram, YouTube, Instagram and Free Web browsing 🌍
+
+✅ Compatible with Windows, Android, iOS, Linux and Mac 📱💻
+
+
+🎁 Get free shadowsocks right now and experience the Internet Without Borders! 
+🎁
+
+📢 If you like the video, be sure to like, comment and don't remember!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SPGQXV9BQ7o?si=LP2F9ApNq7pnWbDW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 ## ⭕️خوب گفتم یه روش مستقیم پابلیک کنیم
 
 ⭕️خوب گفتم یه روش مستقیم پابلیک کنیم

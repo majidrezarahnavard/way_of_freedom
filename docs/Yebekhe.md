@@ -29,3 +29,19 @@ https://x.com/yebekhe/status/1877430962444816886
 ## vpn-fail
 
 https://yebekhe.github.io/vpn-fail/
+
+
+## Shadoowvpnn
+
+https://t.me/shadoowvpnn
+
+
+https://yebekhe.site/api/tce/api.php?id=shadoowvpnn&base64=true
+
+ساب پر سرعت درست کردم با کانفیگ های زیر به صورت هفتگی آپدیت میکنم🫶🥰
+
+https://raw.githubusercontent.com/tkamirparsa/Sh/refs/heads/main/Sub.text8080
+
+کانال کانفیگ هایی که برداشتم
+
+![pic](https://pbs.twimg.com/media/GjGOzRqXYAAW4Ee?format=png&name=small)

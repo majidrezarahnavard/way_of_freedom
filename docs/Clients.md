@@ -305,3 +305,14 @@ https://github.com/wikm360/xray-client/releases
 
 
 https://x.com/ircfspace/status/1866013955455385968
+
+
+
+## V2Plus
+
+فیلترشکن رایگان V2Plus، یک فورک جدید از v2rayNG با بهره‌مندی از تعدادی سرور اختصاصی هست، که امکان دورزدن محدودیت‌های دسترسی آزاد به اینترنت رو در اندروید فراهم میاره.
+
+http://github.com/appvpluss/V2PlusApp/releases/latest
+
+
+این‌برنامه به‌صورت متن‌باز منتشر شده و بیلد اون توسط گیت‌هاب اکشنز گرفته میشه.

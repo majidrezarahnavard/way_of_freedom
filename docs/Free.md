@@ -828,3 +828,19 @@ https://api.xyurl.site/api/v1/client/subscribe?token=fed4ab7c582c2a41a08a858f916
 
 
 https://x.com/tkamirparsa/status/1885613907156299791
+
+## Shadoowvpnn
+
+https://t.me/shadoowvpnn
+
+
+https://yebekhe.site/api/tce/api.php?id=shadoowvpnn&base64=true
+
+ساب پر سرعت درست کردم با کانفیگ های زیر به صورت هفتگی آپدیت میکنم🫶🥰
+
+https://raw.githubusercontent.com/tkamirparsa/Sh/refs/heads/main/Sub.text8080
+
+کانال کانفیگ هایی که برداشتم
+
+![pic](https://pbs.twimg.com/media/GjGOzRqXYAAW4Ee?format=png&name=small)
+

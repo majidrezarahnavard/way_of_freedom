@@ -537,3 +537,11 @@ https://www.youtube.com/watch?v=9jV6bx5Dris
 https://x.com/kharabam666/status/1836207422538416516
 
 
+##  اضافه کردن مدیران و مدیریت کاربران و فروش کانفیگ با ربات Wal Bot🔥 
+
+سعی کردیم با آموزش اضافه کردن مدیران و مدیریت کاربران و فروش کانفیگ با ربات Wal Bot یک جایگزین بسیار ساده و سبک برای ویز ویز معرفی کنیم که کاملا رایگان هم باشه. راستی تا یادم نرفته حتما باید دامنه داشته باشید.
+
+
+فروش کانفیگ با ربات و ربات فروش خودکار کانفیگ و اضافه کردن مدیر به x-ui و اینکه این پاراگراف چندی از کلمات کلیدی این ویدیو هستش :)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/x5oSs-eEPhY?si=3RGDNe_T-DaDUuj8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

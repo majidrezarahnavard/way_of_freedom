@@ -176,3 +176,21 @@ CREATE TABLE [payment_history] ("id" integer PRIMARY KEY,"order_id" integer,"pay
 
 https://github.com/aminiyt1/vpnshop
 
+
+
+##  ساخت ربات تلگرام دریافت آخرین قیمت ارز با کلودفلر کاملا رایگان 
+
+ساخت ربات تلگرام دریافت آخرین قیمت ارز با کلودفلر کاملا رایگان
+به راحتی بدون نیاز به خرید هاست و دامنه ، فقط با ثبت نام در سایت کلودفلر یک ورکر میسازیم و ربات تلگرامی خودمون رو روی ورکر تلگرام راه اندازی می کنیم.
+بعد از راه اندازی میتونیم قیمت لحظه های تتر ، بیت کوین و... رو از داخل ربات دریافت کنیم.
+
+لینگ گیتهاب پروژه :
+
+https://github.com/aminiyt1/usdtbot
+
+کانال تلگرامی ما :
+
+https://t.me/asrnovin_ir
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tasmy8kuJrk?si=g5Xfvls4gkgekUVu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+

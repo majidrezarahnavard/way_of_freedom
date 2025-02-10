@@ -35,6 +35,20 @@ https://www.mahsaserver.com/
 https://github.com/GFW-knocker/MahsaNG
 
 
+### حتما این کانفیگ ها رو توی MahsaNG تست کنید
+
+کانفیگی که نوشته یوتیوب و توییتر ... اینستاگرام رو هم معمولا بدون مشکل براتون باز می کنه
+
+https://github.com/GFW-knocker/MahsaNG/releases
+
+
+![pic](https://pbs.twimg.com/media/GjZvgFbXYAAeuWO?format=jpg&name=small)
+![pic](https://pbs.twimg.com/media/GjZvgHfWYAAz5fO?format=jpg&name=small)
+![pic](https://pbs.twimg.com/media/GjZvgHeWYAAzCyF?format=jpg&name=small)
+
+
+
+
 ## نکوباکس
 
 [ اموزش کامل برنامهٔ نکو باکس Neko Box (برای دور زدن فیلترینگ) ](https://www.youtube.com/watch?v=JjvSeQwdxT8)

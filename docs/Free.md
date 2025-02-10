@@ -856,3 +856,20 @@ https://github.com/GFW-knocker/MahsaNG/releases
 ![pic](https://pbs.twimg.com/media/GjZvgFbXYAAeuWO?format=jpg&name=large)
 
 https://x.com/seramo_ir/status/1888819708352204897
+
+
+##  How to configure Vmess, Hysteria, and proxy with a free server? 
+
+🌟 Create a professional Vmess and Hysteria configuration with a free server! 🌐
+Do you want to experience high-speed and unlimited internet? 🚀
+In this video you will learn:
+🔸 How to create a Vmess and Hysteria configuration with free servers.
+🔸 Best practices for creating a powerful and stable proxy.
+🔸 Professional tricks for accessing the free internet.
+
+💡 Suitable for everyone: beginners to professionals
+This tutorial is exactly what you need to get started
+
+https://t.me/mehdisedighinasab
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5oarl-8rfho?si=qvELGeBi__xTRA4e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

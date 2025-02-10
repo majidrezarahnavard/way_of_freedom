@@ -330,3 +330,19 @@ http://github.com/appvpluss/V2PlusApp/releases/latest
 
 
 این‌برنامه به‌صورت متن‌باز منتشر شده و بیلد اون توسط گیت‌هاب اکشنز گرفته میشه.
+
+
+
+## Conduit
+
+سایفون سرویس جدیدی به نام کان‌دویت یا Conduit برای اندروید و ویندوز معرفی کرده، که به افراد امکان میده دستگاهشون رو به یک سرور پروکسی (واسطه‌ی امن برای اتصال به اینترنت) تبدیل کنن. 
+این ویژگی به دیگران در مناطق دارای سانسور اینترنت کمک می‌کنه تا به اینترنت آزاد دسترسی داشته باشن.
+
+http://play.google.com/store/apps/details?id=ca.psiphon.conduit
+
+![pic](https://pbs.twimg.com/media/Gjc0HUhXwAAR1E6?format=jpg&name=small)
+
+https://x.com/PsiphonInc/status/1889020238420676768
+
+Psiphon is proud to announce Conduit for Android & Windows! Conduit allows you to turn your device into a secure proxy, helping Psiphon users in censored regions connect to the open internet. One-button start & stop, no tech skills needed. Download now! http://conduit.psiphon.ca
+

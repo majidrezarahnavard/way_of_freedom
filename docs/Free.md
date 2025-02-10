@@ -844,3 +844,15 @@ https://raw.githubusercontent.com/tkamirparsa/Sh/refs/heads/main/Sub.text8080
 
 ![pic](https://pbs.twimg.com/media/GjGOzRqXYAAW4Ee?format=png&name=small)
 
+
+
+## Mahsa
+
+حتما این کانفیگ ها رو توی MahsaNG تست کنید
+کانفیگی که نوشته یوتیوب و توییتر ... اینستاگرام رو هم معمولا بدون مشکل براتون باز می کنه
+
+https://github.com/GFW-knocker/MahsaNG/releases
+
+![pic](https://pbs.twimg.com/media/GjZvgFbXYAAeuWO?format=jpg&name=large)
+
+https://x.com/seramo_ir/status/1888819708352204897

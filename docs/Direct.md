@@ -380,6 +380,26 @@ kevinzakarian
 https://ivpn.pro/how-to/sui-hysteria2-new-edition/
 
 
+##  نصب پنل سینگ باکس علیرضا به شیو جدید در سرور اوبونتو(بدون دامین) s-ui sing-box 
+
+ش دیگه در خدمتتون هستم نصب پنل سینگ باکس علیرضا به شیوه جدید بدون ترس از فیلتر شدن آی پی سرور روی سرور اوبونتو بدون دامین
+
+با دانلود چندین ترابایت در روز و چند صد کاربر تست شده
+
+همینجا از علیرضا عزیز و کوین زاکاریان تشکر میکنم دمتون گرم
+
+https://ivpn.pro/
+
+
+https://github.com/alireza0/s-ui
+
+
+
+لینک کانال تلگرام تو بیو پیج و پایین توضیحات هستش
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pSw1My8-KpE?si=pFwfKqYtWNr66KGF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 ##  آپدیت حفن هیدیفای منیجر و هیدیفای نکست به همراه اموزش ایپی تمیز روی CDN 
 
 سرور و دامنه لازم داره، تمام کانفیگ ها رو با یوزر منیجیمت می سازه و به طور اتوماتیک با هیدیفای نکست می تونید بهترین رو انتخاب کنید. در نهایت هم می تونید یک کانفیگ وایرگاد رو لایه آخر بزارید.

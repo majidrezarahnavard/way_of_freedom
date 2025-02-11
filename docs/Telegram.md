@@ -194,3 +194,9 @@ https://t.me/asrnovin_ir
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tasmy8kuJrk?si=g5Xfvls4gkgekUVu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+##  آموزش ایجاد ربات ارسال پست خودکار در کانال تلگرام و شروع کسب درآمد دلاری از تلگرام 
+
+در این ویدیو  به صورت جامع و کامل ایجاد ربات ارسال پست خودکار در کانال تلگرام و شروع کسب درآمد دلاری از تلگرام آموزش داده ایم.
+
+https://www.youtube.com/watch?v=3rF7fkACiaE
+

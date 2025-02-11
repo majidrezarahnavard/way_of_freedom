@@ -193,6 +193,36 @@ http://github.com/ReturnFI/Hysteria2
 
 https://www.youtube.com/watch?v=mqcDA6RUiRw
 
+
+
+
+## Hysteria2
+
+ آموزش استفاده از هیستریا 2 (روش جدید) و وارپ در پنل S-UI و معرفی موارد جدید ❣️
+
+🟣تو این ویدیو آموزش میدیم چطوری از Hysteria 2 استفاده کنید و همینطور چطوری از warp در خروجی پنل s-ui استفاده کنید.
+
+🔗 تماشا ویدیو در یوتیوب👇👇
+https://youtu.be/ZXtEt-D6vyg
+🥇
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZXtEt-D6vyg?si=UVnqamYWmFeYQ3VV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+با آموزش استفاده از هیستریا 2 و وارپ در پنل S-UI و معرفی موارد جدید در خدمت شما هستیم و تو این ویدیو بهتون آموزش میدیم چطوری از Hysteria 2 در پنل S-UI استفاده کنید و همینطور چطوری از warp در خروجی پنل s-ui استفاده کنید.
+
+
+## هیستریا 2
+
+آموزش نصب پنل اختصاصی هیستریا 2 و ساخت کانفیگ مستقیم ضد فیلتر
+
+به راحتی فقط با داشتن یک سرور مجازی و یک دامنه میتونید یک پنل اختصاصی هیستریا 2 داشته باشید و کانفیگ از نوع هیستریا ورژن 2 بسازید.
+این کانفیگ ها در برابر فیلترینگ مقاوم و سرعت بسیار بالایی نیز دارند.
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1TqOc5t0_Ug?si=dzxEBy9YlIcKVsCt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## H-UI
 
 

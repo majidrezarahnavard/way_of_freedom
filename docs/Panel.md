@@ -555,3 +555,20 @@ https://x.com/kharabam666/status/1836207422538416516
 فروش کانفیگ با ربات و ربات فروش خودکار کانفیگ و اضافه کردن مدیر به x-ui و اینکه این پاراگراف چندی از کلمات کلیدی این ویدیو هستش :)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/x5oSs-eEPhY?si=3RGDNe_T-DaDUuj8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+##  مولتی لوکیشن سنایی با VPANEL پارت دوم -SIXTININELEARN 
+
+قا توی این ویدیو قراره که  پنل VPANEL  رو بهتون معرفی کنم که میتونین با ویژگی هایی که این پنل داره همیشه کاربراتون رو راضی نگه دارین و از قابلیت مولتی لوکیشن سنایی هم بهره مند بشین.
+
+خرید سرور مجازی ساعتی و ماهانه  / خرید CDN:
+https://novinserver.cloud
+
+کانال تلگرامی VPANEL:
+https://t.me/Vpanell
+
+👨‍💻 پشتیبانی و ثبت سفارش :
+
+https://t.me/Vpanelll
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4dtDFx5JrbE?si=WSlN9OgFRUWJge4S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -152,6 +152,19 @@ https://x.com/horizonbehind2/status/1834573752526389518
 https://threadreaderapp.com/thread/1827368756596895887.html
 
 
+## 📌 آموزش نصب و کانفیگ پنل هیستریا 2 با قابلیت های بسیار زیاد / Hysteria 2
+
+با آموزش نصب و کانفیگ پنل هیستریا 2 با قابلیت های بسیار زیاد در کنار ما باشید و از قابلیت های این پنل قدرتمند لذت ببرید.
+
+🔗 تماشا ویدیو در یوتیوب 👇👇
+https://youtu.be/u2bv15o7t6M
+🥇
+<iframe width="560" height="315" src="https://www.youtube.com/embed/u2bv15o7t6M?si=o2FQA2AX9RS486-B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+
+
+
 
 ##  آموزش نصب پنل وایرگارد فارسی همراه با ربات تلگرام 
 

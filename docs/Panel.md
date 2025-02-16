@@ -572,3 +572,30 @@ https://t.me/Vpanell
 https://t.me/Vpanelll
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4dtDFx5JrbE?si=WSlN9OgFRUWJge4S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+
+##  رمناویو یا  Remnawave
+
+یک پنل قدرتمند برای مدیریت پروکسی  بر پایه XRAY هست، که از پروتکل‌هایی مثل VLESS، XTLS، REALITY و ... پشتیبانی می‌کنه.
+
+http://github.com/remnawave/panel
+
+http://remna.st/installation/quick-start
+
+![pic](https://pbs.twimg.com/media/Gj0M75wWkAA8mVJ?format=jpg&name=small)
+
+https://x.com/ircfspace/status/1890682395294154833
+
+
+## backuper
+
+اسکریپت Backuper در بروزرسانی جدیدش امکان بکاپ خودکار از پنل S-UI رو اضافه کرده و می‌تونین فایل‌های بکاپ رو به‌طور زمانبندی‌شده روی جی‌میل دریافت کنین.
+
+http://github.com/erfjab/Backuper
+
+
+![pic](https://pbs.twimg.com/media/Gj0KmGhXgAAVf5U?format=png&name=small)
+
+https://x.com/ircfspace/status/1890679079923245517
+

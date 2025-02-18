@@ -599,3 +599,26 @@ http://github.com/erfjab/Backuper
 
 https://x.com/ircfspace/status/1890679079923245517
 
+
+
+##  راهنمای کامل پشتیبان‌گیری از پنل‌های سرور مجازی ویتوری   X-ui   S-ui   Hiddify 
+
+توی این ویدیو بهتون آموزش دادم تنها با یک اسکریپت از پنل های ساخت فیلترشکن مانند :
+ X-ui
+ S-ui
+ Hiddify
+ Marzneshin
+ Marzneshin Logs
+ Marzban
+ Marzban Logs
+ MirzaBot
+ WalBot
+ HolderBot
+به راحتی به صورت روزانه یا ساعتی بکاپ اتوماتیک بگیرید تا در مواقع ضرروی بتونید از این بکاپ استفاده کنید
+
+لینک گیتهاب سازنده :
+https://github.com/erfjab/Backuper
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZAJjknopqbY?si=p4nMlH4LkVdP_hC4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+

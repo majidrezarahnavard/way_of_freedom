@@ -36,6 +36,18 @@
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1095635860&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/toomajsalehi" title="Toomaj" target="_blank" style="color: #cccccc; text-decoration: none;">Toomaj</a> · <a href="https://soundcloud.com/toomajsalehi/soorakh-moosh" title="Soorakh Moosh" target="_blank" style="color: #cccccc; text-decoration: none;">Soorakh Moosh</a></div>
 
 
+## نسخه جدید (v7) اپ Oblivion منتشر شد! 🎉
+
+یه کوچولو UI رو تغییر دادیم
+قسمت لایسنس رو حذف کردیم (چون دیگه کار نمیکنه)
+هسته رو آپدیت کردیم
+و سعی کردیم چندتا باگ فیکس کنیم
+
+لطفاً از گوگل پلی نصب کنید 🫶
+
+https://x.com/markpash/status/1892585555180814700
+
+
 ## 2.47
 
 نسخه ۲.۴۷ از فیلترشکن #oblivionDesktop برای سیستم‌عامل‌های ویندوز، لینوکس و مک منتشر شد. 

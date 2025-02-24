@@ -949,3 +949,21 @@ https://www.youtube.com/watch?v=7YrRwCJQ-n0
 quic://unfiltered.adguard-dns.com
 
 https://x.com/tkamirparsa/status/1885388485185458332
+
+
+## راه‌اندازی DNS بر روی سرور شخصی به کمک AdGuardHome 
+
+![pic](https://pbs.twimg.com/media/Gkc3JBaWkAAQtEQ?format=png&name=small)
+
+Privacy protection center for you and your devices
+Free and open source, powerful network-wide ads & trackers blocking DNS server. 
+
+https://github.com/AdguardTeam/AdGuardHome
+
+ آموزش ساخت DNS شخصی روی سرور به صورت عددی 😍 
+
+ خوب با یه آموزش کاربردی به اسم آموزش ساخت DNS شخصی روی سرور به صورت عددی در خدمت شما هستیم و امیدواریم این آموزش هم بتونه براتون مفید باشه.
+
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/tEoknnehxwE?si=U217QAbwKUs-9kkq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+ 

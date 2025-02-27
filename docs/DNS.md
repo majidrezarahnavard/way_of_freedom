@@ -966,4 +966,15 @@ https://github.com/AdguardTeam/AdGuardHome
 
  <iframe width="560" height="315" src="https://www.youtube.com/embed/tEoknnehxwE?si=U217QAbwKUs-9kkq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
- 
+ ##  آموزش نصب و راه اندازی DNS Changer برای گیمرها و عبور از تحریم ها 
+
+
+آموزش نصب و راه اندازی DNS Changer برای گیمرها و عبور از تحریم ها
+یک برنامه بسیار کاربردی و جدید که با یک کلیک و به راحتی میتونید دی ان اس خودتون رو عوض کنید .
+دی ان اس باعث افزایش امنیت شما در اینترنت می شود
+دی ان اس باعث کاهش پینگ بازی و لگ در بازی می شود
+با استفاده از دی ان اس شما میتونید از تحریم ها عبور کنید و مثل یک حرفه ای در فضای مجازی فعالیت کنید.
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6cVBKLwuoB0?si=yvbmOw74Z3mXiuE7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+

@@ -1187,3 +1187,14 @@ https://x.com/ircfspace/status/1891866979079786934
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HteZFrF5gqg?si=vR_AlwL3eW4Pl5e6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
+##  آموزش تانل با OpenVPN و L2TP به صورت ریورس 🔥
+
+🟣با آموزش تانل با OpenVPN و L2TP به صورت ریورس در خدمت شما هستیم و امیدواریم از این آموزش نهایت استفاده را ببرید.
+
+🔗 تماشا ویدیو در یوتیوب 👇👇
+https://youtu.be/vbCFV1oBabI
+
+![pic](https://pbs.twimg.com/media/GkyNZwAXMAA_gBn?format=jpg&name=small)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vbCFV1oBabI?si=UVr3sFoW2j2W-Tk5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+

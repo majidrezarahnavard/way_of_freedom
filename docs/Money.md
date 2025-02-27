@@ -18,12 +18,9 @@ https://threadreaderapp.com/thread/1781953442065383859.html
 قبل از هر صحبتی بگم تمام روش ها دسترسی به اینترنت آزاد توی لینک های زیر هستند:
 
 
-یعنی کسی که فیلترشکن می فروشه یا کانفیگ رایگان استفاده میکنه داره از همین روش ها استفاده می کند و روش دیگری نیست.wayoffreedom.sbs
-filtershekan.sbs
+یعنی کسی که فیلترشکن می فروشه یا کانفیگ رایگان استفاده میکنه داره از همین روش ها استفاده می کند و روش دیگری نیست.
 
-روش های دسترسی به اینترنت آزاد
-مرجع کامل دسترسی به اینترنت آزاد در ایران. چگونه فیلترشکن بسازیم؟
-https://wayoffreedom.sbs/
+filtershekan.sbs
 
 https://github.com/majidrezarahnavard/way_of_freedom
 
@@ -42,7 +39,13 @@ https://github.com/majidrezarahnavard/way_of_freedom
 
 
 Proxy MTProto
-FAST MTPROTO PROXIES FOR TELEGRAM  DigitalResistance ADS: @Ads_ProxyMTProto Run your own MTProxy: https://github.com/TelegramMessenger/MTProxy
+
+FAST MTPROTO PROXIES FOR TELEGRAM  DigitalResistance 
+
+ADS: @Ads_ProxyMTProto Run your own MTProxy: https://github.com/
+
+TelegramMessenger/MTProxy
+
 https://t.me/ProxyMTProto
 
 ## دونیت
@@ -50,8 +53,6 @@ https://t.me/ProxyMTProto
 گروه دیگری هم هستند که مثل @yebekhe و @mahsanet بر پایه دونیت کار می کنند یعنی دیگران کانفیگ رو بهشون اهدا می کنند و اینا نظام رتبه بندی و امتیاز دهی بر اساس عملکرد دارند.
 
 جفت این بزرگواران هم نقش مهمی در برقراری اینترنت آزاد دارند 🙏. 
-
- دونیت
 
 دونیت در ایران به دلیل مسایل اقتصادی و اجتماعی و سیاسی بسیار ضعف دارد و اصولا مردم ایران افرادی نیستند که تمایل به دونیت باشند و این قاعده به ارسال کمک برای اینترنت آزاد محدود نمیشود. 
 ## فروش فیلترشکن دولتی
@@ -75,10 +76,11 @@ https://t.me/ProxyMTProto
 لیست روش هاشون ایناست معمولا:
 
 
+https://filtershekan.sbs/Internal_Server/
 
-filtershekan.sbs/Internal_Serve…
-filtershekan.sbs/Worker/
-filtershekan.sbs/DNS/
+https://filtershekan.sbs/Worker/
+
+https://filtershekan.sbs/DNS/
 
 https://filtershekan.sbs/Warp/
 

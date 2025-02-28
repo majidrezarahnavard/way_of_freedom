@@ -972,7 +972,7 @@
             <header class="entry-header">
                 <div class="entry-thumbnail">
                     <img alt="Money"
-                        src="https://raw.githubusercontent.com/majidrezarahnavard/way_of_freedom_media/refs/heads/main/source/YzA4MmYx5lu8.jpg" />
+                        src="https://raw.githubusercontent.com/majidrezarahnavard/way_of_freedom_media/refs/heads/main/source/26017.jpg" />
                 </div>
                 <h2 class="my_title">اقتصاد فیلترشکن</h2>
                 <p class="my_text">

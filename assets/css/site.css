@@ -1,0 +1,119 @@
+@font-face {
+    font-family: Vazirmatn RD;
+    src: url(docs/assets/webfonts/Vazirmatn-RD-Thin.woff2) format("woff2");
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap
+}
+
+@font-face {
+    font-family: Vazirmatn RD;
+    src: url(docs/assets/webfonts/Vazirmatn-RD-ExtraLight.woff2) format("woff2");
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap
+}
+
+@font-face {
+    font-family: Vazirmatn RD;
+    src: url(docs/assets/webfonts/Vazirmatn-RD-Light.woff2) format("woff2");
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap
+}
+
+@font-face {
+    font-family: Vazirmatn RD;
+    src: url(docs/assets/webfonts/Vazirmatn-RD-Regular.woff2) format("woff2");
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap
+}
+
+@font-face {
+    font-family: Vazirmatn RD;
+    src: url(docs/assets/webfonts/Vazirmatn-RD-Medium.woff2) format("woff2");
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap
+}
+
+@font-face {
+    font-family: Vazirmatn RD;
+    src: url(docs/assets/webfonts/Vazirmatn-RD-SemiBold.woff2) format("woff2");
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap
+}
+
+@font-face {
+    font-family: Vazirmatn RD;
+    src: url(docs/assets/webfonts/Vazirmatn-RD-Bold.woff2) format("woff2");
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap
+}
+
+@font-face {
+    font-family: Vazirmatn RD;
+    src: url(docs/assets/webfonts/Vazirmatn-RD-ExtraBold.woff2) format("woff2");
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap
+}
+
+@font-face {
+    font-family: Vazirmatn RD;
+    src: url(docs/assets/webfonts/Vazirmatn-RD-Black.woff2) format("woff2");
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap
+}
+
+
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.my_text {
+    font-weight: normal;
+    font-size: small;
+    padding: 0 10px;
+    text-align: center;
+}
+
+h2.my_title {
+    text-align: center;
+    padding: 10px;
+    margin: 0px !important;
+}
+
+.grid h3 {
+    margin: 0px !important;
+}
+
+.grid a img {
+    height: 150px;
+    width: 100%;
+    border-radius: 8px;
+    padding: 0.5em;
+    transition: 0.3s;
+    box-sizing: border-box;
+}
+
+.grid a img:hover {
+    transform: scale(1.05) rotate(3deg);
+    box-shadow: 0 10px 20px rgba(255, 255, 255, 0.2);
+}
+
+.grid a {
+    margin-bottom: 50px;
+}
+@media (min-width:600px) {
+    .grid a {
+        width: 33%;
+    }
+}

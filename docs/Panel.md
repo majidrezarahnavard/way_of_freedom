@@ -111,6 +111,18 @@ https://youtu.be/-wOtg_JFHrM
 https://www.youtube.com/watch?v=UmdJAg8Zmh4
 
 
+## مقاله‌ی جدید عمیق‌تر در پنل S-UI
+
+راه‌اندازی WARP
+اضافه‌کردن Domain
+کاربرد Rules و Routing
+ساخت Family-safe VPN
+(محتوای امن برای خانواده و فرزندان)
+
+
+https://ivpn.pro/how-to/s-ui-panel-warp-domain-rule-routing/
+
+
 ## نسخه ۱.۲ از پنل S-UI 
 
 

@@ -42,7 +42,7 @@ if (!(fileUrl.split("/").pop() == "index.md")) {
 
 
 
-    document.getElementsByClassName("md-main")[0].appendChild(downloadDiv);
+    document.getElementsByClassName("md-content__inner md-typeset")[0].appendChild(downloadDiv);
 }
 
 

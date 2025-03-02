@@ -116,12 +116,12 @@ h2.my_title {
     transition: 0.5s;
 }
 
-.entry-header {
+.post .entry-header {
     padding: 0;
     text-align: center;
 }
 
-.entry-thumbnail img {
+.post .entry-thumbnail img {
     height: 150px;
     width: 100%;
     object-fit: cover;
@@ -163,9 +163,9 @@ h2.my_title {
     border-radius: 8px;
 }
 
-.md-nav__icon.md-icon {
+/* .md-nav__icon.md-icon {
     margin-right: auto;
-}
+} */
 
 @media (max-width:600px) {
     .grid .post {

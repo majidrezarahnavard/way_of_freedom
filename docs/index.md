@@ -51,12 +51,12 @@
 
 <div class="grid">
     <h3 style="width:100%;">روش های موثر</h3>
-    <a href="Best">
+    <a href="Best" class="post">
         <article class="hentry">
             <header class="entry-header">
                 <div class="entry-thumbnail">
                     <img alt="Best"
-                        src="https://raw.githubusercontent.com/majidrezarahnavard/way_of_freedom_media/refs/heads/main/source/best-of-the-best-image.png" />
+                        src="https://raw.githubusercontent.com/majidrezarahnavard/way_of_freedom_media/refs/heads/main/source/best-of-the-best-image.png" class="logo"/>
                 </div>
                 <h2 class="my_title">Best</h2>
                 <p class="my_text">
@@ -65,7 +65,7 @@
             </header>
         </article>
     </a>
-    <a href="Working_Now">
+    <a href="Working_Now" class="post">
         <article class="hentry">
             <header class="entry-header">
                 <div class="entry-thumbnail">
@@ -79,7 +79,7 @@
             </header>
         </article>
     </a>
-    <a href="Critical_Situation">
+    <a href="Critical_Situation" class="post">
         <article class="hentry">
             <header class="entry-header">
                 <div class="entry-thumbnail">
@@ -93,7 +93,7 @@
             </header>
         </article>
     </a>
-    <a href="Direct">
+    <a href="Direct" class="post">
         <article class="hentry">
             <header class="entry-header">
                 <div class="entry-thumbnail">
@@ -107,7 +107,7 @@
             </header>
         </article>
     </a>
-    <a href="Internal_Server">
+    <a href="Internal_Server" class="post">
         <article class="hentry">
             <header class="entry-header">
                 <div class="entry-thumbnail">
@@ -121,7 +121,7 @@
             </header>
         </article>
     </a>
-    <a href="Starlink">
+    <a href="Starlink" class="post">
         <article class="hentry">
             <header class="entry-header">
                 <div class="entry-thumbnail">
@@ -137,7 +137,7 @@
     </a>
     <!-- DNS -->
     <h3 style="width:100%;">DNS</h3>
-    <a href="DNS">
+    <a href="DNS" class="post">
         <article class="hentry">
             <header class="entry-header">
                 <div class="entry-thumbnail">
@@ -151,7 +151,7 @@
             </header>
         </article>
     </a>
-    <a href="AzadiDNS">
+    <a href="AzadiDNS" class="post">
         <article class="hentry">
             <header class="entry-header">
                 <div class="entry-thumbnail">
@@ -165,12 +165,12 @@
             </header>
         </article>
     </a>
-    <a href="Tahrimshecan">
+    <a href="Tahrimshecan" class="post">
         <article class="hentry">
             <header class="entry-header">
                 <div class="entry-thumbnail">
                     <img alt="Tahrimshecan"
-                        src="https://raw.githubusercontent.com/majidrezarahnavard/way_of_freedom_media/refs/heads/main/source/logo_title.png" />
+                        src="https://raw.githubusercontent.com/majidrezarahnavard/way_of_freedom_media/refs/heads/main/source/logo_title.png" class="logo"/>
                 </div>
                 <h2 class="my_title">تحریم شکن</h2>
                 <p class="my_text">
@@ -181,12 +181,12 @@
     </a>
     <!-- ورکرها -->
     <h3 style="width:100%;">ورکرها</h3>
-    <a href="BPB">
+    <a href="BPB" class="post">
         <article class="hentry">
             <header class="entry-header">
                 <div class="entry-thumbnail">
                     <img alt="BPB"
-                        src="https://raw.githubusercontent.com/majidrezarahnavard/way_of_freedom_media/refs/heads/main/source/155004885?v=4" />
+                        src="https://raw.githubusercontent.com/majidrezarahnavard/way_of_freedom_media/refs/heads/main/source/155004885?v=4" class="logo"/>
                 </div>
                 <h2 class="my_title">پنل BPB</h2>
                 <p class="my_text">
@@ -195,7 +195,7 @@
             </header>
         </article>
     </a>
-    <a href="Worker">
+    <a href="Worker" class="post">
         <article class="hentry">
             <header class="entry-header">
                 <div class="entry-thumbnail">
@@ -209,7 +209,7 @@
             </header>
         </article>
     </a>
-    <a href="CloudFlare">
+    <a href="CloudFlare" class="post">
         <article class="hentry">
             <header class="entry-header">
                 <div class="entry-thumbnail">
@@ -225,7 +225,7 @@
     </a>
     <!-- راه اندازی سرور -->
     <h3 style="width:100%;">راه اندازی سرور</h3>
-    <a href="Buy">
+    <a href="Buy" class="post">
         <article class="hentry">
             <header class="entry-header">
                 <div class="entry-thumbnail">
@@ -239,7 +239,7 @@
             </header>
         </article>
     </a>
-    <a href="Config_Server">
+    <a href="Config_Server" class="post">
         <article class="hentry">
             <header class="entry-header">
                 <div class="entry-thumbnail">
@@ -253,7 +253,7 @@
             </header>
         </article>
     </a>
-    <a href="Panel">
+    <a href="Panel" class="post">
         <article class="hentry">
             <header class="entry-header">
                 <div class="entry-thumbnail">
@@ -267,7 +267,7 @@
             </header>
         </article>
     </a>
-    <a href="Security">
+    <a href="Security" class="post">
         <article class="hentry">
             <header class="entry-header">
                 <div class="entry-thumbnail">
@@ -281,7 +281,7 @@
             </header>
         </article>
     </a>
-    <a href="Home_Server">
+    <a href="Home_Server" class="post">
         <article class="hentry">
             <header class="entry-header">
                 <div class="entry-thumbnail">
@@ -295,7 +295,7 @@
             </header>
         </article>
     </a>
-    <a href="Oracle">
+    <a href="Oracle" class="post">
         <article class="hentry">
             <header class="entry-header">
                 <div class="entry-thumbnail">
@@ -311,12 +311,12 @@
     </a>
     <!-- CDN -->
     <h3 style="width:100%;">CDN</h3>
-    <a href="Fastly">
+    <a href="Fastly" class="post">
         <article class="hentry">
             <header class="entry-header">
                 <div class="entry-thumbnail">
                     <img alt="Fastly"
-                        src="https://raw.githubusercontent.com/majidrezarahnavard/way_of_freedom_media/refs/heads/main/source/220px-Fastly_logo.svg.png" />
+                        src="https://raw.githubusercontent.com/majidrezarahnavard/way_of_freedom_media/refs/heads/main/source/220px-Fastly_logo.svg.png" class="logo"/>
                 </div>
                 <h2 class="my_title">Fastly</h2>
                 <p class="my_text">
@@ -325,12 +325,12 @@
             </header>
         </article>
     </a>
-    <a href="Gcore">
+    <a href="Gcore" class="post">
         <article class="hentry">
             <header class="entry-header">
                 <div class="entry-thumbnail">
                     <img alt="Gcore"
-                        src="https://raw.githubusercontent.com/majidrezarahnavard/way_of_freedom_media/refs/heads/main/source/Gcore_Logo.jpg?w=200" />
+                        src="https://raw.githubusercontent.com/majidrezarahnavard/way_of_freedom_media/refs/heads/main/source/Gcore_Logo.jpg?w=200" class="logo"/>
                 </div>
                 <h2 class="my_title">Gcore</h2>
                 <p class="my_text">
@@ -341,7 +341,7 @@
     </a>
     <!--دسته بندی ساخت نرم افزار ها-->
     <h3 style="width:100%;">نرم افزار ها</h3>
-    <a href="Oblivion">
+    <a href="Oblivion" class="post">
         <article class="hentry">
             <header class="entry-header">
                 <div class="entry-thumbnail">
@@ -355,7 +355,7 @@
             </header>
         </article>
     </a>
-    <a href="Application">
+    <a href="Application" class="post">
         <article class="hentry">
             <header class="entry-header">
                 <div class="entry-thumbnail">
@@ -369,7 +369,7 @@
             </header>
         </article>
     </a>
-    <a href="Free">
+    <a href="Free" class="post">
         <article class="hentry">
             <header class="entry-header">
                 <div class="entry-thumbnail">
@@ -383,12 +383,12 @@
             </header>
         </article>
     </a>
-    <a href="Hiddify">
+    <a href="Hiddify" class="post">
         <article class="hentry">
             <header class="entry-header">
                 <div class="entry-thumbnail">
                     <img alt="Hiddify"
-                        src="https://raw.githubusercontent.com/majidrezarahnavard/way_of_freedom_media/refs/heads/main/source/227777845-a4d0f86b-faa2-4f2b-a410-4aa5f68bfe19.png" />
+                        src="https://raw.githubusercontent.com/majidrezarahnavard/way_of_freedom_media/refs/heads/main/source/227777845-a4d0f86b-faa2-4f2b-a410-4aa5f68bfe19.png" class="logo"/>
                 </div>
                 <h2 class="my_title">Hiddify</h2>
                 <p class="my_text">
@@ -397,7 +397,7 @@
             </header>
         </article>
     </a>
-    <a href="Donate">
+    <a href="Donate" class="post">
         <article class="hentry">
             <header class="entry-header">
                 <div class="entry-thumbnail">
@@ -411,7 +411,7 @@
             </header>
         </article>
     </a>
-    <a href="Singbox">
+    <a href="Singbox" class="post">
         <article class="hentry">
             <header class="entry-header">
                 <div class="entry-thumbnail">
@@ -425,7 +425,7 @@
             </header>
         </article>
     </a>
-    <a href="Clients">
+    <a href="Clients" class="post">
         <article class="hentry">
             <header class="entry-header">
                 <div class="entry-thumbnail">
@@ -441,7 +441,7 @@
     </a>
     <!-- پروتکل های رمزنگاری -->
     <h3 style="width:100%;">پروتکل های مختلف</h3>
-    <a href="Xhttp">
+    <a href="Xhttp" class="post">
         <article class="hentry">
             <header class="entry-header">
                 <div class="entry-thumbnail">
@@ -455,7 +455,7 @@
             </header>
         </article>
     </a>
-    <a href="OpenVPN">
+    <a href="OpenVPN" class="post">
         <article class="hentry">
             <header class="entry-header">
                 <div class="entry-thumbnail">
@@ -469,12 +469,12 @@
             </header>
         </article>
     </a>
-    <a href="Telegram">
+    <a href="Telegram" class="post">
         <article class="hentry">
             <header class="entry-header">
                 <div class="entry-thumbnail">
                     <img alt="Telegram"
-                        src="https://raw.githubusercontent.com/majidrezarahnavard/way_of_freedom_media/refs/heads/main/source/121px-Telegram_2019_Logo.svg.png" />
+                        src="https://raw.githubusercontent.com/majidrezarahnavard/way_of_freedom_media/refs/heads/main/source/121px-Telegram_2019_Logo.svg.png" class="logo"/>
                 </div>
                 <h2 class="my_title">Telegram</h2>
                 <p class="my_text">
@@ -483,7 +483,7 @@
             </header>
         </article>
     </a>
-    <a href="Brook">
+    <a href="Brook" class="post">
         <article class="hentry">
             <header class="entry-header">
                 <div class="entry-thumbnail">
@@ -497,12 +497,12 @@
             </header>
         </article>
     </a>
-    <a href="Wireguard">
+    <a href="Wireguard" class="post">
         <article class="hentry">
             <header class="entry-header">
                 <div class="entry-thumbnail">
                     <img alt="Wireguard"
-                        src="https://raw.githubusercontent.com/majidrezarahnavard/way_of_freedom_media/refs/heads/main/source/tixGgVipnsaKeGQzykJfgSEhUc_YYMSsr3gwBuPTpXb2F1BKPVzv5OxfCrpS8OAXXh8" />
+                        src="https://raw.githubusercontent.com/majidrezarahnavard/way_of_freedom_media/refs/heads/main/source/tixGgVipnsaKeGQzykJfgSEhUc_YYMSsr3gwBuPTpXb2F1BKPVzv5OxfCrpS8OAXXh8" class="logo"/>
                 </div>
                 <h2 class="my_title">Wireguard</h2>
                 <p class="my_text">
@@ -511,7 +511,7 @@
             </header>
         </article>
     </a>
-    <a href="Warp">
+    <a href="Warp" class="post">
         <article class="hentry">
             <header class="entry-header">
                 <div class="entry-thumbnail">
@@ -525,7 +525,7 @@
             </header>
         </article>
     </a>
-    <a href="IPV6">
+    <a href="IPV6" class="post">
         <article class="hentry">
             <header class="entry-header">
                 <div class="entry-thumbnail">
@@ -539,7 +539,7 @@
             </header>
         </article>
     </a>
-    <a href="VPNhood">
+    <a href="VPNhood" class="post">
         <article class="hentry">
             <header class="entry-header">
                 <div class="entry-thumbnail">
@@ -553,7 +553,7 @@
             </header>
         </article>
     </a>
-    <a href="UDP">
+    <a href="UDP" class="post">
         <article class="hentry">
             <header class="entry-header">
                 <div class="entry-thumbnail">
@@ -567,7 +567,7 @@
             </header>
         </article>
     </a>
-    <a href="Cloak">
+    <a href="Cloak" class="post">
         <article class="hentry">
             <header class="entry-header">
                 <div class="entry-thumbnail">
@@ -581,12 +581,12 @@
             </header>
         </article>
     </a>
-    <a href="Bepass">
+    <a href="Bepass" class="post">
         <article class="hentry">
             <header class="entry-header">
                 <div class="entry-thumbnail">
                     <img alt="Bepass"
-                        src="https://raw.githubusercontent.com/majidrezarahnavard/way_of_freedom_media/refs/heads/main/source/146542574?s=200&amp;v=4" />
+                        src="https://raw.githubusercontent.com/majidrezarahnavard/way_of_freedom_media/refs/heads/main/source/146542574?s=200&amp;v=4" class="logo"/>
                 </div>
                 <h2 class="my_title">Bepass</h2>
                 <p class="my_text">
@@ -597,12 +597,12 @@
     </a>
     <!--دسته بندی امنیت در اینترنت، نرم افزار ها-->
     <h3 style="width:100%;">امنیت در اینترنت</h3>
-    <a href="Twitter">
+    <a href="Twitter" class="post">
         <article class="hentry">
             <header class="entry-header">
                 <div class="entry-thumbnail">
                     <img alt="Twitter"
-                        src="https://raw.githubusercontent.com/majidrezarahnavard/way_of_freedom_media/refs/heads/main/source/Twitter-New-Logo-X-2023-.jpg" />
+                        src="https://raw.githubusercontent.com/majidrezarahnavard/way_of_freedom_media/refs/heads/main/source/Twitter-New-Logo-X-2023-.jpg" class="logo"/>
                 </div>
                 <h2 class="my_title">اختفا در توییتر</h2>
                 <p class="my_text">
@@ -611,12 +611,12 @@
             </header>
         </article>
     </a>
-    <a href="Whatsapp">
+    <a href="Whatsapp" class="post">
         <article class="hentry">
             <header class="entry-header">
                 <div class="entry-thumbnail">
                     <img alt="Twitter"
-                        src="https://raw.githubusercontent.com/majidrezarahnavard/way_of_freedom_media/refs/heads/main/source/WhatsApp.svg" />
+                        src="https://raw.githubusercontent.com/majidrezarahnavard/way_of_freedom_media/refs/heads/main/source/WhatsApp.svg" class="logo"/>
                 </div>
                 <h2 class="my_title">واتس اپ</h2>
                 <p class="my_text">
@@ -625,12 +625,12 @@
             </header>
         </article>
     </a>
-    <a href="Protection">
+    <a href="Protection" class="post">
         <article class="hentry">
             <header class="entry-header">
                 <div class="entry-thumbnail">
                     <img alt="Protection"
-                        src="https://raw.githubusercontent.com/majidrezarahnavard/way_of_freedom_media/refs/heads/main/source/information-protection-governance.svg" />
+                        src="https://raw.githubusercontent.com/majidrezarahnavard/way_of_freedom_media/refs/heads/main/source/information-protection-governance.svg" class="logo"/>
                 </div>
                 <h2 class="my_title">حفاظت اطلاعات</h2>
                 <p class="my_text">
@@ -641,7 +641,7 @@
     </a>
     <!--دسته بندی تمامی آموزش ها دانشنامه-->
     <h3 style="width:100%;">آموزش ها</h3>
-    <a href="Knowledge_Base">
+    <a href="Knowledge_Base" class="post">
         <article class="hentry">
             <header class="entry-header">
                 <div class="entry-thumbnail">
@@ -655,7 +655,7 @@
             </header>
         </article>
     </a>
-    <a href="ISegaro">
+    <a href="ISegaro" class="post">
         <article class="hentry">
             <header class="entry-header">
                 <div class="entry-thumbnail">
@@ -669,7 +669,7 @@
             </header>
         </article>
     </a>
-    <a href="Primary">
+    <a href="Primary" class="post">
         <article class="hentry">
             <header class="entry-header">
                 <div class="entry-thumbnail">
@@ -683,7 +683,7 @@
             </header>
         </article>
     </a>
-    <a href="Network">
+    <a href="Network" class="post">
         <article class="hentry">
             <header class="entry-header">
                 <div class="entry-thumbnail">
@@ -697,12 +697,12 @@
             </header>
         </article>
     </a>
-    <a href="Xray">
+    <a href="Xray" class="post">
         <article class="hentry">
             <header class="entry-header">
                 <div class="entry-thumbnail">
                     <img alt="Xray"
-                        src="https://raw.githubusercontent.com/majidrezarahnavard/way_of_freedom_media/refs/heads/main/source/cover.jpg" />
+                        src="https://raw.githubusercontent.com/majidrezarahnavard/way_of_freedom_media/refs/heads/main/source/cover.jpg" class="logo"/>
                 </div>
                 <h2 class="my_title">Xray</h2>
                 <p class="my_text">
@@ -713,7 +713,7 @@
     </a>
     <!--دیتا سایت-->
     <h3 style="width:100%;">دسترسی به اطلاعات سایت</h3>
-    <a href="https://filtershekan.sbs/search/search_index.json">
+    <a href="https://filtershekan.sbs/search/search_index.json" class="post">
         <article class="hentry">
             <header class="entry-header">
                 <div class="entry-thumbnail">
@@ -727,7 +727,7 @@
             </header>
         </article>
     </a>
-    <a href="LLM">
+    <a href="LLM" class="post">
         <article class="hentry">
             <header class="entry-header">
                 <div class="entry-thumbnail">
@@ -741,7 +741,7 @@
             </header>
         </article>
     </a>
-    <a href="https://filtershekan.sbs/sitemap.xml">
+    <a href="https://filtershekan.sbs/sitemap.xml" class="post">
         <article class="hentry">
             <header class="entry-header">
                 <div class="entry-thumbnail">
@@ -755,7 +755,7 @@
             </header>
         </article>
     </a>
-    <a href="https://github.com/majidrezarahnavard/way_of_freedom/commits/main/">
+    <a href="https://github.com/majidrezarahnavard/way_of_freedom/commits/main/" class="post">
         <article class="hentry">
             <header class="entry-header">
                 <div class="entry-thumbnail">
@@ -769,12 +769,13 @@
             </header>
         </article>
     </a>
-    <a href="https://www.google.com/search?q=site:http://filtershekan.sbs">
+    <a href="https://www.google.com/search?q=site:http://filtershekan.sbs" class="post">
         <article class="hentry">
             <header class="entry-header">
                 <div class="entry-thumbnail">
                     <img
-                        src="https://raw.githubusercontent.com/majidrezarahnavard/way_of_freedom_media/refs/heads/main/source/googlelogo_color_272x92dp.png" />
+                        src="https://raw.githubusercontent.com/majidrezarahnavard/way_of_freedom_media/refs/heads/main/source/googlelogo_color_272x92dp.png" 
+                         class="logo" />
                 </div>
                 <h2 class="my_title">سرچ از گوگل</h2>
                 <p class="my_text">
@@ -783,12 +784,12 @@
             </header>
         </article>
     </a>
-    <a href="https://github.com/search?q=repo%3Amajidrezarahnavard%2Fway_of_freedom%20dns&amp;type=code">
+    <a href="https://github.com/search?q=repo%3Amajidrezarahnavard%2Fway_of_freedom%20dns&amp;type=code"  class="post">
         <article class="hentry">
             <header class="entry-header">
                 <div class="entry-thumbnail">
                     <img
-                        src="https://raw.githubusercontent.com/majidrezarahnavard/way_of_freedom_media/refs/heads/main/source/github-logo-vector.png" />
+                        src="https://raw.githubusercontent.com/majidrezarahnavard/way_of_freedom_media/refs/heads/main/source/github-logo-vector.png" class="logo"/>
                 </div>
                 <h2 class="my_title">سرچ از github</h2>
                 <p class="my_text">
@@ -799,7 +800,7 @@
     </a>
     <!--دسته بندی بقیه مقالات موجود در صفحه اصلی-->
     <h3 style="width:100%;">دیگر مقالات</h3>
-    <a href="Proxy_Chain">
+    <a href="Proxy_Chain" class="post">
         <article class="hentry">
             <header class="entry-header">
                 <div class="entry-thumbnail">
@@ -813,7 +814,7 @@
             </header>
         </article>
     </a>
-    <a href="Experience">
+    <a href="Experience" class="post">
         <article class="hentry">
             <header class="entry-header">
                 <div class="entry-thumbnail">
@@ -827,7 +828,7 @@
             </header>
         </article>
     </a>
-    <a href="Record">
+    <a href="Record" class="post">
         <article class="hentry">
             <header class="entry-header">
                 <div class="entry-thumbnail">
@@ -841,7 +842,7 @@
             </header>
         </article>
     </a>
-    <a href="Converter">
+    <a href="Converter" class="post">
         <article class="hentry">
             <header class="entry-header">
                 <div class="entry-thumbnail">
@@ -855,12 +856,12 @@
             </header>
         </article>
     </a>
-    <a href="Subscribe">
+    <a href="Subscribe" class="post">
         <article class="hentry">
             <header class="entry-header">
                 <div class="entry-thumbnail">
                     <img alt="Subscribe"
-                        src="https://raw.githubusercontent.com/majidrezarahnavard/way_of_freedom_media/refs/heads/main/source/youtube-subscribe-png.png" />
+                        src="https://raw.githubusercontent.com/majidrezarahnavard/way_of_freedom_media/refs/heads/main/source/youtube-subscribe-png.png" class="logo"/>
                 </div>
                 <h2 class="my_title">Subscribe</h2>
                 <p class="my_text">
@@ -869,7 +870,7 @@
             </header>
         </article>
     </a>
-    <a href="Tips">
+    <a href="Tips" class="post">
         <article class="hentry">
             <header class="entry-header">
                 <div class="entry-thumbnail">
@@ -883,7 +884,7 @@
             </header>
         </article>
     </a>
-    <a href="People">
+    <a href="People" class="post">
         <article class="hentry">
             <header class="entry-header">
                 <div class="entry-thumbnail">
@@ -897,7 +898,7 @@
             </header>
         </article>
     </a>
-    <a href="Fund">
+    <a href="Fund" class="post">
         <article class="hentry">
             <header class="entry-header">
                 <div class="entry-thumbnail">
@@ -911,7 +912,7 @@
             </header>
         </article>
     </a>
-    <a href="Research">
+    <a href="Research" class="post">
         <article class="hentry">
             <header class="entry-header">
                 <div class="entry-thumbnail">
@@ -925,7 +926,7 @@
             </header>
         </article>
     </a>
-    <a href="Yebekhe">
+    <a href="Yebekhe" class="post">
         <article class="hentry">
             <header class="entry-header">
                 <div class="entry-thumbnail">
@@ -939,7 +940,7 @@
             </header>
         </article>
     </a>
-    <a href="Page_4n0nymou3">
+    <a href="Page_4n0nymou3" class="post">
         <article class="hentry">
             <header class="entry-header">
                 <div class="entry-thumbnail">
@@ -953,7 +954,7 @@
             </header>
         </article>
     </a>
-    <a href="Iran_Ip">
+    <a href="Iran_Ip" class="post">
         <article class="hentry">
             <header class="entry-header">
                 <div class="entry-thumbnail">
@@ -967,7 +968,7 @@
             </header>
         </article>
     </a>
-    <a href="Money">
+    <a href="Money" class="post">
         <article class="hentry">
             <header class="entry-header">
                 <div class="entry-thumbnail">
@@ -981,7 +982,7 @@
             </header>
         </article>
     </a>
-    <a href="Fragment">
+    <a href="Fragment" class="post">
         <article class="hentry">
             <header class="entry-header">
                 <div class="entry-thumbnail">
@@ -995,7 +996,7 @@
             </header>
         </article>
     </a>
-    <a href="Film">
+    <a href="Film" class="post">
         <article class="hentry">
             <header class="entry-header">
                 <div class="entry-thumbnail">
@@ -1009,7 +1010,7 @@
             </header>
         </article>
     </a>
-    <a href="Other">
+    <a href="Other" class="post">
         <article class="hentry">
             <header class="entry-header">
                 <div class="entry-thumbnail">

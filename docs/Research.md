@@ -522,3 +522,48 @@ https://x.com/alireza_ahmadi/status/1884794977789587717
 انتشار اینترنت افراد خاص بین گروهی از مردم
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3_K8rjy-gdI?si=VHSXzDl7AISE02gy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+## I(ra)nconsistencies: Novel Insights into Iran’s Censorship
+
+https://github.com/user-attachments/files/18816369/I.ra.nconsistencies.-.Novel.Insights.into.Iran.s.Censorship-EN.pdf
+
+https://github.com/user-attachments/files/18821572/I.ra.nconsistencies.-.Novel.Insights.into.Iran.s.Censorship-FA.pdf
+
+
+https://github.com/net4people/bbs/issues/451
+
+For Persian and Iranian Readers 🇮🇷
+Attached is the translated version of the paper published by FOCI Community, specifically highlighting the section on Iran’s Censorship – Novel Insights into Inconsistencies.
+
+Additionally, an online workshop will be held on February 20, 2025, covering this topic in depth. This translation is provided for those who are interested but may not be able to attend the event.
+
+For reference, the original paper is also attached.
+
+I(ra)nconsistencies: Novel Insights into IRAN’s Censorship
+
+برای خوانندگان ایرانی و فارسی زبان 🇮🇷
+نسخه ترجمه شده به زبان فارسی برگرفته از مقاله‌ای که توسط انجمن FOCI منتشر شده است و بخش ترجمه شده از این مقاله که تمرکز بر روی سانسور در ایران و نگاهی نوین به ناسازگاری‌ها در روش‌های فیلترینگ را بررسی و تحلیل می‌کند.
+
+همچنین یک کنفرانس در این زمینه و زمینه‌های دیگر که در مقاله اصلی به آنها اشاره شده است در تاریخ ۲۰ فوریه ۲۰۲۵ به صورت آنلاین و کاملاً رایگان برای عموم تهیه دیده شده که در صورت علاقه‌مندی می‌توانید به صورت زنده به این کنفرانس ملحق شوید.
+
+https://github.com/net4people/bbs/issues/450
+
+https://www.petsymposium.org/foci/2025/
+
+
+Iran employs one of the most prominent Internet censors in the
+world. An important part of Iran’s censorship apparatus is its anal-
+ysis of unencrypted protocols such as HTTP and DNS. During rou-
+tine evaluations of Iran’s HTTP and DNS censorship, we noticed
+several properties we believe to be unknown today. For instance,
+we found injections of correct static IPs for some domains such
+as http://google.com on the DNS level, unclear HTTP version parsing,
+and correlations between DNS and HTTP censorship. In this paper,
+we present our findings to the community and discuss possible
+takeaways for affected people and the censorship circumvention
+community. As some of our findings left us bewildered, we hope
+to ignite a discussion about Iran’s censorship behavior. We aim to
+use the discussion of our work to execute a thorough analysis and
+explanation of Iran’s censorship behavior in the future.
+

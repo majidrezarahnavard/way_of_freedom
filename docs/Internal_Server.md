@@ -1175,6 +1175,16 @@ http://github.com/Sir-MmD/RTX-VPN
 https://x.com/ircfspace/status/1891866979079786934
 
 
+## RTX-VPN version 2
+
+نسخه ۲ از اسکریپت RTX-VPN منتشر شد و حالا علاوه بر L2TP/OpenVPN از پروتکل SSTP هم پشتیبانی می‌کنه.
+این اسکریپت با استفاده از Xray-Core و Rathole یه تانل Reverse می‌سازه، که باعث می‌شه ترافیک L2TP/OpenVPN/SSTP مثل یه اتصال عادی به‌نظر بیاد.
+
+![pic](https://pbs.twimg.com/media/GlIIV6iW0AA3DO8?format=jpg&name=small)
+
+https://github.com/Sir-MmD/RTX-VPN
+
+
 
 ##  آموزش ضد فیلتر کردن لینک سابسکرایب و… با کمک کلودفلر🔥 
 

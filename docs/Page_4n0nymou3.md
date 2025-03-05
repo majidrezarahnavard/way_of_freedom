@@ -83,7 +83,6 @@ https://raw.githubusercontent.com/4n0nymou3/wg-config-fetcher/refs/heads/main/co
 
 دریافت و به‌روزرسانی کانفیگ‌های WireGuard:
 - 10 کانفیگ اخیر از کانال GFW-KNOCKER
-- پشتیبانی از پروتکل‌های مختلف
 
 ---
 

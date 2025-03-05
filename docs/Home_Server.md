@@ -449,3 +449,30 @@ https://www.youtube.com/watch?v=pY2G49Ae8Nw
 💡 اگر ایده‌ای دارید و دوست دارید در نسخه‌های بعدی ببینید، حتماً به ما اطلاع بدید! شما می‌تونید نقش مهمی توی توسعه این ابزار داشته باشید.
 
 https://x.com/joinNASNET/status/1886773136663687477
+
+##  نصب پنل سینگ باکس S-UI در میکروتیک به شیو جدید با ایمیج داکر| sing-box 
+
+
+امروز  پنل سینگ باکس علیرضا S-UI به شیو جدید بدون دامین رو در میکروتیک  مستقیم با ایمیج داکر نصب میکنیم
+بسیار سبک و روان اجرا میشه و با همه نتها هم سازگار هست
+--------
+/interface/bridge/add name=dockers
+/ip/address/add address=172.17.0.1/24 interface=dockers
+/interface/veth/add name=veth1 address=172.17.0.2/24 gateway=172.17.0.1
+/interface/bridge/port add bridge=dockers interface=veth1
+/ip/firewall/nat/add chain=srcnat action=masquerade src-address=172.17.0.0/24
+
+/container/config/set registry-url=https://registry-1.docker.io tmpdir=pull
+Mounts
+src:/sui/db
+dst:/app/db
+
+Docker image : alireza7/s-ui:latest
+
+Nat Panel&sub&inbound Port To Panel
+
+panel port:2095
+user&pass:admin
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P-y5rIpWUxc?si=1MvkEiwwaPdC2as0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+

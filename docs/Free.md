@@ -893,3 +893,12 @@ https://t.me/mehdisedighinasab
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tcb0P2NPMCM?si=mBAToqjZRNfZ09XK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 https://t.me/mehdisedighinasab/4489
+
+
+## ساب لینک
+
+https://raw.githubusercontent.com/tkamirparsa/The-shah2/refs/heads/main/Sub.text2567
+
+ساب لینک جدید آپدیت هفتگی سرور ها روزانه اضافه میشن♻️🔥
+
+https://x.com/021amirparsa/status/1896960083411763706

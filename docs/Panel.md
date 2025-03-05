@@ -634,3 +634,17 @@ https://github.com/erfjab/Backuper
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZAJjknopqbY?si=p4nMlH4LkVdP_hC4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+
+
+## Xarneshin
+
+ آموزش نصب پنل زرنشین, مکمل پنل مرزنشین (Xarneshin) 
+
+🟣آموزش نصب پنل زرنشین مکمل پنل مرزنشین (Xarneshin) آماده شده و سریعا براتون منتشر کردیم.
+
+🔗 تماشا ویدیو در یوتیوب 👇👇
+https://youtu.be/zCE2emLkpu0
+🔥
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zCE2emLkpu0?si=i4Bo6FTn6H2uox_l" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+

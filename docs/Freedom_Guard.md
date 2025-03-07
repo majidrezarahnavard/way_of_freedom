@@ -12,6 +12,7 @@
 6. [کانفیگ خودکار گارد آزادی چیست؟](#auto_config)
 7. [انواع حالت های اتصال در گارد آزادی](#انواع-حالت-های-اتصال-در-گارد-آزادی)
 8. [سوالات متداول | FAQ](#سوالات-متداول-|-FAQ)
+9.  [آموزش های گارد آزادی](#آموزش‌ها)
    
 <section id="intro">
     <h2>گارد آزادی چیست؟</h2>
@@ -194,4 +195,11 @@
 
 <h2>چگونه از حالت خودکار گارد آزادی استفاده کنیم؟</h2>
 <p>پس از نصب و اجرا برنامه گارد آزادی بصورت پیشفرض از حالت خودکار استفاده میشود همچنین یک دکمه برای فعالسازی حالت خودکار در تنظیمات بنام Turn on Auto mode وجود دارد که میتوانید استفاده کنید.</p>
+</section>
+<section id='آموزش‌ها'>
+<h2>آموزش استفاده از هسته وارپ در گارد آزادی</h2>
+<p>
+   به تنظیمات بروید و VPN Core را بر روی Freedom Warp بگذارید و تنظیمات مربوطه را انجام داده و شروع به اتصال کنید.
+</p>
+<iframe width="1001" height="480" src="https://www.youtube.com/embed/e_6a9F0p4h8" title="آموزش استفاده از هسته وارپ پلاس در گارد آزادی | Tutorial on Using the Warp Core in Freedom Guard" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </section>

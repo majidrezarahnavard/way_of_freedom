@@ -902,3 +902,18 @@ https://raw.githubusercontent.com/tkamirparsa/The-shah2/refs/heads/main/Sub.text
 ساب لینک جدید آپدیت هفتگی سرور ها روزانه اضافه میشن♻️🔥
 
 https://x.com/021amirparsa/status/1896960083411763706
+
+
+##  افشای راز کانفیگ رایگان Outline و Vless: لوکیشن‌های برتر! 
+
+
+💣 کانفیگ رایگان Outline و Vless با لوکیشن‌های برتر جهانی در دسترس شماست! 🌍🚀
+اگر به دنبال اینترنت پرسرعت، امن و بدون محدودیت هستید، این ویدیو را از دست ندهید! 💯🔓
+
+🔹 چرا باید این سرویس را تست کنید؟
+✅ دریافت رایگان کانفیگ Outline و Vless
+✅ لوکیشن‌های پرسرعت و با پینگ پایین
+✅ اتصال امن و پایدار، بدون افت سرعت
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fMmrK9Io1Ho?si=xhvYg7C35O0T-sAz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

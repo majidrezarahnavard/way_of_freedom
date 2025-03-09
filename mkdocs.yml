@@ -126,8 +126,11 @@ plugins:
 
   # - privacy
   - search:
-        indexing: 'full' #sections
-        # prebuild_index: true
+      indexing: 'full' 
+      search_index_only: true  
+      separate_index: true  
+      title_weight: 10  
+      content_weight: 1 
   - include-markdown
       
   - awesome-pages

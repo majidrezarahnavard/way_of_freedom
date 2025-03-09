@@ -1038,5 +1038,19 @@
             </header>
         </article>
     </a>
+        <a href="Contribute" class="post">
+        <article class="hentry">
+            <header class="entry-header">
+                <div class="entry-thumbnail">
+                    <img alt="Other"
+                        src="https://raw.githubusercontent.com/majidrezarahnavard/way_of_freedom_media/refs/heads/main/source/Why-Should-You-Contribute-to-Open-Source-Projects-min.jpg" />
+                </div>
+                <h2 class="my_title">مشارکت در دانشنامه</h2>
+                <p class="my_text">
+                  مشارکت در دانشنامه
+                </p>
+            </header>
+        </article>
+    </a>
 </div>
 <!-- .grid -->

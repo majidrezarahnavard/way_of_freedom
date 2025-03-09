@@ -682,3 +682,65 @@ https://youtu.be/zCE2emLkpu0
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zCE2emLkpu0?si=i4Bo6FTn6H2uox_l" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+
+
+## 📌 بهترین پنل وایرگارد 2025 با پنل فارسی همراه با تانل (مناسب گیم و…) 🔥
+
+ معرفی بهترین پنل وایرگارد 2025 با پنل فارسی همراه با تانل (مناسب گیم و…)  در خدمت شما هستیم.
+
+🔗 تماشا ویدیو در یوتیوب 👇👇
+https://youtu.be/rT9AidmrvD4
+
+
+![pic](https://pbs.twimg.com/media/GliD1a_WgAEspRh?format=jpg&name=small)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rT9AidmrvD4?si=RX4rmIHZgILzC32H" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+
+##  آموزش نصب پنل جدید HUI برای ساخت کانفیگ هیستریا 2 ضد فیلتر 
+
+
+پنل H-UI یکی از پنل های جدیدی است که شما از طریق این پنل میتونید کانفیگ های فیلترشکن از نوع هیستریا ورژن 2 بسازید.
+اضافه کردن حجم ، تاریخ انقضا و محدودیت کاربر برای هر کانفیگ از وِیژگی های این پنل می باشد.
+---------------
+
+00:00 معرفی پنل h-ui
+
+01:52 خرید سرور مجازی خارج
+
+02:51 نصب و راه اندازی پنل hui
+
+06:47 ورود به پنل hui
+
+07:38 تنظیمات مهم پنل h-ui
+
+11:04 ساخت کانفیگ هیستریا 2
+
+12:54 تست کانفیگ ساخته شده
+
+13:40 معرفی وارپ پیشنهادی
+
+14:07 تغییر ورژن هیستریا 2
+
+14:32 بهینه سازی سرور و فعال کردن کرون جاب
+
+15:07 آموزش حذف پنل hui
+
+15:23 پرسش و پاسخ
+--------------------
+
+لینک گیتهاب پروژه :
+
+https://github.com/apapar/h-ui-warp?t...
+
+خرید سرور مجازی :
+
+https://aeza.net/?ref=389325
+
+کانال تلگرامی پرسش و پاسخ ما :
+
+https://t.me/asrnovin_ir
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HH_RiM9_uSs?si=O9wIv4j-B2OLcmd2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+

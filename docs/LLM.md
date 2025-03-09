@@ -118,3 +118,11 @@ https://chat.qwenlm.ai
 
 ![pic](https://pbs.twimg.com/media/Gih--r7XAAAon87?format=jpg&name=small)
 
+
+
+## GPT Crawler 
+
+Crawl a site to generate knowledge files to create your own custom GPT from one or multiple URLs
+
+https://github.com/BuilderIO/gpt-crawler
+

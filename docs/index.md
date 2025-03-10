@@ -1038,16 +1038,30 @@
             </header>
         </article>
     </a>
-        <a href="Contribute" class="post">
+    <a href="Contribute" class="post">
         <article class="hentry">
             <header class="entry-header">
                 <div class="entry-thumbnail">
-                    <img alt="Other"
+                    <img alt="Contribute"
                         src="https://raw.githubusercontent.com/majidrezarahnavard/way_of_freedom_media/refs/heads/main/source/Why-Should-You-Contribute-to-Open-Source-Projects-min.jpg" />
                 </div>
                 <h2 class="my_title">مشارکت در دانشنامه</h2>
                 <p class="my_text">
                   مشارکت در دانشنامه
+                </p>
+            </header>
+        </article>
+    </a>
+    <a href="categories" class="post">
+        <article class="hentry">
+            <header class="entry-header">
+                <div class="entry-thumbnail">
+                    <img alt="categories"
+                        src="https://raw.githubusercontent.com/majidrezarahnavard/way_of_freedom_media/refs/heads/main/source/oneline-sitemap-2093%C3%97627px-2048x614.webp" />
+                </div>
+                <h2 class="my_title">دسته بندی مقالات</h2>
+                <p class="my_text">
+                 مقالات دسته بندی شده
                 </p>
             </header>
         </article>

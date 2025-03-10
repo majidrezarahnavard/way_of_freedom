@@ -91,7 +91,7 @@ https://raw.githubusercontent.com/4n0nymou3/wg-config-fetcher/refs/heads/main/co
 [![Features](https://img.shields.io/badge/Features-Advanced-blueviolet)](https://4n0nymou3.github.io/WARP/Generator)
 
 **لینک دسترسی:**
-[https://4n0nymou3.github.io/WARP/Generator](https://4n0nymou3.github.io/WARP/Generator)
+[https://4n0nymou3.github.io/WARP](https://4n0nymou3.github.io/WARP)
 
 ویژگی‌های پیشرفته:
 - تولید کانفیگ برای کلاینت‌های مختلف

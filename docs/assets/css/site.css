@@ -205,13 +205,6 @@ h2.my_title {
     transform: scale(0.98);
 }
 
-
-@media (min-width:600px) {
-    .grid a {
-        width: 30%;
-    }
-}
-
 .post img.logo {
     object-fit: contain !important;
     padding: 5px;
@@ -221,8 +214,20 @@ h2.my_title {
     margin-right: auto;
 }
 
+@media (min-width:600px) {
+    .grid a {
+        width: 30%;
+    }
+}
+
 @media (max-width:600px) {
     .grid .post {
         width: 100%;
+    }
+}
+
+@media print {
+    .no-print {
+        display: none !important;
     }
 }

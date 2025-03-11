@@ -135,6 +135,20 @@
             </header>
         </article>
     </a>
+    <a href="Primary" class="post">
+        <article class="hentry">
+            <header class="entry-header">
+                <div class="entry-thumbnail">
+                    <img alt="Primary"
+                        src="https://raw.githubusercontent.com/majidrezarahnavard/way_of_freedom_media/refs/heads/main/source/Back-to-Basics-1024x536.jpg" />
+                </div>
+                <h2 class="my_title">آموزش مقدماتی</h2>
+                <p class="my_text">
+                    اگر هیچ دانشی ندارید از این بخش شروع کنید
+                </p>
+            </header>
+        </article>
+    </a>
     <!-- DNS -->
     <h3 style="width:100%;">DNS</h3>
     <a href="DNS" class="post">
@@ -679,20 +693,6 @@
                 <h2 class="my_title">سگارو</h2>
                 <p class="my_text">
                     آموزش های سگارو
-                </p>
-            </header>
-        </article>
-    </a>
-    <a href="Primary" class="post">
-        <article class="hentry">
-            <header class="entry-header">
-                <div class="entry-thumbnail">
-                    <img alt="Primary"
-                        src="https://raw.githubusercontent.com/majidrezarahnavard/way_of_freedom_media/refs/heads/main/source/Back-to-Basics-1024x536.jpg" />
-                </div>
-                <h2 class="my_title">آموزش مقدماتی</h2>
-                <p class="my_text">
-                    اگر هیچ دانشی ندارید از این بخش شروع کنید
                 </p>
             </header>
         </article>

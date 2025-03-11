@@ -978,3 +978,21 @@ https://github.com/AdguardTeam/AdGuardHome
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6cVBKLwuoB0?si=yvbmOw74Z3mXiuE7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+## DNS-Test-Speed
+
+ هممون گاهی برای اینترنت بهتر و دور زدن تحریم ها، DNS عوض می‌کنیم. یه روز شکن سریع‌تره، یه روز ۴۰۳ آنلاین، یه روز هم شاید یه DNS دیگه بهترین گزینه باشه! ولی خب، از کجا بفهمیم الان کدوم DNS سریع‌تره؟
+اینجاست که این اسکریپت به کارتون میاد
+
+این اسکریپت لیست DNS‌هایی که توی فایل dns_servers.txt نوشته شده رو می‌گیره، یه دامنه مشخص (‌من از download.docker.com استفاده کردم) رو ازشون می‌پرسه و زمان پاسخ‌دهی (Latency) هرکدوم رو اندازه می‌گیره. در نهایت، بهت میگه کدوم DNS سریع‌تره که همونو استفاده کنی.
+
+میتونی فایل dns_servers.txt رو تغییر بدی و IP های دلخواهت رو بزاری ولی خب من IP های مرسوم رو گذاشتم.
+ میتونی داخل اسکریپت، متغیر TEST_DOMAIN رو تغییر بدی و دامین مدنظرت رو جایگذاری کنی که تست روی اون دامین انجام بشه.
+
+لینک پروژه رو این پایین قرار میدم امیدوارم که براتون کاربردی باشه:
+
+https://www.linkedin.com/posts/netamirbabaei_%D8%AF%DB%8C%D8%AF%DB%8C%D9%86-%D8%A8%D8%B9%D8%B6%DB%8C-%D9%88%D9%82%D8%AA%D8%A7-%D8%A2%D8%AF%D9%85-%DB%8C%D9%87-%DA%86%DB%8C%D8%B2%DB%8C-%D8%B1%D9%88-%D8%AE%DB%8C%D9%84%DB%8C-%D9%84%D8%A7%D8%B2%D9%85-activity-7304489966334570496-NWzC
+
+https://github.com/netamirbabaei/DNS-Test-Speed
+
+
+

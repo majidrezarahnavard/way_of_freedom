@@ -149,6 +149,20 @@
             </header>
         </article>
     </a>
+    <a href="categories" class="post">
+        <article class="hentry">
+            <header class="entry-header">
+                <div class="entry-thumbnail">
+                    <img alt="categories"
+                        src="https://raw.githubusercontent.com/majidrezarahnavard/way_of_freedom_media/refs/heads/main/source/oneline-sitemap-2093%C3%97627px-2048x614.webp" />
+                </div>
+                <h2 class="my_title">دسته بندی مقالات</h2>
+                <p class="my_text">
+                 مقالات دسته بندی شده
+                </p>
+            </header>
+        </article>
+    </a>
     <!-- DNS -->
     <h3 style="width:100%;">DNS</h3>
     <a href="DNS" class="post">
@@ -1048,20 +1062,6 @@
                 <h2 class="my_title">مشارکت در دانشنامه</h2>
                 <p class="my_text">
                   مشارکت در دانشنامه
-                </p>
-            </header>
-        </article>
-    </a>
-    <a href="categories" class="post">
-        <article class="hentry">
-            <header class="entry-header">
-                <div class="entry-thumbnail">
-                    <img alt="categories"
-                        src="https://raw.githubusercontent.com/majidrezarahnavard/way_of_freedom_media/refs/heads/main/source/oneline-sitemap-2093%C3%97627px-2048x614.webp" />
-                </div>
-                <h2 class="my_title">دسته بندی مقالات</h2>
-                <p class="my_text">
-                 مقالات دسته بندی شده
                 </p>
             </header>
         </article>

@@ -5,45 +5,58 @@ const fileUrl =
         : location.href.split("/")[3].split("#")[0]) +
     ".md";
 
-if (!(fileUrl.split("/").pop() == "index.md")) {
-    const downloadDiv = document.createElement("div");
-    downloadDiv.style.display = "flex";
-    downloadDiv.style.alignItems = "center";
-    downloadDiv.classList.add("download-page");
-    downloadDiv.style.justifyContent = "center";
-    downloadDiv.style.width = "100%";
-    downloadDiv.style.height = "50px";
-    downloadDiv.style.fontSize = "1.7em";
-    downloadDiv.style.cursor = "pointer";
-    downloadDiv.style.transition = "all 0.3s ease-in-out";
-    downloadDiv.innerHTML = "⬇️ دانلود این صفحه ";
+if (!fileUrl.endsWith("index.md")) {
+    const createButton = (text, onClick) => {
+        const btn = document.createElement("button");
+        Object.assign(btn.style, {
+            display: "flex", alignItems: "center", justifyContent: "center",
+            width: "fit-content", padding: "10px 20px",
+            fontSize: "1em", cursor: "pointer", transition: "0.3s",
+            border: "none", borderRadius: "5px", background: "#007bff",
+            color: "white"
+        });
+        btn.textContent = text;
+        btn.onclick = onClick;
+        btn.onmouseover = () => btn.style.opacity = "0.8";
+        btn.onmouseleave = () => btn.style.opacity = "1";
+        return btn;
+    };
 
-    downloadDiv.onclick = async () => {
+    const container = document.createElement("div");
+    Object.assign(container.style, {
+        display: "flex", justifyContent: "start", alignItems: "start",
+        flexWrap: "wrap", gap: "10px", width: "100%", marginTop: "20px"
+    });
+    container.classList.add("no-print");
+
+    const downloadBtn = createButton("⬇️ دانلود این صفحه", async () => {
         try {
             const response = await fetch(fileUrl);
             if (!response.ok) throw new Error("خطا در دریافت فایل");
-
             const blob = await response.blob();
-            const url = URL.createObjectURL(blob);
-
-            const link = document.createElement("a");
-            link.href = url;
-            link.download = fileUrl.split("/").pop();
-            document.body.appendChild(link);
-            link.click();
-            document.body.removeChild(link);
-
-            URL.revokeObjectURL(url);
-        } catch (error) {
-            console.error("دانلود ناموفق بود:", error);
+            const link = Object.assign(document.createElement("a"), {
+                href: URL.createObjectURL(blob), download: fileUrl.split("/").pop()
+            });
+            document.body.appendChild(link); link.click(); link.remove();
+            URL.revokeObjectURL(link.href);
+        } catch (e) {
             alert("مشکلی در دانلود فایل وجود دارد.");
         }
-    };
+    });
 
+    const shareBtn = createButton("🔗 اشتراک‌گذاری", () => {
+        if (navigator.share) {
+            navigator.share({ title: document.title, url: window.location.href });
+        } else {
+            navigator.clipboard.writeText(window.location.href);
+            alert("لینک صفحه کپی شد!");
+        }
+    });
 
+    const printBtn = createButton("🖨 چاپ صفحه", () => window.print());
 
-    document.getElementsByClassName("md-content__inner md-typeset")[0].appendChild(downloadDiv);
+    container.append(downloadBtn, shareBtn, printBtn);
+    document.querySelector(".md-content__inner.md-typeset").appendChild(container);
 }
-
 
 

@@ -917,3 +917,20 @@ https://x.com/021amirparsa/status/1896960083411763706
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fMmrK9Io1Ho?si=xhvYg7C35O0T-sAz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+## Gozargah
+
+بروزرسانی تاریخ 25/3/12
+بهبود سرعت
+
+ V2RayNG: https://raw.githubusercontent.com/valid7996/Gozargah/refs/heads/main/Gozargah_Sub
+
+ Clash: https://raw.githubusercontent.com/valid7996/Gozargah/refs/heads/main/Gozargah.yaml
+
+ Sing-box: https://raw.githubusercontent.com/valid7996/Gozargah/refs/heads/main/
+ 
+ Gozargah_sing-box_sub
+
+⭐ گیتهاب: http://1da.ir/OM0agyCN
+

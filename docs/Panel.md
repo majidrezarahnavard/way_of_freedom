@@ -744,3 +744,30 @@ https://t.me/asrnovin_ir
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HH_RiM9_uSs?si=O9wIv4j-B2OLcmd2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+
+##  آموزش انتقال کاربران از پنل 3x-ui به پنل TX-UI | تغییر قالب و تم سابسکریپشن 
+
+آموزش انتقال کاربران از پنل 3x-ui به پنل TX-UI | تغییر قالب و تم سابسکریپشن
+در این ویدیو ابتدا پنل فعلی خودمون یعنی 3X-UI رو به پنل TX-UI آپدیت می کنیم ، سپس با نصب یک افزونه تم و قالب صفحه سابسکریپشن پنل رو تغییر میدیم.
+
+00:00 مقدمه پنل txui
+
+01:14 مهاجرت به پنل tx-ui
+
+03:33 تغییر قالب سابسکریپشن
+
+05:50 سخن پایانی txui
+------
+لینک گیتهاب نصب پنل tx-ui : 
+
+https://github.com/AghayeCoder/tx-ui
+
+لینک گیتهاب نصب قالب و تم های سابسکریپشن :
+
+https://github.com/AghayeCoder/TX-ThemeHub
+
+کانال تلگرامی ما جهت پرسش و پاسخ :
+https://t.me/asrnovin_ir
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5ePSIzdnG6Q?si=liUW7yCczsPcfZu8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -147,3 +147,17 @@ https://mobomovies.co
 https://digimoviez.com نیمه اشتراکی 
 
 https://x.com/cinema_T_farsi/status/1884999781358977262
+
+
+## m4tinbeigi
+
+یه کاری کردم با دو کلیک جدیدترین فیلمی‌هایی که میان رو دانلود کنید و شما به من توجه نمی‌کنید 😢
+واقعا به دوتا کلیک‌ها
+اونم بدون تبلیغ و بدون اشتراک و اینکه فیلتر هم نیست
+
+freemovie
+
+http://m4tinbeigi-official.github.io/freemovie/new-version
+
+
+![pic](https://pbs.twimg.com/media/Gl2WhSxWoAAsYBs?format=jpg&name=900x900)

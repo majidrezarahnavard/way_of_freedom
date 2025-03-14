@@ -60,6 +60,37 @@ nameserver 10.202.10.102
 
 https://www.tecmint.com/set-permanent-dns-nameservers-in-ubuntu-debian/
 
+
+## How To Set Permanent DNS Nameservers in Ubuntu and Debian
+
+
+The /etc/resolv.conf is the main configuration file for the DNS name resolver library. The resolver is a set of functions in the C library that provide access to the Internet Domain Name System (DNS). The functions are configured to check entries in the /etc/hosts file, or several DNS name servers, or to use the host’s database of Network Information Service (NIS).
+
+```
+ls -l /etc/resolv.conf
+```
+
+Why Would You Want to Edit /etc/resolv.conf File?
+
+resolvconf
+
+```
+sudo systemctl status resolvconf.service
+sudo systemctl start resolvconf.service
+sudo systemctl enable resolvconf.service
+sudo systemctl status resolvconf.service
+
+sudo vi /etc/resolvconf/resolv.conf.d/head
+```
+
+
+```
+$ sudo systemctl restart resolvconf.service
+$ sudo systemctl restart systemd-resolved.service
+```
+
+https://www.tecmint.com/set-permanent-dns-nameservers-in-ubuntu-debian/
+
 ## Rethink 
 
 
@@ -996,3 +1027,27 @@ https://github.com/netamirbabaei/DNS-Test-Speed
 
 
 
+## Elecro
+
+برای استفاده از «الکترو» کافیه DNS رو روی این IP ها تنظیم کنید
+برای کپی روی هرکدام از دی ان اس کلیک کنید
+
+78.157.42.100 , 78.157.42.101
+
+
+## DNS set for linux
+
+```
+#nameserver 51.91.204.69
+#nameserver 146.59.189.113
+#nameserver 178.22.122.100
+#nameserver 185.51.200.2
+#nameserver 10.202.10.202
+#nameserver 10.202.10.102
+nameserver 78.157.42.100
+nameserver 78.157.42.101
+#nameserver 10.202.10.10
+#nameserver 10.202.10.11
+#nameserver 9.9.9.13
+#nameserver 8.8.4.4
+```

@@ -1,6 +1,6 @@
 # دانشنامه
 
-<base href="https://filtershekan.sbs/">
+<base href="/">
 <a href="./categories">برگشت به دسته بندی ها</a>
 <div class="grid">
 <a href="https://filtershekan.sbs/search/search_index.json" class="post">

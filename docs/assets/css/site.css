@@ -214,6 +214,56 @@ h2.my_title {
     margin-right: auto;
 }
 
+.breadcrumb {
+    display: flex !important;
+    align-items: center;
+    background: #ffffff17;
+    flex-wrap: warp;
+    backdrop-filter: blur(8px);
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    font-family: "Inter", sans-serif;
+    gap: 8px;
+}
+
+.breadcrumb li {
+    display: flex;
+    flex: 1 0 auto;
+    margin-bottom: 1px !important;
+    align-items: center;
+    font-size: 14px;
+    max-width: fit-content;
+    height: 100%;
+    font-weight: 600;
+    color: #555;
+    transition: color 0.3s ease;
+    white-space:nowrap;
+}
+
+.breadcrumb li a {
+    text-decoration: none;
+    color: #007bff;
+    border-radius: 6px;
+    transition: all 0.3s ease-in-out;
+}
+
+.breadcrumb li::after {
+    content: "⟩";
+    font-size: 16px;
+    color: #777;
+    margin: 0 10px;
+}
+
+.breadcrumb li:last-child {
+    color: #222;
+    font-weight: bold;
+}
+
+.breadcrumb li:last-child::after {
+    content: "";
+}
+
+
 @media (min-width:600px) {
     .grid a {
         width: 30%;

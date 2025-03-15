@@ -1,6 +1,6 @@
 # سایر مقالات
 
-<base href="https://filtershekan.sbs/">
+<base href="/">
 <a href="./categories">برگشت به دسته بندی ها</a>
 <div class="grid">
 <h3 style="width:100%;">دیگر مقالات</h3>

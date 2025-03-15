@@ -1,9 +1,9 @@
-const fileUrl =
-    "https://raw.githubusercontent.com/majidrezarahnavard/way_of_freedom/refs/heads/main/docs/" +
-    (location.href.split("/")[3].split("#")[0] == ""
-        ? "index"
-        : location.href.split("/")[3].split("#")[0]) +
-    ".md";
+const pathSegments = location.pathname.split("/").filter(segment => segment.trim() !== "");
+const path = pathSegments.length > 0 ? pathSegments.join("/") : "index";
+
+const fileUrl = `https://raw.githubusercontent.com/majidrezarahnavard/way_of_freedom/main/docs/${path}.md`;
+
+let contentContainer = document.querySelector(".md-content__inner.md-typeset");
 
 if (!fileUrl.endsWith("index.md")) {
     const createButton = (text, onClick) => {
@@ -28,7 +28,6 @@ if (!fileUrl.endsWith("index.md")) {
         flexWrap: "wrap", gap: "10px", width: "100%", marginTop: "20px"
     });
     container.classList.add("no-print");
-
     const downloadBtn = createButton("⬇️ دانلود این صفحه", async () => {
         try {
             const response = await fetch(fileUrl);
@@ -56,7 +55,32 @@ if (!fileUrl.endsWith("index.md")) {
     const printBtn = createButton("🖨 چاپ صفحه", () => window.print());
 
     container.append(downloadBtn, shareBtn, printBtn);
-    document.querySelector(".md-content__inner.md-typeset").appendChild(container);
+    contentContainer.appendChild(container);
+    setTimeout(() => {
+        const filterTag = document.querySelector("filtershekan[name='category']");
+
+        if (filterTag) {
+            console.log("breadcrumb");
+
+            const categoryContent = filterTag.getAttribute("content");
+            const categories = categoryContent.split(",").map(cat => cat.trim());
+
+            const breadcrumb = document.createElement("nav");
+            breadcrumb.setAttribute("aria-label", "breadcrumb");
+            breadcrumb.innerHTML = `
+                <ul class="breadcrumb">
+                    <li><a href="/">صفحه اصلی</a></li>
+                    <li><a href="/categories">دسته‌بندی‌ها</a></li>
+                    <li class="active">
+                        ${categories.map(cat => `<a href="/categories/${cat}">${cat}</a>`).join("&nbsp;  |  &nbsp; ")}
+                    </li>
+                </ul>
+            `;
+
+            contentContainer.prepend(breadcrumb);
+        }
+        else {
+            console.log("not found filterTag");
+        }
+    }, 700)
 }
-
-

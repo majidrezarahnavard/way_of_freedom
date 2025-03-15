@@ -219,17 +219,17 @@ h2.my_title {
     align-items: center;
     background: #ffffff17;
     flex-wrap: warp;
+    padding: 0.4em;
     backdrop-filter: blur(8px);
     border-radius: 8px;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
     font-family: "Inter", sans-serif;
-    gap: 8px;
 }
 
 .breadcrumb li {
     display: flex;
     flex: 1 0 auto;
-    margin-bottom: 1px !important;
+    margin: 5px !important;
     align-items: center;
     font-size: 14px;
     max-width: fit-content;
@@ -237,7 +237,7 @@ h2.my_title {
     font-weight: 600;
     color: #555;
     transition: color 0.3s ease;
-    white-space:nowrap;
+    white-space: nowrap;
 }
 
 .breadcrumb li a {
@@ -251,7 +251,7 @@ h2.my_title {
     content: "⟩";
     font-size: 16px;
     color: #777;
-    margin: 0 10px;
+    margin-right: 10px;
 }
 
 .breadcrumb li:last-child {

@@ -56,18 +56,17 @@ if (!fileUrl.endsWith("index.md")) {
 
     container.append(downloadBtn, shareBtn, printBtn);
     contentContainer.appendChild(container);
-    setTimeout(() => {
-        const filterTag = document.querySelector("filtershekan[name='category']");
+    const filterTag = document.querySelector("filtershekan[name='category']");
 
-        if (filterTag) {
-            console.log("breadcrumb");
+    if (filterTag) {
+        console.log("breadcrumb");
 
-            const categoryContent = filterTag.getAttribute("content");
-            const categories = categoryContent.split(",").map(cat => cat.trim());
+        const categoryContent = filterTag.getAttribute("content");
+        const categories = categoryContent.split(",").map(cat => cat.trim());
 
-            const breadcrumb = document.createElement("nav");
-            breadcrumb.setAttribute("aria-label", "breadcrumb");
-            breadcrumb.innerHTML = `
+        const breadcrumb = document.createElement("nav");
+        breadcrumb.setAttribute("aria-label", "breadcrumb");
+        breadcrumb.innerHTML = `
                 <ul class="breadcrumb">
                     <li><a href="/">صفحه اصلی</a></li>
                     <li><a href="/categories">دسته‌بندی‌ها</a></li>
@@ -77,10 +76,9 @@ if (!fileUrl.endsWith("index.md")) {
                 </ul>
             `;
 
-            contentContainer.prepend(breadcrumb);
-        }
-        else {
-            console.log("not found filterTag");
-        }
-    }, 700)
+        document.querySelector(".md-main").prepend(breadcrumb);
+    }
+    else {
+        console.log("not found filterTag");
+    }
 }

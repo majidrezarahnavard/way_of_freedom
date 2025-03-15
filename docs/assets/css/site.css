@@ -224,6 +224,7 @@ h2.my_title {
     border-radius: 8px;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
     font-family: "Inter", sans-serif;
+    margin: 1.4em 5vw !important;
 }
 
 .breadcrumb li {

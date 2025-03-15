@@ -1,6 +1,5 @@
 # CDN
-
-<base href="https://filtershekan.sbs/">
+<base href="/">
 <a href="./categories">برگشت به دسته بندی ها</a>
 <div class="grid">
 <a href="Buy" class="post">

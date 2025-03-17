@@ -1025,6 +1025,20 @@
             </header>
         </article>
     </a>
+    <a href="BuyVPN" class="post">
+        <article class="hentry">
+            <header class="entry-header">
+                <div class="entry-thumbnail">
+                    <img alt="BuyVPN"
+                        src="https://raw.githubusercontent.com/majidrezarahnavard/way_of_freedom_media/refs/heads/main/source/vpn.jpg" />
+                </div>
+                <h2 class="my_title">خرید VPN</h2>
+                <p class="my_text">
+                    روش های خرید VPN
+                </p>
+            </header>
+        </article>
+    </a>
     <a href="Fragment" class="post">
         <article class="hentry">
             <header class="entry-header">

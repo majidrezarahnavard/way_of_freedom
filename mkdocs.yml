@@ -11,8 +11,8 @@ watch:
   - includes
 theme:
   name: material
-  logo: assets/logo.png
-  favicon: assets/logo.png
+  logo: assets/logo.jpeg
+  favicon: assets/logo.jpeg
   font:
     text: Vazirmatn
 

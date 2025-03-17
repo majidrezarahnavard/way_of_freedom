@@ -109,6 +109,17 @@ https://twitter.com/ircfspace/status/1830517009651474496
 
 https://x.com/Eagle_1157/status/1884840769049055554
 
+
+## مهسا اینستاگرام رو به نظرم خیلی خوب لود میکنه
+
+ برای افرادی که مدام توی اینستاگرام میچرخن به نظرم گزینه خیلی خیلی خوبیه
+
+برای توییتر و ... هم میشه استفاده کرد که باید بحث امنیتیش رو در نظر بگیرید چون با آی پی اصلیتونه
+
+[pic](https://pbs.twimg.com/media/GmQ78B2asAAb5_U?format=jpg&name=small)
+
+[pic](https://pbs.twimg.com/media/GmQ7719WoAAQ47Y?format=jpg&name=small)
+
 ##  bepass oblivion
 
 [google play](https://play.google.com/store/apps/details?id=org.bepass.oblivion)

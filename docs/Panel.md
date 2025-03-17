@@ -771,3 +771,17 @@ https://t.me/asrnovin_ir
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5ePSIzdnG6Q?si=liUW7yCczsPcfZu8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+##  مولتی لوکیشن کردن پنل سینگ باکس علیرضا|SING-BOX S-UI 
+
+تو آموزش امروز پنل S-UI سینگ باکس علیرضا رو به یک نحو مالتی لوکیشن میکنیم سرتفیکیت میگیریم و آی پی ورژن 6 رو داخل کانتینر ست میکنیم
+
+لینک کانال تلگرام تو بیو پیج و پایین توضیحات هستش
+
+apk add certbot
+
+certbot certonly --standalone -d yourdomain
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VerY8wjoSNM?si=Ce6JNiFitlYsfeWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+

@@ -476,3 +476,16 @@ user&pass:admin
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/P-y5rIpWUxc?si=1MvkEiwwaPdC2as0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+## یه پکیج خوب برای openwrt
+
+
+ اگه دوست دارین روی روتر گرافی از میزان مصرف cpu و ram همچنین ترافیک و وای فای داشته باشین ، پکیج زیر رو نصب کنید ..
+
+دستور نصب :
+
+opkg update && opkg install luci-app-statistics
+
+![pic](https://pbs.twimg.com/media/GmOg2--bcAAUYMm?format=png&name=small)
+
+
+https://x.com/Eagle_1157/status/1901540379977003046

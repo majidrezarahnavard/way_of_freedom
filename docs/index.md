@@ -30,7 +30,7 @@
 
 * [به امید آزادی یوسف قبادی](https://x.com/ircfspace/status/1866027521671647614)
 * [صحبت های سارینا اسماعیل زاده](https://www.youtube.com/watch?v=gpRnvFZ3vTU&t=52s)
-* [مجیدرضا رهنورد](https://x.com/agha_rashti2/status/1847598558263800272)
+* [مجیدرضا رهنورد](https://x.com/GhostOfSarina/status/1902302004858245545)
 * [از خون جوانان وطن لاله دمیده](https://www.youtube.com/watch?v=oYcaDHEnhbU&t=1443s)
 
 

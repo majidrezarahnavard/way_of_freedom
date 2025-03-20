@@ -1208,3 +1208,24 @@ https://youtu.be/vbCFV1oBabI
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vbCFV1oBabI?si=UVr3sFoW2j2W-Tk5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+## آموزش تانل NEBULASEC روی پنل سنایی
+
+سلام رفقا توی این ویدیو قراره که بهتون یاد بدم با استفاده از تانل NEBULASEC بین سرور ایران و خارجتون تانل برقرار کنین روی پنل سنایی.
+
+
+گیتهاب پروژه nebula tunnel: 
+https://github.com/MrAminiDev/NebulaTunnel
+
+
+گیتهاب پروژه portforwardsec:
+https://github.com/Azumi67/PortforwardSec
+
+لینک دستورات:
+https://t.me/sixtininelearn/586
+
+کانال تلگرام:
+https://t.me/sixtininelearn
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZOn2ALiyBjQ?si=7yrx88q3Mk-Dgaa-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+

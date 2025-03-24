@@ -43,6 +43,8 @@
 
 [تجمع ایرانی های کرد](https://x.com/InfoMansour/status/1904135076163572177)
 
+[حسین رونقی](https://x.com/HosseinRonaghi/status/1904196112422199568)
+
 ![iran](https://pbs.twimg.com/media/Gmwv2KQXgAAJsZ7?format=jpg&name=small)
 
 ### تبعیض در فیلترینگ

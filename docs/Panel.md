@@ -785,3 +785,12 @@ certbot certonly --standalone -d yourdomain
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VerY8wjoSNM?si=Ce6JNiFitlYsfeWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+
+
+##  نصب پنل X-UI علیرضا در سرور میکروتیک|v2ray 
+
+در این آموزش پنل X-UI علیرضا رو بصورت ایمیج داکر در کانتینر میکروتیک نصب میکنیم
+آخرین نسخه پنل هست 
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qp2vaSR-BHo?si=hKW3569eoOa9RcEI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

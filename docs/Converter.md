@@ -172,3 +172,13 @@ Trojan-Vmess
 ![pic](https://pbs.twimg.com/media/Gh-4Tz5W0AAiRLa?format=jpg&name=large)
 
 https://x.com/Valid_bv1/status/1882425829545885805
+
+
+## Load balancer
+
+این با پایتون نوشته شده، همین رو تبدیلش کردم که روی ورکر کلادفلر بشه نصب کرد، با این تفاوت که بهش ساب می‌دی تبدیلش می‌کنه به ساب جیسون لودبالانسر+فرگمنت+بهبودهای دیگه، لینک گیتهاب:
+
+https://github.com/mer30hamid/v2ray-sub2json-worker
+
+https://x.com/mer30hamid/status/1904048131274096977
+

@@ -1229,3 +1229,12 @@ https://t.me/sixtininelearn
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZOn2ALiyBjQ?si=7yrx88q3Mk-Dgaa-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+
+
+##  خداحافظی با ایران اکسس شدن و فیلتر شدن سرور خارج با روش جدید 😍 
+
+بازم با یه ویدئو خوب و عالی به اسم آموزش خداحافظی با ایران اکسس شدن و فیلتر شدن سرور خارج با روش جدید در خدمت شما هستیم.
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6vZd5B_uT4s?si=KGKWucID23I7Vyjh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+

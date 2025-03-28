@@ -324,7 +324,7 @@ https://t.me/Tehrannetwork021/399
 
 
 
-## روش مستقیم کلود فلیر
+## روش مستقیم کلود فلیر ( روش تایید شده )
 
  آموزش ساخت کانفیگ ویتوری | v2ray | مستقیم با ipv6 جدیدترین روش 
 
@@ -332,13 +332,17 @@ https://t.me/Tehrannetwork021/399
 
  https://www.youtube.com/watch?v=QpZEM2Th2Nk
 
-install pannel chini
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/QpZEM2Th2Nk?si=hbjKgGiSUTRWFZPy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+### install panel china
 
 bash <(curl -Ls https://raw.githubusercontent.com/yonggekkk/x-ui-yg/main/install.sh)
 
 
-https://VMess.fxxk.dedyn.io/sub?host=SubDomain&uuid=idConfig&path=/
+address:
 
+https://VMess.fxxk.dedyn.io/sub?host=SubDomain&uuid=idConfig&path=/
 
 
 https://www.cloudflare.com/ips-v6/#
@@ -346,15 +350,21 @@ https://www.cloudflare.com/ips-v6/#
 https://drunkleen.github.io/ip-scanner/
 
 هر سطر بردار  
+
 وارد سایت اسکنر شو
+
 تو‌اون قسمت مشخص شده بزار
+
 start بزن
 
 
 
 چون ip6
+
 باید داخل  
+
 [   ]
+
 باشه
  
 

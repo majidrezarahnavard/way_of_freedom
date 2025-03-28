@@ -332,7 +332,7 @@ https://t.me/Tehrannetwork021/399
 
  https://www.youtube.com/watch?v=QpZEM2Th2Nk
 
- <iframe width="560" height="315" src="https://www.youtube.com/embed/QpZEM2Th2Nk?si=hbjKgGiSUTRWFZPy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QpZEM2Th2Nk?si=fQv_9d3C-TxBx9ky" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 ### install panel china

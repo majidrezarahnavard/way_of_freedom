@@ -16,9 +16,9 @@
 https://filtershekan.sbs
 
 
-#  گرم یاد آوری یا نه من از یادت نمی کاهم
+# [من از یادت نمی کاهم، تو را من چشم در راهم](https://soundcloud.com/echolalia-ir/nuf6qjxfyeaf)
 
-* به یاد یوسف قبادی
-* به یاد سگارو
+* [به امید آزادی یوسف قبادی](https://x.com/ircfspace/status/1866027521671647614)
 * [صحبت های سارینا اسماعیل زاده](https://www.youtube.com/watch?v=gpRnvFZ3vTU&t=52s)
-* [مجیدرضا رهنورد](https://www.youtube.com/watch?v=N3Yo009a7Uc)
+* [مجیدرضا رهنورد](https://x.com/GhostOfSarina/status/1902302004858245545)
+* [از خون جوانان وطن لاله دمیده](https://www.youtube.com/watch?v=oYcaDHEnhbU&t=1443s)

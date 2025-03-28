@@ -18,6 +18,42 @@
 مجدد سرویس pages کلودفلر خبر داده، که پیش‌تر نیز شاهد این‌مساله و رفع فیلتر اون بودیم.
 
 
+## ✅ نسخه‌ی ۳.۱.۳ BPB Panel منتشر شد.
+
+
+تغییرات اصلی:
+
+۱- خبر خوب برای طرفداران Warp:
+ساب Warp pro برای Clash اضافه شده، همچنین دانلود کانفیگ‌های Amnezia و WG Tunnel هم اضافه شده. دیگه نیازی نیست دستی آپشن Amnezia رو فعال کنید، فقط فایل زیپ رو دانلود کنید و توی برنامه WG ایمپورت میکنید و تمام.
+اما برنامه Amnezia فایل زیپ رو درست نمیخونه، باید extract کنید قبلش.
+در هر دو برنامه نیاز به فعالسازی هیچ گزینه‌ای نیست و وصل میشن.
+
+۲- اضافه شدن دکمه دانلود کانفیگ‌های Clash و sing-box برای کسایی که میخوان بدون کلاینت و با هسته‌های خودشون وصل بشن.
+
+۳- درست شدن تعدادی از باگ‌ها.
+
+۴- بهبودهای جزئی کانفیگ‌ها و رابط کاربری.
+
+۵- بروزرسانی آموزش‌ها.
+
+پ.ن: من عذر میخوام نرسیدم جواب محبتای همه رو بدم، پروژه‌ها ۲ تا شده و یه مقدار وقتم تنگه.
+
+آموزش ساخت به روش جدید Pages با آپلود مستقیم (پیشنهادی):
+https://github.com/bia-pain-bache/BPB-Worker-Panel/blob/main/docs/pages_upload_installation_fa.md
+
+آموزش ساخت به روش Pages با گیتهاب:
+https://github.com/bia-pain-bache/BPB-Worker-Panel/blob/main/docs/pages_installation_fa.md
+
+آموزش ساخت به روش Workers:
+https://github.com/bia-pain-bache/BPB-Worker-Panel/blob/main/docs/worker_installation_fa.md
+
+نحوه‌ی انجام تنظیمات و استفاده:
+https://github.com/bia-pain-bache/BPB-Worker-Panel/blob/main/docs/configuration_fa.md
+
+سوالات متداول (خیلی مهم):
+https://github.com/bia-pain-bache/BPB-Worker-Panel/blob/main/docs/faq.md
+
+
 ##  نسخه‌ی ۳.۱.۱ BPB Panel منتشر شد.
 
 تغییرات اصلی:

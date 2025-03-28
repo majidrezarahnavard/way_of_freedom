@@ -489,3 +489,19 @@ opkg update && opkg install luci-app-statistics
 
 
 https://x.com/Eagle_1157/status/1901540379977003046
+
+
+##  پاسخ به سوالات متدوال پنل XUI و SUI در میکروتیک 
+
+در این آموزش 2 پنل x-ui و s-ui که داخل کانتینر میکروتیک تحت داکر نصب کردیم بررسی میکنیم و مشکلات گزارش شده در مورد فراموشی رمز یا پورتهای پنل سرتفیکیت گرفتن پنل x-ui + ست کردن آی پی ورژن 6 در اینباند و موارد اینچنین رو با هم یاد میگیریم
+
+دستورات مورد استفاده :
+app/sui admin -show
+app/sui setting -show
+
+app/x-ui setting -show
+
+لینک کانال تلگرام تو بیو پیج و پایین توضیحات هستش
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dQ9WqwhfSFQ?si=3pBjQK8isu-q_Pik" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -182,3 +182,6 @@ https://github.com/mer30hamid/v2ray-sub2json-worker
 
 https://x.com/mer30hamid/status/1904048131274096977
 
+![pic](https://pbs.twimg.com/media/GnEFUQxWwAAYxYh?format=jpg&name=small)
+
+https://x.com/mer30hamid/status/1905310731777499160

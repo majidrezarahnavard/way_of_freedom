@@ -45,7 +45,7 @@
 
 [حسین رونقی](https://x.com/HosseinRonaghi/status/1904196112422199568)
 
-![iran](https://pbs.twimg.com/media/Gmwv2KQXgAAJsZ7?format=jpg&name=small)
+![iran](https://raw.githubusercontent.com/majidrezarahnavard/way_of_freedom_media/refs/heads/main/source/iran.jpeg)
 
 ### تبعیض در فیلترینگ
 

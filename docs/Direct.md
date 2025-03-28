@@ -337,6 +337,8 @@ https://t.me/Tehrannetwork021/399
 
 ### install panel china
 
+
+```
 bash <(curl -Ls https://raw.githubusercontent.com/yonggekkk/x-ui-yg/main/install.sh)
 
 
@@ -348,6 +350,7 @@ https://VMess.fxxk.dedyn.io/sub?host=SubDomain&uuid=idConfig&path=/
 https://www.cloudflare.com/ips-v6/#
 
 https://drunkleen.github.io/ip-scanner/
+```
 
 هر سطر بردار  
 

@@ -6,26 +6,35 @@
 
 ##  هزینه های ساخت فیلترشکن زیاد هست چگونه کاهش بدهیم؟.
 توی این لینک تمام هزینه های رو گفتم
+
 https://filtershekan.sbs/Money/
+
 هزینه برای ۱۰۰ نفر => ۵ دلار ماهیانه + 1.5 دلار در سال
+
 https://filtershekan.sbs/Direct/
 
 ## من فقط یک نفر هستم و نمی خواهم سرور تهیه کنیم چیکار کنم؟
 
 در این صورت از این روش های مجانی استفاده کنید
+
 https://filtershekan.sbs/BPB/
+
 https://filtershekan.sbs/Oblivion/
+
 https://filtershekan.sbs/Donate/
+
 https://filtershekan.sbs/Application/
 
 ## من هیچی از کامپیوتر سر در نمی ارم تو رو خدا کمکم کنید
 
 از کانفیگ های مهسا استفاده کنید.
+
 https://play.google.com/store/search?q=mahsang&c=apps
 
 ## فیلترشکن فروش ها روش هاشون خیلی بهتره اون ها رو یاد بدید
 
 تمام روش های فیلترشکن فروشها
+
 https://filtershekan.sbs/Internal_Server/
 
 
@@ -36,11 +45,14 @@ https://filtershekan.sbs/Starlink/
 ## چرا خودت فیلترشکن نمی سازی به ما بدی؟
 
 دلایل بسیار زیادی دارد ولی مهم ترین اش اینکه هدف من نوشتن آموزش برای یادگیری عمومی است. دوستان زیادی هستند که فیلترشکن پخش می کنند از آنها استفاده کنید.
+
 https://filtershekan.sbs/Free/
+
 
 ## آموزشی دارید که از ابتدا همه مراحل رو توضیح بدهد؟
 
 راهنمای گام‌به‌گام بدون نیاز به دانش فنی!
+
 https://filtershekan.sbs/Primary/
 
 

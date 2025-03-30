@@ -45,6 +45,10 @@
 
 [حسین رونقی](https://x.com/HosseinRonaghi/status/1904196112422199568)
 
+[تنوع ژنتیکی متمایز و ناهمگونی جمعیت ایرانی](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1008385)
+
+[link twitter](https://x.com/46xyt/status/1905967097701605638)
+
 ![iran](https://raw.githubusercontent.com/majidrezarahnavard/way_of_freedom_media/refs/heads/main/source/iran.jpeg)
 
 ### تبعیض در فیلترینگ

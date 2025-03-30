@@ -794,3 +794,14 @@ certbot certonly --standalone -d yourdomain
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qp2vaSR-BHo?si=hKW3569eoOa9RcEI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+##  بهترین پنل وایرگارد برای گیمرهای ایرانی - پینگ فوق العاده پایین! 
+
+بهترین پنل وایرگارد برای گیمرهای ایرانی - پینگ فوق العاده پایین!
+
+لینک صفحه گیتهاب معرفی شده در ویدیو :
+
+https://github.com/aminiyt1/WireGuardAmini
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/G6ijQiaJWC4?si=q484hU9zq3-w-iJZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

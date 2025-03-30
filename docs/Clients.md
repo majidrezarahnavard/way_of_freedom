@@ -198,6 +198,18 @@ https://apps.apple.com/tr/app/npv-tunnel/id1629465476
 ![pic](https://pbs.twimg.com/media/GhgwYCKXcAAqt2b?format=png&name=small)
 
 
+## V2RayN-PROV1.9
+
+رای راحتی کار همیشه میتونید فایلهای
+
+V2rayN-Pro یا V2rayN-Pro-Desktop
+
+رو دانلود و اکسترکت و استفاده کنید..
+
+برای آپدیت میتونید نسخه بدون core رو دانلود و فایلها رو جایگزین کنید ، بهتره قبل از بروزرسانی از فایلهای قبلی بک آپ داشته باشین تا مشکلی برای سابهاتون پیش نیاد
+
+https://github.com/lowercase78/V2RayN-PRO/releases/tag/V2RayN-PROV1.9
+
 ## V2RayN-PRO v1.8
 
 
